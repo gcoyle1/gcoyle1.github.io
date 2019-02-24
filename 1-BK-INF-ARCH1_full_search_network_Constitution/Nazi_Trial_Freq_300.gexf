@@ -1,0 +1,1817 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-02-24">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="according" label="according">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-160.23053" y="558.2342"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi-Suppl-B.txt" label="NT_Nazi-Suppl-B.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-242.82298" y="-49.24517"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-III.txt" label="NT_Nazi_Vol-III.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="451.0762" y="-74.02491"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-IV.txt" label="NT_Nazi_Vol-IV.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="263.7793" y="31.356085"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="action" label="action">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-204.37334" y="-549.6472"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="actually" label="actually">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-658.63324" y="-579.6164"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="administration" label="administration">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="336.64948" y="824.69745"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-VII.txt" label="NT_Nazi_Vol-VII.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="348.7795" y="163.06584"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="agreement" label="agreement">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-728.9087" y="-127.90195"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="air" label="air">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-431.33044" y="484.1889"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-VI.txt" label="NT_Nazi_Vol-VI.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="187.73102" y="-108.6548"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="april" label="april">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1010.03784" y="-496.97202"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-I.txt" label="NT_Nazi_Vol-I.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="340.26984" y="-142.59216"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-II.txt" label="NT_Nazi_Vol-II.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="339.63126" y="-30.877138"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="area" label="area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="816.52795" y="-834.54987"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="armed" label="armed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="147.54138" y="425.28693"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi-Suppl-A.txt" label="NT_Nazi-Suppl-A.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="154.41673" y="65.93667"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="army" label="army">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-169.47467" y="-231.08626"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-VIII.txt" label="NT_Nazi_Vol-VIII.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="356.05295" y="-240.41208"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="article" label="article">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="551.9603" y="-711.0421"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="attack" label="attack">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="181.76767" y="879.09406"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="attitude" label="attitude">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-851.62085" y="227.94783"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="august" label="august">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="966.33417" y="-616.0338"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="austria" label="austria">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-325.1818" y="42.40069"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-V.txt" label="NT_Nazi_Vol-V.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="404.61288" y="120.837265"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="bank" label="bank">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-250.0219" y="687.33594"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="beginning" label="beginning">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-562.17194" y="527.5808"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="belgium" label="belgium">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="385.16486" y="-952.9385"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="believe" label="believe">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-742.2101" y="14.279752"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="berlin" label="berlin">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-111.13342" y="270.43765"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="british" label="british">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-411.6452" y="193.66217"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="brought" label="brought">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-535.33203" y="667.6115"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="cabinet" label="cabinet">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="285.18228" y="-1133.4872"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="came" label="came">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-614.8384" y="-382.88315"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="camp" label="camp">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="556.06104" y="655.78564"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="camps" label="camps">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-540.696" y="366.14117"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="case" label="case">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="106.29781" y="-525.0833"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="certain" label="certain">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="703.26385" y="717.2167"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="chapter" label="chapter">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1070.0804" y="175.58284"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="chief" label="chief">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="104.83191" y="-195.21529"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="come" label="come">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-724.73676" y="164.2663"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="command" label="command">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="410.417" y="553.63293"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="concentration" label="concentration">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-73.04063" y="846.29877"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="concerning" label="concerning">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="676.6433" y="150.3556"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="connection" label="connection">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1148.9579" y="-116.37774"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="considered" label="considered">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-698.72546" y="-264.72177"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="conspirators" label="conspirators">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="558.84143" y="-1011.0513"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="copy" label="copy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="950.8238" y="-339.25183"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="country" label="country">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-920.73157" y="-438.14328"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="course" label="course">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1080.102" y="431.43338"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="crimes" label="crimes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-592.66003" y="-79.083466"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="criminal" label="criminal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-961.74005" y="-630.6305"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="czechoslovakia" label="czechoslovakia">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1044.7235" y="398.03336"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="day" label="day">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1138.4873" y="302.12347"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="decree" label="decree">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="266.73706" y="615.8682"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="defendant" label="defendant">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-938.5672" y="427.97296"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="defense" label="defense">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-613.9802" y="85.91098"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="description" label="description">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-470.599" y="55.217655"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="district" label="district">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="555.7403" y="-867.86707"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="document" label="document">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="223.66579" y="-425.4154"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="documents" label="documents">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-817.3812" y="-342.99927"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="dont" label="dont">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-349.81464" y="977.1702"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="eastern" label="eastern">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="896.6663" y="-725.4311"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="economic" label="economic">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="401.3261" y="1091.9062"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="economy" label="economy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1098.7113" y="-389.24118"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="especially" label="especially">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-82.65873" y="1125.1079"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="evidence" label="evidence">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1037.1653" y="-516.74854"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="exchange" label="exchange">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="76.18578" y="1158.0485"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="fact" label="fact">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="609.6859" y="827.1075"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="field" label="field">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-338.55585" y="1107.4062"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="following" label="following">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="776.1916" y="-100.55588"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="force" label="force">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="815.45404" y="562.3799"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="forces" label="forces">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-117.38996" y="-111.954796"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="foreign" label="foreign">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="433.75433" y="260.3033"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="france" label="france">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="540.5816" y="-467.3672"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="french" label="french">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-887.4205" y="-746.2182"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="fuehrer" label="fuehrer">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="235.05898" y="-295.03235"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="funk" label="funk">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-691.43854" y="744.61536"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="general" label="general">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="199.95752" y="201.71725"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="german" label="german">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="557.41125" y="233.29549"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi-opinion-judgment.txt" label="NT_Nazi-opinion-judgment.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="445.48334" y="918.4447"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="germany" label="germany">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-68.94277" y="4.753346"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="gestapo" label="gestapo">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="431.51163" y="-1073.5792"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="given" label="given">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-812.14795" y="657.0257"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="goering" label="goering">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="676.12354" y="575.84796"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="goods" label="goods">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="559.04395" y="1028.0585"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="government" label="government">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="474.6917" y="-331.39975"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="great" label="great">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-188.99965" y="796.74146"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="group" label="group">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="232.88521" y="1153.4907"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="himmler" label="himmler">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-766.1958" y="-673.83997"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="hitler" label="hitler">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="8.882286" y="381.81247"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="hitlers" label="hitlers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-785.20795" y="-841.92426"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="idea" label="idea">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-654.4458" y="-751.8726"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="important" label="important">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-579.13495" y="814.00684"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="individual" label="individual">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-547.7404" y="-829.18463"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="influence" label="influence">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-873.7461" y="84.92883"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="international" label="international">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-460.51538" y="-370.29202"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="january" label="january">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="91.40281" y="982.9809"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="jewish" label="jewish">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="853.4169" y="-214.85544"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="jews" label="jews">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="612.37994" y="-327.58023"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="july" label="july">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="958.8683" y="641.90173"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="june" label="june">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-447.24603" y="-82.366"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="just" label="just">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="891.5301" y="462.98776"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="keitel" label="keitel">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1155.0994" y="19.954412"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="knew" label="knew">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-978.41205" y="288.45197"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="know" label="know">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-286.34198" y="-661.57404"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="known" label="known">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-811.4963" y="365.43646"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="labor" label="labor">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-289.84723" y="-135.89145"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="later" label="later">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-415.92722" y="-744.2357"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="law" label="law">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="14.858117" y="100.25011"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="leader" label="leader">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-420.80215" y="-219.83684"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="legal" label="legal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-319.15778" y="846.5732"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="letter" label="letter">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="771.6297" y="-321.67682"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="like" label="like">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-434.94824" y="-897.43134"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="make" label="make">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-474.37604" y="897.27106"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="man" label="man">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-292.90063" y="492.92154"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="march" label="march">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="21.74261" y="-427.16782"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="matter" label="matter">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-838.23584" y="-553.8073"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="mean" label="mean">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="391.54053" y="704.3492"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="means" label="means">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-193.06348" y="-1133.628"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="measures" label="measures">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="286.54242" y="-553.54675"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="members" label="members">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-142.50638" y="422.35248"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="men" label="men">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="71.64538" y="676.1647"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="military" label="military">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="613.4005" y="-40.009647"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="minister" label="minister">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="534.56146" y="-198.51273"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="ministry" label="ministry">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="868.20984" y="13.119628"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="national" label="national">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="545.28424" y="371.04886"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="nations" label="nations">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-836.7308" y="804.0906"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="naval" label="naval">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="234.99374" y="-1026.103"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="nazi" label="nazi">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="719.82306" y="-642.5218"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="necessary" label="necessary">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="124.91025" y="554.9093"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="new" label="new">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-21.643951" y="533.7468"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="november" label="november">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="609.4023" y="-584.2983"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="number" label="number">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-134.87193" y="-870.4367"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="occupation" label="occupation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-59.29949" y="1007.7502"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="occupied" label="occupied">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="698.77795" y="302.69977"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="october" label="october">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-259.82114" y="334.8747"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="office" label="office">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="127.137146" y="294.67532"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="offices" label="offices">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1158.807" y="-93.68376"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="opinion" label="opinion">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-314.66693" y="-950.3414"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="order" label="order">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="104.827805" y="-327.70844"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="orders" label="orders">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="50.956783" y="815.8955"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="organization" label="organization">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="260.3487" y="-865.06085"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="page" label="page">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="957.9534" y="-92.65838"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="papen" label="papen">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-186.46211" y="-993.1858"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="parties" label="parties">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="692.11255" y="-940.6878"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="party" label="party">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="668.4963" y="-189.4189"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="peace" label="peace">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-733.17316" y="-457.20477"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="people" label="people">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-130.33151" y="131.81937"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="persons" label="persons">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="861.4985" y="727.1817"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="place" label="place">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-54.064617" y="-764.4344"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="plan" label="plan">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-486.85593" y="1049.3776"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="point" label="point">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-681.86475" y="300.61044"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="poland" label="poland">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="691.1173" y="-782.7797"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="police" label="police">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="366.25153" y="-406.26248"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="policy" label="policy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-942.786" y="681.58075"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="polish" label="polish">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="21.369352" y="-906.39655"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="political" label="political">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="274.7245" y="467.56305"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="position" label="position">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-278.90628" y="-810.9236"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="possible" label="possible">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="402.61948" y="407.43378"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="power" label="power">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-310.20258" y="-307.79947"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="powers" label="powers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1126.8534" y="-253.03625"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="present" label="present">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="721.28564" y="25.231989"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="prisoners" label="prisoners">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="832.72253" y="340.10925"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="program" label="program">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1177.6122" y="89.80472"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="prosecution" label="prosecution">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-973.37683" y="-297.2977"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="question" label="question">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-269.81714" y="187.94606"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="quite" label="quite">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-204.68715" y="1119.6208"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="reason" label="reason">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1119.3358" y="292.0451"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="received" label="received">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1014.1253" y="-2.706693"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="regarding" label="regarding">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="696.4413" y="953.3072"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="reich" label="reich">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="555.0159" y="84.39463"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="remember" label="remember">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-329.04407" y="-1100.4734"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="report" label="report">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="172.67319" y="-635.5233"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="responsibility" label="responsibility">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-536.8535" y="-506.96735"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="responsible" label="responsible">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1003.5123" y="559.3136"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="right" label="right">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1088.6686" y="-387.11392"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="rosenberg" label="rosenberg">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-680.45465" y="-920.8632"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="said" label="said">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-399.9511" y="-573.3845"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="sauckel" label="sauckel">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-610.7659" y="974.3587"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="say" label="say">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-689.2049" y="449.25092"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="secret" label="secret">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-27.59191" y="-223.69458"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="section" label="section">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="797.89386" y="842.75793"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="security" label="security">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="859.07935" y="-435.31412"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="september" label="september">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="211.10602" y="734.32544"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="service" label="service">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="939.2555" y="117.95009"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="shall" label="shall">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="142.41011" y="-796.9317"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="signed" label="signed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="819.1367" y="184.43918"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="situation" label="situation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="287.25952" y="-719.9137"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="socialist" label="socialist">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1040.6594" y="531.66406"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="special" label="special">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="705.9223" y="-449.1638"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="speech" label="speech">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-532.3846" y="-661.37036"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="speer" label="speer">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-573.1361" y="-993.80133"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="staff" label="staff">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="422.34827" y="-540.41235"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="state" label="state">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="46.310623" y="-66.98902"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="stated" label="stated">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-857.96826" y="-203.41441"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="statement" label="statement">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="114.43777" y="-982.12585"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="statements" label="statements">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-200.97778" y="968.1463"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="states" label="states">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-143.6982" y="-678.4173"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="submitted" label="submitted">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1004.6875" y="144.38152"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="supreme" label="supreme">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1147.566" y="-245.5949"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="taken" label="taken">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="541.00543" y="503.62735"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="territories" label="territories">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="45.78212" y="-688.43787"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="testimony" label="testimony">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1004.9782" y="-151.41626"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="thing" label="thing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-422.74084" y="750.8074"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="things" label="things">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="100.48958" y="-1134.3296"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="think" label="think">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1145.4526" y="155.84799"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="thought" label="thought">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-682.1192" y="598.43207"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="time" label="time">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="18.140097" y="222.33383"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="told" label="told">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-455.35068" y="-1053.1443"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="took" label="took">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-724.0306" y="895.71704"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="training" label="training">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1066.4161" y="5.6282268"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="treaty" label="treaty">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="696.0478" y="432.82126"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="trial" label="trial">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1007.4685" y="-216.37654"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="tribunal" label="tribunal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-345.72638" y="-459.26987"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="usa" label="usa">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="428.26782" y="-675.0379"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="view" label="view">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-45.301586" y="-1028.3248"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="vii" label="vii">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="953.94116" y="268.37085"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="von" label="von">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-201.35918" y="-406.35443"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="want" label="want">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-832.5958" y="521.5847"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="wanted" label="wanted">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="312.65314" y="964.11694"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="war" label="war">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="290.0262" y="323.60516"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="way" label="way">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-370.9354" y="613.71484"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="witness" label="witness">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-44.840584" y="-1157.7584"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="work" label="work">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-81.53511" y="-346.04306"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="workers" label="workers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="813.8693" y="-567.1112"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="world" label="world">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-552.3482" y="219.15147"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="year" label="year">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-73.40255" y="688.0975"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="years" label="years">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-403.6707" y="341.36703"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="yes" label="yes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-556.1454" y="-229.73634"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="youth" label="youth">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="497.03827" y="793.4132"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="didnt" label="didnt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-877.77325" y="-60.96164"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="interrogations" label="interrogations">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="407.93893" y="-829.1517"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="translation" label="translation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-50.807808" y="-530.91785"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="xvi" label="xvi">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="212.363" y="1033.4529"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1273" source="according" target="NT_Nazi-Suppl-B.txt" weight="677.0"></edge>
+      <edge id="1274" source="according" target="NT_Nazi_Vol-III.txt" weight="328.0"></edge>
+      <edge id="1275" source="according" target="NT_Nazi_Vol-IV.txt" weight="333.0"></edge>
+      <edge id="1276" source="action" target="NT_Nazi-Suppl-B.txt" weight="312.0"></edge>
+      <edge id="1277" source="action" target="NT_Nazi_Vol-III.txt" weight="322.0"></edge>
+      <edge id="1278" source="actually" target="NT_Nazi-Suppl-B.txt" weight="309.0"></edge>
+      <edge id="1279" source="administration" target="NT_Nazi_Vol-III.txt" weight="301.0"></edge>
+      <edge id="1280" source="administration" target="NT_Nazi_Vol-VII.txt" weight="348.0"></edge>
+      <edge id="1281" source="agreement" target="NT_Nazi-Suppl-B.txt" weight="366.0"></edge>
+      <edge id="1282" source="air" target="NT_Nazi_Vol-VI.txt" weight="360.0"></edge>
+      <edge id="1283" source="april" target="NT_Nazi_Vol-I.txt" weight="316.0"></edge>
+      <edge id="1284" source="april" target="NT_Nazi_Vol-II.txt" weight="317.0"></edge>
+      <edge id="1285" source="area" target="NT_Nazi_Vol-III.txt" weight="328.0"></edge>
+      <edge id="1286" source="armed" target="NT_Nazi-Suppl-A.txt" weight="331.0"></edge>
+      <edge id="1287" source="armed" target="NT_Nazi_Vol-I.txt" weight="314.0"></edge>
+      <edge id="1288" source="armed" target="NT_Nazi_Vol-II.txt" weight="336.0"></edge>
+      <edge id="1289" source="armed" target="NT_Nazi_Vol-III.txt" weight="703.0"></edge>
+      <edge id="1290" source="armed" target="NT_Nazi_Vol-IV.txt" weight="343.0"></edge>
+      <edge id="1291" source="armed" target="NT_Nazi_Vol-VI.txt" weight="430.0"></edge>
+      <edge id="1292" source="armed" target="NT_Nazi_Vol-VII.txt" weight="350.0"></edge>
+      <edge id="1293" source="army" target="NT_Nazi-Suppl-A.txt" weight="311.0"></edge>
+      <edge id="1294" source="army" target="NT_Nazi-Suppl-B.txt" weight="449.0"></edge>
+      <edge id="1295" source="army" target="NT_Nazi_Vol-I.txt" weight="383.0"></edge>
+      <edge id="1296" source="army" target="NT_Nazi_Vol-II.txt" weight="355.0"></edge>
+      <edge id="1297" source="army" target="NT_Nazi_Vol-III.txt" weight="616.0"></edge>
+      <edge id="1298" source="army" target="NT_Nazi_Vol-IV.txt" weight="369.0"></edge>
+      <edge id="1299" source="army" target="NT_Nazi_Vol-VI.txt" weight="669.0"></edge>
+      <edge id="1300" source="army" target="NT_Nazi_Vol-VII.txt" weight="343.0"></edge>
+      <edge id="1301" source="army" target="NT_Nazi_Vol-VIII.txt" weight="361.0"></edge>
+      <edge id="1302" source="article" target="NT_Nazi_Vol-I.txt" weight="309.0"></edge>
+      <edge id="1303" source="article" target="NT_Nazi_Vol-IV.txt" weight="676.0"></edge>
+      <edge id="1304" source="article" target="NT_Nazi_Vol-VI.txt" weight="410.0"></edge>
+      <edge id="1305" source="article" target="NT_Nazi_Vol-VIII.txt" weight="430.0"></edge>
+      <edge id="1306" source="attack" target="NT_Nazi_Vol-I.txt" weight="329.0"></edge>
+      <edge id="1307" source="attitude" target="NT_Nazi-Suppl-B.txt" weight="372.0"></edge>
+      <edge id="1308" source="august" target="NT_Nazi_Vol-I.txt" weight="325.0"></edge>
+      <edge id="1309" source="august" target="NT_Nazi_Vol-VIII.txt" weight="303.0"></edge>
+      <edge id="1310" source="austria" target="NT_Nazi_Vol-I.txt" weight="364.0"></edge>
+      <edge id="1311" source="austria" target="NT_Nazi_Vol-II.txt" weight="317.0"></edge>
+      <edge id="1312" source="austria" target="NT_Nazi_Vol-V.txt" weight="310.0"></edge>
+      <edge id="1313" source="bank" target="NT_Nazi_Vol-VII.txt" weight="491.0"></edge>
+      <edge id="1314" source="beginning" target="NT_Nazi-Suppl-B.txt" weight="319.0"></edge>
+      <edge id="1315" source="belgium" target="NT_Nazi_Vol-VII.txt" weight="365.0"></edge>
+      <edge id="1316" source="believe" target="NT_Nazi-Suppl-B.txt" weight="332.0"></edge>
+      <edge id="1317" source="berlin" target="NT_Nazi-Suppl-A.txt" weight="424.0"></edge>
+      <edge id="1318" source="berlin" target="NT_Nazi-Suppl-B.txt" weight="354.0"></edge>
+      <edge id="1319" source="berlin" target="NT_Nazi_Vol-III.txt" weight="372.0"></edge>
+      <edge id="1320" source="berlin" target="NT_Nazi_Vol-IV.txt" weight="394.0"></edge>
+      <edge id="1321" source="berlin" target="NT_Nazi_Vol-V.txt" weight="500.0"></edge>
+      <edge id="1322" source="berlin" target="NT_Nazi_Vol-VI.txt" weight="490.0"></edge>
+      <edge id="1323" source="berlin" target="NT_Nazi_Vol-VII.txt" weight="421.0"></edge>
+      <edge id="1324" source="berlin" target="NT_Nazi_Vol-VIII.txt" weight="301.0"></edge>
+      <edge id="1325" source="british" target="NT_Nazi-Suppl-B.txt" weight="331.0"></edge>
+      <edge id="1326" source="british" target="NT_Nazi_Vol-VIII.txt" weight="326.0"></edge>
+      <edge id="1327" source="brought" target="NT_Nazi-Suppl-B.txt" weight="309.0"></edge>
+      <edge id="1328" source="cabinet" target="NT_Nazi_Vol-II.txt" weight="309.0"></edge>
+      <edge id="1329" source="came" target="NT_Nazi-Suppl-B.txt" weight="439.0"></edge>
+      <edge id="1330" source="camp" target="NT_Nazi-Suppl-A.txt" weight="433.0"></edge>
+      <edge id="1331" source="camp" target="NT_Nazi_Vol-IV.txt" weight="333.0"></edge>
+      <edge id="1332" source="camp" target="NT_Nazi_Vol-VII.txt" weight="361.0"></edge>
+      <edge id="1333" source="camps" target="NT_Nazi-Suppl-A.txt" weight="331.0"></edge>
+      <edge id="1334" source="camps" target="NT_Nazi-Suppl-B.txt" weight="406.0"></edge>
+      <edge id="1335" source="case" target="NT_Nazi-Suppl-A.txt" weight="406.0"></edge>
+      <edge id="1336" source="case" target="NT_Nazi-Suppl-B.txt" weight="832.0"></edge>
+      <edge id="1337" source="case" target="NT_Nazi_Vol-I.txt" weight="355.0"></edge>
+      <edge id="1338" source="case" target="NT_Nazi_Vol-III.txt" weight="434.0"></edge>
+      <edge id="1339" source="case" target="NT_Nazi_Vol-IV.txt" weight="384.0"></edge>
+      <edge id="1340" source="case" target="NT_Nazi_Vol-VI.txt" weight="317.0"></edge>
+      <edge id="1341" source="case" target="NT_Nazi_Vol-VIII.txt" weight="365.0"></edge>
+      <edge id="1342" source="certain" target="NT_Nazi-Suppl-B.txt" weight="464.0"></edge>
+      <edge id="1343" source="chapter" target="NT_Nazi_Vol-I.txt" weight="1117.0"></edge>
+      <edge id="1344" source="chapter" target="NT_Nazi_Vol-II.txt" weight="1107.0"></edge>
+      <edge id="1345" source="chief" target="NT_Nazi-Suppl-A.txt" weight="511.0"></edge>
+      <edge id="1346" source="chief" target="NT_Nazi-Suppl-B.txt" weight="559.0"></edge>
+      <edge id="1347" source="chief" target="NT_Nazi_Vol-I.txt" weight="304.0"></edge>
+      <edge id="1348" source="chief" target="NT_Nazi_Vol-II.txt" weight="676.0"></edge>
+      <edge id="1349" source="chief" target="NT_Nazi_Vol-III.txt" weight="588.0"></edge>
+      <edge id="1350" source="chief" target="NT_Nazi_Vol-IV.txt" weight="688.0"></edge>
+      <edge id="1351" source="chief" target="NT_Nazi_Vol-V.txt" weight="425.0"></edge>
+      <edge id="1352" source="chief" target="NT_Nazi_Vol-VI.txt" weight="578.0"></edge>
+      <edge id="1353" source="chief" target="NT_Nazi_Vol-VII.txt" weight="534.0"></edge>
+      <edge id="1354" source="chief" target="NT_Nazi_Vol-VIII.txt" weight="350.0"></edge>
+      <edge id="1355" source="come" target="NT_Nazi-Suppl-B.txt" weight="416.0"></edge>
+      <edge id="1356" source="command" target="NT_Nazi-Suppl-B.txt" weight="300.0"></edge>
+      <edge id="1357" source="command" target="NT_Nazi_Vol-II.txt" weight="303.0"></edge>
+      <edge id="1358" source="command" target="NT_Nazi_Vol-III.txt" weight="479.0"></edge>
+      <edge id="1359" source="command" target="NT_Nazi_Vol-VI.txt" weight="426.0"></edge>
+      <edge id="1360" source="concentration" target="NT_Nazi-Suppl-A.txt" weight="323.0"></edge>
+      <edge id="1361" source="concentration" target="NT_Nazi-Suppl-B.txt" weight="396.0"></edge>
+      <edge id="1362" source="concerning" target="NT_Nazi-Suppl-A.txt" weight="386.0"></edge>
+      <edge id="1363" source="concerning" target="NT_Nazi-Suppl-B.txt" weight="339.0"></edge>
+      <edge id="1364" source="concerning" target="NT_Nazi_Vol-I.txt" weight="453.0"></edge>
+      <edge id="1365" source="concerning" target="NT_Nazi_Vol-II.txt" weight="695.0"></edge>
+      <edge id="1366" source="concerning" target="NT_Nazi_Vol-VIII.txt" weight="639.0"></edge>
+      <edge id="1367" source="connection" target="NT_Nazi-Suppl-B.txt" weight="367.0"></edge>
+      <edge id="1368" source="considered" target="NT_Nazi-Suppl-B.txt" weight="396.0"></edge>
+      <edge id="1369" source="conspirators" target="NT_Nazi_Vol-I.txt" weight="494.0"></edge>
+      <edge id="1370" source="copy" target="NT_Nazi_Vol-III.txt" weight="554.0"></edge>
+      <edge id="1371" source="copy" target="NT_Nazi_Vol-VI.txt" weight="527.0"></edge>
+      <edge id="1372" source="copy" target="NT_Nazi_Vol-VII.txt" weight="305.0"></edge>
+      <edge id="1373" source="country" target="NT_Nazi-Suppl-B.txt" weight="313.0"></edge>
+      <edge id="1374" source="course" target="NT_Nazi-Suppl-B.txt" weight="504.0"></edge>
+      <edge id="1375" source="crimes" target="NT_Nazi-Suppl-A.txt" weight="322.0"></edge>
+      <edge id="1376" source="criminal" target="NT_Nazi-Suppl-B.txt" weight="384.0"></edge>
+      <edge id="1377" source="czechoslovakia" target="NT_Nazi_Vol-I.txt" weight="311.0"></edge>
+      <edge id="1378" source="day" target="NT_Nazi_Vol-V.txt" weight="332.0"></edge>
+      <edge id="1379" source="decree" target="NT_Nazi-Suppl-B.txt" weight="340.0"></edge>
+      <edge id="1380" source="decree" target="NT_Nazi_Vol-II.txt" weight="428.0"></edge>
+      <edge id="1381" source="decree" target="NT_Nazi_Vol-IV.txt" weight="420.0"></edge>
+      <edge id="1382" source="defendant" target="NT_Nazi-Suppl-B.txt" weight="1413.0"></edge>
+      <edge id="1383" source="defense" target="NT_Nazi-Suppl-A.txt" weight="310.0"></edge>
+      <edge id="1384" source="defense" target="NT_Nazi-Suppl-B.txt" weight="965.0"></edge>
+      <edge id="1385" source="description" target="NT_Nazi_Vol-II.txt" weight="318.0"></edge>
+      <edge id="1386" source="district" target="NT_Nazi_Vol-IV.txt" weight="318.0"></edge>
+      <edge id="1387" source="document" target="NT_Nazi-Suppl-A.txt" weight="566.0"></edge>
+      <edge id="1388" source="document" target="NT_Nazi-Suppl-B.txt" weight="686.0"></edge>
+      <edge id="1389" source="document" target="NT_Nazi_Vol-I.txt" weight="482.0"></edge>
+      <edge id="1390" source="document" target="NT_Nazi_Vol-II.txt" weight="482.0"></edge>
+      <edge id="1391" source="document" target="NT_Nazi_Vol-III.txt" weight="330.0"></edge>
+      <edge id="1392" source="document" target="NT_Nazi_Vol-IV.txt" weight="343.0"></edge>
+      <edge id="1393" source="document" target="NT_Nazi_Vol-V.txt" weight="560.0"></edge>
+      <edge id="1394" source="document" target="NT_Nazi_Vol-VI.txt" weight="408.0"></edge>
+      <edge id="1395" source="document" target="NT_Nazi_Vol-VII.txt" weight="419.0"></edge>
+      <edge id="1396" source="document" target="NT_Nazi_Vol-VIII.txt" weight="554.0"></edge>
+      <edge id="1397" source="documents" target="NT_Nazi-Suppl-B.txt" weight="308.0"></edge>
+      <edge id="1398" source="dont" target="NT_Nazi-Suppl-B.txt" weight="726.0"></edge>
+      <edge id="1399" source="eastern" target="NT_Nazi_Vol-III.txt" weight="417.0"></edge>
+      <edge id="1400" source="economic" target="NT_Nazi_Vol-VII.txt" weight="472.0"></edge>
+      <edge id="1401" source="economy" target="NT_Nazi_Vol-VII.txt" weight="533.0"></edge>
+      <edge id="1402" source="especially" target="NT_Nazi-Suppl-B.txt" weight="364.0"></edge>
+      <edge id="1403" source="evidence" target="NT_Nazi-Suppl-B.txt" weight="473.0"></edge>
+      <edge id="1404" source="exchange" target="NT_Nazi_Vol-VII.txt" weight="306.0"></edge>
+      <edge id="1405" source="fact" target="NT_Nazi-Suppl-B.txt" weight="980.0"></edge>
+      <edge id="1406" source="field" target="NT_Nazi-Suppl-B.txt" weight="302.0"></edge>
+      <edge id="1407" source="following" target="NT_Nazi-Suppl-A.txt" weight="383.0"></edge>
+      <edge id="1408" source="following" target="NT_Nazi_Vol-I.txt" weight="423.0"></edge>
+      <edge id="1409" source="following" target="NT_Nazi_Vol-II.txt" weight="348.0"></edge>
+      <edge id="1410" source="following" target="NT_Nazi_Vol-III.txt" weight="381.0"></edge>
+      <edge id="1411" source="following" target="NT_Nazi_Vol-IV.txt" weight="408.0"></edge>
+      <edge id="1412" source="following" target="NT_Nazi_Vol-V.txt" weight="323.0"></edge>
+      <edge id="1413" source="following" target="NT_Nazi_Vol-VII.txt" weight="338.0"></edge>
+      <edge id="1414" source="force" target="NT_Nazi_Vol-I.txt" weight="336.0"></edge>
+      <edge id="1415" source="force" target="NT_Nazi_Vol-VI.txt" weight="309.0"></edge>
+      <edge id="1416" source="forces" target="NT_Nazi-Suppl-A.txt" weight="374.0"></edge>
+      <edge id="1417" source="forces" target="NT_Nazi-Suppl-B.txt" weight="364.0"></edge>
+      <edge id="1418" source="forces" target="NT_Nazi_Vol-I.txt" weight="484.0"></edge>
+      <edge id="1419" source="forces" target="NT_Nazi_Vol-II.txt" weight="429.0"></edge>
+      <edge id="1420" source="forces" target="NT_Nazi_Vol-III.txt" weight="879.0"></edge>
+      <edge id="1421" source="forces" target="NT_Nazi_Vol-IV.txt" weight="459.0"></edge>
+      <edge id="1422" source="forces" target="NT_Nazi_Vol-VI.txt" weight="620.0"></edge>
+      <edge id="1423" source="forces" target="NT_Nazi_Vol-VII.txt" weight="487.0"></edge>
+      <edge id="1424" source="forces" target="NT_Nazi_Vol-VIII.txt" weight="366.0"></edge>
+      <edge id="1425" source="foreign" target="NT_Nazi-Suppl-A.txt" weight="569.0"></edge>
+      <edge id="1426" source="foreign" target="NT_Nazi-Suppl-B.txt" weight="771.0"></edge>
+      <edge id="1427" source="foreign" target="NT_Nazi_Vol-I.txt" weight="499.0"></edge>
+      <edge id="1428" source="foreign" target="NT_Nazi_Vol-II.txt" weight="412.0"></edge>
+      <edge id="1429" source="foreign" target="NT_Nazi_Vol-III.txt" weight="360.0"></edge>
+      <edge id="1430" source="foreign" target="NT_Nazi_Vol-IV.txt" weight="455.0"></edge>
+      <edge id="1431" source="foreign" target="NT_Nazi_Vol-V.txt" weight="574.0"></edge>
+      <edge id="1432" source="foreign" target="NT_Nazi_Vol-VI.txt" weight="510.0"></edge>
+      <edge id="1433" source="foreign" target="NT_Nazi_Vol-VII.txt" weight="759.0"></edge>
+      <edge id="1434" source="foreign" target="NT_Nazi_Vol-VIII.txt" weight="367.0"></edge>
+      <edge id="1435" source="france" target="NT_Nazi-Suppl-B.txt" weight="314.0"></edge>
+      <edge id="1436" source="france" target="NT_Nazi_Vol-I.txt" weight="346.0"></edge>
+      <edge id="1437" source="france" target="NT_Nazi_Vol-VI.txt" weight="320.0"></edge>
+      <edge id="1438" source="france" target="NT_Nazi_Vol-VII.txt" weight="349.0"></edge>
+      <edge id="1439" source="france" target="NT_Nazi_Vol-VIII.txt" weight="312.0"></edge>
+      <edge id="1440" source="french" target="NT_Nazi-Suppl-B.txt" weight="391.0"></edge>
+      <edge id="1441" source="fuehrer" target="NT_Nazi-Suppl-A.txt" weight="414.0"></edge>
+      <edge id="1442" source="fuehrer" target="NT_Nazi-Suppl-B.txt" weight="1082.0"></edge>
+      <edge id="1443" source="fuehrer" target="NT_Nazi_Vol-I.txt" weight="598.0"></edge>
+      <edge id="1444" source="fuehrer" target="NT_Nazi_Vol-II.txt" weight="554.0"></edge>
+      <edge id="1445" source="fuehrer" target="NT_Nazi_Vol-III.txt" weight="782.0"></edge>
+      <edge id="1446" source="fuehrer" target="NT_Nazi_Vol-IV.txt" weight="1045.0"></edge>
+      <edge id="1447" source="fuehrer" target="NT_Nazi_Vol-V.txt" weight="783.0"></edge>
+      <edge id="1448" source="fuehrer" target="NT_Nazi_Vol-VI.txt" weight="893.0"></edge>
+      <edge id="1449" source="fuehrer" target="NT_Nazi_Vol-VII.txt" weight="517.0"></edge>
+      <edge id="1450" source="fuehrer" target="NT_Nazi_Vol-VIII.txt" weight="587.0"></edge>
+      <edge id="1451" source="funk" target="NT_Nazi-Suppl-B.txt" weight="401.0"></edge>
+      <edge id="1452" source="general" target="NT_Nazi-Suppl-A.txt" weight="698.0"></edge>
+      <edge id="1453" source="general" target="NT_Nazi-Suppl-B.txt" weight="1171.0"></edge>
+      <edge id="1454" source="general" target="NT_Nazi_Vol-I.txt" weight="584.0"></edge>
+      <edge id="1455" source="general" target="NT_Nazi_Vol-II.txt" weight="681.0"></edge>
+      <edge id="1456" source="general" target="NT_Nazi_Vol-III.txt" weight="727.0"></edge>
+      <edge id="1457" source="general" target="NT_Nazi_Vol-IV.txt" weight="816.0"></edge>
+      <edge id="1458" source="general" target="NT_Nazi_Vol-V.txt" weight="575.0"></edge>
+      <edge id="1459" source="general" target="NT_Nazi_Vol-VI.txt" weight="752.0"></edge>
+      <edge id="1460" source="general" target="NT_Nazi_Vol-VII.txt" weight="630.0"></edge>
+      <edge id="1461" source="general" target="NT_Nazi_Vol-VIII.txt" weight="558.0"></edge>
+      <edge id="1462" source="german" target="NT_Nazi-opinion-judgment.txt" weight="344.0"></edge>
+      <edge id="1463" source="german" target="NT_Nazi-Suppl-A.txt" weight="1589.0"></edge>
+      <edge id="1464" source="german" target="NT_Nazi-Suppl-B.txt" weight="2009.0"></edge>
+      <edge id="1465" source="german" target="NT_Nazi_Vol-I.txt" weight="2189.0"></edge>
+      <edge id="1466" source="german" target="NT_Nazi_Vol-II.txt" weight="1902.0"></edge>
+      <edge id="1467" source="german" target="NT_Nazi_Vol-III.txt" weight="1240.0"></edge>
+      <edge id="1468" source="german" target="NT_Nazi_Vol-IV.txt" weight="1722.0"></edge>
+      <edge id="1469" source="german" target="NT_Nazi_Vol-V.txt" weight="2180.0"></edge>
+      <edge id="1470" source="german" target="NT_Nazi_Vol-VI.txt" weight="1355.0"></edge>
+      <edge id="1471" source="german" target="NT_Nazi_Vol-VII.txt" weight="1476.0"></edge>
+      <edge id="1472" source="german" target="NT_Nazi_Vol-VIII.txt" weight="1871.0"></edge>
+      <edge id="1473" source="germany" target="NT_Nazi-Suppl-A.txt" weight="618.0"></edge>
+      <edge id="1474" source="germany" target="NT_Nazi-Suppl-B.txt" weight="1296.0"></edge>
+      <edge id="1475" source="germany" target="NT_Nazi_Vol-I.txt" weight="1205.0"></edge>
+      <edge id="1476" source="germany" target="NT_Nazi_Vol-II.txt" weight="580.0"></edge>
+      <edge id="1477" source="germany" target="NT_Nazi_Vol-III.txt" weight="354.0"></edge>
+      <edge id="1478" source="germany" target="NT_Nazi_Vol-IV.txt" weight="504.0"></edge>
+      <edge id="1479" source="germany" target="NT_Nazi_Vol-V.txt" weight="851.0"></edge>
+      <edge id="1480" source="germany" target="NT_Nazi_Vol-VI.txt" weight="501.0"></edge>
+      <edge id="1481" source="germany" target="NT_Nazi_Vol-VII.txt" weight="664.0"></edge>
+      <edge id="1482" source="germany" target="NT_Nazi_Vol-VIII.txt" weight="823.0"></edge>
+      <edge id="1483" source="gestapo" target="NT_Nazi_Vol-II.txt" weight="318.0"></edge>
+      <edge id="1484" source="given" target="NT_Nazi-Suppl-B.txt" weight="387.0"></edge>
+      <edge id="1485" source="goering" target="NT_Nazi-Suppl-B.txt" weight="357.0"></edge>
+      <edge id="1486" source="goering" target="NT_Nazi_Vol-II.txt" weight="389.0"></edge>
+      <edge id="1487" source="goods" target="NT_Nazi_Vol-VII.txt" weight="363.0"></edge>
+      <edge id="1488" source="government" target="NT_Nazi-Suppl-A.txt" weight="527.0"></edge>
+      <edge id="1489" source="government" target="NT_Nazi-Suppl-B.txt" weight="826.0"></edge>
+      <edge id="1490" source="government" target="NT_Nazi_Vol-I.txt" weight="673.0"></edge>
+      <edge id="1491" source="government" target="NT_Nazi_Vol-II.txt" weight="429.0"></edge>
+      <edge id="1492" source="government" target="NT_Nazi_Vol-IV.txt" weight="513.0"></edge>
+      <edge id="1493" source="government" target="NT_Nazi_Vol-V.txt" weight="604.0"></edge>
+      <edge id="1494" source="government" target="NT_Nazi_Vol-VI.txt" weight="322.0"></edge>
+      <edge id="1495" source="government" target="NT_Nazi_Vol-VII.txt" weight="302.0"></edge>
+      <edge id="1496" source="government" target="NT_Nazi_Vol-VIII.txt" weight="735.0"></edge>
+      <edge id="1497" source="great" target="NT_Nazi-Suppl-A.txt" weight="304.0"></edge>
+      <edge id="1498" source="great" target="NT_Nazi-Suppl-B.txt" weight="460.0"></edge>
+      <edge id="1499" source="group" target="NT_Nazi_Vol-VII.txt" weight="308.0"></edge>
+      <edge id="1500" source="himmler" target="NT_Nazi-Suppl-B.txt" weight="501.0"></edge>
+      <edge id="1501" source="hitler" target="NT_Nazi-opinion-judgment.txt" weight="364.0"></edge>
+      <edge id="1502" source="hitler" target="NT_Nazi-Suppl-A.txt" weight="819.0"></edge>
+      <edge id="1503" source="hitler" target="NT_Nazi-Suppl-B.txt" weight="2160.0"></edge>
+      <edge id="1504" source="hitler" target="NT_Nazi_Vol-I.txt" weight="854.0"></edge>
+      <edge id="1505" source="hitler" target="NT_Nazi_Vol-II.txt" weight="959.0"></edge>
+      <edge id="1506" source="hitler" target="NT_Nazi_Vol-IV.txt" weight="324.0"></edge>
+      <edge id="1507" source="hitler" target="NT_Nazi_Vol-V.txt" weight="864.0"></edge>
+      <edge id="1508" source="hitler" target="NT_Nazi_Vol-VI.txt" weight="471.0"></edge>
+      <edge id="1509" source="hitler" target="NT_Nazi_Vol-VIII.txt" weight="358.0"></edge>
+      <edge id="1510" source="hitlers" target="NT_Nazi-Suppl-B.txt" weight="553.0"></edge>
+      <edge id="1511" source="idea" target="NT_Nazi-Suppl-B.txt" weight="339.0"></edge>
+      <edge id="1512" source="important" target="NT_Nazi-Suppl-B.txt" weight="302.0"></edge>
+      <edge id="1513" source="individual" target="NT_Nazi-Suppl-B.txt" weight="317.0"></edge>
+      <edge id="1514" source="influence" target="NT_Nazi-Suppl-B.txt" weight="332.0"></edge>
+      <edge id="1515" source="international" target="NT_Nazi-Suppl-B.txt" weight="665.0"></edge>
+      <edge id="1516" source="international" target="NT_Nazi_Vol-I.txt" weight="353.0"></edge>
+      <edge id="1517" source="january" target="NT_Nazi_Vol-II.txt" weight="371.0"></edge>
+      <edge id="1518" source="jewish" target="NT_Nazi-Suppl-B.txt" weight="320.0"></edge>
+      <edge id="1519" source="jewish" target="NT_Nazi_Vol-V.txt" weight="311.0"></edge>
+      <edge id="1520" source="jews" target="NT_Nazi-Suppl-A.txt" weight="660.0"></edge>
+      <edge id="1521" source="jews" target="NT_Nazi-Suppl-B.txt" weight="585.0"></edge>
+      <edge id="1522" source="jews" target="NT_Nazi_Vol-I.txt" weight="449.0"></edge>
+      <edge id="1523" source="jews" target="NT_Nazi_Vol-II.txt" weight="543.0"></edge>
+      <edge id="1524" source="jews" target="NT_Nazi_Vol-III.txt" weight="554.0"></edge>
+      <edge id="1525" source="jews" target="NT_Nazi_Vol-IV.txt" weight="477.0"></edge>
+      <edge id="1526" source="jews" target="NT_Nazi_Vol-V.txt" weight="464.0"></edge>
+      <edge id="1527" source="jews" target="NT_Nazi_Vol-VIII.txt" weight="321.0"></edge>
+      <edge id="1528" source="july" target="NT_Nazi_Vol-II.txt" weight="320.0"></edge>
+      <edge id="1529" source="june" target="NT_Nazi_Vol-II.txt" weight="371.0"></edge>
+      <edge id="1530" source="just" target="NT_Nazi-Suppl-B.txt" weight="580.0"></edge>
+      <edge id="1531" source="keitel" target="NT_Nazi-Suppl-B.txt" weight="499.0"></edge>
+      <edge id="1532" source="knew" target="NT_Nazi-Suppl-B.txt" weight="335.0"></edge>
+      <edge id="1533" source="know" target="NT_Nazi-Suppl-A.txt" weight="332.0"></edge>
+      <edge id="1534" source="know" target="NT_Nazi-Suppl-B.txt" weight="1164.0"></edge>
+      <edge id="1535" source="known" target="NT_Nazi-Suppl-B.txt" weight="334.0"></edge>
+      <edge id="1536" source="labor" target="NT_Nazi-Suppl-A.txt" weight="385.0"></edge>
+      <edge id="1537" source="labor" target="NT_Nazi-Suppl-B.txt" weight="553.0"></edge>
+      <edge id="1538" source="labor" target="NT_Nazi_Vol-I.txt" weight="406.0"></edge>
+      <edge id="1539" source="labor" target="NT_Nazi_Vol-III.txt" weight="487.0"></edge>
+      <edge id="1540" source="labor" target="NT_Nazi_Vol-IV.txt" weight="334.0"></edge>
+      <edge id="1541" source="later" target="NT_Nazi-Suppl-B.txt" weight="400.0"></edge>
+      <edge id="1542" source="law" target="NT_Nazi-Suppl-A.txt" weight="328.0"></edge>
+      <edge id="1543" source="law" target="NT_Nazi-Suppl-B.txt" weight="1252.0"></edge>
+      <edge id="1544" source="law" target="NT_Nazi_Vol-I.txt" weight="532.0"></edge>
+      <edge id="1545" source="law" target="NT_Nazi_Vol-II.txt" weight="635.0"></edge>
+      <edge id="1546" source="law" target="NT_Nazi_Vol-IV.txt" weight="704.0"></edge>
+      <edge id="1547" source="law" target="NT_Nazi_Vol-V.txt" weight="442.0"></edge>
+      <edge id="1548" source="law" target="NT_Nazi_Vol-VIII.txt" weight="473.0"></edge>
+      <edge id="1549" source="leader" target="NT_Nazi_Vol-V.txt" weight="349.0"></edge>
+      <edge id="1550" source="legal" target="NT_Nazi-Suppl-B.txt" weight="508.0"></edge>
+      <edge id="1551" source="letter" target="NT_Nazi-Suppl-A.txt" weight="411.0"></edge>
+      <edge id="1552" source="letter" target="NT_Nazi_Vol-I.txt" weight="366.0"></edge>
+      <edge id="1553" source="letter" target="NT_Nazi_Vol-II.txt" weight="534.0"></edge>
+      <edge id="1554" source="letter" target="NT_Nazi_Vol-VIII.txt" weight="441.0"></edge>
+      <edge id="1555" source="like" target="NT_Nazi-Suppl-B.txt" weight="517.0"></edge>
+      <edge id="1556" source="make" target="NT_Nazi-Suppl-B.txt" weight="523.0"></edge>
+      <edge id="1557" source="man" target="NT_Nazi-Suppl-A.txt" weight="329.0"></edge>
+      <edge id="1558" source="man" target="NT_Nazi-Suppl-B.txt" weight="456.0"></edge>
+      <edge id="1559" source="march" target="NT_Nazi-Suppl-A.txt" weight="403.0"></edge>
+      <edge id="1560" source="march" target="NT_Nazi-Suppl-B.txt" weight="338.0"></edge>
+      <edge id="1561" source="march" target="NT_Nazi_Vol-I.txt" weight="588.0"></edge>
+      <edge id="1562" source="march" target="NT_Nazi_Vol-II.txt" weight="552.0"></edge>
+      <edge id="1563" source="march" target="NT_Nazi_Vol-IV.txt" weight="317.0"></edge>
+      <edge id="1564" source="march" target="NT_Nazi_Vol-V.txt" weight="437.0"></edge>
+      <edge id="1565" source="march" target="NT_Nazi_Vol-VIII.txt" weight="367.0"></edge>
+      <edge id="1566" source="matter" target="NT_Nazi-Suppl-B.txt" weight="395.0"></edge>
+      <edge id="1567" source="mean" target="NT_Nazi-Suppl-B.txt" weight="319.0"></edge>
+      <edge id="1568" source="means" target="NT_Nazi-Suppl-B.txt" weight="387.0"></edge>
+      <edge id="1569" source="measures" target="NT_Nazi-Suppl-B.txt" weight="556.0"></edge>
+      <edge id="1570" source="measures" target="NT_Nazi_Vol-III.txt" weight="391.0"></edge>
+      <edge id="1571" source="measures" target="NT_Nazi_Vol-IV.txt" weight="365.0"></edge>
+      <edge id="1572" source="measures" target="NT_Nazi_Vol-VI.txt" weight="318.0"></edge>
+      <edge id="1573" source="measures" target="NT_Nazi_Vol-VII.txt" weight="325.0"></edge>
+      <edge id="1574" source="members" target="NT_Nazi-Suppl-A.txt" weight="355.0"></edge>
+      <edge id="1575" source="members" target="NT_Nazi_Vol-II.txt" weight="394.0"></edge>
+      <edge id="1576" source="members" target="NT_Nazi_Vol-V.txt" weight="341.0"></edge>
+      <edge id="1577" source="men" target="NT_Nazi-Suppl-A.txt" weight="578.0"></edge>
+      <edge id="1578" source="men" target="NT_Nazi_Vol-IV.txt" weight="320.0"></edge>
+      <edge id="1579" source="men" target="NT_Nazi_Vol-V.txt" weight="336.0"></edge>
+      <edge id="1580" source="military" target="NT_Nazi-Suppl-A.txt" weight="578.0"></edge>
+      <edge id="1581" source="military" target="NT_Nazi-Suppl-B.txt" weight="757.0"></edge>
+      <edge id="1582" source="military" target="NT_Nazi_Vol-I.txt" weight="644.0"></edge>
+      <edge id="1583" source="military" target="NT_Nazi_Vol-II.txt" weight="555.0"></edge>
+      <edge id="1584" source="military" target="NT_Nazi_Vol-III.txt" weight="385.0"></edge>
+      <edge id="1585" source="military" target="NT_Nazi_Vol-IV.txt" weight="303.0"></edge>
+      <edge id="1586" source="military" target="NT_Nazi_Vol-V.txt" weight="365.0"></edge>
+      <edge id="1587" source="military" target="NT_Nazi_Vol-VI.txt" weight="427.0"></edge>
+      <edge id="1588" source="military" target="NT_Nazi_Vol-VII.txt" weight="621.0"></edge>
+      <edge id="1589" source="military" target="NT_Nazi_Vol-VIII.txt" weight="343.0"></edge>
+      <edge id="1590" source="minister" target="NT_Nazi-Suppl-A.txt" weight="497.0"></edge>
+      <edge id="1591" source="minister" target="NT_Nazi-Suppl-B.txt" weight="673.0"></edge>
+      <edge id="1592" source="minister" target="NT_Nazi_Vol-I.txt" weight="381.0"></edge>
+      <edge id="1593" source="minister" target="NT_Nazi_Vol-II.txt" weight="482.0"></edge>
+      <edge id="1594" source="minister" target="NT_Nazi_Vol-III.txt" weight="499.0"></edge>
+      <edge id="1595" source="minister" target="NT_Nazi_Vol-IV.txt" weight="726.0"></edge>
+      <edge id="1596" source="minister" target="NT_Nazi_Vol-V.txt" weight="633.0"></edge>
+      <edge id="1597" source="minister" target="NT_Nazi_Vol-VI.txt" weight="453.0"></edge>
+      <edge id="1598" source="minister" target="NT_Nazi_Vol-VII.txt" weight="432.0"></edge>
+      <edge id="1599" source="minister" target="NT_Nazi_Vol-VIII.txt" weight="337.0"></edge>
+      <edge id="1600" source="ministry" target="NT_Nazi-Suppl-B.txt" weight="323.0"></edge>
+      <edge id="1601" source="ministry" target="NT_Nazi_Vol-VII.txt" weight="368.0"></edge>
+      <edge id="1602" source="national" target="NT_Nazi-Suppl-A.txt" weight="353.0"></edge>
+      <edge id="1603" source="national" target="NT_Nazi-Suppl-B.txt" weight="486.0"></edge>
+      <edge id="1604" source="national" target="NT_Nazi_Vol-I.txt" weight="396.0"></edge>
+      <edge id="1605" source="national" target="NT_Nazi_Vol-II.txt" weight="466.0"></edge>
+      <edge id="1606" source="national" target="NT_Nazi_Vol-IV.txt" weight="527.0"></edge>
+      <edge id="1607" source="national" target="NT_Nazi_Vol-V.txt" weight="770.0"></edge>
+      <edge id="1608" source="national" target="NT_Nazi_Vol-VII.txt" weight="360.0"></edge>
+      <edge id="1609" source="nations" target="NT_Nazi-Suppl-B.txt" weight="342.0"></edge>
+      <edge id="1610" source="naval" target="NT_Nazi_Vol-VI.txt" weight="318.0"></edge>
+      <edge id="1611" source="nazi" target="NT_Nazi-Suppl-A.txt" weight="312.0"></edge>
+      <edge id="1612" source="nazi" target="NT_Nazi_Vol-I.txt" weight="1036.0"></edge>
+      <edge id="1613" source="nazi" target="NT_Nazi_Vol-II.txt" weight="843.0"></edge>
+      <edge id="1614" source="necessary" target="NT_Nazi-Suppl-A.txt" weight="305.0"></edge>
+      <edge id="1615" source="necessary" target="NT_Nazi-Suppl-B.txt" weight="326.0"></edge>
+      <edge id="1616" source="necessary" target="NT_Nazi_Vol-III.txt" weight="431.0"></edge>
+      <edge id="1617" source="necessary" target="NT_Nazi_Vol-IV.txt" weight="404.0"></edge>
+      <edge id="1618" source="necessary" target="NT_Nazi_Vol-VII.txt" weight="363.0"></edge>
+      <edge id="1619" source="new" target="NT_Nazi-Suppl-B.txt" weight="360.0"></edge>
+      <edge id="1620" source="new" target="NT_Nazi_Vol-IV.txt" weight="346.0"></edge>
+      <edge id="1621" source="new" target="NT_Nazi_Vol-V.txt" weight="392.0"></edge>
+      <edge id="1622" source="new" target="NT_Nazi_Vol-VII.txt" weight="345.0"></edge>
+      <edge id="1623" source="november" target="NT_Nazi_Vol-I.txt" weight="304.0"></edge>
+      <edge id="1624" source="november" target="NT_Nazi_Vol-II.txt" weight="423.0"></edge>
+      <edge id="1625" source="november" target="NT_Nazi_Vol-V.txt" weight="304.0"></edge>
+      <edge id="1626" source="number" target="NT_Nazi_Vol-I.txt" weight="305.0"></edge>
+      <edge id="1627" source="occupation" target="NT_Nazi_Vol-VII.txt" weight="355.0"></edge>
+      <edge id="1628" source="occupied" target="NT_Nazi-Suppl-B.txt" weight="321.0"></edge>
+      <edge id="1629" source="occupied" target="NT_Nazi_Vol-II.txt" weight="349.0"></edge>
+      <edge id="1630" source="occupied" target="NT_Nazi_Vol-III.txt" weight="387.0"></edge>
+      <edge id="1631" source="occupied" target="NT_Nazi_Vol-VII.txt" weight="311.0"></edge>
+      <edge id="1632" source="october" target="NT_Nazi_Vol-I.txt" weight="308.0"></edge>
+      <edge id="1633" source="october" target="NT_Nazi_Vol-II.txt" weight="360.0"></edge>
+      <edge id="1634" source="office" target="NT_Nazi-Suppl-A.txt" weight="642.0"></edge>
+      <edge id="1635" source="office" target="NT_Nazi-Suppl-B.txt" weight="539.0"></edge>
+      <edge id="1636" source="office" target="NT_Nazi_Vol-I.txt" weight="303.0"></edge>
+      <edge id="1637" source="office" target="NT_Nazi_Vol-II.txt" weight="434.0"></edge>
+      <edge id="1638" source="office" target="NT_Nazi_Vol-III.txt" weight="518.0"></edge>
+      <edge id="1639" source="office" target="NT_Nazi_Vol-IV.txt" weight="683.0"></edge>
+      <edge id="1640" source="office" target="NT_Nazi_Vol-V.txt" weight="605.0"></edge>
+      <edge id="1641" source="office" target="NT_Nazi_Vol-VI.txt" weight="394.0"></edge>
+      <edge id="1642" source="office" target="NT_Nazi_Vol-VII.txt" weight="662.0"></edge>
+      <edge id="1643" source="office" target="NT_Nazi_Vol-VIII.txt" weight="308.0"></edge>
+      <edge id="1644" source="offices" target="NT_Nazi_Vol-VII.txt" weight="309.0"></edge>
+      <edge id="1645" source="opinion" target="NT_Nazi-Suppl-B.txt" weight="481.0"></edge>
+      <edge id="1646" source="order" target="NT_Nazi-Suppl-A.txt" weight="925.0"></edge>
+      <edge id="1647" source="order" target="NT_Nazi-Suppl-B.txt" weight="1402.0"></edge>
+      <edge id="1648" source="order" target="NT_Nazi_Vol-I.txt" weight="693.0"></edge>
+      <edge id="1649" source="order" target="NT_Nazi_Vol-II.txt" weight="870.0"></edge>
+      <edge id="1650" source="order" target="NT_Nazi_Vol-III.txt" weight="623.0"></edge>
+      <edge id="1651" source="order" target="NT_Nazi_Vol-IV.txt" weight="734.0"></edge>
+      <edge id="1652" source="order" target="NT_Nazi_Vol-V.txt" weight="532.0"></edge>
+      <edge id="1653" source="order" target="NT_Nazi_Vol-VI.txt" weight="681.0"></edge>
+      <edge id="1654" source="order" target="NT_Nazi_Vol-VII.txt" weight="633.0"></edge>
+      <edge id="1655" source="order" target="NT_Nazi_Vol-VIII.txt" weight="553.0"></edge>
+      <edge id="1656" source="orders" target="NT_Nazi-Suppl-A.txt" weight="329.0"></edge>
+      <edge id="1657" source="orders" target="NT_Nazi-Suppl-B.txt" weight="537.0"></edge>
+      <edge id="1658" source="organization" target="NT_Nazi_Vol-II.txt" weight="434.0"></edge>
+      <edge id="1659" source="organization" target="NT_Nazi_Vol-IV.txt" weight="374.0"></edge>
+      <edge id="1660" source="page" target="NT_Nazi_Vol-II.txt" weight="362.0"></edge>
+      <edge id="1661" source="page" target="NT_Nazi_Vol-IV.txt" weight="345.0"></edge>
+      <edge id="1662" source="page" target="NT_Nazi_Vol-V.txt" weight="502.0"></edge>
+      <edge id="1663" source="page" target="NT_Nazi_Vol-VIII.txt" weight="330.0"></edge>
+      <edge id="1664" source="papen" target="NT_Nazi-Suppl-B.txt" weight="332.0"></edge>
+      <edge id="1665" source="parties" target="NT_Nazi_Vol-VIII.txt" weight="314.0"></edge>
+      <edge id="1666" source="party" target="NT_Nazi-Suppl-A.txt" weight="627.0"></edge>
+      <edge id="1667" source="party" target="NT_Nazi-Suppl-B.txt" weight="844.0"></edge>
+      <edge id="1668" source="party" target="NT_Nazi_Vol-I.txt" weight="648.0"></edge>
+      <edge id="1669" source="party" target="NT_Nazi_Vol-II.txt" weight="911.0"></edge>
+      <edge id="1670" source="party" target="NT_Nazi_Vol-III.txt" weight="522.0"></edge>
+      <edge id="1671" source="party" target="NT_Nazi_Vol-IV.txt" weight="519.0"></edge>
+      <edge id="1672" source="party" target="NT_Nazi_Vol-V.txt" weight="942.0"></edge>
+      <edge id="1673" source="party" target="NT_Nazi_Vol-VIII.txt" weight="381.0"></edge>
+      <edge id="1674" source="peace" target="NT_Nazi-Suppl-B.txt" weight="424.0"></edge>
+      <edge id="1675" source="people" target="NT_Nazi-Suppl-A.txt" weight="647.0"></edge>
+      <edge id="1676" source="people" target="NT_Nazi-Suppl-B.txt" weight="1152.0"></edge>
+      <edge id="1677" source="people" target="NT_Nazi_Vol-I.txt" weight="466.0"></edge>
+      <edge id="1678" source="people" target="NT_Nazi_Vol-II.txt" weight="443.0"></edge>
+      <edge id="1679" source="people" target="NT_Nazi_Vol-III.txt" weight="325.0"></edge>
+      <edge id="1680" source="people" target="NT_Nazi_Vol-IV.txt" weight="577.0"></edge>
+      <edge id="1681" source="people" target="NT_Nazi_Vol-V.txt" weight="747.0"></edge>
+      <edge id="1682" source="people" target="NT_Nazi_Vol-VII.txt" weight="428.0"></edge>
+      <edge id="1683" source="people" target="NT_Nazi_Vol-VIII.txt" weight="410.0"></edge>
+      <edge id="1684" source="persons" target="NT_Nazi-Suppl-A.txt" weight="442.0"></edge>
+      <edge id="1685" source="place" target="NT_Nazi-Suppl-A.txt" weight="328.0"></edge>
+      <edge id="1686" source="place" target="NT_Nazi-Suppl-B.txt" weight="437.0"></edge>
+      <edge id="1687" source="plan" target="NT_Nazi-Suppl-B.txt" weight="387.0"></edge>
+      <edge id="1688" source="point" target="NT_Nazi-Suppl-B.txt" weight="634.0"></edge>
+      <edge id="1689" source="poland" target="NT_Nazi_Vol-I.txt" weight="423.0"></edge>
+      <edge id="1690" source="poland" target="NT_Nazi_Vol-VIII.txt" weight="333.0"></edge>
+      <edge id="1691" source="police" target="NT_Nazi-Suppl-A.txt" weight="701.0"></edge>
+      <edge id="1692" source="police" target="NT_Nazi-Suppl-B.txt" weight="517.0"></edge>
+      <edge id="1693" source="police" target="NT_Nazi_Vol-II.txt" weight="743.0"></edge>
+      <edge id="1694" source="police" target="NT_Nazi_Vol-III.txt" weight="820.0"></edge>
+      <edge id="1695" source="police" target="NT_Nazi_Vol-IV.txt" weight="1013.0"></edge>
+      <edge id="1696" source="police" target="NT_Nazi_Vol-V.txt" weight="518.0"></edge>
+      <edge id="1697" source="police" target="NT_Nazi_Vol-VII.txt" weight="606.0"></edge>
+      <edge id="1698" source="police" target="NT_Nazi_Vol-VIII.txt" weight="398.0"></edge>
+      <edge id="1699" source="policy" target="NT_Nazi-Suppl-B.txt" weight="530.0"></edge>
+      <edge id="1700" source="polish" target="NT_Nazi_Vol-VIII.txt" weight="481.0"></edge>
+      <edge id="1701" source="political" target="NT_Nazi-Suppl-A.txt" weight="558.0"></edge>
+      <edge id="1702" source="political" target="NT_Nazi-Suppl-B.txt" weight="745.0"></edge>
+      <edge id="1703" source="political" target="NT_Nazi_Vol-I.txt" weight="473.0"></edge>
+      <edge id="1704" source="political" target="NT_Nazi_Vol-II.txt" weight="536.0"></edge>
+      <edge id="1705" source="political" target="NT_Nazi_Vol-III.txt" weight="428.0"></edge>
+      <edge id="1706" source="political" target="NT_Nazi_Vol-IV.txt" weight="456.0"></edge>
+      <edge id="1707" source="political" target="NT_Nazi_Vol-V.txt" weight="558.0"></edge>
+      <edge id="1708" source="position" target="NT_Nazi-Suppl-B.txt" weight="514.0"></edge>
+      <edge id="1709" source="possible" target="NT_Nazi-Suppl-A.txt" weight="365.0"></edge>
+      <edge id="1710" source="possible" target="NT_Nazi-Suppl-B.txt" weight="548.0"></edge>
+      <edge id="1711" source="possible" target="NT_Nazi_Vol-I.txt" weight="311.0"></edge>
+      <edge id="1712" source="possible" target="NT_Nazi_Vol-III.txt" weight="385.0"></edge>
+      <edge id="1713" source="possible" target="NT_Nazi_Vol-IV.txt" weight="306.0"></edge>
+      <edge id="1714" source="possible" target="NT_Nazi_Vol-VI.txt" weight="402.0"></edge>
+      <edge id="1715" source="possible" target="NT_Nazi_Vol-VII.txt" weight="458.0"></edge>
+      <edge id="1716" source="power" target="NT_Nazi-Suppl-B.txt" weight="612.0"></edge>
+      <edge id="1717" source="power" target="NT_Nazi_Vol-I.txt" weight="300.0"></edge>
+      <edge id="1718" source="power" target="NT_Nazi_Vol-II.txt" weight="316.0"></edge>
+      <edge id="1719" source="powers" target="NT_Nazi-Suppl-B.txt" weight="317.0"></edge>
+      <edge id="1720" source="present" target="NT_Nazi-Suppl-B.txt" weight="386.0"></edge>
+      <edge id="1721" source="present" target="NT_Nazi_Vol-III.txt" weight="317.0"></edge>
+      <edge id="1722" source="present" target="NT_Nazi_Vol-VI.txt" weight="340.0"></edge>
+      <edge id="1723" source="present" target="NT_Nazi_Vol-VII.txt" weight="471.0"></edge>
+      <edge id="1724" source="present" target="NT_Nazi_Vol-VIII.txt" weight="359.0"></edge>
+      <edge id="1725" source="prisoners" target="NT_Nazi-Suppl-A.txt" weight="432.0"></edge>
+      <edge id="1726" source="prisoners" target="NT_Nazi_Vol-III.txt" weight="309.0"></edge>
+      <edge id="1727" source="prisoners" target="NT_Nazi_Vol-VI.txt" weight="364.0"></edge>
+      <edge id="1728" source="prisoners" target="NT_Nazi_Vol-VII.txt" weight="366.0"></edge>
+      <edge id="1729" source="program" target="NT_Nazi_Vol-II.txt" weight="311.0"></edge>
+      <edge id="1730" source="prosecution" target="NT_Nazi-Suppl-B.txt" weight="1057.0"></edge>
+      <edge id="1731" source="question" target="NT_Nazi-Suppl-A.txt" weight="349.0"></edge>
+      <edge id="1732" source="question" target="NT_Nazi-Suppl-B.txt" weight="1088.0"></edge>
+      <edge id="1733" source="question" target="NT_Nazi_Vol-VI.txt" weight="304.0"></edge>
+      <edge id="1734" source="question" target="NT_Nazi_Vol-VIII.txt" weight="302.0"></edge>
+      <edge id="1735" source="quite" target="NT_Nazi-Suppl-B.txt" weight="434.0"></edge>
+      <edge id="1736" source="reason" target="NT_Nazi-Suppl-B.txt" weight="396.0"></edge>
+      <edge id="1737" source="received" target="NT_Nazi-Suppl-B.txt" weight="310.0"></edge>
+      <edge id="1738" source="regarding" target="NT_Nazi-Suppl-A.txt" weight="368.0"></edge>
+      <edge id="1739" source="reich" target="NT_Nazi-Suppl-A.txt" weight="1282.0"></edge>
+      <edge id="1740" source="reich" target="NT_Nazi-Suppl-B.txt" weight="1515.0"></edge>
+      <edge id="1741" source="reich" target="NT_Nazi_Vol-I.txt" weight="1047.0"></edge>
+      <edge id="1742" source="reich" target="NT_Nazi_Vol-II.txt" weight="1647.0"></edge>
+      <edge id="1743" source="reich" target="NT_Nazi_Vol-III.txt" weight="1538.0"></edge>
+      <edge id="1744" source="reich" target="NT_Nazi_Vol-IV.txt" weight="2595.0"></edge>
+      <edge id="1745" source="reich" target="NT_Nazi_Vol-V.txt" weight="2155.0"></edge>
+      <edge id="1746" source="reich" target="NT_Nazi_Vol-VI.txt" weight="1109.0"></edge>
+      <edge id="1747" source="reich" target="NT_Nazi_Vol-VII.txt" weight="1358.0"></edge>
+      <edge id="1748" source="reich" target="NT_Nazi_Vol-VIII.txt" weight="939.0"></edge>
+      <edge id="1749" source="remember" target="NT_Nazi-Suppl-B.txt" weight="705.0"></edge>
+      <edge id="1750" source="report" target="NT_Nazi-Suppl-A.txt" weight="491.0"></edge>
+      <edge id="1751" source="report" target="NT_Nazi-Suppl-B.txt" weight="308.0"></edge>
+      <edge id="1752" source="report" target="NT_Nazi_Vol-I.txt" weight="436.0"></edge>
+      <edge id="1753" source="report" target="NT_Nazi_Vol-II.txt" weight="399.0"></edge>
+      <edge id="1754" source="report" target="NT_Nazi_Vol-VIII.txt" weight="316.0"></edge>
+      <edge id="1755" source="responsibility" target="NT_Nazi-Suppl-B.txt" weight="491.0"></edge>
+      <edge id="1756" source="responsible" target="NT_Nazi-Suppl-B.txt" weight="356.0"></edge>
+      <edge id="1757" source="right" target="NT_Nazi-Suppl-B.txt" weight="598.0"></edge>
+      <edge id="1758" source="rosenberg" target="NT_Nazi-Suppl-B.txt" weight="391.0"></edge>
+      <edge id="1759" source="said" target="NT_Nazi-Suppl-A.txt" weight="375.0"></edge>
+      <edge id="1760" source="said" target="NT_Nazi-Suppl-B.txt" weight="891.0"></edge>
+      <edge id="1761" source="sauckel" target="NT_Nazi-Suppl-B.txt" weight="300.0"></edge>
+      <edge id="1762" source="say" target="NT_Nazi-Suppl-B.txt" weight="766.0"></edge>
+      <edge id="1763" source="secret" target="NT_Nazi-Suppl-A.txt" weight="399.0"></edge>
+      <edge id="1764" source="secret" target="NT_Nazi_Vol-II.txt" weight="335.0"></edge>
+      <edge id="1765" source="secret" target="NT_Nazi_Vol-III.txt" weight="478.0"></edge>
+      <edge id="1766" source="secret" target="NT_Nazi_Vol-IV.txt" weight="350.0"></edge>
+      <edge id="1767" source="secret" target="NT_Nazi_Vol-VI.txt" weight="363.0"></edge>
+      <edge id="1768" source="secret" target="NT_Nazi_Vol-VII.txt" weight="367.0"></edge>
+      <edge id="1769" source="section" target="NT_Nazi_Vol-IV.txt" weight="344.0"></edge>
+      <edge id="1770" source="security" target="NT_Nazi-Suppl-A.txt" weight="329.0"></edge>
+      <edge id="1771" source="security" target="NT_Nazi_Vol-III.txt" weight="312.0"></edge>
+      <edge id="1772" source="security" target="NT_Nazi_Vol-VII.txt" weight="315.0"></edge>
+      <edge id="1773" source="september" target="NT_Nazi_Vol-I.txt" weight="332.0"></edge>
+      <edge id="1774" source="september" target="NT_Nazi_Vol-II.txt" weight="339.0"></edge>
+      <edge id="1775" source="service" target="NT_Nazi-Suppl-A.txt" weight="303.0"></edge>
+      <edge id="1776" source="service" target="NT_Nazi_Vol-III.txt" weight="346.0"></edge>
+      <edge id="1777" source="service" target="NT_Nazi_Vol-IV.txt" weight="367.0"></edge>
+      <edge id="1778" source="service" target="NT_Nazi_Vol-V.txt" weight="317.0"></edge>
+      <edge id="1779" source="shall" target="NT_Nazi_Vol-IV.txt" weight="726.0"></edge>
+      <edge id="1780" source="shall" target="NT_Nazi_Vol-VI.txt" weight="492.0"></edge>
+      <edge id="1781" source="shall" target="NT_Nazi_Vol-VIII.txt" weight="739.0"></edge>
+      <edge id="1782" source="signed" target="NT_Nazi-Suppl-A.txt" weight="357.0"></edge>
+      <edge id="1783" source="signed" target="NT_Nazi_Vol-I.txt" weight="357.0"></edge>
+      <edge id="1784" source="signed" target="NT_Nazi_Vol-II.txt" weight="371.0"></edge>
+      <edge id="1785" source="signed" target="NT_Nazi_Vol-VI.txt" weight="335.0"></edge>
+      <edge id="1786" source="situation" target="NT_Nazi-Suppl-B.txt" weight="367.0"></edge>
+      <edge id="1787" source="situation" target="NT_Nazi_Vol-VII.txt" weight="322.0"></edge>
+      <edge id="1788" source="socialist" target="NT_Nazi_Vol-V.txt" weight="301.0"></edge>
+      <edge id="1789" source="special" target="NT_Nazi_Vol-III.txt" weight="467.0"></edge>
+      <edge id="1790" source="special" target="NT_Nazi_Vol-IV.txt" weight="372.0"></edge>
+      <edge id="1791" source="special" target="NT_Nazi_Vol-V.txt" weight="359.0"></edge>
+      <edge id="1792" source="special" target="NT_Nazi_Vol-VII.txt" weight="348.0"></edge>
+      <edge id="1793" source="speech" target="NT_Nazi-Suppl-B.txt" weight="309.0"></edge>
+      <edge id="1794" source="speer" target="NT_Nazi-Suppl-B.txt" weight="352.0"></edge>
+      <edge id="1795" source="staff" target="NT_Nazi-Suppl-A.txt" weight="340.0"></edge>
+      <edge id="1796" source="staff" target="NT_Nazi-Suppl-B.txt" weight="309.0"></edge>
+      <edge id="1797" source="staff" target="NT_Nazi_Vol-II.txt" weight="381.0"></edge>
+      <edge id="1798" source="staff" target="NT_Nazi_Vol-III.txt" weight="429.0"></edge>
+      <edge id="1799" source="staff" target="NT_Nazi_Vol-VI.txt" weight="323.0"></edge>
+      <edge id="1800" source="state" target="NT_Nazi-Suppl-A.txt" weight="725.0"></edge>
+      <edge id="1801" source="state" target="NT_Nazi-Suppl-B.txt" weight="1034.0"></edge>
+      <edge id="1802" source="state" target="NT_Nazi_Vol-I.txt" weight="635.0"></edge>
+      <edge id="1803" source="state" target="NT_Nazi_Vol-II.txt" weight="632.0"></edge>
+      <edge id="1804" source="state" target="NT_Nazi_Vol-III.txt" weight="529.0"></edge>
+      <edge id="1805" source="state" target="NT_Nazi_Vol-IV.txt" weight="992.0"></edge>
+      <edge id="1806" source="state" target="NT_Nazi_Vol-V.txt" weight="959.0"></edge>
+      <edge id="1807" source="state" target="NT_Nazi_Vol-VI.txt" weight="447.0"></edge>
+      <edge id="1808" source="state" target="NT_Nazi_Vol-VII.txt" weight="529.0"></edge>
+      <edge id="1809" source="state" target="NT_Nazi_Vol-VIII.txt" weight="503.0"></edge>
+      <edge id="1810" source="stated" target="NT_Nazi-Suppl-B.txt" weight="319.0"></edge>
+      <edge id="1811" source="statement" target="NT_Nazi-Suppl-B.txt" weight="301.0"></edge>
+      <edge id="1812" source="statements" target="NT_Nazi-Suppl-B.txt" weight="301.0"></edge>
+      <edge id="1813" source="states" target="NT_Nazi-Suppl-B.txt" weight="420.0"></edge>
+      <edge id="1814" source="states" target="NT_Nazi_Vol-I.txt" weight="419.0"></edge>
+      <edge id="1815" source="submitted" target="NT_Nazi-Suppl-B.txt" weight="304.0"></edge>
+      <edge id="1816" source="supreme" target="NT_Nazi_Vol-III.txt" weight="305.0"></edge>
+      <edge id="1817" source="taken" target="NT_Nazi-Suppl-A.txt" weight="413.0"></edge>
+      <edge id="1818" source="taken" target="NT_Nazi-Suppl-B.txt" weight="623.0"></edge>
+      <edge id="1819" source="taken" target="NT_Nazi_Vol-III.txt" weight="301.0"></edge>
+      <edge id="1820" source="taken" target="NT_Nazi_Vol-VI.txt" weight="320.0"></edge>
+      <edge id="1821" source="territories" target="NT_Nazi_Vol-II.txt" weight="315.0"></edge>
+      <edge id="1822" source="territories" target="NT_Nazi_Vol-III.txt" weight="395.0"></edge>
+      <edge id="1823" source="testimony" target="NT_Nazi-Suppl-B.txt" weight="338.0"></edge>
+      <edge id="1824" source="thing" target="NT_Nazi-Suppl-B.txt" weight="303.0"></edge>
+      <edge id="1825" source="things" target="NT_Nazi-Suppl-B.txt" weight="505.0"></edge>
+      <edge id="1826" source="think" target="NT_Nazi-Suppl-B.txt" weight="532.0"></edge>
+      <edge id="1827" source="thought" target="NT_Nazi-Suppl-B.txt" weight="343.0"></edge>
+      <edge id="1828" source="time" target="NT_Nazi-Suppl-A.txt" weight="841.0"></edge>
+      <edge id="1829" source="time" target="NT_Nazi-Suppl-B.txt" weight="1727.0"></edge>
+      <edge id="1830" source="time" target="NT_Nazi_Vol-I.txt" weight="579.0"></edge>
+      <edge id="1831" source="time" target="NT_Nazi_Vol-II.txt" weight="473.0"></edge>
+      <edge id="1832" source="time" target="NT_Nazi_Vol-III.txt" weight="564.0"></edge>
+      <edge id="1833" source="time" target="NT_Nazi_Vol-IV.txt" weight="745.0"></edge>
+      <edge id="1834" source="time" target="NT_Nazi_Vol-V.txt" weight="659.0"></edge>
+      <edge id="1835" source="time" target="NT_Nazi_Vol-VI.txt" weight="914.0"></edge>
+      <edge id="1836" source="time" target="NT_Nazi_Vol-VII.txt" weight="696.0"></edge>
+      <edge id="1837" source="time" target="NT_Nazi_Vol-VIII.txt" weight="479.0"></edge>
+      <edge id="1838" source="told" target="NT_Nazi-Suppl-B.txt" weight="425.0"></edge>
+      <edge id="1839" source="took" target="NT_Nazi-Suppl-B.txt" weight="477.0"></edge>
+      <edge id="1840" source="training" target="NT_Nazi-Suppl-A.txt" weight="309.0"></edge>
+      <edge id="1841" source="treaty" target="NT_Nazi-Suppl-B.txt" weight="312.0"></edge>
+      <edge id="1842" source="treaty" target="NT_Nazi_Vol-I.txt" weight="316.0"></edge>
+      <edge id="1843" source="treaty" target="NT_Nazi_Vol-VIII.txt" weight="316.0"></edge>
+      <edge id="1844" source="trial" target="NT_Nazi-Suppl-B.txt" weight="320.0"></edge>
+      <edge id="1845" source="tribunal" target="NT_Nazi-Suppl-B.txt" weight="393.0"></edge>
+      <edge id="1846" source="tribunal" target="NT_Nazi_Vol-I.txt" weight="314.0"></edge>
+      <edge id="1847" source="usa" target="NT_Nazi-Suppl-A.txt" weight="821.0"></edge>
+      <edge id="1848" source="usa" target="NT_Nazi_Vol-I.txt" weight="702.0"></edge>
+      <edge id="1849" source="usa" target="NT_Nazi_Vol-II.txt" weight="1115.0"></edge>
+      <edge id="1850" source="usa" target="NT_Nazi_Vol-VIII.txt" weight="850.0"></edge>
+      <edge id="1851" source="view" target="NT_Nazi-Suppl-B.txt" weight="403.0"></edge>
+      <edge id="1852" source="vii" target="NT_Nazi_Vol-I.txt" weight="362.0"></edge>
+      <edge id="1853" source="vii" target="NT_Nazi_Vol-II.txt" weight="357.0"></edge>
+      <edge id="1854" source="vii" target="NT_Nazi_Vol-VIII.txt" weight="425.0"></edge>
+      <edge id="1855" source="von" target="NT_Nazi-Suppl-A.txt" weight="473.0"></edge>
+      <edge id="1856" source="von" target="NT_Nazi-Suppl-B.txt" weight="533.0"></edge>
+      <edge id="1857" source="von" target="NT_Nazi_Vol-II.txt" weight="489.0"></edge>
+      <edge id="1858" source="von" target="NT_Nazi_Vol-V.txt" weight="307.0"></edge>
+      <edge id="1859" source="want" target="NT_Nazi-Suppl-B.txt" weight="330.0"></edge>
+      <edge id="1860" source="wanted" target="NT_Nazi-Suppl-B.txt" weight="321.0"></edge>
+      <edge id="1861" source="war" target="NT_Nazi-opinion-judgment.txt" weight="466.0"></edge>
+      <edge id="1862" source="war" target="NT_Nazi-Suppl-A.txt" weight="1374.0"></edge>
+      <edge id="1863" source="war" target="NT_Nazi-Suppl-B.txt" weight="2418.0"></edge>
+      <edge id="1864" source="war" target="NT_Nazi_Vol-I.txt" weight="1469.0"></edge>
+      <edge id="1865" source="war" target="NT_Nazi_Vol-II.txt" weight="1067.0"></edge>
+      <edge id="1866" source="war" target="NT_Nazi_Vol-III.txt" weight="647.0"></edge>
+      <edge id="1867" source="war" target="NT_Nazi_Vol-IV.txt" weight="671.0"></edge>
+      <edge id="1868" source="war" target="NT_Nazi_Vol-V.txt" weight="437.0"></edge>
+      <edge id="1869" source="war" target="NT_Nazi_Vol-VI.txt" weight="942.0"></edge>
+      <edge id="1870" source="war" target="NT_Nazi_Vol-VII.txt" weight="1181.0"></edge>
+      <edge id="1871" source="war" target="NT_Nazi_Vol-VIII.txt" weight="773.0"></edge>
+      <edge id="1872" source="way" target="NT_Nazi-Suppl-A.txt" weight="358.0"></edge>
+      <edge id="1873" source="way" target="NT_Nazi-Suppl-B.txt" weight="725.0"></edge>
+      <edge id="1874" source="witness" target="NT_Nazi-Suppl-B.txt" weight="469.0"></edge>
+      <edge id="1875" source="work" target="NT_Nazi-Suppl-A.txt" weight="500.0"></edge>
+      <edge id="1876" source="work" target="NT_Nazi-Suppl-B.txt" weight="384.0"></edge>
+      <edge id="1877" source="work" target="NT_Nazi_Vol-III.txt" weight="454.0"></edge>
+      <edge id="1878" source="work" target="NT_Nazi_Vol-IV.txt" weight="426.0"></edge>
+      <edge id="1879" source="work" target="NT_Nazi_Vol-V.txt" weight="359.0"></edge>
+      <edge id="1880" source="work" target="NT_Nazi_Vol-VI.txt" weight="362.0"></edge>
+      <edge id="1881" source="work" target="NT_Nazi_Vol-VII.txt" weight="397.0"></edge>
+      <edge id="1882" source="workers" target="NT_Nazi-Suppl-B.txt" weight="302.0"></edge>
+      <edge id="1883" source="workers" target="NT_Nazi_Vol-III.txt" weight="364.0"></edge>
+      <edge id="1884" source="world" target="NT_Nazi-Suppl-A.txt" weight="305.0"></edge>
+      <edge id="1885" source="world" target="NT_Nazi-Suppl-B.txt" weight="548.0"></edge>
+      <edge id="1886" source="year" target="NT_Nazi_Vol-IV.txt" weight="306.0"></edge>
+      <edge id="1887" source="year" target="NT_Nazi_Vol-VII.txt" weight="361.0"></edge>
+      <edge id="1888" source="years" target="NT_Nazi-Suppl-A.txt" weight="303.0"></edge>
+      <edge id="1889" source="years" target="NT_Nazi-Suppl-B.txt" weight="412.0"></edge>
+      <edge id="1890" source="yes" target="NT_Nazi-Suppl-B.txt" weight="826.0"></edge>
+      <edge id="1891" source="yes" target="NT_Nazi_Vol-VI.txt" weight="395.0"></edge>
+      <edge id="1892" source="youth" target="NT_Nazi_Vol-IV.txt" weight="398.0"></edge>
+      <edge id="1893" source="youth" target="NT_Nazi_Vol-V.txt" weight="384.0"></edge>
+      <edge id="1894" source="didnt" target="NT_Nazi-Suppl-B.txt" weight="448.0"></edge>
+      <edge id="1895" source="interrogations" target="NT_Nazi-Suppl-B.txt" weight="306.0"></edge>
+      <edge id="1896" source="translation" target="NT_Nazi-Suppl-A.txt" weight="344.0"></edge>
+      <edge id="1897" source="translation" target="NT_Nazi_Vol-IV.txt" weight="319.0"></edge>
+      <edge id="1898" source="translation" target="NT_Nazi_Vol-V.txt" weight="429.0"></edge>
+      <edge id="1899" source="translation" target="NT_Nazi_Vol-VI.txt" weight="324.0"></edge>
+      <edge id="1900" source="translation" target="NT_Nazi_Vol-VII.txt" weight="335.0"></edge>
+      <edge id="1901" source="xvi" target="NT_Nazi_Vol-II.txt" weight="605.0"></edge>
+    </edges>
+  </graph>
+</gexf>
