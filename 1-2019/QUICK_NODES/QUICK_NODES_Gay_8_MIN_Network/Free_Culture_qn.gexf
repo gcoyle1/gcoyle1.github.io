@@ -1,0 +1,3031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-03-04">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="access" label="access">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="181.80797" y="115.288"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="freeculture_Split0.txt" label="freeculture_Split0.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="350.43814" y="-33.789753"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="freeculture_Split1.txt" label="freeculture_Split1.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-180.92053" y="-138.18492"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="freeculture_Split2.txt" label="freeculture_Split2.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="82.383965" y="-213.74387"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="freeculture_Split4.txt" label="freeculture_Split4.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="150.8555" y="268.26163"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="freeculture_Split5.txt" label="freeculture_Split5.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-43.21569" y="422.49402"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="act" label="act">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-194.75085" y="217.50331"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="freeculture_Split3.txt" label="freeculture_Split3.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-344.98425" y="142.34784"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="afterword" label="afterword">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="368.908" y="472.4189"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="aim" label="aim">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="393.5988" y="182.28395"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="allowed" label="allowed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="223.2049" y="-502.44202"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="america" label="america">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="556.43134" y="271.50168"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="american" label="american">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-104.43249" y="259.04987"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="americans" label="americans">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-562.902" y="278.80515"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="architecture" label="architecture">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="188.52869" y="-634.0479"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="argued" label="argued">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-522.6535" y="216.09016"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="argument" label="argument">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-381.34732" y="12.710824"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="armstrong" label="armstrong">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="597.3931" y="-81.27368"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="artists" label="artists">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="15.684009" y="199.92253"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="asked" label="asked">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-370.26306" y="-518.93335"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="association" label="association">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="126.08748" y="632.2777"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="assure" label="assure">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-545.83514" y="-2.8746278"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="author" label="author">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="68.548256" y="474.8074"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="authors" label="authors">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="257.99414" y="137.9771"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="available" label="available">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.773578" y="343.23904"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="balance" label="balance">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="153.40147" y="-60.5913"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="balances" label="balances">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-555.1827" y="238.44653"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="based" label="based">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-798.2681" y="151.00774"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="believe" label="believe">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="460.13968" y="75.368996"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="benefit" label="benefit">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-664.305" y="351.6285"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="better" label="better">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="307.5184" y="710.2411"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="bit" label="bit">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-563.8269" y="-410.5984"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="blogs" label="blogs">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="632.27734" y="-175.12328"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="book" label="book">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="95.047676" y="-36.55822"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="books" label="books">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-414.75" y="-5.278684"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="brothers" label="brothers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="358.35876" y="-366.9482"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="build" label="build">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="417.26398" y="267.0876"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="building" label="building">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="690.4406" y="-74.02341"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="built" label="built">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="429.0405" y="-326.94986"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="burden" label="burden">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-218.85797" y="542.3511"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="business" label="business">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="185.41678" y="-539.3935"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="buy" label="buy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-591.7305" y="-364.34537"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="cable" label="cable">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-297.1699" y="-269.81995"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="called" label="called">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-537.07" y="-442.77002"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="captured" label="captured">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="817.1723" y="-96.148506"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="case" label="case">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-307.3727" y="41.160313"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="cases" label="cases">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-604.82635" y="261.19797"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="causbys" label="causbys">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="611.437" y="-4.3317804"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="change" label="change">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="229.38353" y="-61.15951"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="changed" label="changed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="184.62085" y="-570.31415"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="changes" label="changes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="253.56783" y="-323.85107"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="chapter" label="chapter">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="286.42236" y="-152.92682"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="claim" label="claim">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-363.8848" y="-233.73344"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="clear" label="clear">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-421.59778" y="-196.75742"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="clearly" label="clearly">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-567.91675" y="-439.94592"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="code" label="code">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="257.6618" y="-184.51591"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="come" label="come">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="702.59216" y="-178.26299"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="comics" label="comics">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="769.7229" y="-46.882343"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="commercial" label="commercial">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.04189" y="-42.52374"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="common" label="common">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="229.83086" y="52.986275"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="commons" label="commons">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="154.30577" y="539.80945"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="companies" label="companies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="165.4853" y="-105.96798"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="company" label="company">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-95.05444" y="-517.67645"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="competition" label="competition">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="209.03351" y="148.47514"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="composer" label="composer">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="614.2973" y="-34.89752"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="computer" label="computer">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-190.24608" y="-366.7607"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="concentration" label="concentration">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="243.93407" y="-577.42474"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="congress" label="congress">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-296.55658" y="-0.31008098"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="congresss" label="congresss">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-498.54337" y="203.93848"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="consequences" label="consequences">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="279.4783" y="-654.4096"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="consider" label="consider">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="72.19215" y="-647.51556"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="constraint" label="constraint">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-490.45273" y="-433.60834"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="content" label="content">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-35.45136" y="26.848078"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="context" label="context">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-586.94904" y="359.4004"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="control" label="control">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="117.97002" y="-111.129684"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="controls" label="controls">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="338.9899" y="-613.27014"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="copies" label="copies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-184.40965" y="-309.90317"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="copy" label="copy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.251326" y="-319.77808"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="copying" label="copying">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="307.02316" y="-544.87537"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="copyright" label="copyright">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-36.975315" y="52.210697"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="copyrighted" label="copyrighted">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-33.574734" y="-398.4183"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="copyrights" label="copyrights">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-197.37238" y="26.763283"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="cost" label="cost">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="288.17682" y="356.2087"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="costs" label="costs">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-328.6258" y="297.1701"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="course" label="course">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="367.34976" y="-281.4357"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="court" label="court">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-278.36917" y="204.51518"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="courts" label="courts">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-573.78235" y="-107.589806"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="create" label="create">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="391.12512" y="544.1144"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="created" label="created">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="71.531944" y="-583.65265"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="creative" label="creative">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="57.269997" y="69.59629"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="creativity" label="creativity">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="231.36203" y="-6.5262094"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="creators" label="creators">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="496.7188" y="140.7452"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="culture" label="culture">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="72.998436" y="-18.682716"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="data" label="data">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="403.82425" y="616.24316"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="david" label="david">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-52.108055" y="722.9749"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="day" label="day">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-620.5053" y="-29.953436"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="democracy" label="democracy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="727.6135" y="25.848076"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="derivative" label="derivative">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="440.77954" y="582.67145"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="developed" label="developed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="817.11835" y="-7.014346"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="didnt" label="didnt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-564.6218" y="-40.990734"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="different" label="different">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="116.6994" y="-64.332275"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="digital" label="digital">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="21.891489" y="296.16415"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="disney" label="disney">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="416.38327" y="-199.2103"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="doesnt" label="doesnt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-431.5496" y="-343.3122"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="domain" label="domain">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-109.56868" y="212.47804"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="dont" label="dont">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="100.299" y="88.26994"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="doubt" label="doubt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="26.598852" y="-392.74686"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="doujinshi" label="doujinshi">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="546.3472" y="-76.91741"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="early" label="early">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="759.9082" y="-239.1288"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="eastman" label="eastman">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="817.76666" y="-37.304375"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="effect" label="effect">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="286.39545" y="-247.20818"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="eldred" label="eldred">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-393.63937" y="352.80362"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="enable" label="enable">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="472.4439" y="-158.2295"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="end" label="end">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="146.78714" y="-575.4474"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="engine" label="engine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="695.1353" y="-6.080936"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="engines" label="engines">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="715.7514" y="-237.34096"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="example" label="example">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-142.69775" y="209.86116"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="exclusive" label="exclusive">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-182.16888" y="-440.98505"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="expired" label="expired">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-517.1934" y="-347.00934"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="extend" label="extend">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-567.7674" y="200.88431"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="extended" label="extended">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-574.3423" y="314.56485"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="extension" label="extension">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-620.4017" y="358.12268"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="extraordinary" label="extraordinary">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="738.18024" y="-190.13818"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="fair" label="fair">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-19.763025" y="-252.76901"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="far" label="far">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="209.19965" y="-594.9059"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="felten" label="felten">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="155.37082" y="-609.6247"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="file" label="file">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-73.08739" y="631.6164"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="film" label="film">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-82.08136" y="24.397549"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="films" label="films">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-441.5407" y="-112.65739"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="form" label="form">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="560.67206" y="-26.289272"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="formalities" label="formalities">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-208.09064" y="404.19357"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="fox" label="fox">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-389.8795" y="-561.892"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="free" label="free">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="66.25226" y="33.9066"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="freedom" label="freedom">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-68.40644" y="292.38336"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="freedoms" label="freedoms">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="423.88065" y="520.39026"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="gave" label="gave">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="801.5398" y="60.052208"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="general" label="general">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="95.23633" y="438.55127"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="given" label="given">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="483.17203" y="603.46533"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="going" label="going">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-613.94586" y="-117.52041"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="good" label="good">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-272.06158" y="-45.58329"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="government" label="government">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-50.956245" y="248.04227"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="granted" label="granted">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="477.22293" y="187.80208"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="harm" label="harm">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-508.41943" y="-53.018074"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="high" label="high">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="227.33469" y="-116.489685"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="history" label="history">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-203.59753" y="190.56079"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="house" label="house">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-242.68492" y="482.899"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="idea" label="idea">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="89.53947" y="134.91666"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="ideas" label="ideas">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="564.70135" y="219.51219"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="images" label="images">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="645.77844" y="-53.21326"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="important" label="important">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-67.13521" y="61.330963"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="increase" label="increase">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="365.9666" y="640.8947"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="increasingly" label="increasingly">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="345.00516" y="-306.18372"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="index" label="index">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-75.10982" y="769.6603"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="industry" label="industry">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-30.203196" y="201.95174"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="information" label="information">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="318.43195" y="663.1755"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="infringement" label="infringement">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-247.99944" y="439.03458"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="innovation" label="innovation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="222.14977" y="-532.7972"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="instead" label="instead">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="332.70535" y="152.54918"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="intellectual" label="intellectual">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="138.04065" y="460.61423"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="internet" label="internet">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="26.841848" y="84.25317"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="introduction" label="introduction">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="808.5742" y="-125.28855"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="issue" label="issue">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-685.22473" y="320.02054"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="japanese" label="japanese">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="681.9814" y="54.64538"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="jesse" label="jesse">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="548.62537" y="-51.155033"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="john" label="john">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="6.5078034" y="562.14764"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="just" label="just">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="62.24671" y="-44.692245"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="justice" label="justice">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-475.64297" y="191.4662"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="justices" label="justices">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-625.3565" y="205.04224"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="kahle" label="kahle">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-337.7732" y="-353.7747"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="kids" label="kids">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="568.56055" y="-100.88093"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="kind" label="kind">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="271.308" y="-278.35864"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="know" label="know">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-357.15222" y="-34.40333"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="kodak" label="kodak">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="718.5888" y="65.98926"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="language" label="language">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="765.4797" y="-94.81293"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="law" label="law">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4.299872" y="25.607983"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="lawsuit" label="lawsuit">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="219.99022" y="-675.3252"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="lawyer" label="lawyer">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-616.15155" y="321.7866"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="lawyers" label="lawyers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="431.44098" y="108.737144"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="learn" label="learn">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="802.59393" y="-151.95097"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="legal" label="legal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-129.68039" y="119.496475"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="lessig" label="lessig">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-133.38165" y="851.92456"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="library" label="library">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-592.8018" y="-80.25287"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="license" label="license">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="408.8441" y="282.7013"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="life" label="life">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-55.187515" y="-166.10632"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="like" label="like">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="47.183475" y="-102.57978"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="limit" label="limit">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-611.5213" y="289.00598"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="limited" label="limited">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-531.8802" y="67.24976"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="limits" label="limits">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-643.166" y="383.58698"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="link" label="link">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="24.19111" y="473.75494"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="long" label="long">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-272.43494" y="359.77393"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="longer" label="longer">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="353.40875" y="573.3355"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="make" label="make">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-6.849878" y="-10.627676"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="makes" label="makes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="438.86246" y="178.04317"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="making" label="making">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="767.42163" y="4.040179"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="manga" label="manga">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="624.8595" y="-141.68292"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="market" label="market">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="83.528015" y="-92.51113"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="markets" label="markets">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="248.58423" y="-663.3024"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="marking" label="marking">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="457.01514" y="631.8331"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="material" label="material">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-492.0821" y="-517.70435"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="mean" label="mean">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="793.479" y="-180.00462"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="means" label="means">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="240.4841" y="-397.56448"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="media" label="media">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="266.75513" y="85.76516"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="meeting" label="meeting">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="404.2098" y="674.7891"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="microsoft" label="microsoft">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-438.16806" y="-478.04437"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="million" label="million">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-263.31848" y="286.73404"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="money" label="money">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-637.42944" y="237.5184"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="monopoly" label="monopoly">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-413.17126" y="-422.98166"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="music" label="music">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="76.64889" y="166.253"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="napster" label="napster">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-366.0339" y="-454.05917"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="national" label="national">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-49.746155" y="861.9362"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="need" label="need">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-187.53229" y="69.28211"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="network" label="network">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="450.08273" y="-268.2341"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="networks" label="networks">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-8.678417" y="-374.7802"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="new" label="new">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.906395" y="142.21535"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="noncommercial" label="noncommercial">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="301.93478" y="-589.476"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="notes" label="notes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="89.04275" y="653.58514"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="number" label="number">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-334.20493" y="419.0226"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="obvious" label="obvious">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-357.6639" y="-161.56908"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="office" label="office">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="361.714" y="508.4227"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="online" label="online">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="372.9313" y="687.8365"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="open" label="open">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="311.46753" y="477.8513"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="ordinary" label="ordinary">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="808.87744" y="24.649635"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="owner" label="owner">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-219.98396" y="-39.125996"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="owners" label="owners">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-311.4051" y="-135.60156"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="ownership" label="ownership">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-91.53226" y="817.75616"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="paid" label="paid">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-778.31323" y="274.613"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="paper" label="paper">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="190.59167" y="-685.27637"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="particular" label="particular">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-334.87625" y="-255.53685"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="patent" label="patent">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="272.38925" y="543.76117"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="patents" label="patents">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="427.42035" y="322.66776"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="pay" label="pay">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-177.1139" y="-8.456847"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="people" label="people">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="149.7429" y="45.423557"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="percent" label="percent">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-62.374153" y="-209.78322"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="permission" label="permission">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="206.81349" y="-93.96708"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="photography" label="photography">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="688.2572" y="24.946743"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="piracy" label="piracy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="96.611694" y="2.253212"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="point" label="point">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-146.59633" y="-289.40344"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="policy" label="policy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="130.27596" y="385.03497"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="possible" label="possible">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="130.41759" y="-377.49054"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="power" label="power">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-153.97159" y="17.404135"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="powerful" label="powerful">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="666.7811" y="-176.09903"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="practice" label="practice">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-633.1849" y="-67.31749"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="press" label="press">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="51.861664" y="636.24243"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="price" label="price">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-479.9902" y="-394.5416"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="prices" label="prices">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="282.591" y="642.07697"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="principle" label="principle">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-808.0697" y="260.99097"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="privacy" label="privacy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="279.7844" y="484.529"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="problem" label="problem">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-182.74615" y="527.31256"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="process" label="process">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="677.70306" y="-144.18237"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="produced" label="produced">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="482.43314" y="-336.72797"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="product" label="product">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-587.67975" y="-395.40402"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="project" label="project">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="430.1449" y="653.6718"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="property" label="property">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.038016" y="45.42318"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="protect" label="protect">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="110.70493" y="-445.81482"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="protected" label="protected">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-398.2762" y="-261.98297"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="protection" label="protection">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-78.14239" y="-286.35"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="public" label="public">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="42.0999" y="122.70378"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="published" label="published">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-427.71243" y="-532.2137"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="publishers" label="publishers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-98.57476" y="-413.8923"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="question" label="question">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-313.84433" y="-74.45942"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="quite" label="quite">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="664.1276" y="-19.096272"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="radio" label="radio">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-57.28854" y="117.153465"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="range" label="range">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="468.2825" y="554.61096"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="rca" label="rca">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="688.34644" y="-106.67664"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="read" label="read">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="283.06262" y="-331.3196"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="reader" label="reader">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="246.92162" y="-618.60223"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="real" label="real">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-359.72244" y="344.90234"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="really" label="really">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-798.49493" y="299.566"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="reason" label="reason">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-725.61194" y="181.05116"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="record" label="record">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="208.26355" y="-293.47482"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="recording" label="recording">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-63.43646" y="183.07951"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="registration" label="registration">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-302.36246" y="461.80945"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="regulated" label="regulated">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="163.88814" y="-424.14545"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="regulation" label="regulation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="112.99829" y="-391.12137"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="requirement" label="requirement">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="259.64685" y="-512.24493"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="reserved" label="reserved">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="272.56183" y="585.1019"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="response" label="response">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-447.031" y="-236.29167"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="review" label="review">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="313.66135" y="566.8733"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="riaa" label="riaa">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-148.33835" y="364.30685"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="richard" label="richard">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-120.86108" y="762.79694"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="right" label="right">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-33.125214" y="-21.152424"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="rights" label="rights">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="0.031907562" y="115.7669"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="rpi" label="rpi">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="731.1208" y="-55.664356"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="rules" label="rules">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="176.95476" y="-490.79047"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="said" label="said">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-551.9658" y="41.19632"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="sales" label="sales">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-457.66153" y="-543.94104"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="say" label="say">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-62.543232" y="-365.6114"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="says" label="says">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-486.1497" y="-203.72963"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="school" label="school">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="758.36664" y="58.183514"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="scope" label="scope">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="111.410225" y="-481.66623"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="search" label="search">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="598.87244" y="-120.31534"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="second" label="second">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-340.30746" y="-402.4555"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="sell" label="sell">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-448.56186" y="-428.70303"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="sense" label="sense">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="126.26452" y="86.39145"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="september" label="september">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-101.03787" y="698.324"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="set" label="set">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-15.028081" y="-126.82488"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="sharing" label="sharing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-94.4612" y="58.898144"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="simple" label="simple">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-210.84296" y="280.94025"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="simply" label="simply">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-94.138916" y="-339.43427"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="society" label="society">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-338.2012" y="-471.77185"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="software" label="software">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="135.91647" y="430.1188"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="sold" label="sold">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-358.64328" y="-337.21695"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="song" label="song">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="732.12604" y="-16.219666"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="sound" label="sound">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="587.08514" y="-51.23228"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="source" label="source">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="281.3227" y="516.40594"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="south" label="south">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="300.77057" y="604.4495"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="space" label="space">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="716.8523" y="-135.83583"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="special" label="special">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-685.10675" y="452.46152"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="spread" label="spread">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="524.4998" y="289.1594"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="statement" label="statement">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="401.10458" y="498.96713"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="states" label="states">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="297.70422" y="214.48438"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="station" label="station">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="55.519814" y="415.44632"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="statute" label="statute">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-308.97256" y="-321.7231"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="steamboat" label="steamboat">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="643.1978" y="15.30082"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="stories" label="stories">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="683.6296" y="-220.3232"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="story" label="story">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="347.1995" y="-248.18936"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="students" label="students">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="654.5508" y="-117.80024"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="support" label="support">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="344.15417" y="703.0693"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="supreme" label="supreme">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-482.22955" y="220.55333"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="taking" label="taking">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="199.14108" y="-322.65024"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="technologies" label="technologies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="161.42256" y="6.4182687"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="technology" label="technology">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="98.286354" y="51.980446"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="television" label="television">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-180.19662" y="-263.1257"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="term" label="term">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-122.46606" y="162.54239"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="terms" label="terms">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-363.37405" y="282.99658"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="text" label="text">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="648.7663" y="-208.64746"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="thing" label="thing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-527.17615" y="-385.9415"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="things" label="things">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="726.55475" y="-94.024734"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="think" label="think">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="130.65065" y="-12.426055"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="thought" label="thought">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-790.0071" y="236.65659"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="thousands" label="thousands">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-752.69904" y="385.3801"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="time" label="time">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-44.36492" y="-53.099155"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="times" label="times">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-143.93776" y="560.48627"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="tinker" label="tinker">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="754.1693" y="-143.0906"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="tinkering" label="tinkering">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="639.8416" y="-87.02358"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="today" label="today">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="259.6055" y="-213.49036"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="told" label="told">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="188.11711" y="-350.09262"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="tradition" label="tradition">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="325.42618" y="-173.48146"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="TRUE" label="TRUE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-394.18887" y="-473.4856"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="type" label="type">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-144.96223" y="91.35925"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="understand" label="understand">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-31.521059" y="-342.888"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="united" label="united">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="190.81851" y="372.65656"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="university" label="university">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="26.894749" y="619.6238"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="unregulated" label="unregulated">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="91.95694" y="-537.1136"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="use" label="use">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="9.355613" y="1.0933652"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="used" label="used">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-212.22092" y="-1.2017912"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="uses" label="uses">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="227.27594" y="-230.76402"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="using" label="using">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="817.4202" y="-66.975945"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="valenti" label="valenti">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-384.7712" y="-369.37265"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="value" label="value">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="347.95105" y="119.23934"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="video" label="video">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="185.45569" y="-459.9847"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="view" label="view">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-274.71744" y="486.23257"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="walt" label="walt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="780.37854" y="-209.15688"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="want" label="want">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-597.6172" y="3.9972553"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="wanted" label="wanted">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-591.79486" y="-145.49443"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="war" label="war">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="196.94847" y="-142.12207"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="way" label="way">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-28.340843" y="3.4917424"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="web" label="web">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="340.1233" y="614.1568"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="william" label="william">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-70.78775" y="687.351"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="work" label="work">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="55.568558" y="2.21792"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="works" label="works">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-91.030426" y="105.769356"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="world" label="world">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-13.081429" y="148.2384"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="worth" label="worth">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-686.6056" y="195.92113"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="writing" label="writing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="694.3333" y="-42.944515"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="wrong" label="wrong">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-61.696655" y="-246.70976"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="wrote" label="wrote">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-780.4566" y="345.7817"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="year" label="year">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-324.3154" y="337.53357"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="years" label="years">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-20.09801" y="-75.71268"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="york" label="york">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="234.43155" y="411.48416"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="youre" label="youre">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-722.6186" y="220.09378"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="alben" label="alben">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-315.66037" y="-368.33725"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="anne" label="anne">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-379.4271" y="-319.00845"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="archive" label="archive">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-292.94595" y="-290.01117"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="believed" label="believed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-666.2176" y="412.8123"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="booksellers" label="booksellers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-336.32144" y="-310.04236"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="broadcasters" label="broadcasters">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-378.52515" y="-417.26163"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="career" label="career">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-496.28738" y="-479.5475"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="cds" label="cds">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-418.97394" y="-560.4551"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="civil" label="civil">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-772.88214" y="315.64395"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="clause" label="clause">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-518.63086" y="247.35492"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="constitution" label="constitution">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-496.50403" y="37.893066"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="constitutional" label="constitutional">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-653.5678" y="304.22025"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="decision" label="decision">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-631.69244" y="178.17253"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="estate" label="estate">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-683.19104" y="228.8746"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="existing" label="existing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-515.6365" y="186.34987"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="framers" label="framers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-728.5756" y="313.18283"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="intended" label="intended">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="121.83542" y="-691.066"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="international" label="international">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-141.07812" y="809.13153"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="james" label="james">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-128.09184" y="731.2156"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="judge" label="judge">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-711.748" y="428.12613"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="july" label="july">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-40.331757" y="766.0465"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="lords" label="lords">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-463.44662" y="-512.86804"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="movies" label="movies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-539.0467" y="-471.46445"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="owns" label="owns">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-729.8371" y="405.4116"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="parliament" label="parliament">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-425.68176" y="-380.5019"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="permissions" label="permissions">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="132.2453" y="-646.04004"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="perpetual" label="perpetual">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-360.34586" y="-571.1482"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="simpsons" label="simpsons">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-474.53198" y="-355.86917"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="stanford" label="stanford">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-41.894165" y="821.0215"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="stores" label="stores">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-519.78015" y="-496.4651"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="try" label="try">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="307.32468" y="-636.5966"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="unlimited" label="unlimited">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-731.512" y="146.80865"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="washington" label="washington">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-91.9324" y="860.50665"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="adobe" label="adobe">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="134.78185" y="-457.23727"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="aibo" label="aibo">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="87.42048" y="-689.78503"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="aloud" label="aloud">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="110.62042" y="-581.73474"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="bono" label="bono">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-715.9932" y="253.04488"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="commerce" label="commerce">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-600.9355" y="228.13829"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="dmca" label="dmca">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="158.91736" y="-689.1518"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="dog" label="dog">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="126.139366" y="-535.1537"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="drug" label="drug">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="313.90854" y="517.9564"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="drugs" label="drugs">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="289.09113" y="445.76535"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="ebook" label="ebook">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="146.07022" y="-438.56647"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="extending" label="extending">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-702.4046" y="283.18292"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="hack" label="hack">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="96.93596" y="-615.87573"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="mpcom" label="mpcom">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="149.36897" y="-512.42554"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="opinion" label="opinion">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-691.66003" y="161.0292"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="pipeline" label="pipeline">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="274.58627" y="-562.29675"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="progress" label="progress">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-618.48236" y="411.14203"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="sonny" label="sonny">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-807.6495" y="182.58156"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="brief" label="brief">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-701.54816" y="364.35922"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="briefs" label="briefs">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-753.36145" y="357.36038"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="ctea" label="ctea">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-761.1384" y="195.50978"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="frost" label="frost">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-811.1455" y="214.45944"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="lopez" label="lopez">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-669.1472" y="267.79886"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="africa" label="africa">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="337.9764" y="530.99194"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="august" label="august">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-87.269" y="739.0077"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="journals" label="journals">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="394.31943" y="580.08215"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+      <node id="wipo" label="wipo">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="339.23035" y="474.98972"></viz:position>
+        <viz:color r="255" g="0" b="4"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="6889" source="access" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="6890" source="access" target="freeculture_Split1.txt" weight="19.0"></edge>
+      <edge id="6891" source="access" target="freeculture_Split2.txt" weight="18.0"></edge>
+      <edge id="6892" source="access" target="freeculture_Split4.txt" weight="32.0"></edge>
+      <edge id="6893" source="access" target="freeculture_Split5.txt" weight="10.0"></edge>
+      <edge id="6894" source="act" target="freeculture_Split2.txt" weight="22.0"></edge>
+      <edge id="6895" source="act" target="freeculture_Split3.txt" weight="35.0"></edge>
+      <edge id="6896" source="act" target="freeculture_Split5.txt" weight="25.0"></edge>
+      <edge id="6897" source="afterword" target="freeculture_Split4.txt" weight="16.0"></edge>
+      <edge id="6898" source="aim" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="6899" source="aim" target="freeculture_Split4.txt" weight="13.0"></edge>
+      <edge id="6900" source="allowed" target="freeculture_Split2.txt" weight="15.0"></edge>
+      <edge id="6901" source="america" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="6902" source="america" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="6903" source="american" target="freeculture_Split0.txt" weight="16.0"></edge>
+      <edge id="6904" source="american" target="freeculture_Split1.txt" weight="14.0"></edge>
+      <edge id="6905" source="american" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="6906" source="american" target="freeculture_Split5.txt" weight="10.0"></edge>
+      <edge id="6907" source="americans" target="freeculture_Split3.txt" weight="18.0"></edge>
+      <edge id="6908" source="architecture" target="freeculture_Split2.txt" weight="11.0"></edge>
+      <edge id="6909" source="argued" target="freeculture_Split3.txt" weight="27.0"></edge>
+      <edge id="6910" source="argument" target="freeculture_Split1.txt" weight="14.0"></edge>
+      <edge id="6911" source="argument" target="freeculture_Split2.txt" weight="11.0"></edge>
+      <edge id="6912" source="argument" target="freeculture_Split3.txt" weight="55.0"></edge>
+      <edge id="6913" source="armstrong" target="freeculture_Split0.txt" weight="18.0"></edge>
+      <edge id="6914" source="artists" target="freeculture_Split0.txt" weight="15.0"></edge>
+      <edge id="6915" source="artists" target="freeculture_Split1.txt" weight="16.0"></edge>
+      <edge id="6916" source="artists" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="6917" source="artists" target="freeculture_Split4.txt" weight="16.0"></edge>
+      <edge id="6918" source="asked" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="6919" source="association" target="freeculture_Split4.txt" weight="13.0"></edge>
+      <edge id="6920" source="association" target="freeculture_Split5.txt" weight="12.0"></edge>
+      <edge id="6921" source="assure" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="6922" source="assure" target="freeculture_Split3.txt" weight="17.0"></edge>
+      <edge id="6923" source="author" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="6924" source="author" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="6925" source="authors" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="6926" source="authors" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="6927" source="authors" target="freeculture_Split4.txt" weight="20.0"></edge>
+      <edge id="6928" source="available" target="freeculture_Split1.txt" weight="20.0"></edge>
+      <edge id="6929" source="available" target="freeculture_Split4.txt" weight="38.0"></edge>
+      <edge id="6930" source="available" target="freeculture_Split5.txt" weight="64.0"></edge>
+      <edge id="6931" source="balance" target="freeculture_Split1.txt" weight="16.0"></edge>
+      <edge id="6932" source="balance" target="freeculture_Split2.txt" weight="14.0"></edge>
+      <edge id="6933" source="balance" target="freeculture_Split4.txt" weight="16.0"></edge>
+      <edge id="6934" source="balances" target="freeculture_Split3.txt" weight="21.0"></edge>
+      <edge id="6935" source="based" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="6936" source="believe" target="freeculture_Split0.txt" weight="14.0"></edge>
+      <edge id="6937" source="believe" target="freeculture_Split2.txt" weight="13.0"></edge>
+      <edge id="6938" source="believe" target="freeculture_Split4.txt" weight="14.0"></edge>
+      <edge id="6939" source="benefit" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="6940" source="better" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="6941" source="bit" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="6942" source="blogs" target="freeculture_Split0.txt" weight="14.0"></edge>
+      <edge id="6943" source="book" target="freeculture_Split0.txt" weight="20.0"></edge>
+      <edge id="6944" source="book" target="freeculture_Split1.txt" weight="29.0"></edge>
+      <edge id="6945" source="book" target="freeculture_Split2.txt" weight="67.0"></edge>
+      <edge id="6946" source="book" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="6947" source="book" target="freeculture_Split4.txt" weight="37.0"></edge>
+      <edge id="6948" source="book" target="freeculture_Split5.txt" weight="10.0"></edge>
+      <edge id="6949" source="books" target="freeculture_Split1.txt" weight="13.0"></edge>
+      <edge id="6950" source="books" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="6951" source="books" target="freeculture_Split3.txt" weight="15.0"></edge>
+      <edge id="6952" source="books" target="freeculture_Split5.txt" weight="11.0"></edge>
+      <edge id="6953" source="brothers" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="6954" source="brothers" target="freeculture_Split2.txt" weight="19.0"></edge>
+      <edge id="6955" source="build" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="6956" source="build" target="freeculture_Split4.txt" weight="21.0"></edge>
+      <edge id="6957" source="building" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="6958" source="built" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="6959" source="built" target="freeculture_Split2.txt" weight="14.0"></edge>
+      <edge id="6960" source="burden" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="6961" source="burden" target="freeculture_Split4.txt" weight="12.0"></edge>
+      <edge id="6962" source="business" target="freeculture_Split2.txt" weight="14.0"></edge>
+      <edge id="6963" source="buy" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="6964" source="cable" target="freeculture_Split1.txt" weight="29.0"></edge>
+      <edge id="6965" source="called" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="6966" source="captured" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="6967" source="case" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="6968" source="case" target="freeculture_Split1.txt" weight="15.0"></edge>
+      <edge id="6969" source="case" target="freeculture_Split3.txt" weight="54.0"></edge>
+      <edge id="6970" source="cases" target="freeculture_Split3.txt" weight="16.0"></edge>
+      <edge id="6971" source="causbys" target="freeculture_Split0.txt" weight="17.0"></edge>
+      <edge id="6972" source="change" target="freeculture_Split0.txt" weight="25.0"></edge>
+      <edge id="6973" source="change" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="6974" source="change" target="freeculture_Split2.txt" weight="29.0"></edge>
+      <edge id="6975" source="change" target="freeculture_Split4.txt" weight="22.0"></edge>
+      <edge id="6976" source="changed" target="freeculture_Split2.txt" weight="13.0"></edge>
+      <edge id="6977" source="changes" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="6978" source="changes" target="freeculture_Split2.txt" weight="34.0"></edge>
+      <edge id="6979" source="chapter" target="freeculture_Split0.txt" weight="20.0"></edge>
+      <edge id="6980" source="chapter" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="6981" source="chapter" target="freeculture_Split2.txt" weight="17.0"></edge>
+      <edge id="6982" source="chapter" target="freeculture_Split4.txt" weight="15.0"></edge>
+      <edge id="6983" source="claim" target="freeculture_Split1.txt" weight="16.0"></edge>
+      <edge id="6984" source="claim" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="6985" source="claim" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="6986" source="clear" target="freeculture_Split1.txt" weight="13.0"></edge>
+      <edge id="6987" source="clear" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="6988" source="clear" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="6989" source="clearly" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="6990" source="code" target="freeculture_Split2.txt" weight="24.0"></edge>
+      <edge id="6991" source="code" target="freeculture_Split4.txt" weight="12.0"></edge>
+      <edge id="6992" source="come" target="freeculture_Split0.txt" weight="12.0"></edge>
+      <edge id="6993" source="comics" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="6994" source="commercial" target="freeculture_Split0.txt" weight="21.0"></edge>
+      <edge id="6995" source="commercial" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="6996" source="commercial" target="freeculture_Split2.txt" weight="21.0"></edge>
+      <edge id="6997" source="commercial" target="freeculture_Split3.txt" weight="24.0"></edge>
+      <edge id="6998" source="commercial" target="freeculture_Split4.txt" weight="14.0"></edge>
+      <edge id="6999" source="common" target="freeculture_Split0.txt" weight="18.0"></edge>
+      <edge id="7000" source="common" target="freeculture_Split1.txt" weight="19.0"></edge>
+      <edge id="7001" source="common" target="freeculture_Split4.txt" weight="13.0"></edge>
+      <edge id="7002" source="commons" target="freeculture_Split4.txt" weight="23.0"></edge>
+      <edge id="7003" source="commons" target="freeculture_Split5.txt" weight="11.0"></edge>
+      <edge id="7004" source="companies" target="freeculture_Split1.txt" weight="12.0"></edge>
+      <edge id="7005" source="companies" target="freeculture_Split2.txt" weight="23.0"></edge>
+      <edge id="7006" source="companies" target="freeculture_Split4.txt" weight="17.0"></edge>
+      <edge id="7007" source="company" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7008" source="company" target="freeculture_Split2.txt" weight="13.0"></edge>
+      <edge id="7009" source="competition" target="freeculture_Split1.txt" weight="13.0"></edge>
+      <edge id="7010" source="competition" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7011" source="composer" target="freeculture_Split0.txt" weight="17.0"></edge>
+      <edge id="7012" source="computer" target="freeculture_Split2.txt" weight="18.0"></edge>
+      <edge id="7013" source="computer" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7014" source="concentration" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="7015" source="congress" target="freeculture_Split1.txt" weight="34.0"></edge>
+      <edge id="7016" source="congress" target="freeculture_Split2.txt" weight="20.0"></edge>
+      <edge id="7017" source="congress" target="freeculture_Split3.txt" weight="76.0"></edge>
+      <edge id="7018" source="congresss" target="freeculture_Split3.txt" weight="32.0"></edge>
+      <edge id="7019" source="consequences" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7020" source="consider" target="freeculture_Split2.txt" weight="11.0"></edge>
+      <edge id="7021" source="constraint" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="7022" source="content" target="freeculture_Split0.txt" weight="16.0"></edge>
+      <edge id="7023" source="content" target="freeculture_Split1.txt" weight="80.0"></edge>
+      <edge id="7024" source="content" target="freeculture_Split2.txt" weight="51.0"></edge>
+      <edge id="7025" source="content" target="freeculture_Split3.txt" weight="41.0"></edge>
+      <edge id="7026" source="content" target="freeculture_Split4.txt" weight="84.0"></edge>
+      <edge id="7027" source="context" target="freeculture_Split3.txt" weight="14.0"></edge>
+      <edge id="7028" source="control" target="freeculture_Split0.txt" weight="21.0"></edge>
+      <edge id="7029" source="control" target="freeculture_Split1.txt" weight="20.0"></edge>
+      <edge id="7030" source="control" target="freeculture_Split2.txt" weight="62.0"></edge>
+      <edge id="7031" source="control" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7032" source="control" target="freeculture_Split4.txt" weight="19.0"></edge>
+      <edge id="7033" source="controls" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7034" source="copies" target="freeculture_Split1.txt" weight="12.0"></edge>
+      <edge id="7035" source="copies" target="freeculture_Split2.txt" weight="14.0"></edge>
+      <edge id="7036" source="copies" target="freeculture_Split5.txt" weight="10.0"></edge>
+      <edge id="7037" source="copy" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="7038" source="copy" target="freeculture_Split1.txt" weight="28.0"></edge>
+      <edge id="7039" source="copy" target="freeculture_Split2.txt" weight="37.0"></edge>
+      <edge id="7040" source="copying" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="7041" source="copyright" target="freeculture_Split0.txt" weight="39.0"></edge>
+      <edge id="7042" source="copyright" target="freeculture_Split1.txt" weight="110.0"></edge>
+      <edge id="7043" source="copyright" target="freeculture_Split2.txt" weight="202.0"></edge>
+      <edge id="7044" source="copyright" target="freeculture_Split3.txt" weight="140.0"></edge>
+      <edge id="7045" source="copyright" target="freeculture_Split4.txt" weight="118.0"></edge>
+      <edge id="7046" source="copyright" target="freeculture_Split5.txt" weight="97.0"></edge>
+      <edge id="7047" source="copyrighted" target="freeculture_Split1.txt" weight="15.0"></edge>
+      <edge id="7048" source="copyrighted" target="freeculture_Split2.txt" weight="28.0"></edge>
+      <edge id="7049" source="copyrights" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7050" source="copyrights" target="freeculture_Split2.txt" weight="26.0"></edge>
+      <edge id="7051" source="copyrights" target="freeculture_Split3.txt" weight="28.0"></edge>
+      <edge id="7052" source="copyrights" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="7053" source="cost" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7054" source="cost" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7055" source="costs" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7056" source="costs" target="freeculture_Split3.txt" weight="23.0"></edge>
+      <edge id="7057" source="costs" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="7058" source="course" target="freeculture_Split0.txt" weight="16.0"></edge>
+      <edge id="7059" source="course" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="7060" source="court" target="freeculture_Split1.txt" weight="15.0"></edge>
+      <edge id="7061" source="court" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7062" source="court" target="freeculture_Split3.txt" weight="84.0"></edge>
+      <edge id="7063" source="court" target="freeculture_Split5.txt" weight="19.0"></edge>
+      <edge id="7064" source="courts" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="7065" source="courts" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7066" source="create" target="freeculture_Split4.txt" weight="13.0"></edge>
+      <edge id="7067" source="created" target="freeculture_Split2.txt" weight="13.0"></edge>
+      <edge id="7068" source="creative" target="freeculture_Split0.txt" weight="24.0"></edge>
+      <edge id="7069" source="creative" target="freeculture_Split1.txt" weight="33.0"></edge>
+      <edge id="7070" source="creative" target="freeculture_Split2.txt" weight="33.0"></edge>
+      <edge id="7071" source="creative" target="freeculture_Split3.txt" weight="16.0"></edge>
+      <edge id="7072" source="creative" target="freeculture_Split4.txt" weight="36.0"></edge>
+      <edge id="7073" source="creative" target="freeculture_Split5.txt" weight="15.0"></edge>
+      <edge id="7074" source="creativity" target="freeculture_Split0.txt" weight="33.0"></edge>
+      <edge id="7075" source="creativity" target="freeculture_Split2.txt" weight="23.0"></edge>
+      <edge id="7076" source="creativity" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7077" source="creativity" target="freeculture_Split4.txt" weight="12.0"></edge>
+      <edge id="7078" source="creators" target="freeculture_Split0.txt" weight="23.0"></edge>
+      <edge id="7079" source="creators" target="freeculture_Split4.txt" weight="12.0"></edge>
+      <edge id="7080" source="culture" target="freeculture_Split0.txt" weight="111.0"></edge>
+      <edge id="7081" source="culture" target="freeculture_Split1.txt" weight="66.0"></edge>
+      <edge id="7082" source="culture" target="freeculture_Split2.txt" weight="78.0"></edge>
+      <edge id="7083" source="culture" target="freeculture_Split3.txt" weight="53.0"></edge>
+      <edge id="7084" source="culture" target="freeculture_Split4.txt" weight="47.0"></edge>
+      <edge id="7085" source="culture" target="freeculture_Split5.txt" weight="11.0"></edge>
+      <edge id="7086" source="data" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="7087" source="david" target="freeculture_Split5.txt" weight="15.0"></edge>
+      <edge id="7088" source="day" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7089" source="day" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="7090" source="democracy" target="freeculture_Split0.txt" weight="12.0"></edge>
+      <edge id="7091" source="derivative" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="7092" source="developed" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7093" source="didnt" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="7094" source="didnt" target="freeculture_Split3.txt" weight="14.0"></edge>
+      <edge id="7095" source="different" target="freeculture_Split0.txt" weight="21.0"></edge>
+      <edge id="7096" source="different" target="freeculture_Split1.txt" weight="20.0"></edge>
+      <edge id="7097" source="different" target="freeculture_Split2.txt" weight="19.0"></edge>
+      <edge id="7098" source="different" target="freeculture_Split3.txt" weight="14.0"></edge>
+      <edge id="7099" source="different" target="freeculture_Split4.txt" weight="13.0"></edge>
+      <edge id="7100" source="digital" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="7101" source="digital" target="freeculture_Split2.txt" weight="18.0"></edge>
+      <edge id="7102" source="digital" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7103" source="digital" target="freeculture_Split4.txt" weight="17.0"></edge>
+      <edge id="7104" source="digital" target="freeculture_Split5.txt" weight="30.0"></edge>
+      <edge id="7105" source="disney" target="freeculture_Split0.txt" weight="29.0"></edge>
+      <edge id="7106" source="disney" target="freeculture_Split2.txt" weight="15.0"></edge>
+      <edge id="7107" source="doesnt" target="freeculture_Split1.txt" weight="15.0"></edge>
+      <edge id="7108" source="domain" target="freeculture_Split2.txt" weight="23.0"></edge>
+      <edge id="7109" source="domain" target="freeculture_Split3.txt" weight="30.0"></edge>
+      <edge id="7110" source="domain" target="freeculture_Split4.txt" weight="23.0"></edge>
+      <edge id="7111" source="domain" target="freeculture_Split5.txt" weight="10.0"></edge>
+      <edge id="7112" source="dont" target="freeculture_Split0.txt" weight="24.0"></edge>
+      <edge id="7113" source="dont" target="freeculture_Split1.txt" weight="16.0"></edge>
+      <edge id="7114" source="dont" target="freeculture_Split2.txt" weight="11.0"></edge>
+      <edge id="7115" source="dont" target="freeculture_Split3.txt" weight="19.0"></edge>
+      <edge id="7116" source="dont" target="freeculture_Split4.txt" weight="20.0"></edge>
+      <edge id="7117" source="doubt" target="freeculture_Split1.txt" weight="12.0"></edge>
+      <edge id="7118" source="doubt" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="7119" source="doubt" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7120" source="doujinshi" target="freeculture_Split0.txt" weight="23.0"></edge>
+      <edge id="7121" source="early" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7122" source="eastman" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7123" source="effect" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="7124" source="effect" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7125" source="effect" target="freeculture_Split2.txt" weight="22.0"></edge>
+      <edge id="7126" source="effect" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="7127" source="eldred" target="freeculture_Split3.txt" weight="33.0"></edge>
+      <edge id="7128" source="eldred" target="freeculture_Split5.txt" weight="12.0"></edge>
+      <edge id="7129" source="enable" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7130" source="enable" target="freeculture_Split2.txt" weight="14.0"></edge>
+      <edge id="7131" source="enable" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7132" source="end" target="freeculture_Split2.txt" weight="13.0"></edge>
+      <edge id="7133" source="engine" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="7134" source="engines" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="7135" source="example" target="freeculture_Split1.txt" weight="19.0"></edge>
+      <edge id="7136" source="example" target="freeculture_Split2.txt" weight="16.0"></edge>
+      <edge id="7137" source="example" target="freeculture_Split3.txt" weight="14.0"></edge>
+      <edge id="7138" source="example" target="freeculture_Split4.txt" weight="16.0"></edge>
+      <edge id="7139" source="example" target="freeculture_Split5.txt" weight="16.0"></edge>
+      <edge id="7140" source="exclusive" target="freeculture_Split1.txt" weight="18.0"></edge>
+      <edge id="7141" source="exclusive" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7142" source="expired" target="freeculture_Split1.txt" weight="12.0"></edge>
+      <edge id="7143" source="extend" target="freeculture_Split3.txt" weight="21.0"></edge>
+      <edge id="7144" source="extended" target="freeculture_Split3.txt" weight="16.0"></edge>
+      <edge id="7145" source="extension" target="freeculture_Split3.txt" weight="13.0"></edge>
+      <edge id="7146" source="extraordinary" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="7147" source="fair" target="freeculture_Split1.txt" weight="20.0"></edge>
+      <edge id="7148" source="fair" target="freeculture_Split2.txt" weight="32.0"></edge>
+      <edge id="7149" source="fair" target="freeculture_Split4.txt" weight="13.0"></edge>
+      <edge id="7150" source="far" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="7151" source="felten" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="7152" source="file" target="freeculture_Split5.txt" weight="23.0"></edge>
+      <edge id="7153" source="film" target="freeculture_Split0.txt" weight="34.0"></edge>
+      <edge id="7154" source="film" target="freeculture_Split1.txt" weight="44.0"></edge>
+      <edge id="7155" source="film" target="freeculture_Split3.txt" weight="21.0"></edge>
+      <edge id="7156" source="film" target="freeculture_Split5.txt" weight="16.0"></edge>
+      <edge id="7157" source="films" target="freeculture_Split1.txt" weight="23.0"></edge>
+      <edge id="7158" source="films" target="freeculture_Split3.txt" weight="13.0"></edge>
+      <edge id="7159" source="form" target="freeculture_Split0.txt" weight="22.0"></edge>
+      <edge id="7160" source="formalities" target="freeculture_Split3.txt" weight="17.0"></edge>
+      <edge id="7161" source="formalities" target="freeculture_Split4.txt" weight="16.0"></edge>
+      <edge id="7162" source="fox" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7163" source="free" target="freeculture_Split0.txt" weight="100.0"></edge>
+      <edge id="7164" source="free" target="freeculture_Split1.txt" weight="71.0"></edge>
+      <edge id="7165" source="free" target="freeculture_Split2.txt" weight="86.0"></edge>
+      <edge id="7166" source="free" target="freeculture_Split3.txt" weight="59.0"></edge>
+      <edge id="7167" source="free" target="freeculture_Split4.txt" weight="101.0"></edge>
+      <edge id="7168" source="free" target="freeculture_Split5.txt" weight="21.0"></edge>
+      <edge id="7169" source="freedom" target="freeculture_Split1.txt" weight="13.0"></edge>
+      <edge id="7170" source="freedom" target="freeculture_Split4.txt" weight="16.0"></edge>
+      <edge id="7171" source="freedoms" target="freeculture_Split4.txt" weight="13.0"></edge>
+      <edge id="7172" source="gave" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7173" source="general" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7174" source="general" target="freeculture_Split3.txt" weight="13.0"></edge>
+      <edge id="7175" source="general" target="freeculture_Split4.txt" weight="12.0"></edge>
+      <edge id="7176" source="given" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7177" source="going" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="7178" source="going" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7179" source="good" target="freeculture_Split1.txt" weight="18.0"></edge>
+      <edge id="7180" source="good" target="freeculture_Split2.txt" weight="19.0"></edge>
+      <edge id="7181" source="good" target="freeculture_Split3.txt" weight="20.0"></edge>
+      <edge id="7182" source="good" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7183" source="government" target="freeculture_Split2.txt" weight="21.0"></edge>
+      <edge id="7184" source="government" target="freeculture_Split3.txt" weight="22.0"></edge>
+      <edge id="7185" source="government" target="freeculture_Split4.txt" weight="31.0"></edge>
+      <edge id="7186" source="government" target="freeculture_Split5.txt" weight="11.0"></edge>
+      <edge id="7187" source="granted" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7188" source="granted" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7189" source="harm" target="freeculture_Split1.txt" weight="14.0"></edge>
+      <edge id="7190" source="harm" target="freeculture_Split3.txt" weight="16.0"></edge>
+      <edge id="7191" source="high" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="7192" source="high" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7193" source="history" target="freeculture_Split1.txt" weight="19.0"></edge>
+      <edge id="7194" source="history" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="7195" source="history" target="freeculture_Split4.txt" weight="15.0"></edge>
+      <edge id="7196" source="house" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7197" source="house" target="freeculture_Split5.txt" weight="13.0"></edge>
+      <edge id="7198" source="idea" target="freeculture_Split0.txt" weight="16.0"></edge>
+      <edge id="7199" source="idea" target="freeculture_Split1.txt" weight="21.0"></edge>
+      <edge id="7200" source="idea" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7201" source="idea" target="freeculture_Split4.txt" weight="26.0"></edge>
+      <edge id="7202" source="ideas" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="7203" source="ideas" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7204" source="images" target="freeculture_Split0.txt" weight="15.0"></edge>
+      <edge id="7205" source="important" target="freeculture_Split0.txt" weight="20.0"></edge>
+      <edge id="7206" source="important" target="freeculture_Split1.txt" weight="22.0"></edge>
+      <edge id="7207" source="important" target="freeculture_Split2.txt" weight="14.0"></edge>
+      <edge id="7208" source="important" target="freeculture_Split3.txt" weight="24.0"></edge>
+      <edge id="7209" source="important" target="freeculture_Split4.txt" weight="19.0"></edge>
+      <edge id="7210" source="increase" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="7211" source="increasingly" target="freeculture_Split0.txt" weight="15.0"></edge>
+      <edge id="7212" source="increasingly" target="freeculture_Split2.txt" weight="22.0"></edge>
+      <edge id="7213" source="index" target="freeculture_Split5.txt" weight="13.0"></edge>
+      <edge id="7214" source="industry" target="freeculture_Split0.txt" weight="18.0"></edge>
+      <edge id="7215" source="industry" target="freeculture_Split1.txt" weight="29.0"></edge>
+      <edge id="7216" source="industry" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="7217" source="industry" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7218" source="industry" target="freeculture_Split4.txt" weight="14.0"></edge>
+      <edge id="7219" source="industry" target="freeculture_Split5.txt" weight="31.0"></edge>
+      <edge id="7220" source="information" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="7221" source="infringement" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="7222" source="infringement" target="freeculture_Split5.txt" weight="14.0"></edge>
+      <edge id="7223" source="innovation" target="freeculture_Split2.txt" weight="14.0"></edge>
+      <edge id="7224" source="instead" target="freeculture_Split0.txt" weight="17.0"></edge>
+      <edge id="7225" source="instead" target="freeculture_Split1.txt" weight="12.0"></edge>
+      <edge id="7226" source="instead" target="freeculture_Split4.txt" weight="17.0"></edge>
+      <edge id="7227" source="intellectual" target="freeculture_Split4.txt" weight="39.0"></edge>
+      <edge id="7228" source="intellectual" target="freeculture_Split5.txt" weight="18.0"></edge>
+      <edge id="7229" source="internet" target="freeculture_Split0.txt" weight="56.0"></edge>
+      <edge id="7230" source="internet" target="freeculture_Split1.txt" weight="36.0"></edge>
+      <edge id="7231" source="internet" target="freeculture_Split2.txt" weight="38.0"></edge>
+      <edge id="7232" source="internet" target="freeculture_Split3.txt" weight="45.0"></edge>
+      <edge id="7233" source="internet" target="freeculture_Split4.txt" weight="41.0"></edge>
+      <edge id="7234" source="internet" target="freeculture_Split5.txt" weight="30.0"></edge>
+      <edge id="7235" source="introduction" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7236" source="issue" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="7237" source="japanese" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="7238" source="jesse" target="freeculture_Split0.txt" weight="23.0"></edge>
+      <edge id="7239" source="john" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="7240" source="john" target="freeculture_Split5.txt" weight="34.0"></edge>
+      <edge id="7241" source="just" target="freeculture_Split0.txt" weight="59.0"></edge>
+      <edge id="7242" source="just" target="freeculture_Split1.txt" weight="47.0"></edge>
+      <edge id="7243" source="just" target="freeculture_Split2.txt" weight="55.0"></edge>
+      <edge id="7244" source="just" target="freeculture_Split3.txt" weight="31.0"></edge>
+      <edge id="7245" source="just" target="freeculture_Split4.txt" weight="37.0"></edge>
+      <edge id="7246" source="justice" target="freeculture_Split3.txt" weight="39.0"></edge>
+      <edge id="7247" source="justices" target="freeculture_Split3.txt" weight="16.0"></edge>
+      <edge id="7248" source="kahle" target="freeculture_Split1.txt" weight="19.0"></edge>
+      <edge id="7249" source="kids" target="freeculture_Split0.txt" weight="20.0"></edge>
+      <edge id="7250" source="kind" target="freeculture_Split0.txt" weight="18.0"></edge>
+      <edge id="7251" source="kind" target="freeculture_Split1.txt" weight="15.0"></edge>
+      <edge id="7252" source="know" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="7253" source="know" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7254" source="know" target="freeculture_Split3.txt" weight="23.0"></edge>
+      <edge id="7255" source="kodak" target="freeculture_Split0.txt" weight="12.0"></edge>
+      <edge id="7256" source="language" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="7257" source="law" target="freeculture_Split0.txt" weight="89.0"></edge>
+      <edge id="7258" source="law" target="freeculture_Split1.txt" weight="113.0"></edge>
+      <edge id="7259" source="law" target="freeculture_Split2.txt" weight="142.0"></edge>
+      <edge id="7260" source="law" target="freeculture_Split3.txt" weight="104.0"></edge>
+      <edge id="7261" source="law" target="freeculture_Split4.txt" weight="95.0"></edge>
+      <edge id="7262" source="law" target="freeculture_Split5.txt" weight="54.0"></edge>
+      <edge id="7263" source="lawsuit" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7264" source="lawyer" target="freeculture_Split3.txt" weight="14.0"></edge>
+      <edge id="7265" source="lawyers" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="7266" source="lawyers" target="freeculture_Split2.txt" weight="14.0"></edge>
+      <edge id="7267" source="lawyers" target="freeculture_Split4.txt" weight="15.0"></edge>
+      <edge id="7268" source="learn" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7269" source="legal" target="freeculture_Split1.txt" weight="23.0"></edge>
+      <edge id="7270" source="legal" target="freeculture_Split2.txt" weight="22.0"></edge>
+      <edge id="7271" source="legal" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7272" source="legal" target="freeculture_Split4.txt" weight="15.0"></edge>
+      <edge id="7273" source="legal" target="freeculture_Split5.txt" weight="15.0"></edge>
+      <edge id="7274" source="lessig" target="freeculture_Split5.txt" weight="10.0"></edge>
+      <edge id="7275" source="library" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="7276" source="library" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7277" source="license" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="7278" source="license" target="freeculture_Split4.txt" weight="21.0"></edge>
+      <edge id="7279" source="life" target="freeculture_Split0.txt" weight="18.0"></edge>
+      <edge id="7280" source="life" target="freeculture_Split1.txt" weight="17.0"></edge>
+      <edge id="7281" source="life" target="freeculture_Split2.txt" weight="11.0"></edge>
+      <edge id="7282" source="life" target="freeculture_Split3.txt" weight="18.0"></edge>
+      <edge id="7283" source="like" target="freeculture_Split0.txt" weight="34.0"></edge>
+      <edge id="7284" source="like" target="freeculture_Split1.txt" weight="17.0"></edge>
+      <edge id="7285" source="like" target="freeculture_Split2.txt" weight="21.0"></edge>
+      <edge id="7286" source="like" target="freeculture_Split3.txt" weight="20.0"></edge>
+      <edge id="7287" source="limit" target="freeculture_Split3.txt" weight="15.0"></edge>
+      <edge id="7288" source="limited" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7289" source="limited" target="freeculture_Split3.txt" weight="23.0"></edge>
+      <edge id="7290" source="limits" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="7291" source="link" target="freeculture_Split4.txt" weight="26.0"></edge>
+      <edge id="7292" source="link" target="freeculture_Split5.txt" weight="67.0"></edge>
+      <edge id="7293" source="long" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7294" source="long" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="7295" source="long" target="freeculture_Split4.txt" weight="12.0"></edge>
+      <edge id="7296" source="longer" target="freeculture_Split4.txt" weight="13.0"></edge>
+      <edge id="7297" source="make" target="freeculture_Split0.txt" weight="17.0"></edge>
+      <edge id="7298" source="make" target="freeculture_Split1.txt" weight="35.0"></edge>
+      <edge id="7299" source="make" target="freeculture_Split2.txt" weight="34.0"></edge>
+      <edge id="7300" source="make" target="freeculture_Split3.txt" weight="25.0"></edge>
+      <edge id="7301" source="make" target="freeculture_Split4.txt" weight="39.0"></edge>
+      <edge id="7302" source="makes" target="freeculture_Split2.txt" weight="11.0"></edge>
+      <edge id="7303" source="makes" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="7304" source="making" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="7305" source="manga" target="freeculture_Split0.txt" weight="15.0"></edge>
+      <edge id="7306" source="market" target="freeculture_Split0.txt" weight="22.0"></edge>
+      <edge id="7307" source="market" target="freeculture_Split1.txt" weight="21.0"></edge>
+      <edge id="7308" source="market" target="freeculture_Split2.txt" weight="35.0"></edge>
+      <edge id="7309" source="market" target="freeculture_Split3.txt" weight="13.0"></edge>
+      <edge id="7310" source="market" target="freeculture_Split4.txt" weight="15.0"></edge>
+      <edge id="7311" source="markets" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7312" source="marking" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7313" source="material" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7314" source="mean" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7315" source="means" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="7316" source="means" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7317" source="means" target="freeculture_Split2.txt" weight="16.0"></edge>
+      <edge id="7318" source="media" target="freeculture_Split0.txt" weight="28.0"></edge>
+      <edge id="7319" source="media" target="freeculture_Split2.txt" weight="22.0"></edge>
+      <edge id="7320" source="media" target="freeculture_Split5.txt" weight="19.0"></edge>
+      <edge id="7321" source="meeting" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7322" source="microsoft" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="7323" source="million" target="freeculture_Split1.txt" weight="13.0"></edge>
+      <edge id="7324" source="million" target="freeculture_Split3.txt" weight="18.0"></edge>
+      <edge id="7325" source="million" target="freeculture_Split4.txt" weight="13.0"></edge>
+      <edge id="7326" source="money" target="freeculture_Split3.txt" weight="15.0"></edge>
+      <edge id="7327" source="monopoly" target="freeculture_Split1.txt" weight="13.0"></edge>
+      <edge id="7328" source="music" target="freeculture_Split0.txt" weight="27.0"></edge>
+      <edge id="7329" source="music" target="freeculture_Split1.txt" weight="18.0"></edge>
+      <edge id="7330" source="music" target="freeculture_Split2.txt" weight="22.0"></edge>
+      <edge id="7331" source="music" target="freeculture_Split3.txt" weight="14.0"></edge>
+      <edge id="7332" source="music" target="freeculture_Split4.txt" weight="36.0"></edge>
+      <edge id="7333" source="music" target="freeculture_Split5.txt" weight="28.0"></edge>
+      <edge id="7334" source="napster" target="freeculture_Split1.txt" weight="13.0"></edge>
+      <edge id="7335" source="national" target="freeculture_Split5.txt" weight="10.0"></edge>
+      <edge id="7336" source="need" target="freeculture_Split1.txt" weight="15.0"></edge>
+      <edge id="7337" source="need" target="freeculture_Split2.txt" weight="13.0"></edge>
+      <edge id="7338" source="need" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="7339" source="need" target="freeculture_Split4.txt" weight="14.0"></edge>
+      <edge id="7340" source="network" target="freeculture_Split0.txt" weight="17.0"></edge>
+      <edge id="7341" source="network" target="freeculture_Split2.txt" weight="13.0"></edge>
+      <edge id="7342" source="networks" target="freeculture_Split1.txt" weight="13.0"></edge>
+      <edge id="7343" source="networks" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7344" source="networks" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="7345" source="new" target="freeculture_Split0.txt" weight="32.0"></edge>
+      <edge id="7346" source="new" target="freeculture_Split1.txt" weight="31.0"></edge>
+      <edge id="7347" source="new" target="freeculture_Split2.txt" weight="29.0"></edge>
+      <edge id="7348" source="new" target="freeculture_Split3.txt" weight="26.0"></edge>
+      <edge id="7349" source="new" target="freeculture_Split4.txt" weight="41.0"></edge>
+      <edge id="7350" source="new" target="freeculture_Split5.txt" weight="33.0"></edge>
+      <edge id="7351" source="noncommercial" target="freeculture_Split2.txt" weight="11.0"></edge>
+      <edge id="7352" source="notes" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="7353" source="notes" target="freeculture_Split5.txt" weight="14.0"></edge>
+      <edge id="7354" source="number" target="freeculture_Split3.txt" weight="18.0"></edge>
+      <edge id="7355" source="number" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7356" source="obvious" target="freeculture_Split2.txt" weight="16.0"></edge>
+      <edge id="7357" source="obvious" target="freeculture_Split3.txt" weight="15.0"></edge>
+      <edge id="7358" source="office" target="freeculture_Split4.txt" weight="15.0"></edge>
+      <edge id="7359" source="online" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7360" source="open" target="freeculture_Split4.txt" weight="18.0"></edge>
+      <edge id="7361" source="ordinary" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7362" source="owner" target="freeculture_Split1.txt" weight="33.0"></edge>
+      <edge id="7363" source="owner" target="freeculture_Split2.txt" weight="18.0"></edge>
+      <edge id="7364" source="owner" target="freeculture_Split3.txt" weight="15.0"></edge>
+      <edge id="7365" source="owner" target="freeculture_Split4.txt" weight="12.0"></edge>
+      <edge id="7366" source="owners" target="freeculture_Split1.txt" weight="26.0"></edge>
+      <edge id="7367" source="owners" target="freeculture_Split2.txt" weight="19.0"></edge>
+      <edge id="7368" source="owners" target="freeculture_Split3.txt" weight="23.0"></edge>
+      <edge id="7369" source="ownership" target="freeculture_Split5.txt" weight="11.0"></edge>
+      <edge id="7370" source="paid" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7371" source="paper" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7372" source="particular" target="freeculture_Split1.txt" weight="18.0"></edge>
+      <edge id="7373" source="particular" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="7374" source="particular" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7375" source="patent" target="freeculture_Split4.txt" weight="16.0"></edge>
+      <edge id="7376" source="patents" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7377" source="patents" target="freeculture_Split4.txt" weight="20.0"></edge>
+      <edge id="7378" source="pay" target="freeculture_Split0.txt" weight="15.0"></edge>
+      <edge id="7379" source="pay" target="freeculture_Split1.txt" weight="20.0"></edge>
+      <edge id="7380" source="pay" target="freeculture_Split3.txt" weight="17.0"></edge>
+      <edge id="7381" source="people" target="freeculture_Split0.txt" weight="34.0"></edge>
+      <edge id="7382" source="people" target="freeculture_Split1.txt" weight="16.0"></edge>
+      <edge id="7383" source="people" target="freeculture_Split2.txt" weight="11.0"></edge>
+      <edge id="7384" source="people" target="freeculture_Split3.txt" weight="21.0"></edge>
+      <edge id="7385" source="people" target="freeculture_Split4.txt" weight="17.0"></edge>
+      <edge id="7386" source="percent" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7387" source="percent" target="freeculture_Split1.txt" weight="20.0"></edge>
+      <edge id="7388" source="percent" target="freeculture_Split2.txt" weight="21.0"></edge>
+      <edge id="7389" source="percent" target="freeculture_Split3.txt" weight="14.0"></edge>
+      <edge id="7390" source="percent" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7391" source="permission" target="freeculture_Split0.txt" weight="41.0"></edge>
+      <edge id="7392" source="permission" target="freeculture_Split1.txt" weight="26.0"></edge>
+      <edge id="7393" source="permission" target="freeculture_Split2.txt" weight="21.0"></edge>
+      <edge id="7394" source="permission" target="freeculture_Split4.txt" weight="15.0"></edge>
+      <edge id="7395" source="photography" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="7396" source="piracy" target="freeculture_Split0.txt" weight="44.0"></edge>
+      <edge id="7397" source="piracy" target="freeculture_Split1.txt" weight="57.0"></edge>
+      <edge id="7398" source="piracy" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7399" source="piracy" target="freeculture_Split5.txt" weight="15.0"></edge>
+      <edge id="7400" source="point" target="freeculture_Split1.txt" weight="16.0"></edge>
+      <edge id="7401" source="point" target="freeculture_Split2.txt" weight="32.0"></edge>
+      <edge id="7402" source="point" target="freeculture_Split3.txt" weight="14.0"></edge>
+      <edge id="7403" source="policy" target="freeculture_Split2.txt" weight="15.0"></edge>
+      <edge id="7404" source="policy" target="freeculture_Split4.txt" weight="17.0"></edge>
+      <edge id="7405" source="policy" target="freeculture_Split5.txt" weight="17.0"></edge>
+      <edge id="7406" source="possible" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7407" source="possible" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="7408" source="possible" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7409" source="power" target="freeculture_Split0.txt" weight="22.0"></edge>
+      <edge id="7410" source="power" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="7411" source="power" target="freeculture_Split2.txt" weight="27.0"></edge>
+      <edge id="7412" source="power" target="freeculture_Split3.txt" weight="61.0"></edge>
+      <edge id="7413" source="powerful" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="7414" source="practice" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7415" source="practice" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7416" source="press" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7417" source="press" target="freeculture_Split5.txt" weight="18.0"></edge>
+      <edge id="7418" source="price" target="freeculture_Split1.txt" weight="12.0"></edge>
+      <edge id="7419" source="prices" target="freeculture_Split4.txt" weight="12.0"></edge>
+      <edge id="7420" source="principle" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7421" source="privacy" target="freeculture_Split4.txt" weight="19.0"></edge>
+      <edge id="7422" source="problem" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7423" source="problem" target="freeculture_Split4.txt" weight="13.0"></edge>
+      <edge id="7424" source="process" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="7425" source="produced" target="freeculture_Split0.txt" weight="12.0"></edge>
+      <edge id="7426" source="produced" target="freeculture_Split2.txt" weight="11.0"></edge>
+      <edge id="7427" source="product" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7428" source="project" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7429" source="property" target="freeculture_Split0.txt" weight="52.0"></edge>
+      <edge id="7430" source="property" target="freeculture_Split1.txt" weight="100.0"></edge>
+      <edge id="7431" source="property" target="freeculture_Split2.txt" weight="58.0"></edge>
+      <edge id="7432" source="property" target="freeculture_Split3.txt" weight="37.0"></edge>
+      <edge id="7433" source="property" target="freeculture_Split4.txt" weight="73.0"></edge>
+      <edge id="7434" source="property" target="freeculture_Split5.txt" weight="33.0"></edge>
+      <edge id="7435" source="protect" target="freeculture_Split2.txt" weight="22.0"></edge>
+      <edge id="7436" source="protected" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7437" source="protected" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="7438" source="protected" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7439" source="protection" target="freeculture_Split1.txt" weight="13.0"></edge>
+      <edge id="7440" source="protection" target="freeculture_Split2.txt" weight="24.0"></edge>
+      <edge id="7441" source="protection" target="freeculture_Split5.txt" weight="10.0"></edge>
+      <edge id="7442" source="public" target="freeculture_Split0.txt" weight="40.0"></edge>
+      <edge id="7443" source="public" target="freeculture_Split1.txt" weight="19.0"></edge>
+      <edge id="7444" source="public" target="freeculture_Split2.txt" weight="31.0"></edge>
+      <edge id="7445" source="public" target="freeculture_Split3.txt" weight="38.0"></edge>
+      <edge id="7446" source="public" target="freeculture_Split4.txt" weight="39.0"></edge>
+      <edge id="7447" source="public" target="freeculture_Split5.txt" weight="26.0"></edge>
+      <edge id="7448" source="published" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7449" source="publishers" target="freeculture_Split1.txt" weight="17.0"></edge>
+      <edge id="7450" source="publishers" target="freeculture_Split2.txt" weight="19.0"></edge>
+      <edge id="7451" source="question" target="freeculture_Split1.txt" weight="19.0"></edge>
+      <edge id="7452" source="question" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="7453" source="question" target="freeculture_Split3.txt" weight="13.0"></edge>
+      <edge id="7454" source="question" target="freeculture_Split4.txt" weight="12.0"></edge>
+      <edge id="7455" source="quite" target="freeculture_Split0.txt" weight="14.0"></edge>
+      <edge id="7456" source="radio" target="freeculture_Split0.txt" weight="49.0"></edge>
+      <edge id="7457" source="radio" target="freeculture_Split1.txt" weight="12.0"></edge>
+      <edge id="7458" source="radio" target="freeculture_Split3.txt" weight="53.0"></edge>
+      <edge id="7459" source="radio" target="freeculture_Split5.txt" weight="11.0"></edge>
+      <edge id="7460" source="range" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="7461" source="rca" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="7462" source="read" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="7463" source="read" target="freeculture_Split2.txt" weight="30.0"></edge>
+      <edge id="7464" source="reader" target="freeculture_Split2.txt" weight="11.0"></edge>
+      <edge id="7465" source="real" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7466" source="real" target="freeculture_Split3.txt" weight="14.0"></edge>
+      <edge id="7467" source="real" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7468" source="really" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7469" source="reason" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="7470" source="record" target="freeculture_Split0.txt" weight="16.0"></edge>
+      <edge id="7471" source="record" target="freeculture_Split1.txt" weight="18.0"></edge>
+      <edge id="7472" source="recording" target="freeculture_Split0.txt" weight="22.0"></edge>
+      <edge id="7473" source="recording" target="freeculture_Split1.txt" weight="18.0"></edge>
+      <edge id="7474" source="recording" target="freeculture_Split3.txt" weight="13.0"></edge>
+      <edge id="7475" source="recording" target="freeculture_Split5.txt" weight="15.0"></edge>
+      <edge id="7476" source="registration" target="freeculture_Split3.txt" weight="14.0"></edge>
+      <edge id="7477" source="registration" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="7478" source="regulated" target="freeculture_Split2.txt" weight="23.0"></edge>
+      <edge id="7479" source="regulation" target="freeculture_Split2.txt" weight="31.0"></edge>
+      <edge id="7480" source="requirement" target="freeculture_Split2.txt" weight="14.0"></edge>
+      <edge id="7481" source="reserved" target="freeculture_Split4.txt" weight="14.0"></edge>
+      <edge id="7482" source="response" target="freeculture_Split2.txt" weight="11.0"></edge>
+      <edge id="7483" source="response" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7484" source="review" target="freeculture_Split4.txt" weight="14.0"></edge>
+      <edge id="7485" source="riaa" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="7486" source="riaa" target="freeculture_Split3.txt" weight="18.0"></edge>
+      <edge id="7487" source="riaa" target="freeculture_Split5.txt" weight="15.0"></edge>
+      <edge id="7488" source="richard" target="freeculture_Split5.txt" weight="13.0"></edge>
+      <edge id="7489" source="right" target="freeculture_Split0.txt" weight="40.0"></edge>
+      <edge id="7490" source="right" target="freeculture_Split1.txt" weight="67.0"></edge>
+      <edge id="7491" source="right" target="freeculture_Split2.txt" weight="51.0"></edge>
+      <edge id="7492" source="right" target="freeculture_Split3.txt" weight="40.0"></edge>
+      <edge id="7493" source="right" target="freeculture_Split4.txt" weight="34.0"></edge>
+      <edge id="7494" source="right" target="freeculture_Split5.txt" weight="13.0"></edge>
+      <edge id="7495" source="rights" target="freeculture_Split0.txt" weight="22.0"></edge>
+      <edge id="7496" source="rights" target="freeculture_Split1.txt" weight="49.0"></edge>
+      <edge id="7497" source="rights" target="freeculture_Split2.txt" weight="25.0"></edge>
+      <edge id="7498" source="rights" target="freeculture_Split3.txt" weight="22.0"></edge>
+      <edge id="7499" source="rights" target="freeculture_Split4.txt" weight="63.0"></edge>
+      <edge id="7500" source="rights" target="freeculture_Split5.txt" weight="22.0"></edge>
+      <edge id="7501" source="rpi" target="freeculture_Split0.txt" weight="12.0"></edge>
+      <edge id="7502" source="rules" target="freeculture_Split2.txt" weight="17.0"></edge>
+      <edge id="7503" source="said" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7504" source="said" target="freeculture_Split3.txt" weight="20.0"></edge>
+      <edge id="7505" source="sales" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7506" source="say" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7507" source="say" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7508" source="say" target="freeculture_Split2.txt" weight="22.0"></edge>
+      <edge id="7509" source="say" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7510" source="says" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7511" source="says" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7512" source="school" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="7513" source="scope" target="freeculture_Split2.txt" weight="19.0"></edge>
+      <edge id="7514" source="search" target="freeculture_Split0.txt" weight="17.0"></edge>
+      <edge id="7515" source="second" target="freeculture_Split1.txt" weight="16.0"></edge>
+      <edge id="7516" source="sell" target="freeculture_Split1.txt" weight="12.0"></edge>
+      <edge id="7517" source="sense" target="freeculture_Split0.txt" weight="24.0"></edge>
+      <edge id="7518" source="sense" target="freeculture_Split1.txt" weight="22.0"></edge>
+      <edge id="7519" source="sense" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="7520" source="sense" target="freeculture_Split3.txt" weight="17.0"></edge>
+      <edge id="7521" source="sense" target="freeculture_Split4.txt" weight="32.0"></edge>
+      <edge id="7522" source="september" target="freeculture_Split5.txt" weight="16.0"></edge>
+      <edge id="7523" source="set" target="freeculture_Split0.txt" weight="14.0"></edge>
+      <edge id="7524" source="set" target="freeculture_Split1.txt" weight="17.0"></edge>
+      <edge id="7525" source="set" target="freeculture_Split2.txt" weight="13.0"></edge>
+      <edge id="7526" source="set" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7527" source="set" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7528" source="sharing" target="freeculture_Split1.txt" weight="54.0"></edge>
+      <edge id="7529" source="sharing" target="freeculture_Split2.txt" weight="18.0"></edge>
+      <edge id="7530" source="sharing" target="freeculture_Split4.txt" weight="25.0"></edge>
+      <edge id="7531" source="sharing" target="freeculture_Split5.txt" weight="21.0"></edge>
+      <edge id="7532" source="simple" target="freeculture_Split1.txt" weight="15.0"></edge>
+      <edge id="7533" source="simple" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="7534" source="simple" target="freeculture_Split4.txt" weight="15.0"></edge>
+      <edge id="7535" source="simply" target="freeculture_Split0.txt" weight="12.0"></edge>
+      <edge id="7536" source="simply" target="freeculture_Split1.txt" weight="14.0"></edge>
+      <edge id="7537" source="simply" target="freeculture_Split2.txt" weight="16.0"></edge>
+      <edge id="7538" source="simply" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7539" source="society" target="freeculture_Split1.txt" weight="13.0"></edge>
+      <edge id="7540" source="software" target="freeculture_Split4.txt" weight="48.0"></edge>
+      <edge id="7541" source="software" target="freeculture_Split5.txt" weight="20.0"></edge>
+      <edge id="7542" source="sold" target="freeculture_Split1.txt" weight="19.0"></edge>
+      <edge id="7543" source="song" target="freeculture_Split0.txt" weight="12.0"></edge>
+      <edge id="7544" source="sound" target="freeculture_Split0.txt" weight="19.0"></edge>
+      <edge id="7545" source="source" target="freeculture_Split4.txt" weight="17.0"></edge>
+      <edge id="7546" source="south" target="freeculture_Split4.txt" weight="13.0"></edge>
+      <edge id="7547" source="space" target="freeculture_Split0.txt" weight="12.0"></edge>
+      <edge id="7548" source="special" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7549" source="spread" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="7550" source="spread" target="freeculture_Split4.txt" weight="12.0"></edge>
+      <edge id="7551" source="statement" target="freeculture_Split4.txt" weight="14.0"></edge>
+      <edge id="7552" source="states" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7553" source="states" target="freeculture_Split2.txt" weight="19.0"></edge>
+      <edge id="7554" source="states" target="freeculture_Split4.txt" weight="24.0"></edge>
+      <edge id="7555" source="states" target="freeculture_Split5.txt" weight="13.0"></edge>
+      <edge id="7556" source="station" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7557" source="station" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7558" source="statute" target="freeculture_Split1.txt" weight="23.0"></edge>
+      <edge id="7559" source="steamboat" target="freeculture_Split0.txt" weight="15.0"></edge>
+      <edge id="7560" source="stories" target="freeculture_Split0.txt" weight="12.0"></edge>
+      <edge id="7561" source="story" target="freeculture_Split0.txt" weight="21.0"></edge>
+      <edge id="7562" source="story" target="freeculture_Split2.txt" weight="24.0"></edge>
+      <edge id="7563" source="students" target="freeculture_Split0.txt" weight="14.0"></edge>
+      <edge id="7564" source="support" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7565" source="supreme" target="freeculture_Split3.txt" weight="34.0"></edge>
+      <edge id="7566" source="taking" target="freeculture_Split0.txt" weight="15.0"></edge>
+      <edge id="7567" source="taking" target="freeculture_Split1.txt" weight="17.0"></edge>
+      <edge id="7568" source="technologies" target="freeculture_Split0.txt" weight="19.0"></edge>
+      <edge id="7569" source="technologies" target="freeculture_Split2.txt" weight="26.0"></edge>
+      <edge id="7570" source="technologies" target="freeculture_Split3.txt" weight="19.0"></edge>
+      <edge id="7571" source="technologies" target="freeculture_Split4.txt" weight="13.0"></edge>
+      <edge id="7572" source="technology" target="freeculture_Split0.txt" weight="44.0"></edge>
+      <edge id="7573" source="technology" target="freeculture_Split1.txt" weight="28.0"></edge>
+      <edge id="7574" source="technology" target="freeculture_Split2.txt" weight="47.0"></edge>
+      <edge id="7575" source="technology" target="freeculture_Split3.txt" weight="20.0"></edge>
+      <edge id="7576" source="technology" target="freeculture_Split4.txt" weight="33.0"></edge>
+      <edge id="7577" source="technology" target="freeculture_Split5.txt" weight="26.0"></edge>
+      <edge id="7578" source="television" target="freeculture_Split1.txt" weight="20.0"></edge>
+      <edge id="7579" source="television" target="freeculture_Split2.txt" weight="15.0"></edge>
+      <edge id="7580" source="television" target="freeculture_Split5.txt" weight="11.0"></edge>
+      <edge id="7581" source="term" target="freeculture_Split1.txt" weight="15.0"></edge>
+      <edge id="7582" source="term" target="freeculture_Split2.txt" weight="26.0"></edge>
+      <edge id="7583" source="term" target="freeculture_Split3.txt" weight="35.0"></edge>
+      <edge id="7584" source="term" target="freeculture_Split4.txt" weight="29.0"></edge>
+      <edge id="7585" source="term" target="freeculture_Split5.txt" weight="15.0"></edge>
+      <edge id="7586" source="terms" target="freeculture_Split3.txt" weight="42.0"></edge>
+      <edge id="7587" source="terms" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7588" source="text" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="7589" source="thing" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="7590" source="things" target="freeculture_Split0.txt" weight="12.0"></edge>
+      <edge id="7591" source="think" target="freeculture_Split0.txt" weight="25.0"></edge>
+      <edge id="7592" source="think" target="freeculture_Split1.txt" weight="13.0"></edge>
+      <edge id="7593" source="think" target="freeculture_Split2.txt" weight="23.0"></edge>
+      <edge id="7594" source="think" target="freeculture_Split3.txt" weight="20.0"></edge>
+      <edge id="7595" source="think" target="freeculture_Split4.txt" weight="15.0"></edge>
+      <edge id="7596" source="thought" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7597" source="thousands" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7598" source="time" target="freeculture_Split0.txt" weight="28.0"></edge>
+      <edge id="7599" source="time" target="freeculture_Split1.txt" weight="30.0"></edge>
+      <edge id="7600" source="time" target="freeculture_Split2.txt" weight="21.0"></edge>
+      <edge id="7601" source="time" target="freeculture_Split3.txt" weight="27.0"></edge>
+      <edge id="7602" source="time" target="freeculture_Split4.txt" weight="13.0"></edge>
+      <edge id="7603" source="times" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7604" source="times" target="freeculture_Split4.txt" weight="13.0"></edge>
+      <edge id="7605" source="times" target="freeculture_Split5.txt" weight="12.0"></edge>
+      <edge id="7606" source="tinker" target="freeculture_Split0.txt" weight="11.0"></edge>
+      <edge id="7607" source="tinkering" target="freeculture_Split0.txt" weight="15.0"></edge>
+      <edge id="7608" source="today" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="7609" source="today" target="freeculture_Split1.txt" weight="15.0"></edge>
+      <edge id="7610" source="today" target="freeculture_Split2.txt" weight="15.0"></edge>
+      <edge id="7611" source="today" target="freeculture_Split4.txt" weight="12.0"></edge>
+      <edge id="7612" source="told" target="freeculture_Split0.txt" weight="14.0"></edge>
+      <edge id="7613" source="told" target="freeculture_Split1.txt" weight="16.0"></edge>
+      <edge id="7614" source="tradition" target="freeculture_Split0.txt" weight="24.0"></edge>
+      <edge id="7615" source="tradition" target="freeculture_Split1.txt" weight="14.0"></edge>
+      <edge id="7616" source="tradition" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7617" source="tradition" target="freeculture_Split4.txt" weight="12.0"></edge>
+      <edge id="7618" source="TRUE" target="freeculture_Split1.txt" weight="12.0"></edge>
+      <edge id="7619" source="type" target="freeculture_Split1.txt" weight="21.0"></edge>
+      <edge id="7620" source="type" target="freeculture_Split4.txt" weight="15.0"></edge>
+      <edge id="7621" source="understand" target="freeculture_Split0.txt" weight="15.0"></edge>
+      <edge id="7622" source="understand" target="freeculture_Split1.txt" weight="12.0"></edge>
+      <edge id="7623" source="understand" target="freeculture_Split2.txt" weight="11.0"></edge>
+      <edge id="7624" source="understand" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7625" source="united" target="freeculture_Split2.txt" weight="15.0"></edge>
+      <edge id="7626" source="united" target="freeculture_Split4.txt" weight="26.0"></edge>
+      <edge id="7627" source="united" target="freeculture_Split5.txt" weight="15.0"></edge>
+      <edge id="7628" source="university" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7629" source="university" target="freeculture_Split5.txt" weight="20.0"></edge>
+      <edge id="7630" source="unregulated" target="freeculture_Split2.txt" weight="15.0"></edge>
+      <edge id="7631" source="use" target="freeculture_Split0.txt" weight="28.0"></edge>
+      <edge id="7632" source="use" target="freeculture_Split1.txt" weight="53.0"></edge>
+      <edge id="7633" source="use" target="freeculture_Split2.txt" weight="61.0"></edge>
+      <edge id="7634" source="use" target="freeculture_Split3.txt" weight="35.0"></edge>
+      <edge id="7635" source="use" target="freeculture_Split4.txt" weight="48.0"></edge>
+      <edge id="7636" source="use" target="freeculture_Split5.txt" weight="11.0"></edge>
+      <edge id="7637" source="used" target="freeculture_Split1.txt" weight="26.0"></edge>
+      <edge id="7638" source="used" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="7639" source="used" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7640" source="used" target="freeculture_Split4.txt" weight="15.0"></edge>
+      <edge id="7641" source="uses" target="freeculture_Split2.txt" weight="30.0"></edge>
+      <edge id="7642" source="uses" target="freeculture_Split4.txt" weight="11.0"></edge>
+      <edge id="7643" source="using" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7644" source="valenti" target="freeculture_Split1.txt" weight="16.0"></edge>
+      <edge id="7645" source="value" target="freeculture_Split0.txt" weight="22.0"></edge>
+      <edge id="7646" source="value" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7647" source="video" target="freeculture_Split2.txt" weight="19.0"></edge>
+      <edge id="7648" source="view" target="freeculture_Split3.txt" weight="19.0"></edge>
+      <edge id="7649" source="view" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7650" source="view" target="freeculture_Split5.txt" weight="10.0"></edge>
+      <edge id="7651" source="walt" target="freeculture_Split0.txt" weight="10.0"></edge>
+      <edge id="7652" source="want" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7653" source="want" target="freeculture_Split3.txt" weight="14.0"></edge>
+      <edge id="7654" source="wanted" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="7655" source="wanted" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7656" source="war" target="freeculture_Split0.txt" weight="21.0"></edge>
+      <edge id="7657" source="war" target="freeculture_Split2.txt" weight="17.0"></edge>
+      <edge id="7658" source="war" target="freeculture_Split3.txt" weight="15.0"></edge>
+      <edge id="7659" source="way" target="freeculture_Split0.txt" weight="36.0"></edge>
+      <edge id="7660" source="way" target="freeculture_Split1.txt" weight="44.0"></edge>
+      <edge id="7661" source="way" target="freeculture_Split2.txt" weight="37.0"></edge>
+      <edge id="7662" source="way" target="freeculture_Split3.txt" weight="43.0"></edge>
+      <edge id="7663" source="way" target="freeculture_Split4.txt" weight="37.0"></edge>
+      <edge id="7664" source="web" target="freeculture_Split4.txt" weight="12.0"></edge>
+      <edge id="7665" source="william" target="freeculture_Split5.txt" weight="17.0"></edge>
+      <edge id="7666" source="work" target="freeculture_Split0.txt" weight="53.0"></edge>
+      <edge id="7667" source="work" target="freeculture_Split1.txt" weight="35.0"></edge>
+      <edge id="7668" source="work" target="freeculture_Split2.txt" weight="55.0"></edge>
+      <edge id="7669" source="work" target="freeculture_Split3.txt" weight="41.0"></edge>
+      <edge id="7670" source="work" target="freeculture_Split4.txt" weight="49.0"></edge>
+      <edge id="7671" source="works" target="freeculture_Split0.txt" weight="12.0"></edge>
+      <edge id="7672" source="works" target="freeculture_Split1.txt" weight="19.0"></edge>
+      <edge id="7673" source="works" target="freeculture_Split2.txt" weight="27.0"></edge>
+      <edge id="7674" source="works" target="freeculture_Split3.txt" weight="23.0"></edge>
+      <edge id="7675" source="works" target="freeculture_Split4.txt" weight="14.0"></edge>
+      <edge id="7676" source="works" target="freeculture_Split5.txt" weight="15.0"></edge>
+      <edge id="7677" source="world" target="freeculture_Split0.txt" weight="18.0"></edge>
+      <edge id="7678" source="world" target="freeculture_Split1.txt" weight="20.0"></edge>
+      <edge id="7679" source="world" target="freeculture_Split2.txt" weight="23.0"></edge>
+      <edge id="7680" source="world" target="freeculture_Split3.txt" weight="20.0"></edge>
+      <edge id="7681" source="world" target="freeculture_Split4.txt" weight="29.0"></edge>
+      <edge id="7682" source="world" target="freeculture_Split5.txt" weight="14.0"></edge>
+      <edge id="7683" source="worth" target="freeculture_Split3.txt" weight="13.0"></edge>
+      <edge id="7684" source="writing" target="freeculture_Split0.txt" weight="13.0"></edge>
+      <edge id="7685" source="wrong" target="freeculture_Split0.txt" weight="20.0"></edge>
+      <edge id="7686" source="wrong" target="freeculture_Split1.txt" weight="27.0"></edge>
+      <edge id="7687" source="wrong" target="freeculture_Split2.txt" weight="13.0"></edge>
+      <edge id="7688" source="wrong" target="freeculture_Split3.txt" weight="13.0"></edge>
+      <edge id="7689" source="wrote" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7690" source="year" target="freeculture_Split1.txt" weight="11.0"></edge>
+      <edge id="7691" source="year" target="freeculture_Split3.txt" weight="14.0"></edge>
+      <edge id="7692" source="year" target="freeculture_Split4.txt" weight="10.0"></edge>
+      <edge id="7693" source="years" target="freeculture_Split0.txt" weight="15.0"></edge>
+      <edge id="7694" source="years" target="freeculture_Split1.txt" weight="21.0"></edge>
+      <edge id="7695" source="years" target="freeculture_Split2.txt" weight="43.0"></edge>
+      <edge id="7696" source="years" target="freeculture_Split3.txt" weight="26.0"></edge>
+      <edge id="7697" source="years" target="freeculture_Split4.txt" weight="19.0"></edge>
+      <edge id="7698" source="york" target="freeculture_Split0.txt" weight="14.0"></edge>
+      <edge id="7699" source="york" target="freeculture_Split4.txt" weight="23.0"></edge>
+      <edge id="7700" source="york" target="freeculture_Split5.txt" weight="21.0"></edge>
+      <edge id="7701" source="youre" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="7702" source="alben" target="freeculture_Split1.txt" weight="19.0"></edge>
+      <edge id="7703" source="anne" target="freeculture_Split1.txt" weight="19.0"></edge>
+      <edge id="7704" source="archive" target="freeculture_Split1.txt" weight="28.0"></edge>
+      <edge id="7705" source="believed" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7706" source="booksellers" target="freeculture_Split1.txt" weight="22.0"></edge>
+      <edge id="7707" source="broadcasters" target="freeculture_Split1.txt" weight="14.0"></edge>
+      <edge id="7708" source="career" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7709" source="cds" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7710" source="civil" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7711" source="clause" target="freeculture_Split3.txt" weight="25.0"></edge>
+      <edge id="7712" source="constitution" target="freeculture_Split1.txt" weight="12.0"></edge>
+      <edge id="7713" source="constitution" target="freeculture_Split3.txt" weight="26.0"></edge>
+      <edge id="7714" source="constitutional" target="freeculture_Split3.txt" weight="13.0"></edge>
+      <edge id="7715" source="decision" target="freeculture_Split3.txt" weight="16.0"></edge>
+      <edge id="7716" source="estate" target="freeculture_Split3.txt" weight="13.0"></edge>
+      <edge id="7717" source="existing" target="freeculture_Split3.txt" weight="30.0"></edge>
+      <edge id="7718" source="framers" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7719" source="intended" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7720" source="international" target="freeculture_Split5.txt" weight="11.0"></edge>
+      <edge id="7721" source="james" target="freeculture_Split5.txt" weight="14.0"></edge>
+      <edge id="7722" source="judge" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7723" source="july" target="freeculture_Split5.txt" weight="13.0"></edge>
+      <edge id="7724" source="lords" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7725" source="movies" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7726" source="owns" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7727" source="parliament" target="freeculture_Split1.txt" weight="14.0"></edge>
+      <edge id="7728" source="permissions" target="freeculture_Split2.txt" weight="11.0"></edge>
+      <edge id="7729" source="perpetual" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7730" source="simpsons" target="freeculture_Split1.txt" weight="13.0"></edge>
+      <edge id="7731" source="stanford" target="freeculture_Split5.txt" weight="11.0"></edge>
+      <edge id="7732" source="stores" target="freeculture_Split1.txt" weight="10.0"></edge>
+      <edge id="7733" source="try" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7734" source="unlimited" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="7735" source="washington" target="freeculture_Split5.txt" weight="10.0"></edge>
+      <edge id="7736" source="adobe" target="freeculture_Split2.txt" weight="21.0"></edge>
+      <edge id="7737" source="aibo" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7738" source="aloud" target="freeculture_Split2.txt" weight="13.0"></edge>
+      <edge id="7739" source="bono" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="7740" source="commerce" target="freeculture_Split3.txt" weight="17.0"></edge>
+      <edge id="7741" source="dmca" target="freeculture_Split2.txt" weight="10.0"></edge>
+      <edge id="7742" source="dog" target="freeculture_Split2.txt" weight="15.0"></edge>
+      <edge id="7743" source="drug" target="freeculture_Split4.txt" weight="16.0"></edge>
+      <edge id="7744" source="drugs" target="freeculture_Split4.txt" weight="22.0"></edge>
+      <edge id="7745" source="ebook" target="freeculture_Split2.txt" weight="22.0"></edge>
+      <edge id="7746" source="extending" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="7747" source="hack" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="7748" source="mpcom" target="freeculture_Split2.txt" weight="16.0"></edge>
+      <edge id="7749" source="opinion" target="freeculture_Split3.txt" weight="13.0"></edge>
+      <edge id="7750" source="pipeline" target="freeculture_Split2.txt" weight="12.0"></edge>
+      <edge id="7751" source="progress" target="freeculture_Split3.txt" weight="12.0"></edge>
+      <edge id="7752" source="sonny" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7753" source="brief" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7754" source="briefs" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7755" source="ctea" target="freeculture_Split3.txt" weight="11.0"></edge>
+      <edge id="7756" source="frost" target="freeculture_Split3.txt" weight="10.0"></edge>
+      <edge id="7757" source="lopez" target="freeculture_Split3.txt" weight="13.0"></edge>
+      <edge id="7758" source="africa" target="freeculture_Split4.txt" weight="15.0"></edge>
+      <edge id="7759" source="august" target="freeculture_Split5.txt" weight="14.0"></edge>
+      <edge id="7760" source="journals" target="freeculture_Split4.txt" weight="12.0"></edge>
+      <edge id="7761" source="wipo" target="freeculture_Split4.txt" weight="17.0"></edge>
+    </edges>
+  </graph>
+</gexf>
