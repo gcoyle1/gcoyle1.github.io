@@ -1,0 +1,2561 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-03-10">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="abnormal" label="abnormal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-496.55048" y="-502.27484"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="Pattern_culture_Split3.txt" label="Pattern_culture_Split3.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-237.83386" y="-277.03333"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="according" label="according">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-128.70993" y="645.2381"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="Pattern_culture_Split2.txt" label="Pattern_culture_Split2.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-164.19797" y="294.1274"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="account" label="account">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-567.37537" y="-482.8918"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="act" label="act">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="565.38336" y="34.106003"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="Pattern_culture_Split1.txt" label="Pattern_culture_Split1.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="276.59088" y="75.93879"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="adolescence" label="adolescence">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-202.17538" y="-541.6678"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="Pattern_culture_Split0.txt" label="Pattern_culture_Split0.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="83.3419" y="-379.02515"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="adolescent" label="adolescent">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="265.7327" y="-792.89667"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="all" label="all">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="153.19672" y="185.02583"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="altar" label="altar">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="546.3372" y="181.47289"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="america" label="america">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="116.34213" y="171.49571"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="american" label="american">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="723.1074" y="106.52017"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="analysis" label="analysis">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="95.589294" y="-753.002"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="and" label="and">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-249.17136" y="-537.06213"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="anthropology" label="anthropology">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-527.94135" y="-536.7639"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="apollonian" label="apollonian">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="550.10443" y="76.72277"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="art" label="art">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="196.11377" y="-567.70306"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="attitudes" label="attitudes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="212.32533" y="-782.41724"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="authority" label="authority">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="411.09427" y="176.81992"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="away" label="away">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-198.18597" y="472.38165"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="behaviour" label="behaviour">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-113.802895" y="-251.91833"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="biological" label="biological">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="275.85825" y="-666.762"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="blessing" label="blessing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="289.67316" y="-746.7262"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="boas" label="boas">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-356.31046" y="-344.40768"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="body" label="body">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-277.50528" y="99.32243"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="boy" label="boy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="551.78516" y="143.49918"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="boys" label="boys">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="354.72037" y="-192.35683"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="breath" label="breath">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="481.07123" y="232.92299"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="brother" label="brother">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-493.56915" y="589.72406"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="built" label="built">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="251.25421" y="-765.4363"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="bunzel" label="bunzel">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-468.10056" y="-342.2967"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="but" label="but">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="123.00777" y="-83.649345"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="called" label="called">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="52.962788" y="456.30322"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="came" label="came">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="604.78827" y="24.272772"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="carried" label="carried">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-452.48294" y="439.70093"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="case" label="case">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-128.92587" y="-91.32093"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="cases" label="cases">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-407.52234" y="602.0076"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="ceremonial" label="ceremonial">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="386.54532" y="117.088554"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="ceremonies" label="ceremonies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="67.09519" y="-817.9132"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="ceremony" label="ceremony">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="566.5348" y="110.03648"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="certain" label="certain">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-392.50012" y="-107.84609"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="change" label="change">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="133.50978" y="-798.6887"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="chapter" label="chapter">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-466.1535" y="-386.19327"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="character" label="character">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-550.0134" y="-430.1602"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="chief" label="chief">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-24.657469" y="301.96252"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="child" label="child">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-365.52032" y="-152.76941"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="children" label="children">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="99.54424" y="295.75998"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="cities" label="cities">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="114.984795" y="-829.19244"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="civilization" label="civilization">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-67.862015" y="-432.4386"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="civilizations" label="civilizations">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="172.93993" y="-791.3197"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="clan" label="clan">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="146.95076" y="-750.8025"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="clear" label="clear">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-222.96048" y="-560.54065"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="coast" label="coast">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-319.37158" y="198.45528"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="come" label="come">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="339.44293" y="-238.93398"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="common" label="common">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="30.166275" y="88.12762"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="complex" label="complex">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="158.29974" y="-598.1773"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="course" label="course">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-157.06148" y="110.552315"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="cult" label="cult">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="427.66302" y="112.239235"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="cultural" label="cultural">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-49.32149" y="-336.2066"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="culture" label="culture">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-55.387043" y="-195.72813"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="cultures" label="cultures">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-87.03873" y="-323.17297"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="custom" label="custom">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="133.67554" y="-521.1999"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="dance" label="dance">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="107.94882" y="95.66945"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="dances" label="dances">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="493.23764" y="150.83293"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="dancing" label="dancing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="621.0613" y="283.99518"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="danger" label="danger">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="538.3709" y="269.3196"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="dangerous" label="dangerous">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="711.2033" y="183.3823"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="daughter" label="daughter">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-481.11713" y="523.8473"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="day" label="day">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="462.2606" y="276.71936"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="days" label="days">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="485.44232" y="190.48128"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="dead" label="dead">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="123.29806" y="333.4804"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="death" label="death">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-44.732" y="83.78238"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="development" label="development">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="298.36475" y="-777.43"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="died" label="died">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-515.9415" y="558.38336"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="different" label="different">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-89.145676" y="-279.9047"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="diversity" label="diversity">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="229.34088" y="-583.0619"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="dobu" label="dobu">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-209.15019" y="78.83258"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="each" label="each">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-368.21265" y="459.4854"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="economic" label="economic">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="127.67097" y="-33.852436"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="elements" label="elements">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="238.11153" y="-719.8167"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="especially" label="especially">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="669.19965" y="11.844967"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="ethnology" label="ethnology">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-498.49243" y="-357.0487"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="even" label="even">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="128.22275" y="73.88499"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="every" label="every">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-169.8189" y="647.5798"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="exchange" label="exchange">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-294.1732" y="398.1346"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="existence" label="existence">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="195.73451" y="-819.1178"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="experience" label="experience">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="203.99156" y="-208.35127"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="experiences" label="experiences">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="660.0261" y="190.26999"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="extreme" label="extreme">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-442.03073" y="23.212854"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="fact" label="fact">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-305.5152" y="-127.60615"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="facts" label="facts">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-111.143875" y="-548.6762"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="family" label="family">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-104.00995" y="45.66889"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="far" label="far">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-122.64112" y="-221.0089"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="father" label="father">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="35.528915" y="312.1151"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="for" label="for">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-241.46825" y="-82.62275"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="form" label="form">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="129.12166" y="-574.69464"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="formal" label="formal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="720.96765" y="61.688736"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="forms" label="forms">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-40.652046" y="-503.46973"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="fundamental" label="fundamental">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="143.29208" y="-687.028"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="gardens" label="gardens">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-463.80777" y="483.63367"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="gave" label="gave">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-247.1878" y="127.00562"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="generation" label="generation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-444.88095" y="-484.02405"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="gifts" label="gifts">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-469.85156" y="616.27856"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="girls" label="girls">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="302.07947" y="-349.98572"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="given" label="given">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="63.61939" y="61.892155"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="gods" label="gods">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="337.67508" y="-130.55182"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="goes" label="goes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="673.54865" y="140.99359"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="good" label="good">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-177.52534" y="44.933113"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="great" label="great">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-37.042717" y="-32.080124"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="ground" label="ground">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="598.67474" y="130.80022"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="group" label="group">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="48.3748" y="-141.91089"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="groups" label="groups">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="135.29059" y="-249.02428"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="hand" label="hand">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="420.72253" y="-268.12482"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="head" label="head">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="674.45074" y="283.86594"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="heredity" label="heredity">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="157.05771" y="-825.18726"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="his" label="his">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="30.580536" y="427.52435"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="historical" label="historical">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="157.97552" y="-643.7411"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="history" label="history">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-136.85214" y="-517.101"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="home" label="home">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-417.89368" y="452.81824"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="house" label="house">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="115.041504" y="275.12537"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="household" label="household">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="467.41238" y="70.72011"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="human" label="human">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-49.258434" y="-392.45312"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="husband" label="husband">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3.6429477" y="430.28528"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="importance" label="importance">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-102.38063" y="-639.3038"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="important" label="important">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-99.47201" y="-106.626625"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="indian" label="indian">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="595.57587" y="255.03818"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="indians" label="indians">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="252.39963" y="-152.71024"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="individual" label="individual">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-37.11087" y="-228.15"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="individuals" label="individuals">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-390.4785" y="-347.8249"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="institutions" label="institutions">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-17.385456" y="-268.62976"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="integration" label="integration">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-197.34982" y="-608.36334"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="island" label="island">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-185.37257" y="685.0967"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="just" label="just">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="474.50595" y="-319.83997"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="killed" label="killed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="98.41179" y="478.78992"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="kind" label="kind">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="199.15175" y="-739.08344"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="kiva" label="kiva">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="635.3391" y="149.95491"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="know" label="know">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-187.95375" y="-83.163445"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="knowledge" label="knowledge">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="191.6828" y="-675.01276"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="known" label="known">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="556.85156" y="244.70248"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="kwakiutl" label="kwakiutl">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-316.29224" y="-18.896654"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="life" label="life">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="48.304237" y="-111.16042"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="like" label="like">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="51.050465" y="-15.897993"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="line" label="line">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-265.54608" y="724.3044"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="little" label="little">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="314.94348" y="-285.25574"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="living" label="living">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="55.61962" y="-753.51514"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="local" label="local">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-44.354202" y="-575.6088"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="london" label="london">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-401.2502" y="-438.91843"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="long" label="long">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="593.40845" y="378.2998"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="longer" label="longer">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-605.1624" y="-518.5172"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="love" label="love">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-396.9532" y="-400.82983"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="magic" label="magic">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-217.06458" y="494.56387"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="magical" label="magical">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-325.1792" y="580.11536"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="make" label="make">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="34.513718" y="-46.416115"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="makes" label="makes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-110.89661" y="-43.73246"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="man" label="man">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.271591" y="39.12996"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="mans" label="mans">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="266.47562" y="-91.33697"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="marriage" label="marriage">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-79.380806" y="107.986626"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="mask" label="mask">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="676.2436" y="98.70749"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="masked" label="masked">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="570.23505" y="215.81334"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="masks" label="masks">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="570.55316" y="293.84955"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="material" label="material">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="109.125374" y="-666.8985"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="matter" label="matter">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="154.19647" y="-180.5436"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="may" label="may">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="113.99092" y="-719.1271"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="means" label="means">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-95.2577" y="10.153663"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="medicine" label="medicine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="427.64423" y="219.25543"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="members" label="members">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="494.8986" y="313.9277"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="men" label="men">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="57.542835" y="167.34697"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="merged" label="merged">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="385.01874" y="-690.13226"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="mexico" label="mexico">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="403.13232" y="147.94641"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="modern" label="modern">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-174.3232" y="-489.20895"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="mothers" label="mothers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="594.5831" y="160.55971"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="motivations" label="motivations">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-587.2697" y="-456.76215"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="names" label="names">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-223.69962" y="452.90314"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="native" label="native">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-524.2281" y="-474.58392"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="nature" label="nature">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-99.71485" y="-480.46066"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="necessary" label="necessary">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-220.4436" y="-482.96796"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="need" label="need">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-171.93658" y="-577.0985"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="new" label="new">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-20.602568" y="-146.57349"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="north" label="north">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-270.00845" y="58.5047"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="northwest" label="northwest">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-265.0714" y="376.65366"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="objects" label="objects">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="628.58264" y="346.41666"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="obtained" label="obtained">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-222.22427" y="677.4768"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="occasion" label="occasion">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-432.8288" y="576.4784"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="old" label="old">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="213.49182" y="-279.28442"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="one" label="one">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-343.1004" y="41.759426"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="ones" label="ones">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="21.62604" y="151.09009"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="only" label="only">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-457.23178" y="551.56134"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="order" label="order">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-270.86487" y="-81.10941"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="organization" label="organization">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="79.143135" y="-695.84155"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="original" label="original">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="391.74814" y="-656.9745"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="outside" label="outside">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="360.0634" y="-725.9909"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="particular" label="particular">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="93.819916" y="-801.9509"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="parts" label="parts">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="310.4377" y="-644.12103"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="party" label="party">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-373.71088" y="626.24756"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="patterns" label="patterns">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-20.261892" y="-97.78951"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="people" label="people">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="59.243713" y="-75.63951"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="peoples" label="peoples">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="178.03886" y="-505.69904"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="period" label="period">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="307.93875" y="-598.78864"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="person" label="person">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="69.907394" y="333.98328"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="personal" label="personal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.898522" y="146.66182"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="place" label="place">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-171.42287" y="-34.251766"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="plains" label="plains">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="219.77414" y="-87.10529"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="plams" label="plams">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-538.09424" y="-596.75995"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="point" label="point">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-566.95355" y="-392.83124"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="possible" label="possible">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-125.66838" y="-341.94092"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="power" label="power">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="96.4968" y="148.75214"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="powers" label="powers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="704.58923" y="218.475"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="prayersticks" label="prayersticks">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="473.52032" y="333.7859"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="prerogatives" label="prerogatives">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-212.92236" y="534.21826"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="present" label="present">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="209.69167" y="-636.7814"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="priest" label="priest">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="488.7449" y="122.2553"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="priests" label="priests">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="413.96738" y="90.78452"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="primitive" label="primitive">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="112.79192" y="-529.7987"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="privileges" label="privileges">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-343.56403" y="504.23755"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="problem" label="problem">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-506.8227" y="-561.5135"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="process" label="process">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="353.24445" y="-690.337"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="processes" label="processes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="280.0701" y="-702.2228"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="property" label="property">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-210.77835" y="400.90485"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="psychology" label="psychology">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-422.2525" y="-339.96033"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="puberty" label="puberty">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="136.9577" y="-499.3098"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="pueblo" label="pueblo">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="411.77322" y="-205.86723"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="pueblos" label="pueblos">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="335.23715" y="-7.9264555"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="question" label="question">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="262.09457" y="-634.8764"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="quite" label="quite">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-135.13988" y="-619.9291"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="race" label="race">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="229.42776" y="-662.52264"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="rain" label="rain">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="482.4556" y="-271.91516"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="recognized" label="recognized">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="202.93967" y="495.14636"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="regarded" label="regarded">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-509.91373" y="-437.85867"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="relation" label="relation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="329.4812" y="-754.0871"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="relationship" label="relationship">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="174.84807" y="-710.04376"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="relatives" label="relatives">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-260.57336" y="674.59467"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="religion" label="religion">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="167.91785" y="-568.6722"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="religious" label="religious">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="167.79529" y="-111.12644"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="responses" label="responses">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-421.78503" y="-505.59473"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="return" label="return">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-315.43994" y="432.72946"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="right" label="right">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-367.70615" y="584.90265"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="rites" label="rites">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="114.07826" y="-606.978"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="ritual" label="ritual">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="462.4105" y="162.20287"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="role" label="role">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="324.84195" y="-719.05585"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="sacred" label="sacred">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="432.03604" y="141.35884"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="said" label="said">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="143.21211" y="491.87872"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="say" label="say">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="226.25644" y="377.20013"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="scalp" label="scalp">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="600.3786" y="50.817715"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="science" label="science">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="232.90697" y="-808.46136"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="sea" label="sea">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-300.30353" y="716.1949"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="seen" label="seen">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-600.9604" y="-425.87054"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="selected" label="selected">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-468.05096" y="-420.5744"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="sense" label="sense">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-526.4972" y="-329.69135"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="set" label="set">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="418.9436" y="-154.34053"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="sex" label="sex">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="584.5555" y="187.5592"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="shall" label="shall">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-493.99652" y="429.42096"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="shaman" label="shaman">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-426.4913" y="394.65164"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="shamans" label="shamans">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-268.94406" y="576.673"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="similar" label="similar">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-616.1414" y="-362.04492"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="sisters" label="sisters">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-524.46124" y="453.20688"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="situation" label="situation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-161.65237" y="-155.03206"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="situations" label="situations">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-541.8668" y="-366.83374"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="small" label="small">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-315.57297" y="28.252121"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="social" label="social">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-100.77772" y="-385.1001"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="societies" label="societies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="370.7408" y="-314.91318"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="society" label="society">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-120.61745" y="-171.98282"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="son" label="son">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-304.50937" y="371.8827"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="sought" label="sought">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="646.52704" y="235.53831"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="southwest" label="southwest">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="612.9035" y="102.37801"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="spirits" label="spirits">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-419.35178" y="661.2049"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="spouse" label="spouse">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-253.59451" y="524.59247"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="standards" label="standards">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-134.83562" y="-575.8801"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="study" label="study">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="157.30908" y="-509.33875"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="supernatural" label="supernatural">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="140.8968" y="134.82672"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="supernaturals" label="supernaturals">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="692.9648" y="252.4997"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="tabu" label="tabu">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-443.34653" y="637.5921"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="taken" label="taken">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="174.22218" y="211.31062"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="terms" label="terms">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-272.51422" y="-507.50833"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="that" label="that">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-332.92267" y="540.2156"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="the" label="the">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.9365714" y="-35.614037"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="their" label="their">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="464.08563" y="104.337364"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="there" label="there">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="83.4404" y="-90.12672"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="these" label="these">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="109.61168" y="226.24913"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="they" label="they">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="91.5614" y="34.669544"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="things" label="things">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="642.207" y="67.69836"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="this" label="this">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-65.49044" y="-130.2625"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="thought" label="thought">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="449.7374" y="-221.04802"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="time" label="time">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-69.12051" y="-68.77824"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="took" label="took">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-238.46439" y="562.5309"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="traditional" label="traditional">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-270.54718" y="-151.54451"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="trait" label="trait">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="217.02794" y="-541.75256"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="traits" label="traits">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-96.85754" y="-427.67487"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="trance" label="trance">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-506.75323" y="-396.53265"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="tribal" label="tribal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="577.9428" y="336.84793"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="tribe" label="tribe">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-154.06403" y="76.195274"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="tribes" label="tribes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-31.313313" y="21.504616"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="TRUE" label="TRUE">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-537.6443" y="519.2509"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="type" label="type">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-471.03253" y="-530.72003"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="types" label="types">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-551.5433" y="-512.7659"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="understand" label="understand">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="272.0578" y="-598.3932"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="use" label="use">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="16.553387" y="1.0572137"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="used" label="used">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="73.6646" y="197.75505"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="valuable" label="valuable">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="220.00418" y="422.57422"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="values" label="values">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="37.44576" y="-801.0684"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="village" label="village">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-45.989132" y="342.84158"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="vision" label="vision">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="318.23587" y="-214.14395"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="war" label="war">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="235.80092" y="-207.42763"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="warfare" label="warfare">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="340.52838" y="-616.8268"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="water" label="water">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="615.7167" y="211.13338"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="way" label="way">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="6.575428" y="-61.555115"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="ways" label="ways">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-179.25804" y="-656.8051"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="wealth" label="wealth">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-357.3286" y="424.07922"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="went" label="went">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-210.06647" y="589.47894"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="western" label="western">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-145.47467" y="-455.05847"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="when" label="when">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-67.168945" y="65.276215"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="wife" label="wife">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="22.886251" y="343.88193"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="with" label="with">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="91.69143" y="-16.701824"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="woman" label="woman">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="183.52438" y="409.30228"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="women" label="women">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="202.06311" y="-163.13097"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="work" label="work">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-302.94785" y="663.0711"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="world" label="world">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="18.752789" y="-209.37524"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="wthh" label="wthh">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="150.17964" y="436.0421"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="year" label="year">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="69.51993" y="361.90033"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="years" label="years">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="205.87119" y="216.54666"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="york" label="york">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-372.8269" y="-377.43936"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="zufii" label="zufii">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="173.01242" y="-83.39064"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="zufn" label="zufn">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-434.96683" y="-438.35983"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="zuni" label="zuni">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="597.80084" y="-1.1645503"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="blankets" label="blankets">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-284.69284" y="422.4919"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="chiefs" label="chiefs">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-469.41003" y="400.65503"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="congenial" label="congenial">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-470.25772" y="-459.2928"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="corn" label="corn">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="503.50085" y="92.73514"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="dancers" label="dancers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="538.36365" y="334.13046"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="dionysian" label="dionysian">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="445.89694" y="194.7377"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="disease" label="disease">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-168.24232" y="496.1631"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="dobuan" label="dobuan">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-240.6859" y="392.31503"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="exchanges" label="exchanges">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-137.23691" y="596.44037"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="food" label="food">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-328.02847" y="463.8556"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="fortune" label="fortune">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-423.4768" y="-377.30417"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="gift" label="gift">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-169.52621" y="576.7711"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="goods" label="goods">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-305.9866" y="615.7999"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="grief" label="grief">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="722.42474" y="147.96904"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="heads" label="heads">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="677.65204" y="48.871193"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="husbands" label="husbands">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="499.9225" y="265.2083"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="indans" label="indans">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-455.8562" y="-599.41095"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="initiation" label="initiation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="511.8679" y="56.410732"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="islands" label="islands">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-389.02603" y="672.7322"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="kachina" label="kachina">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="511.07373" y="358.86914"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="kachinas" label="kachinas">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="520.0636" y="296.85538"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="medicme" label="medicme">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="599.9594" y="78.635735"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="member" label="member">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="654.58496" y="317.31918"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="occasions" label="occasions">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="527.073" y="219.0596"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="owned" label="owned">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-505.00134" y="487.4561"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="owner" label="owner">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-298.10022" y="558.023"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="owners" label="owners">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-364.6657" y="694.891"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="practice" label="practice">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="113.80668" y="403.33258"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="rival" label="rival">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-382.82022" y="493.01877"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="seed" label="seed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-144.96747" y="552.79425"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="susu" label="susu">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-252.30109" y="480.22443"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="then" label="then">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-142.96007" y="687.32324"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="tree" label="tree">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-170.92697" y="468.34137"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="zufil" label="zufil">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-442.83" y="-556.1915"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="cannibal" label="cannibal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-393.26736" y="422.65793"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="canoe" label="canoe">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-260.15317" y="422.8421"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="canoes" label="canoes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-287.03088" y="510.4772"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="charm" label="charm">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-236.35617" y="612.23676"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="charms" label="charms">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-184.39447" y="550.4114"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="contest" label="contest">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-184.75629" y="728.5147"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="copper" label="copper">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-326.9073" y="396.09793"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="fatherinlaw" label="fatherinlaw">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-424.96747" y="491.768"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="frustration" label="frustration">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-613.52936" y="-397.01257"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="garden" label="garden">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-194.11154" y="441.42133"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="greatness" label="greatness">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-333.054" y="706.6473"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="incantation" label="incantation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-190.64319" y="620.3164"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="incantations" label="incantations">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-391.04697" y="386.0552"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="kula" label="kula">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-230.83583" y="428.87015"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="potlatch" label="potlatch">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-228.37245" y="729.5253"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="report" label="report">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-578.90137" y="-342.0166"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="rivalry" label="rivalry">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-485.19193" y="-585.9856"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="rivals" label="rivals">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-403.49744" y="524.08234"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="shame" label="shame">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-334.4614" y="366.39627"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="soninlaw" label="soninlaw">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-374.14322" y="545.12146"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="tlabid" label="tlabid">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-340.00192" y="645.54114"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="valuables" label="valuables">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-301.24182" y="483.53815"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="victim" label="victim">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-266.14026" y="634.05225"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="yams" label="yams">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-262.5601" y="450.004"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="bureau" label="bureau">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-631.6468" y="-470.08496"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="kwakmtl" label="kwakmtl">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-575.89685" y="-559.7167"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="783749" source="abnormal" target="Pattern_culture_Split3.txt" weight="12.0"></edge>
+      <edge id="783750" source="according" target="Pattern_culture_Split2.txt" weight="12.0"></edge>
+      <edge id="783751" source="account" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="783752" source="act" target="Pattern_culture_Split1.txt" weight="14.0"></edge>
+      <edge id="783753" source="adolescence" target="Pattern_culture_Split0.txt" weight="12.0"></edge>
+      <edge id="783754" source="adolescence" target="Pattern_culture_Split3.txt" weight="15.0"></edge>
+      <edge id="783755" source="adolescent" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783756" source="all" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783757" source="all" target="Pattern_culture_Split1.txt" weight="18.0"></edge>
+      <edge id="783758" source="all" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="783759" source="altar" target="Pattern_culture_Split1.txt" weight="14.0"></edge>
+      <edge id="783760" source="america" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="783761" source="america" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="783762" source="america" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="783763" source="american" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="783764" source="analysis" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="783765" source="and" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="783766" source="and" target="Pattern_culture_Split3.txt" weight="16.0"></edge>
+      <edge id="783767" source="anthropology" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="783768" source="apollonian" target="Pattern_culture_Split1.txt" weight="15.0"></edge>
+      <edge id="783769" source="art" target="Pattern_culture_Split0.txt" weight="20.0"></edge>
+      <edge id="783770" source="attitudes" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783771" source="authority" target="Pattern_culture_Split1.txt" weight="27.0"></edge>
+      <edge id="783772" source="away" target="Pattern_culture_Split2.txt" weight="24.0"></edge>
+      <edge id="783773" source="behaviour" target="Pattern_culture_Split0.txt" weight="44.0"></edge>
+      <edge id="783774" source="behaviour" target="Pattern_culture_Split2.txt" weight="18.0"></edge>
+      <edge id="783775" source="behaviour" target="Pattern_culture_Split3.txt" weight="50.0"></edge>
+      <edge id="783776" source="biological" target="Pattern_culture_Split0.txt" weight="12.0"></edge>
+      <edge id="783777" source="blessing" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783778" source="boas" target="Pattern_culture_Split3.txt" weight="34.0"></edge>
+      <edge id="783779" source="body" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="783780" source="body" target="Pattern_culture_Split2.txt" weight="17.0"></edge>
+      <edge id="783781" source="body" target="Pattern_culture_Split3.txt" weight="12.0"></edge>
+      <edge id="783782" source="boy" target="Pattern_culture_Split1.txt" weight="14.0"></edge>
+      <edge id="783783" source="boys" target="Pattern_culture_Split0.txt" weight="16.0"></edge>
+      <edge id="783784" source="boys" target="Pattern_culture_Split1.txt" weight="20.0"></edge>
+      <edge id="783785" source="breath" target="Pattern_culture_Split1.txt" weight="16.0"></edge>
+      <edge id="783786" source="brother" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="783787" source="built" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783788" source="bunzel" target="Pattern_culture_Split3.txt" weight="17.0"></edge>
+      <edge id="783789" source="but" target="Pattern_culture_Split0.txt" weight="29.0"></edge>
+      <edge id="783790" source="but" target="Pattern_culture_Split1.txt" weight="46.0"></edge>
+      <edge id="783791" source="but" target="Pattern_culture_Split2.txt" weight="17.0"></edge>
+      <edge id="783792" source="but" target="Pattern_culture_Split3.txt" weight="15.0"></edge>
+      <edge id="783793" source="called" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="783794" source="called" target="Pattern_culture_Split2.txt" weight="18.0"></edge>
+      <edge id="783795" source="came" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="783796" source="carried" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="783797" source="case" target="Pattern_culture_Split1.txt" weight="12.0"></edge>
+      <edge id="783798" source="case" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="783799" source="cases" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="783800" source="ceremonial" target="Pattern_culture_Split1.txt" weight="44.0"></edge>
+      <edge id="783801" source="ceremonies" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783802" source="ceremony" target="Pattern_culture_Split1.txt" weight="14.0"></edge>
+      <edge id="783803" source="certain" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="783804" source="certain" target="Pattern_culture_Split3.txt" weight="28.0"></edge>
+      <edge id="783805" source="change" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783806" source="chapter" target="Pattern_culture_Split3.txt" weight="16.0"></edge>
+      <edge id="783807" source="character" target="Pattern_culture_Split3.txt" weight="12.0"></edge>
+      <edge id="783808" source="chief" target="Pattern_culture_Split1.txt" weight="18.0"></edge>
+      <edge id="783809" source="chief" target="Pattern_culture_Split2.txt" weight="54.0"></edge>
+      <edge id="783810" source="child" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783811" source="child" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="783812" source="child" target="Pattern_culture_Split3.txt" weight="20.0"></edge>
+      <edge id="783813" source="children" target="Pattern_culture_Split1.txt" weight="24.0"></edge>
+      <edge id="783814" source="children" target="Pattern_culture_Split2.txt" weight="24.0"></edge>
+      <edge id="783815" source="cities" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783816" source="civilization" target="Pattern_culture_Split0.txt" weight="40.0"></edge>
+      <edge id="783817" source="civilization" target="Pattern_culture_Split3.txt" weight="26.0"></edge>
+      <edge id="783818" source="civilizations" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783819" source="clan" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="783820" source="clear" target="Pattern_culture_Split0.txt" weight="12.0"></edge>
+      <edge id="783821" source="clear" target="Pattern_culture_Split3.txt" weight="15.0"></edge>
+      <edge id="783822" source="coast" target="Pattern_culture_Split2.txt" weight="37.0"></edge>
+      <edge id="783823" source="coast" target="Pattern_culture_Split3.txt" weight="10.0"></edge>
+      <edge id="783824" source="come" target="Pattern_culture_Split0.txt" weight="18.0"></edge>
+      <edge id="783825" source="come" target="Pattern_culture_Split1.txt" weight="18.0"></edge>
+      <edge id="783826" source="common" target="Pattern_culture_Split0.txt" weight="16.0"></edge>
+      <edge id="783827" source="common" target="Pattern_culture_Split1.txt" weight="14.0"></edge>
+      <edge id="783828" source="common" target="Pattern_culture_Split2.txt" weight="21.0"></edge>
+      <edge id="783829" source="complex" target="Pattern_culture_Split0.txt" weight="19.0"></edge>
+      <edge id="783830" source="course" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="783831" source="course" target="Pattern_culture_Split2.txt" weight="16.0"></edge>
+      <edge id="783832" source="course" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="783833" source="cult" target="Pattern_culture_Split1.txt" weight="30.0"></edge>
+      <edge id="783834" source="cultural" target="Pattern_culture_Split0.txt" weight="66.0"></edge>
+      <edge id="783835" source="cultural" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="783836" source="cultural" target="Pattern_culture_Split3.txt" weight="56.0"></edge>
+      <edge id="783837" source="culture" target="Pattern_culture_Split0.txt" weight="121.0"></edge>
+      <edge id="783838" source="culture" target="Pattern_culture_Split1.txt" weight="38.0"></edge>
+      <edge id="783839" source="culture" target="Pattern_culture_Split2.txt" weight="51.0"></edge>
+      <edge id="783840" source="culture" target="Pattern_culture_Split3.txt" weight="124.0"></edge>
+      <edge id="783841" source="cultures" target="Pattern_culture_Split0.txt" weight="47.0"></edge>
+      <edge id="783842" source="cultures" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="783843" source="cultures" target="Pattern_culture_Split3.txt" weight="35.0"></edge>
+      <edge id="783844" source="custom" target="Pattern_culture_Split0.txt" weight="33.0"></edge>
+      <edge id="783845" source="dance" target="Pattern_culture_Split1.txt" weight="58.0"></edge>
+      <edge id="783846" source="dance" target="Pattern_culture_Split2.txt" weight="19.0"></edge>
+      <edge id="783847" source="dance" target="Pattern_culture_Split3.txt" weight="16.0"></edge>
+      <edge id="783848" source="dances" target="Pattern_culture_Split1.txt" weight="19.0"></edge>
+      <edge id="783849" source="dancing" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="783850" source="danger" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="783851" source="dangerous" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="783852" source="daughter" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="783853" source="day" target="Pattern_culture_Split1.txt" weight="15.0"></edge>
+      <edge id="783854" source="days" target="Pattern_culture_Split1.txt" weight="18.0"></edge>
+      <edge id="783855" source="dead" target="Pattern_culture_Split1.txt" weight="19.0"></edge>
+      <edge id="783856" source="dead" target="Pattern_culture_Split2.txt" weight="20.0"></edge>
+      <edge id="783857" source="death" target="Pattern_culture_Split1.txt" weight="35.0"></edge>
+      <edge id="783858" source="death" target="Pattern_culture_Split2.txt" weight="37.0"></edge>
+      <edge id="783859" source="death" target="Pattern_culture_Split3.txt" weight="29.0"></edge>
+      <edge id="783860" source="development" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783861" source="died" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="783862" source="different" target="Pattern_culture_Split0.txt" weight="43.0"></edge>
+      <edge id="783863" source="different" target="Pattern_culture_Split2.txt" weight="14.0"></edge>
+      <edge id="783864" source="different" target="Pattern_culture_Split3.txt" weight="34.0"></edge>
+      <edge id="783865" source="diversity" target="Pattern_culture_Split0.txt" weight="17.0"></edge>
+      <edge id="783866" source="dobu" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="783867" source="dobu" target="Pattern_culture_Split2.txt" weight="56.0"></edge>
+      <edge id="783868" source="dobu" target="Pattern_culture_Split3.txt" weight="37.0"></edge>
+      <edge id="783869" source="each" target="Pattern_culture_Split2.txt" weight="16.0"></edge>
+      <edge id="783870" source="economic" target="Pattern_culture_Split0.txt" weight="15.0"></edge>
+      <edge id="783871" source="economic" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="783872" source="economic" target="Pattern_culture_Split2.txt" weight="14.0"></edge>
+      <edge id="783873" source="elements" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="783874" source="especially" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="783875" source="ethnology" target="Pattern_culture_Split3.txt" weight="15.0"></edge>
+      <edge id="783876" source="even" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="783877" source="even" target="Pattern_culture_Split1.txt" weight="18.0"></edge>
+      <edge id="783878" source="even" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="783879" source="every" target="Pattern_culture_Split2.txt" weight="12.0"></edge>
+      <edge id="783880" source="exchange" target="Pattern_culture_Split2.txt" weight="26.0"></edge>
+      <edge id="783881" source="existence" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783882" source="experience" target="Pattern_culture_Split0.txt" weight="22.0"></edge>
+      <edge id="783883" source="experience" target="Pattern_culture_Split1.txt" weight="28.0"></edge>
+      <edge id="783884" source="experience" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="783885" source="experiences" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="783886" source="extreme" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="783887" source="extreme" target="Pattern_culture_Split3.txt" weight="14.0"></edge>
+      <edge id="783888" source="fact" target="Pattern_culture_Split0.txt" weight="15.0"></edge>
+      <edge id="783889" source="fact" target="Pattern_culture_Split2.txt" weight="12.0"></edge>
+      <edge id="783890" source="fact" target="Pattern_culture_Split3.txt" weight="14.0"></edge>
+      <edge id="783891" source="facts" target="Pattern_culture_Split0.txt" weight="16.0"></edge>
+      <edge id="783892" source="facts" target="Pattern_culture_Split3.txt" weight="14.0"></edge>
+      <edge id="783893" source="family" target="Pattern_culture_Split1.txt" weight="19.0"></edge>
+      <edge id="783894" source="family" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="783895" source="family" target="Pattern_culture_Split3.txt" weight="17.0"></edge>
+      <edge id="783896" source="far" target="Pattern_culture_Split0.txt" weight="23.0"></edge>
+      <edge id="783897" source="far" target="Pattern_culture_Split2.txt" weight="12.0"></edge>
+      <edge id="783898" source="far" target="Pattern_culture_Split3.txt" weight="18.0"></edge>
+      <edge id="783899" source="father" target="Pattern_culture_Split1.txt" weight="18.0"></edge>
+      <edge id="783900" source="father" target="Pattern_culture_Split2.txt" weight="30.0"></edge>
+      <edge id="783901" source="for" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="783902" source="for" target="Pattern_culture_Split2.txt" weight="16.0"></edge>
+      <edge id="783903" source="for" target="Pattern_culture_Split3.txt" weight="44.0"></edge>
+      <edge id="783904" source="form" target="Pattern_culture_Split0.txt" weight="22.0"></edge>
+      <edge id="783905" source="formal" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="783906" source="forms" target="Pattern_culture_Split0.txt" weight="30.0"></edge>
+      <edge id="783907" source="forms" target="Pattern_culture_Split3.txt" weight="14.0"></edge>
+      <edge id="783908" source="fundamental" target="Pattern_culture_Split0.txt" weight="13.0"></edge>
+      <edge id="783909" source="gardens" target="Pattern_culture_Split2.txt" weight="12.0"></edge>
+      <edge id="783910" source="gave" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783911" source="gave" target="Pattern_culture_Split2.txt" weight="24.0"></edge>
+      <edge id="783912" source="generation" target="Pattern_culture_Split3.txt" weight="14.0"></edge>
+      <edge id="783913" source="gifts" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="783914" source="girls" target="Pattern_culture_Split0.txt" weight="24.0"></edge>
+      <edge id="783915" source="girls" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="783916" source="given" target="Pattern_culture_Split0.txt" weight="16.0"></edge>
+      <edge id="783917" source="given" target="Pattern_culture_Split1.txt" weight="15.0"></edge>
+      <edge id="783918" source="given" target="Pattern_culture_Split2.txt" weight="18.0"></edge>
+      <edge id="783919" source="gods" target="Pattern_culture_Split0.txt" weight="16.0"></edge>
+      <edge id="783920" source="gods" target="Pattern_culture_Split1.txt" weight="30.0"></edge>
+      <edge id="783921" source="goes" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="783922" source="good" target="Pattern_culture_Split1.txt" weight="14.0"></edge>
+      <edge id="783923" source="good" target="Pattern_culture_Split2.txt" weight="12.0"></edge>
+      <edge id="783924" source="good" target="Pattern_culture_Split3.txt" weight="13.0"></edge>
+      <edge id="783925" source="great" target="Pattern_culture_Split0.txt" weight="51.0"></edge>
+      <edge id="783926" source="great" target="Pattern_culture_Split1.txt" weight="29.0"></edge>
+      <edge id="783927" source="great" target="Pattern_culture_Split2.txt" weight="59.0"></edge>
+      <edge id="783928" source="great" target="Pattern_culture_Split3.txt" weight="22.0"></edge>
+      <edge id="783929" source="ground" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="783930" source="group" target="Pattern_culture_Split0.txt" weight="28.0"></edge>
+      <edge id="783931" source="group" target="Pattern_culture_Split1.txt" weight="40.0"></edge>
+      <edge id="783932" source="group" target="Pattern_culture_Split2.txt" weight="14.0"></edge>
+      <edge id="783933" source="group" target="Pattern_culture_Split3.txt" weight="32.0"></edge>
+      <edge id="783934" source="groups" target="Pattern_culture_Split0.txt" weight="16.0"></edge>
+      <edge id="783935" source="groups" target="Pattern_culture_Split1.txt" weight="14.0"></edge>
+      <edge id="783936" source="groups" target="Pattern_culture_Split3.txt" weight="15.0"></edge>
+      <edge id="783937" source="hand" target="Pattern_culture_Split0.txt" weight="12.0"></edge>
+      <edge id="783938" source="hand" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="783939" source="head" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="783940" source="heredity" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783941" source="his" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="783942" source="his" target="Pattern_culture_Split2.txt" weight="21.0"></edge>
+      <edge id="783943" source="historical" target="Pattern_culture_Split0.txt" weight="15.0"></edge>
+      <edge id="783944" source="history" target="Pattern_culture_Split0.txt" weight="17.0"></edge>
+      <edge id="783945" source="history" target="Pattern_culture_Split3.txt" weight="16.0"></edge>
+      <edge id="783946" source="home" target="Pattern_culture_Split2.txt" weight="14.0"></edge>
+      <edge id="783947" source="house" target="Pattern_culture_Split1.txt" weight="28.0"></edge>
+      <edge id="783948" source="house" target="Pattern_culture_Split2.txt" weight="25.0"></edge>
+      <edge id="783949" source="household" target="Pattern_culture_Split1.txt" weight="23.0"></edge>
+      <edge id="783950" source="human" target="Pattern_culture_Split0.txt" weight="68.0"></edge>
+      <edge id="783951" source="human" target="Pattern_culture_Split3.txt" weight="38.0"></edge>
+      <edge id="783952" source="husband" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="783953" source="husband" target="Pattern_culture_Split2.txt" weight="22.0"></edge>
+      <edge id="783954" source="importance" target="Pattern_culture_Split0.txt" weight="13.0"></edge>
+      <edge id="783955" source="importance" target="Pattern_culture_Split3.txt" weight="10.0"></edge>
+      <edge id="783956" source="important" target="Pattern_culture_Split0.txt" weight="12.0"></edge>
+      <edge id="783957" source="important" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="783958" source="important" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="783959" source="important" target="Pattern_culture_Split3.txt" weight="14.0"></edge>
+      <edge id="783960" source="indian" target="Pattern_culture_Split1.txt" weight="12.0"></edge>
+      <edge id="783961" source="indians" target="Pattern_culture_Split1.txt" weight="16.0"></edge>
+      <edge id="783962" source="indians" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="783963" source="individual" target="Pattern_culture_Split0.txt" weight="15.0"></edge>
+      <edge id="783964" source="individual" target="Pattern_culture_Split1.txt" weight="23.0"></edge>
+      <edge id="783965" source="individual" target="Pattern_culture_Split3.txt" weight="42.0"></edge>
+      <edge id="783966" source="individuals" target="Pattern_culture_Split3.txt" weight="26.0"></edge>
+      <edge id="783967" source="institutions" target="Pattern_culture_Split0.txt" weight="18.0"></edge>
+      <edge id="783968" source="institutions" target="Pattern_culture_Split1.txt" weight="15.0"></edge>
+      <edge id="783969" source="institutions" target="Pattern_culture_Split3.txt" weight="26.0"></edge>
+      <edge id="783970" source="integration" target="Pattern_culture_Split0.txt" weight="12.0"></edge>
+      <edge id="783971" source="integration" target="Pattern_culture_Split3.txt" weight="12.0"></edge>
+      <edge id="783972" source="island" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="783973" source="just" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="783974" source="just" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="783975" source="killed" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="783976" source="killed" target="Pattern_culture_Split2.txt" weight="14.0"></edge>
+      <edge id="783977" source="kind" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="783978" source="kiva" target="Pattern_culture_Split1.txt" weight="12.0"></edge>
+      <edge id="783979" source="know" target="Pattern_culture_Split0.txt" weight="15.0"></edge>
+      <edge id="783980" source="know" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="783981" source="knowledge" target="Pattern_culture_Split0.txt" weight="13.0"></edge>
+      <edge id="783982" source="known" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="783983" source="kwakiutl" target="Pattern_culture_Split2.txt" weight="24.0"></edge>
+      <edge id="783984" source="kwakiutl" target="Pattern_culture_Split3.txt" weight="31.0"></edge>
+      <edge id="783985" source="life" target="Pattern_culture_Split0.txt" weight="41.0"></edge>
+      <edge id="783986" source="life" target="Pattern_culture_Split1.txt" weight="52.0"></edge>
+      <edge id="783987" source="life" target="Pattern_culture_Split2.txt" weight="24.0"></edge>
+      <edge id="783988" source="life" target="Pattern_culture_Split3.txt" weight="34.0"></edge>
+      <edge id="783989" source="like" target="Pattern_culture_Split0.txt" weight="15.0"></edge>
+      <edge id="783990" source="like" target="Pattern_culture_Split1.txt" weight="31.0"></edge>
+      <edge id="783991" source="like" target="Pattern_culture_Split2.txt" weight="19.0"></edge>
+      <edge id="783992" source="like" target="Pattern_culture_Split3.txt" weight="17.0"></edge>
+      <edge id="783993" source="line" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="783994" source="little" target="Pattern_culture_Split0.txt" weight="21.0"></edge>
+      <edge id="783995" source="little" target="Pattern_culture_Split1.txt" weight="15.0"></edge>
+      <edge id="783996" source="living" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="783997" source="local" target="Pattern_culture_Split0.txt" weight="20.0"></edge>
+      <edge id="783998" source="local" target="Pattern_culture_Split3.txt" weight="10.0"></edge>
+      <edge id="783999" source="london" target="Pattern_culture_Split3.txt" weight="18.0"></edge>
+      <edge id="784000" source="long" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="784001" source="longer" target="Pattern_culture_Split3.txt" weight="10.0"></edge>
+      <edge id="784002" source="love" target="Pattern_culture_Split3.txt" weight="21.0"></edge>
+      <edge id="784003" source="magic" target="Pattern_culture_Split2.txt" weight="21.0"></edge>
+      <edge id="784004" source="magical" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="784005" source="make" target="Pattern_culture_Split0.txt" weight="21.0"></edge>
+      <edge id="784006" source="make" target="Pattern_culture_Split1.txt" weight="28.0"></edge>
+      <edge id="784007" source="make" target="Pattern_culture_Split2.txt" weight="22.0"></edge>
+      <edge id="784008" source="make" target="Pattern_culture_Split3.txt" weight="16.0"></edge>
+      <edge id="784009" source="makes" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784010" source="makes" target="Pattern_culture_Split1.txt" weight="15.0"></edge>
+      <edge id="784011" source="makes" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784012" source="makes" target="Pattern_culture_Split3.txt" weight="13.0"></edge>
+      <edge id="784013" source="man" target="Pattern_culture_Split0.txt" weight="37.0"></edge>
+      <edge id="784014" source="man" target="Pattern_culture_Split1.txt" weight="69.0"></edge>
+      <edge id="784015" source="man" target="Pattern_culture_Split2.txt" weight="72.0"></edge>
+      <edge id="784016" source="man" target="Pattern_culture_Split3.txt" weight="27.0"></edge>
+      <edge id="784017" source="mans" target="Pattern_culture_Split0.txt" weight="14.0"></edge>
+      <edge id="784018" source="mans" target="Pattern_culture_Split1.txt" weight="20.0"></edge>
+      <edge id="784019" source="mans" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784020" source="marriage" target="Pattern_culture_Split0.txt" weight="16.0"></edge>
+      <edge id="784021" source="marriage" target="Pattern_culture_Split1.txt" weight="18.0"></edge>
+      <edge id="784022" source="marriage" target="Pattern_culture_Split2.txt" weight="48.0"></edge>
+      <edge id="784023" source="marriage" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="784024" source="mask" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="784025" source="masked" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784026" source="masks" target="Pattern_culture_Split1.txt" weight="12.0"></edge>
+      <edge id="784027" source="material" target="Pattern_culture_Split0.txt" weight="14.0"></edge>
+      <edge id="784028" source="matter" target="Pattern_culture_Split0.txt" weight="29.0"></edge>
+      <edge id="784029" source="matter" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784030" source="matter" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784031" source="may" target="Pattern_culture_Split0.txt" weight="12.0"></edge>
+      <edge id="784032" source="means" target="Pattern_culture_Split0.txt" weight="14.0"></edge>
+      <edge id="784033" source="means" target="Pattern_culture_Split1.txt" weight="14.0"></edge>
+      <edge id="784034" source="means" target="Pattern_culture_Split2.txt" weight="22.0"></edge>
+      <edge id="784035" source="means" target="Pattern_culture_Split3.txt" weight="10.0"></edge>
+      <edge id="784036" source="medicine" target="Pattern_culture_Split1.txt" weight="21.0"></edge>
+      <edge id="784037" source="members" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784038" source="men" target="Pattern_culture_Split1.txt" weight="50.0"></edge>
+      <edge id="784039" source="men" target="Pattern_culture_Split2.txt" weight="37.0"></edge>
+      <edge id="784040" source="men" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="784041" source="merged" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784042" source="mexico" target="Pattern_culture_Split1.txt" weight="32.0"></edge>
+      <edge id="784043" source="modern" target="Pattern_culture_Split0.txt" weight="16.0"></edge>
+      <edge id="784044" source="modern" target="Pattern_culture_Split3.txt" weight="19.0"></edge>
+      <edge id="784045" source="mothers" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784046" source="motivations" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="784047" source="names" target="Pattern_culture_Split2.txt" weight="26.0"></edge>
+      <edge id="784048" source="native" target="Pattern_culture_Split3.txt" weight="12.0"></edge>
+      <edge id="784049" source="nature" target="Pattern_culture_Split0.txt" weight="24.0"></edge>
+      <edge id="784050" source="nature" target="Pattern_culture_Split3.txt" weight="19.0"></edge>
+      <edge id="784051" source="necessary" target="Pattern_culture_Split0.txt" weight="13.0"></edge>
+      <edge id="784052" source="necessary" target="Pattern_culture_Split3.txt" weight="20.0"></edge>
+      <edge id="784053" source="need" target="Pattern_culture_Split0.txt" weight="13.0"></edge>
+      <edge id="784054" source="need" target="Pattern_culture_Split3.txt" weight="13.0"></edge>
+      <edge id="784055" source="new" target="Pattern_culture_Split0.txt" weight="19.0"></edge>
+      <edge id="784056" source="new" target="Pattern_culture_Split1.txt" weight="36.0"></edge>
+      <edge id="784057" source="new" target="Pattern_culture_Split2.txt" weight="12.0"></edge>
+      <edge id="784058" source="new" target="Pattern_culture_Split3.txt" weight="48.0"></edge>
+      <edge id="784059" source="north" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="784060" source="north" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784061" source="north" target="Pattern_culture_Split3.txt" weight="10.0"></edge>
+      <edge id="784062" source="northwest" target="Pattern_culture_Split2.txt" weight="35.0"></edge>
+      <edge id="784063" source="objects" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="784064" source="obtained" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784065" source="occasion" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784066" source="old" target="Pattern_culture_Split0.txt" weight="19.0"></edge>
+      <edge id="784067" source="old" target="Pattern_culture_Split1.txt" weight="16.0"></edge>
+      <edge id="784068" source="old" target="Pattern_culture_Split3.txt" weight="12.0"></edge>
+      <edge id="784069" source="one" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784070" source="one" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="784071" source="ones" target="Pattern_culture_Split0.txt" weight="13.0"></edge>
+      <edge id="784072" source="ones" target="Pattern_culture_Split1.txt" weight="17.0"></edge>
+      <edge id="784073" source="ones" target="Pattern_culture_Split2.txt" weight="28.0"></edge>
+      <edge id="784074" source="only" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784075" source="order" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="784076" source="order" target="Pattern_culture_Split3.txt" weight="12.0"></edge>
+      <edge id="784077" source="organization" target="Pattern_culture_Split0.txt" weight="13.0"></edge>
+      <edge id="784078" source="original" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784079" source="outside" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784080" source="particular" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784081" source="parts" target="Pattern_culture_Split0.txt" weight="12.0"></edge>
+      <edge id="784082" source="party" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784083" source="patterns" target="Pattern_culture_Split0.txt" weight="31.0"></edge>
+      <edge id="784084" source="patterns" target="Pattern_culture_Split1.txt" weight="26.0"></edge>
+      <edge id="784085" source="patterns" target="Pattern_culture_Split2.txt" weight="27.0"></edge>
+      <edge id="784086" source="patterns" target="Pattern_culture_Split3.txt" weight="26.0"></edge>
+      <edge id="784087" source="people" target="Pattern_culture_Split0.txt" weight="33.0"></edge>
+      <edge id="784088" source="people" target="Pattern_culture_Split1.txt" weight="31.0"></edge>
+      <edge id="784089" source="people" target="Pattern_culture_Split2.txt" weight="25.0"></edge>
+      <edge id="784090" source="people" target="Pattern_culture_Split3.txt" weight="13.0"></edge>
+      <edge id="784091" source="peoples" target="Pattern_culture_Split0.txt" weight="31.0"></edge>
+      <edge id="784092" source="period" target="Pattern_culture_Split0.txt" weight="13.0"></edge>
+      <edge id="784093" source="person" target="Pattern_culture_Split1.txt" weight="17.0"></edge>
+      <edge id="784094" source="person" target="Pattern_culture_Split2.txt" weight="24.0"></edge>
+      <edge id="784095" source="personal" target="Pattern_culture_Split1.txt" weight="17.0"></edge>
+      <edge id="784096" source="personal" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784097" source="personal" target="Pattern_culture_Split3.txt" weight="10.0"></edge>
+      <edge id="784098" source="place" target="Pattern_culture_Split0.txt" weight="12.0"></edge>
+      <edge id="784099" source="place" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="784100" source="place" target="Pattern_culture_Split2.txt" weight="15.0"></edge>
+      <edge id="784101" source="place" target="Pattern_culture_Split3.txt" weight="13.0"></edge>
+      <edge id="784102" source="plains" target="Pattern_culture_Split1.txt" weight="26.0"></edge>
+      <edge id="784103" source="plains" target="Pattern_culture_Split3.txt" weight="12.0"></edge>
+      <edge id="784104" source="plams" target="Pattern_culture_Split3.txt" weight="10.0"></edge>
+      <edge id="784105" source="point" target="Pattern_culture_Split3.txt" weight="12.0"></edge>
+      <edge id="784106" source="possible" target="Pattern_culture_Split0.txt" weight="22.0"></edge>
+      <edge id="784107" source="possible" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784108" source="possible" target="Pattern_culture_Split3.txt" weight="14.0"></edge>
+      <edge id="784109" source="power" target="Pattern_culture_Split1.txt" weight="48.0"></edge>
+      <edge id="784110" source="power" target="Pattern_culture_Split2.txt" weight="24.0"></edge>
+      <edge id="784111" source="power" target="Pattern_culture_Split3.txt" weight="10.0"></edge>
+      <edge id="784112" source="powers" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="784113" source="prayersticks" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784114" source="prerogatives" target="Pattern_culture_Split2.txt" weight="17.0"></edge>
+      <edge id="784115" source="present" target="Pattern_culture_Split0.txt" weight="14.0"></edge>
+      <edge id="784116" source="priest" target="Pattern_culture_Split1.txt" weight="20.0"></edge>
+      <edge id="784117" source="priests" target="Pattern_culture_Split1.txt" weight="35.0"></edge>
+      <edge id="784118" source="primitive" target="Pattern_culture_Split0.txt" weight="32.0"></edge>
+      <edge id="784119" source="privileges" target="Pattern_culture_Split2.txt" weight="15.0"></edge>
+      <edge id="784120" source="problem" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="784121" source="process" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784122" source="processes" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="784123" source="property" target="Pattern_culture_Split2.txt" weight="41.0"></edge>
+      <edge id="784124" source="psychology" target="Pattern_culture_Split3.txt" weight="22.0"></edge>
+      <edge id="784125" source="puberty" target="Pattern_culture_Split0.txt" weight="37.0"></edge>
+      <edge id="784126" source="pueblo" target="Pattern_culture_Split0.txt" weight="12.0"></edge>
+      <edge id="784127" source="pueblo" target="Pattern_culture_Split1.txt" weight="16.0"></edge>
+      <edge id="784128" source="pueblos" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784129" source="pueblos" target="Pattern_culture_Split1.txt" weight="83.0"></edge>
+      <edge id="784130" source="question" target="Pattern_culture_Split0.txt" weight="13.0"></edge>
+      <edge id="784131" source="quite" target="Pattern_culture_Split0.txt" weight="13.0"></edge>
+      <edge id="784132" source="quite" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="784133" source="race" target="Pattern_culture_Split0.txt" weight="13.0"></edge>
+      <edge id="784134" source="rain" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784135" source="rain" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="784136" source="recognized" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="784137" source="recognized" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784138" source="regarded" target="Pattern_culture_Split3.txt" weight="13.0"></edge>
+      <edge id="784139" source="relation" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784140" source="relationship" target="Pattern_culture_Split0.txt" weight="12.0"></edge>
+      <edge id="784141" source="relatives" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784142" source="religion" target="Pattern_culture_Split0.txt" weight="21.0"></edge>
+      <edge id="784143" source="religious" target="Pattern_culture_Split0.txt" weight="20.0"></edge>
+      <edge id="784144" source="religious" target="Pattern_culture_Split1.txt" weight="16.0"></edge>
+      <edge id="784145" source="religious" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="784146" source="responses" target="Pattern_culture_Split3.txt" weight="14.0"></edge>
+      <edge id="784147" source="return" target="Pattern_culture_Split2.txt" weight="21.0"></edge>
+      <edge id="784148" source="right" target="Pattern_culture_Split2.txt" weight="12.0"></edge>
+      <edge id="784149" source="rites" target="Pattern_culture_Split0.txt" weight="19.0"></edge>
+      <edge id="784150" source="ritual" target="Pattern_culture_Split1.txt" weight="21.0"></edge>
+      <edge id="784151" source="role" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784152" source="sacred" target="Pattern_culture_Split1.txt" weight="27.0"></edge>
+      <edge id="784153" source="said" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="784154" source="said" target="Pattern_culture_Split2.txt" weight="12.0"></edge>
+      <edge id="784155" source="say" target="Pattern_culture_Split1.txt" weight="15.0"></edge>
+      <edge id="784156" source="say" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784157" source="scalp" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784158" source="science" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784159" source="sea" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784160" source="seen" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="784161" source="selected" target="Pattern_culture_Split3.txt" weight="15.0"></edge>
+      <edge id="784162" source="sense" target="Pattern_culture_Split3.txt" weight="14.0"></edge>
+      <edge id="784163" source="set" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="784164" source="set" target="Pattern_culture_Split1.txt" weight="19.0"></edge>
+      <edge id="784165" source="sex" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784166" source="shall" target="Pattern_culture_Split2.txt" weight="12.0"></edge>
+      <edge id="784167" source="shaman" target="Pattern_culture_Split2.txt" weight="15.0"></edge>
+      <edge id="784168" source="shamans" target="Pattern_culture_Split2.txt" weight="14.0"></edge>
+      <edge id="784169" source="similar" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="784170" source="sisters" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784171" source="situation" target="Pattern_culture_Split1.txt" weight="12.0"></edge>
+      <edge id="784172" source="situation" target="Pattern_culture_Split3.txt" weight="24.0"></edge>
+      <edge id="784173" source="situations" target="Pattern_culture_Split3.txt" weight="13.0"></edge>
+      <edge id="784174" source="small" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784175" source="small" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="784176" source="social" target="Pattern_culture_Split0.txt" weight="46.0"></edge>
+      <edge id="784177" source="social" target="Pattern_culture_Split3.txt" weight="46.0"></edge>
+      <edge id="784178" source="societies" target="Pattern_culture_Split0.txt" weight="16.0"></edge>
+      <edge id="784179" source="societies" target="Pattern_culture_Split1.txt" weight="12.0"></edge>
+      <edge id="784180" source="society" target="Pattern_culture_Split0.txt" weight="18.0"></edge>
+      <edge id="784181" source="society" target="Pattern_culture_Split1.txt" weight="22.0"></edge>
+      <edge id="784182" source="society" target="Pattern_culture_Split2.txt" weight="14.0"></edge>
+      <edge id="784183" source="society" target="Pattern_culture_Split3.txt" weight="69.0"></edge>
+      <edge id="784184" source="son" target="Pattern_culture_Split2.txt" weight="27.0"></edge>
+      <edge id="784185" source="sought" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="784186" source="southwest" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784187" source="spirits" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784188" source="spouse" target="Pattern_culture_Split2.txt" weight="17.0"></edge>
+      <edge id="784189" source="standards" target="Pattern_culture_Split0.txt" weight="14.0"></edge>
+      <edge id="784190" source="standards" target="Pattern_culture_Split3.txt" weight="13.0"></edge>
+      <edge id="784191" source="study" target="Pattern_culture_Split0.txt" weight="33.0"></edge>
+      <edge id="784192" source="supernatural" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="784193" source="supernatural" target="Pattern_culture_Split1.txt" weight="40.0"></edge>
+      <edge id="784194" source="supernatural" target="Pattern_culture_Split2.txt" weight="22.0"></edge>
+      <edge id="784195" source="supernaturals" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="784196" source="tabu" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784197" source="taken" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="784198" source="taken" target="Pattern_culture_Split1.txt" weight="14.0"></edge>
+      <edge id="784199" source="taken" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784200" source="terms" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784201" source="terms" target="Pattern_culture_Split3.txt" weight="18.0"></edge>
+      <edge id="784202" source="that" target="Pattern_culture_Split2.txt" weight="14.0"></edge>
+      <edge id="784203" source="the" target="Pattern_culture_Split0.txt" weight="193.0"></edge>
+      <edge id="784204" source="the" target="Pattern_culture_Split1.txt" weight="246.0"></edge>
+      <edge id="784205" source="the" target="Pattern_culture_Split2.txt" weight="262.0"></edge>
+      <edge id="784206" source="the" target="Pattern_culture_Split3.txt" weight="194.0"></edge>
+      <edge id="784207" source="their" target="Pattern_culture_Split1.txt" weight="23.0"></edge>
+      <edge id="784208" source="there" target="Pattern_culture_Split0.txt" weight="27.0"></edge>
+      <edge id="784209" source="there" target="Pattern_culture_Split1.txt" weight="35.0"></edge>
+      <edge id="784210" source="there" target="Pattern_culture_Split2.txt" weight="20.0"></edge>
+      <edge id="784211" source="there" target="Pattern_culture_Split3.txt" weight="17.0"></edge>
+      <edge id="784212" source="these" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784213" source="these" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="784214" source="these" target="Pattern_culture_Split2.txt" weight="14.0"></edge>
+      <edge id="784215" source="they" target="Pattern_culture_Split0.txt" weight="32.0"></edge>
+      <edge id="784216" source="they" target="Pattern_culture_Split1.txt" weight="106.0"></edge>
+      <edge id="784217" source="they" target="Pattern_culture_Split2.txt" weight="55.0"></edge>
+      <edge id="784218" source="they" target="Pattern_culture_Split3.txt" weight="23.0"></edge>
+      <edge id="784219" source="things" target="Pattern_culture_Split1.txt" weight="12.0"></edge>
+      <edge id="784220" source="this" target="Pattern_culture_Split0.txt" weight="24.0"></edge>
+      <edge id="784221" source="this" target="Pattern_culture_Split1.txt" weight="14.0"></edge>
+      <edge id="784222" source="this" target="Pattern_culture_Split2.txt" weight="19.0"></edge>
+      <edge id="784223" source="this" target="Pattern_culture_Split3.txt" weight="22.0"></edge>
+      <edge id="784224" source="thought" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="784225" source="thought" target="Pattern_culture_Split1.txt" weight="14.0"></edge>
+      <edge id="784226" source="time" target="Pattern_culture_Split0.txt" weight="13.0"></edge>
+      <edge id="784227" source="time" target="Pattern_culture_Split1.txt" weight="20.0"></edge>
+      <edge id="784228" source="time" target="Pattern_culture_Split2.txt" weight="16.0"></edge>
+      <edge id="784229" source="time" target="Pattern_culture_Split3.txt" weight="22.0"></edge>
+      <edge id="784230" source="took" target="Pattern_culture_Split2.txt" weight="15.0"></edge>
+      <edge id="784231" source="traditional" target="Pattern_culture_Split0.txt" weight="17.0"></edge>
+      <edge id="784232" source="traditional" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784233" source="traditional" target="Pattern_culture_Split3.txt" weight="12.0"></edge>
+      <edge id="784234" source="trait" target="Pattern_culture_Split0.txt" weight="21.0"></edge>
+      <edge id="784235" source="traits" target="Pattern_culture_Split0.txt" weight="35.0"></edge>
+      <edge id="784236" source="traits" target="Pattern_culture_Split3.txt" weight="28.0"></edge>
+      <edge id="784237" source="trance" target="Pattern_culture_Split3.txt" weight="14.0"></edge>
+      <edge id="784238" source="tribal" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="784239" source="tribe" target="Pattern_culture_Split0.txt" weight="16.0"></edge>
+      <edge id="784240" source="tribe" target="Pattern_culture_Split2.txt" weight="29.0"></edge>
+      <edge id="784241" source="tribes" target="Pattern_culture_Split0.txt" weight="21.0"></edge>
+      <edge id="784242" source="tribes" target="Pattern_culture_Split1.txt" weight="24.0"></edge>
+      <edge id="784243" source="tribes" target="Pattern_culture_Split2.txt" weight="33.0"></edge>
+      <edge id="784244" source="tribes" target="Pattern_culture_Split3.txt" weight="14.0"></edge>
+      <edge id="784245" source="TRUE" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784246" source="type" target="Pattern_culture_Split3.txt" weight="12.0"></edge>
+      <edge id="784247" source="types" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="784248" source="understand" target="Pattern_culture_Split0.txt" weight="14.0"></edge>
+      <edge id="784249" source="use" target="Pattern_culture_Split0.txt" weight="15.0"></edge>
+      <edge id="784250" source="use" target="Pattern_culture_Split1.txt" weight="21.0"></edge>
+      <edge id="784251" source="use" target="Pattern_culture_Split2.txt" weight="18.0"></edge>
+      <edge id="784252" source="use" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="784253" source="used" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784254" source="used" target="Pattern_culture_Split1.txt" weight="19.0"></edge>
+      <edge id="784255" source="used" target="Pattern_culture_Split2.txt" weight="21.0"></edge>
+      <edge id="784256" source="valuable" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784257" source="valuable" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784258" source="values" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784259" source="village" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784260" source="village" target="Pattern_culture_Split2.txt" weight="54.0"></edge>
+      <edge id="784261" source="vision" target="Pattern_culture_Split0.txt" weight="19.0"></edge>
+      <edge id="784262" source="vision" target="Pattern_culture_Split1.txt" weight="20.0"></edge>
+      <edge id="784263" source="war" target="Pattern_culture_Split0.txt" weight="14.0"></edge>
+      <edge id="784264" source="war" target="Pattern_culture_Split1.txt" weight="24.0"></edge>
+      <edge id="784265" source="war" target="Pattern_culture_Split3.txt" weight="12.0"></edge>
+      <edge id="784266" source="warfare" target="Pattern_culture_Split0.txt" weight="12.0"></edge>
+      <edge id="784267" source="water" target="Pattern_culture_Split1.txt" weight="12.0"></edge>
+      <edge id="784268" source="way" target="Pattern_culture_Split0.txt" weight="23.0"></edge>
+      <edge id="784269" source="way" target="Pattern_culture_Split1.txt" weight="26.0"></edge>
+      <edge id="784270" source="way" target="Pattern_culture_Split2.txt" weight="24.0"></edge>
+      <edge id="784271" source="way" target="Pattern_culture_Split3.txt" weight="16.0"></edge>
+      <edge id="784272" source="ways" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="784273" source="ways" target="Pattern_culture_Split3.txt" weight="10.0"></edge>
+      <edge id="784274" source="wealth" target="Pattern_culture_Split2.txt" weight="18.0"></edge>
+      <edge id="784275" source="went" target="Pattern_culture_Split2.txt" weight="14.0"></edge>
+      <edge id="784276" source="western" target="Pattern_culture_Split0.txt" weight="21.0"></edge>
+      <edge id="784277" source="western" target="Pattern_culture_Split3.txt" weight="23.0"></edge>
+      <edge id="784278" source="when" target="Pattern_culture_Split0.txt" weight="12.0"></edge>
+      <edge id="784279" source="when" target="Pattern_culture_Split1.txt" weight="18.0"></edge>
+      <edge id="784280" source="when" target="Pattern_culture_Split2.txt" weight="28.0"></edge>
+      <edge id="784281" source="when" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="784282" source="wife" target="Pattern_culture_Split1.txt" weight="16.0"></edge>
+      <edge id="784283" source="wife" target="Pattern_culture_Split2.txt" weight="30.0"></edge>
+      <edge id="784284" source="with" target="Pattern_culture_Split0.txt" weight="29.0"></edge>
+      <edge id="784285" source="with" target="Pattern_culture_Split1.txt" weight="59.0"></edge>
+      <edge id="784286" source="with" target="Pattern_culture_Split2.txt" weight="30.0"></edge>
+      <edge id="784287" source="with" target="Pattern_culture_Split3.txt" weight="18.0"></edge>
+      <edge id="784288" source="woman" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784289" source="woman" target="Pattern_culture_Split2.txt" weight="12.0"></edge>
+      <edge id="784290" source="women" target="Pattern_culture_Split0.txt" weight="11.0"></edge>
+      <edge id="784291" source="women" target="Pattern_culture_Split1.txt" weight="28.0"></edge>
+      <edge id="784292" source="women" target="Pattern_culture_Split3.txt" weight="14.0"></edge>
+      <edge id="784293" source="work" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784294" source="world" target="Pattern_culture_Split0.txt" weight="29.0"></edge>
+      <edge id="784295" source="world" target="Pattern_culture_Split1.txt" weight="12.0"></edge>
+      <edge id="784296" source="world" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784297" source="world" target="Pattern_culture_Split3.txt" weight="17.0"></edge>
+      <edge id="784298" source="wthh" target="Pattern_culture_Split1.txt" weight="12.0"></edge>
+      <edge id="784299" source="wthh" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="784300" source="year" target="Pattern_culture_Split1.txt" weight="16.0"></edge>
+      <edge id="784301" source="year" target="Pattern_culture_Split2.txt" weight="23.0"></edge>
+      <edge id="784302" source="years" target="Pattern_culture_Split0.txt" weight="12.0"></edge>
+      <edge id="784303" source="years" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="784304" source="years" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784305" source="york" target="Pattern_culture_Split3.txt" weight="26.0"></edge>
+      <edge id="784306" source="zufii" target="Pattern_culture_Split0.txt" weight="10.0"></edge>
+      <edge id="784307" source="zufii" target="Pattern_culture_Split1.txt" weight="57.0"></edge>
+      <edge id="784308" source="zufii" target="Pattern_culture_Split3.txt" weight="23.0"></edge>
+      <edge id="784309" source="zufn" target="Pattern_culture_Split3.txt" weight="16.0"></edge>
+      <edge id="784310" source="zuni" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784311" source="blankets" target="Pattern_culture_Split2.txt" weight="25.0"></edge>
+      <edge id="784312" source="chiefs" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="784313" source="congenial" target="Pattern_culture_Split3.txt" weight="14.0"></edge>
+      <edge id="784314" source="corn" target="Pattern_culture_Split1.txt" weight="19.0"></edge>
+      <edge id="784315" source="dancers" target="Pattern_culture_Split1.txt" weight="12.0"></edge>
+      <edge id="784316" source="dionysian" target="Pattern_culture_Split1.txt" weight="21.0"></edge>
+      <edge id="784317" source="disease" target="Pattern_culture_Split2.txt" weight="22.0"></edge>
+      <edge id="784318" source="dobuan" target="Pattern_culture_Split2.txt" weight="37.0"></edge>
+      <edge id="784319" source="exchanges" target="Pattern_culture_Split2.txt" weight="14.0"></edge>
+      <edge id="784320" source="food" target="Pattern_culture_Split2.txt" weight="18.0"></edge>
+      <edge id="784321" source="fortune" target="Pattern_culture_Split3.txt" weight="20.0"></edge>
+      <edge id="784322" source="gift" target="Pattern_culture_Split2.txt" weight="15.0"></edge>
+      <edge id="784323" source="goods" target="Pattern_culture_Split2.txt" weight="12.0"></edge>
+      <edge id="784324" source="grief" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="784325" source="heads" target="Pattern_culture_Split1.txt" weight="11.0"></edge>
+      <edge id="784326" source="husbands" target="Pattern_culture_Split1.txt" weight="14.0"></edge>
+      <edge id="784327" source="indans" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="784328" source="initiation" target="Pattern_culture_Split1.txt" weight="18.0"></edge>
+      <edge id="784329" source="islands" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784330" source="kachina" target="Pattern_culture_Split1.txt" weight="12.0"></edge>
+      <edge id="784331" source="kachinas" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784332" source="medicme" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784333" source="member" target="Pattern_culture_Split1.txt" weight="10.0"></edge>
+      <edge id="784334" source="occasions" target="Pattern_culture_Split1.txt" weight="14.0"></edge>
+      <edge id="784335" source="owned" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784336" source="owner" target="Pattern_culture_Split2.txt" weight="14.0"></edge>
+      <edge id="784337" source="owners" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784338" source="practice" target="Pattern_culture_Split1.txt" weight="13.0"></edge>
+      <edge id="784339" source="practice" target="Pattern_culture_Split2.txt" weight="16.0"></edge>
+      <edge id="784340" source="rival" target="Pattern_culture_Split2.txt" weight="14.0"></edge>
+      <edge id="784341" source="seed" target="Pattern_culture_Split2.txt" weight="16.0"></edge>
+      <edge id="784342" source="susu" target="Pattern_culture_Split2.txt" weight="21.0"></edge>
+      <edge id="784343" source="then" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784344" source="tree" target="Pattern_culture_Split2.txt" weight="25.0"></edge>
+      <edge id="784345" source="zufil" target="Pattern_culture_Split3.txt" weight="12.0"></edge>
+      <edge id="784346" source="cannibal" target="Pattern_culture_Split2.txt" weight="16.0"></edge>
+      <edge id="784347" source="canoe" target="Pattern_culture_Split2.txt" weight="27.0"></edge>
+      <edge id="784348" source="canoes" target="Pattern_culture_Split2.txt" weight="17.0"></edge>
+      <edge id="784349" source="charm" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="784350" source="charms" target="Pattern_culture_Split2.txt" weight="16.0"></edge>
+      <edge id="784351" source="contest" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784352" source="copper" target="Pattern_culture_Split2.txt" weight="23.0"></edge>
+      <edge id="784353" source="fatherinlaw" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="784354" source="frustration" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="784355" source="garden" target="Pattern_culture_Split2.txt" weight="29.0"></edge>
+      <edge id="784356" source="greatness" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784357" source="incantation" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="784358" source="incantations" target="Pattern_culture_Split2.txt" weight="17.0"></edge>
+      <edge id="784359" source="kula" target="Pattern_culture_Split2.txt" weight="29.0"></edge>
+      <edge id="784360" source="potlatch" target="Pattern_culture_Split2.txt" weight="10.0"></edge>
+      <edge id="784361" source="report" target="Pattern_culture_Split3.txt" weight="12.0"></edge>
+      <edge id="784362" source="rivalry" target="Pattern_culture_Split3.txt" weight="11.0"></edge>
+      <edge id="784363" source="rivals" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="784364" source="shame" target="Pattern_culture_Split2.txt" weight="24.0"></edge>
+      <edge id="784365" source="soninlaw" target="Pattern_culture_Split2.txt" weight="13.0"></edge>
+      <edge id="784366" source="tlabid" target="Pattern_culture_Split2.txt" weight="11.0"></edge>
+      <edge id="784367" source="valuables" target="Pattern_culture_Split2.txt" weight="18.0"></edge>
+      <edge id="784368" source="victim" target="Pattern_culture_Split2.txt" weight="12.0"></edge>
+      <edge id="784369" source="yams" target="Pattern_culture_Split2.txt" weight="24.0"></edge>
+      <edge id="784370" source="bureau" target="Pattern_culture_Split3.txt" weight="10.0"></edge>
+      <edge id="784371" source="kwakmtl" target="Pattern_culture_Split3.txt" weight="10.0"></edge>
+    </edges>
+  </graph>
+</gexf>
