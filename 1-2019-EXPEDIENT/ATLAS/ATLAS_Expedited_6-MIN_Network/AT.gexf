@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-03-10">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="alumni" label="alumni">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-2.653605" y="26.360884"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="art" label="art">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-6.6750894" y="66.293205"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="children" label="children">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-48.285244" y="136.2874"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="city" label="city">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-89.8915" y="-55.249786"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="class" label="class">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="13.882332" y="169.24825"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="college" label="college">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-93.039154" y="103.70049"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="culture" label="culture">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-147.1204" y="81.24724"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="east" label="east">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-188.10947" y="-70.460335"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="ethical" label="ethical">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-247.9755" y="25.903828"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="graduated" label="graduated">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="352.91904" y="253.19868"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="high" label="high">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="128.6218" y="-379.46976"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="kindergarten" label="kindergarten">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-304.55557" y="-326.84863"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="member" label="member">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="575.37024" y="116.215775"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="mrs" label="mrs">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-449.1884" y="348.1163"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="new" label="new">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-463.35733" y="-298.4332"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="normal" label="normal">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-537.2083" y="-119.69702"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="pupils" label="pupils">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="85.24679" y="-672.1456"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="school" label="school">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="796.5468" y="197.63823"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="street" label="street">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="499.1257" y="746.63885"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="teacher" label="teacher">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="705.9886" y="-524.9421"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="teachers" label="teachers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="141.305" y="-835.71625"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="training" label="training">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="59.072174" y="932.4832"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="university" label="university">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-576.05634" y="724.8001"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="west" label="west">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-441.92902" y="-798.60455"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="work" label="work">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="978.8507" y="-152.95409"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="year" label="year">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-814.11224" y="513.90314"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="years" label="years">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-867.8486" y="-357.62112"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="york" label="york">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="984.72296" y="292.9377"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="affiliated" label="affiliated">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="503.7249" y="-842.8309"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="columbia" label="columbia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-63.70595" y="-1078.2626"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="dept" label="dept">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="645.06635" y="-956.27765"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="homemaker" label="homemaker">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-892.8542" y="972.05707"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="park" label="park">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1453.7482" y="-285.48724"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="avenue" label="avenue">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1337.6488" y="1406.2777"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="598830" source="alumni" target="alumni" weight="5629.0"></edge>
+      <edge id="598831" source="alumni" target="art" weight="7210.0"></edge>
+      <edge id="598832" source="alumni" target="children" weight="18270.0"></edge>
+      <edge id="598833" source="alumni" target="city" weight="19110.0"></edge>
+      <edge id="598834" source="alumni" target="class" weight="19180.0"></edge>
+      <edge id="598835" source="alumni" target="college" weight="19880.0"></edge>
+      <edge id="598836" source="alumni" target="culture" weight="26640.0"></edge>
+      <edge id="598837" source="alumni" target="east" weight="33600.0"></edge>
+      <edge id="598838" source="alumni" target="ethical" weight="40000.0"></edge>
+      <edge id="598839" source="alumni" target="graduated" weight="53970.0"></edge>
+      <edge id="598840" source="alumni" target="high" weight="58590.0"></edge>
+      <edge id="598841" source="alumni" target="kindergarten" weight="68320.0"></edge>
+      <edge id="598842" source="alumni" target="member" weight="76160.0"></edge>
+      <edge id="598843" source="alumni" target="mrs" weight="79520.0"></edge>
+      <edge id="598844" source="alumni" target="new" weight="81060.0"></edge>
+      <edge id="598845" source="alumni" target="normal" weight="81830.0"></edge>
+      <edge id="598847" source="alumni" target="pupils" weight="99053.0"></edge>
+      <edge id="598848" source="alumni" target="school" weight="112028.0"></edge>
+      <edge id="598849" source="alumni" target="street" weight="117320.0"></edge>
+      <edge id="598850" source="alumni" target="teacher" weight="121240.0"></edge>
+      <edge id="598851" source="alumni" target="teachers" weight="121310.0"></edge>
+      <edge id="598852" source="alumni" target="training" weight="125020.0"></edge>
+      <edge id="598853" source="alumni" target="university" weight="127890.0"></edge>
+      <edge id="598854" source="alumni" target="west" weight="131880.0"></edge>
+      <edge id="598855" source="alumni" target="work" weight="133770.0"></edge>
+      <edge id="598856" source="alumni" target="year" weight="135240.0"></edge>
+      <edge id="598857" source="alumni" target="years" weight="136120.0"></edge>
+      <edge id="598858" source="alumni" target="york" weight="135450.0"></edge>
+      <edge id="598859" source="alumni" target="affiliated" weight="137830.0"></edge>
+      <edge id="598860" source="alumni" target="columbia" weight="154560.0"></edge>
+      <edge id="598861" source="alumni" target="dept" weight="161350.0"></edge>
+      <edge id="598862" source="alumni" target="homemaker" weight="183120.0"></edge>
+      <edge id="598863" source="alumni" target="park" weight="210910.0"></edge>
+      <edge id="598864" source="alumni" target="avenue" weight="262710.0"></edge>
+      <edge id="598865" source="art" target="alumni" weight="7210.0"></edge>
+      <edge id="598866" source="art" target="art" weight="11338.0"></edge>
+      <edge id="598867" source="art" target="children" weight="26883.0"></edge>
+      <edge id="598868" source="art" target="city" weight="31008.0"></edge>
+      <edge id="598869" source="art" target="class" weight="28222.0"></edge>
+      <edge id="598870" source="art" target="college" weight="29252.0"></edge>
+      <edge id="598871" source="art" target="culture" weight="38007.0"></edge>
+      <edge id="598872" source="art" target="east" weight="49440.0"></edge>
+      <edge id="598873" source="art" target="ethical" weight="57268.0"></edge>
+      <edge id="598874" source="art" target="graduated" weight="80250.0"></edge>
+      <edge id="598875" source="art" target="high" weight="86211.0"></edge>
+      <edge id="598876" source="art" target="kindergarten" weight="100528.0"></edge>
+      <edge id="598877" source="art" target="member" weight="112064.0"></edge>
+      <edge id="598878" source="art" target="mrs" weight="117008.0"></edge>
+      <edge id="598879" source="art" target="new" weight="122325.0"></edge>
+      <edge id="598880" source="art" target="normal" weight="120407.0"></edge>
+      <edge id="598882" source="art" target="pupils" weight="144200.0"></edge>
+      <edge id="598883" source="art" target="school" weight="162071.0"></edge>
+      <edge id="598884" source="art" target="street" weight="174626.0"></edge>
+      <edge id="598885" source="art" target="teacher" weight="178396.0"></edge>
+      <edge id="598886" source="art" target="teachers" weight="179363.0"></edge>
+      <edge id="598887" source="art" target="training" weight="184795.0"></edge>
+      <edge id="598888" source="art" target="university" weight="188181.0"></edge>
+      <edge id="598889" source="art" target="west" weight="195672.0"></edge>
+      <edge id="598890" source="art" target="work" weight="197670.0"></edge>
+      <edge id="598891" source="art" target="year" weight="198996.0"></edge>
+      <edge id="598892" source="art" target="years" weight="205039.0"></edge>
+      <edge id="598893" source="art" target="york" weight="202329.0"></edge>
+      <edge id="598894" source="art" target="affiliated" weight="202807.0"></edge>
+      <edge id="598895" source="art" target="columbia" weight="227424.0"></edge>
+      <edge id="598896" source="art" target="dept" weight="237415.0"></edge>
+      <edge id="598897" source="art" target="homemaker" weight="269448.0"></edge>
+      <edge id="598898" source="art" target="park" weight="310339.0"></edge>
+      <edge id="598899" source="art" target="avenue" weight="387369.0"></edge>
+      <edge id="598900" source="children" target="alumni" weight="18270.0"></edge>
+      <edge id="598901" source="children" target="art" weight="26883.0"></edge>
+      <edge id="598902" source="children" target="children" weight="69565.0"></edge>
+      <edge id="598903" source="children" target="city" weight="71253.0"></edge>
+      <edge id="598904" source="children" target="class" weight="72578.0"></edge>
+      <edge id="598905" source="children" target="college" weight="76252.0"></edge>
+      <edge id="598906" source="children" target="culture" weight="97411.0"></edge>
+      <edge id="598907" source="children" target="east" weight="125280.0"></edge>
+      <edge id="598908" source="children" target="ethical" weight="146256.0"></edge>
+      <edge id="598909" source="children" target="graduated" weight="201231.0"></edge>
+      <edge id="598910" source="children" target="high" weight="220471.0"></edge>
+      <edge id="598911" source="children" target="kindergarten" weight="256598.0"></edge>
+      <edge id="598912" source="children" target="member" weight="285640.0"></edge>
+      <edge id="598913" source="children" target="mrs" weight="296496.0"></edge>
+      <edge id="598914" source="children" target="new" weight="303758.0"></edge>
+      <edge id="598915" source="children" target="normal" weight="306933.0"></edge>
+      <edge id="598917" source="children" target="pupils" weight="365400.0"></edge>
+      <edge id="598918" source="children" target="school" weight="407863.0"></edge>
+      <edge id="598919" source="children" target="street" weight="437436.0"></edge>
+      <edge id="598920" source="children" target="teacher" weight="453458.0"></edge>
+      <edge id="598921" source="children" target="teachers" weight="453529.0"></edge>
+      <edge id="598922" source="children" target="training" weight="466146.0"></edge>
+      <edge id="598923" source="children" target="university" weight="478215.0"></edge>
+      <edge id="598924" source="children" target="west" weight="491724.0"></edge>
+      <edge id="598925" source="children" target="work" weight="498771.0"></edge>
+      <edge id="598926" source="children" target="year" weight="505392.0"></edge>
+      <edge id="598927" source="children" target="years" weight="506489.0"></edge>
+      <edge id="598928" source="children" target="york" weight="506327.0"></edge>
+      <edge id="598929" source="children" target="affiliated" weight="513909.0"></edge>
+      <edge id="598930" source="children" target="columbia" weight="577998.0"></edge>
+      <edge id="598931" source="children" target="dept" weight="602745.0"></edge>
+      <edge id="598932" source="children" target="homemaker" weight="683840.0"></edge>
+      <edge id="598933" source="children" target="park" weight="786393.0"></edge>
+      <edge id="598934" source="children" target="avenue" weight="979533.0"></edge>
+      <edge id="598935" source="city" target="alumni" weight="19110.0"></edge>
+      <edge id="598936" source="city" target="art" weight="31008.0"></edge>
+      <edge id="598937" source="city" target="children" weight="71253.0"></edge>
+      <edge id="598938" source="city" target="city" weight="245179.0"></edge>
+      <edge id="598939" source="city" target="class" weight="74802.0"></edge>
+      <edge id="598940" source="city" target="college" weight="92295.0"></edge>
+      <edge id="598941" source="city" target="culture" weight="100737.0"></edge>
+      <edge id="598942" source="city" target="east" weight="152985.0"></edge>
+      <edge id="598943" source="city" target="ethical" weight="151788.0"></edge>
+      <edge id="598944" source="city" target="graduated" weight="213800.0"></edge>
+      <edge id="598945" source="city" target="high" weight="228501.0"></edge>
+      <edge id="598946" source="city" target="kindergarten" weight="266448.0"></edge>
+      <edge id="598947" source="city" target="member" weight="297024.0"></edge>
+      <edge id="598948" source="city" target="mrs" weight="367584.0"></edge>
+      <edge id="598949" source="city" target="new" weight="491017.0"></edge>
+      <edge id="598950" source="city" target="normal" weight="319137.0"></edge>
+      <edge id="598952" source="city" target="pupils" weight="382200.0"></edge>
+      <edge id="598953" source="city" target="school" weight="454709.0"></edge>
+      <edge id="598954" source="city" target="street" weight="587560.0"></edge>
+      <edge id="598955" source="city" target="teacher" weight="472836.0"></edge>
+      <edge id="598956" source="city" target="teachers" weight="476533.0"></edge>
+      <edge id="598957" source="city" target="training" weight="490895.0"></edge>
+      <edge id="598958" source="city" target="university" weight="511140.0"></edge>
+      <edge id="598959" source="city" target="west" weight="615315.0"></edge>
+      <edge id="598960" source="city" target="work" weight="525020.0"></edge>
+      <edge id="598961" source="city" target="year" weight="527436.0"></edge>
+      <edge id="598962" source="city" target="years" weight="608306.0"></edge>
+      <edge id="598963" source="city" target="york" weight="700238.0"></edge>
+      <edge id="598964" source="city" target="affiliated" weight="547911.0"></edge>
+      <edge id="598965" source="city" target="columbia" weight="613557.0"></edge>
+      <edge id="598966" source="city" target="dept" weight="629265.0"></edge>
+      <edge id="598967" source="city" target="homemaker" weight="714168.0"></edge>
+      <edge id="598968" source="city" target="park" weight="836115.0"></edge>
+      <edge id="598969" source="city" target="avenue" weight="1065684.0"></edge>
+      <edge id="598970" source="class" target="alumni" weight="19180.0"></edge>
+      <edge id="598971" source="class" target="art" weight="28222.0"></edge>
+      <edge id="598972" source="class" target="children" weight="72578.0"></edge>
+      <edge id="598973" source="class" target="city" weight="74802.0"></edge>
+      <edge id="598974" source="class" target="class" weight="75860.0"></edge>
+      <edge id="598975" source="class" target="college" weight="79384.0"></edge>
+      <edge id="598976" source="class" target="culture" weight="101918.0"></edge>
+      <edge id="598977" source="class" target="east" weight="131520.0"></edge>
+      <edge id="598978" source="class" target="ethical" weight="153184.0"></edge>
+      <edge id="598979" source="class" target="graduated" weight="211254.0"></edge>
+      <edge id="598980" source="class" target="high" weight="230822.0"></edge>
+      <edge id="598981" source="class" target="kindergarten" weight="268796.0"></edge>
+      <edge id="598982" source="class" target="member" weight="299344.0"></edge>
+      <edge id="598983" source="class" target="mrs" weight="311264.0"></edge>
+      <edge id="598984" source="class" target="new" weight="318412.0"></edge>
+      <edge id="598985" source="class" target="normal" weight="321650.0"></edge>
+      <edge id="598987" source="class" target="pupils" weight="383600.0"></edge>
+      <edge id="598988" source="class" target="school" weight="426406.0"></edge>
+      <edge id="598989" source="class" target="street" weight="459224.0"></edge>
+      <edge id="598990" source="class" target="teacher" weight="475604.0"></edge>
+      <edge id="598991" source="class" target="teachers" weight="475738.0"></edge>
+      <edge id="598992" source="class" target="training" weight="489364.0"></edge>
+      <edge id="598993" source="class" target="university" weight="501606.0"></edge>
+      <edge id="598994" source="class" target="west" weight="516216.0"></edge>
+      <edge id="598995" source="class" target="work" weight="523614.0"></edge>
+      <edge id="598996" source="class" target="year" weight="530208.0"></edge>
+      <edge id="598997" source="class" target="years" weight="531098.0"></edge>
+      <edge id="598998" source="class" target="york" weight="531142.0"></edge>
+      <edge id="598999" source="class" target="affiliated" weight="539506.0"></edge>
+      <edge id="599000" source="class" target="columbia" weight="606252.0"></edge>
+      <edge id="599001" source="class" target="dept" weight="632410.0"></edge>
+      <edge id="599002" source="class" target="homemaker" weight="717568.0"></edge>
+      <edge id="599003" source="class" target="park" weight="825562.0"></edge>
+      <edge id="599004" source="class" target="avenue" weight="1028322.0"></edge>
+      <edge id="599005" source="college" target="alumni" weight="19880.0"></edge>
+      <edge id="599006" source="college" target="art" weight="29252.0"></edge>
+      <edge id="599007" source="college" target="children" weight="76252.0"></edge>
+      <edge id="599008" source="college" target="city" weight="92295.0"></edge>
+      <edge id="599009" source="college" target="class" weight="79384.0"></edge>
+      <edge id="599010" source="college" target="college" weight="85161.0"></edge>
+      <edge id="599011" source="college" target="culture" weight="106420.0"></edge>
+      <edge id="599012" source="college" target="east" weight="138355.0"></edge>
+      <edge id="599013" source="college" target="ethical" weight="159584.0"></edge>
+      <edge id="599014" source="college" target="graduated" weight="218964.0"></edge>
+      <edge id="599015" source="college" target="high" weight="240676.0"></edge>
+      <edge id="599016" source="college" target="kindergarten" weight="279928.0"></edge>
+      <edge id="599017" source="college" target="member" weight="311456.0"></edge>
+      <edge id="599018" source="college" target="mrs" weight="327952.0"></edge>
+      <edge id="599019" source="college" target="new" weight="346208.0"></edge>
+      <edge id="599020" source="college" target="normal" weight="334684.0"></edge>
+      <edge id="599022" source="college" target="pupils" weight="397600.0"></edge>
+      <edge id="599023" source="college" target="school" weight="447912.0"></edge>
+      <edge id="599024" source="college" target="street" weight="487306.0"></edge>
+      <edge id="599025" source="college" target="teacher" weight="493960.0"></edge>
+      <edge id="599026" source="college" target="teachers" weight="493964.0"></edge>
+      <edge id="599027" source="college" target="training" weight="507224.0"></edge>
+      <edge id="599028" source="college" target="university" weight="522031.0"></edge>
+      <edge id="599029" source="college" target="west" weight="543825.0"></edge>
+      <edge id="599030" source="college" target="work" weight="542724.0"></edge>
+      <edge id="599031" source="college" target="year" weight="550368.0"></edge>
+      <edge id="599032" source="college" target="years" weight="557175.0"></edge>
+      <edge id="599033" source="college" target="york" weight="566281.0"></edge>
+      <edge id="599034" source="college" target="affiliated" weight="560158.0"></edge>
+      <edge id="599035" source="college" target="columbia" weight="630591.0"></edge>
+      <edge id="599036" source="college" target="dept" weight="656300.0"></edge>
+      <edge id="599037" source="college" target="homemaker" weight="744512.0"></edge>
+      <edge id="599038" source="college" target="park" weight="856950.0"></edge>
+      <edge id="599039" source="college" target="avenue" weight="1069367.0"></edge>
+      <edge id="599040" source="culture" target="alumni" weight="26640.0"></edge>
+      <edge id="599041" source="culture" target="art" weight="38007.0"></edge>
+      <edge id="599042" source="culture" target="children" weight="97411.0"></edge>
+      <edge id="599043" source="culture" target="city" weight="100737.0"></edge>
+      <edge id="599044" source="culture" target="class" weight="101918.0"></edge>
+      <edge id="599045" source="culture" target="college" weight="106420.0"></edge>
+      <edge id="599046" source="culture" target="culture" weight="137902.0"></edge>
+      <edge id="599047" source="culture" target="east" weight="177120.0"></edge>
+      <edge id="599048" source="culture" target="ethical" weight="207234.0"></edge>
+      <edge id="599049" source="culture" target="graduated" weight="284499.0"></edge>
+      <edge id="599050" source="culture" target="high" weight="310390.0"></edge>
+      <edge id="599051" source="culture" target="kindergarten" weight="361565.0"></edge>
+      <edge id="599052" source="culture" target="member" weight="402748.0"></edge>
+      <edge id="599053" source="culture" target="mrs" weight="419184.0"></edge>
+      <edge id="599054" source="culture" target="new" weight="428462.0"></edge>
+      <edge id="599055" source="culture" target="normal" weight="432753.0"></edge>
+      <edge id="599057" source="culture" target="pupils" weight="517770.0"></edge>
+      <edge id="599058" source="culture" target="school" weight="577570.0"></edge>
+      <edge id="599059" source="culture" target="street" weight="618444.0"></edge>
+      <edge id="599060" source="culture" target="teacher" weight="640181.0"></edge>
+      <edge id="599061" source="culture" target="teachers" weight="640405.0"></edge>
+      <edge id="599062" source="culture" target="training" weight="659034.0"></edge>
+      <edge id="599063" source="culture" target="university" weight="675207.0"></edge>
+      <edge id="599064" source="culture" target="west" weight="695196.0"></edge>
+      <edge id="599065" source="culture" target="work" weight="705159.0"></edge>
+      <edge id="599066" source="culture" target="year" weight="713778.0"></edge>
+      <edge id="599067" source="culture" target="years" weight="715685.0"></edge>
+      <edge id="599068" source="culture" target="york" weight="715001.0"></edge>
+      <edge id="599069" source="culture" target="affiliated" weight="726561.0"></edge>
+      <edge id="599070" source="culture" target="columbia" weight="816057.0"></edge>
+      <edge id="599071" source="culture" target="dept" weight="851415.0"></edge>
+      <edge id="599072" source="culture" target="homemaker" weight="966116.0"></edge>
+      <edge id="599073" source="culture" target="park" weight="1111797.0"></edge>
+      <edge id="599074" source="culture" target="avenue" weight="1384857.0"></edge>
+      <edge id="599075" source="east" target="alumni" weight="33600.0"></edge>
+      <edge id="599076" source="east" target="art" weight="49440.0"></edge>
+      <edge id="599077" source="east" target="children" weight="125280.0"></edge>
+      <edge id="599078" source="east" target="city" weight="152985.0"></edge>
+      <edge id="599079" source="east" target="class" weight="131520.0"></edge>
+      <edge id="599080" source="east" target="college" weight="138355.0"></edge>
+      <edge id="599081" source="east" target="culture" weight="177120.0"></edge>
+      <edge id="599082" source="east" target="east" weight="233425.0"></edge>
+      <edge id="599083" source="east" target="ethical" weight="266880.0"></edge>
+      <edge id="599084" source="east" target="graduated" weight="370080.0"></edge>
+      <edge id="599085" source="east" target="high" weight="401760.0"></edge>
+      <edge id="599086" source="east" target="kindergarten" weight="468480.0"></edge>
+      <edge id="599087" source="east" target="member" weight="522240.0"></edge>
+      <edge id="599088" source="east" target="mrs" weight="553200.0"></edge>
+      <edge id="599089" source="east" target="new" weight="578280.0"></edge>
+      <edge id="599090" source="east" target="normal" weight="561120.0"></edge>
+      <edge id="599092" source="east" target="pupils" weight="672000.0"></edge>
+      <edge id="599093" source="east" target="school" weight="742540.0"></edge>
+      <edge id="599094" source="east" target="street" weight="821310.0"></edge>
+      <edge id="599095" source="east" target="teacher" weight="831360.0"></edge>
+      <edge id="599096" source="east" target="teachers" weight="831840.0"></edge>
+      <edge id="599097" source="east" target="training" weight="857280.0"></edge>
+      <edge id="599098" source="east" target="university" weight="878665.0"></edge>
+      <edge id="599099" source="east" target="west" weight="917355.0"></edge>
+      <edge id="599100" source="east" target="work" weight="917280.0"></edge>
+      <edge id="599101" source="east" target="year" weight="927360.0"></edge>
+      <edge id="599102" source="east" target="years" weight="935705.0"></edge>
+      <edge id="599103" source="east" target="york" weight="950855.0"></edge>
+      <edge id="599104" source="east" target="affiliated" weight="946550.0"></edge>
+      <edge id="599105" source="east" target="columbia" weight="1061325.0"></edge>
+      <edge id="599106" source="east" target="dept" weight="1106400.0"></edge>
+      <edge id="599107" source="east" target="homemaker" weight="1255680.0"></edge>
+      <edge id="599108" source="east" target="park" weight="1448110.0"></edge>
+      <edge id="599109" source="east" target="avenue" weight="1806665.0"></edge>
+      <edge id="599110" source="ethical" target="alumni" weight="40000.0"></edge>
+      <edge id="599111" source="ethical" target="art" weight="57268.0"></edge>
+      <edge id="599112" source="ethical" target="children" weight="146256.0"></edge>
+      <edge id="599113" source="ethical" target="city" weight="151788.0"></edge>
+      <edge id="599114" source="ethical" target="class" weight="153184.0"></edge>
+      <edge id="599115" source="ethical" target="college" weight="159584.0"></edge>
+      <edge id="599116" source="ethical" target="culture" weight="207234.0"></edge>
+      <edge id="599117" source="ethical" target="east" weight="266880.0"></edge>
+      <edge id="599118" source="ethical" target="ethical" weight="311636.0"></edge>
+      <edge id="599119" source="ethical" target="graduated" weight="428676.0"></edge>
+      <edge id="599120" source="ethical" target="high" weight="466962.0"></edge>
+      <edge id="599121" source="ethical" target="kindergarten" weight="544126.0"></edge>
+      <edge id="599122" source="ethical" target="member" weight="606248.0"></edge>
+      <edge id="599123" source="ethical" target="mrs" weight="631616.0"></edge>
+      <edge id="599124" source="ethical" target="new" weight="645048.0"></edge>
+      <edge id="599125" source="ethical" target="normal" weight="651404.0"></edge>
+      <edge id="599127" source="ethical" target="pupils" weight="779960.0"></edge>
+      <edge id="599128" source="ethical" target="school" weight="867426.0"></edge>
+      <edge id="599129" source="ethical" target="street" weight="931856.0"></edge>
+      <edge id="599130" source="ethical" target="teacher" weight="964102.0"></edge>
+      <edge id="599131" source="ethical" target="teachers" weight="964508.0"></edge>
+      <edge id="599132" source="ethical" target="training" weight="993016.0"></edge>
+      <edge id="599133" source="ethical" target="university" weight="1016892.0"></edge>
+      <edge id="599134" source="ethical" target="west" weight="1047504.0"></edge>
+      <edge id="599135" source="ethical" target="work" weight="1062516.0"></edge>
+      <edge id="599136" source="ethical" target="year" weight="1075092.0"></edge>
+      <edge id="599137" source="ethical" target="years" weight="1077508.0"></edge>
+      <edge id="599138" source="ethical" target="york" weight="1076880.0"></edge>
+      <edge id="599139" source="ethical" target="affiliated" weight="1094764.0"></edge>
+      <edge id="599140" source="ethical" target="columbia" weight="1228998.0"></edge>
+      <edge id="599141" source="ethical" target="dept" weight="1282480.0"></edge>
+      <edge id="599142" source="ethical" target="homemaker" weight="1455336.0"></edge>
+      <edge id="599143" source="ethical" target="park" weight="1675228.0"></edge>
+      <edge id="599144" source="ethical" target="avenue" weight="2086668.0"></edge>
+      <edge id="599145" source="graduated" target="alumni" weight="53970.0"></edge>
+      <edge id="599146" source="graduated" target="art" weight="80250.0"></edge>
+      <edge id="599147" source="graduated" target="children" weight="201231.0"></edge>
+      <edge id="599148" source="graduated" target="city" weight="213800.0"></edge>
+      <edge id="599149" source="graduated" target="class" weight="211254.0"></edge>
+      <edge id="599150" source="graduated" target="college" weight="218964.0"></edge>
+      <edge id="599151" source="graduated" target="culture" weight="284499.0"></edge>
+      <edge id="599152" source="graduated" target="east" weight="370080.0"></edge>
+      <edge id="599153" source="graduated" target="ethical" weight="428676.0"></edge>
+      <edge id="599154" source="graduated" target="graduated" weight="595402.0"></edge>
+      <edge id="599155" source="graduated" target="high" weight="645327.0"></edge>
+      <edge id="599156" source="graduated" target="kindergarten" weight="752496.0"></edge>
+      <edge id="599157" source="graduated" target="member" weight="838848.0"></edge>
+      <edge id="599158" source="graduated" target="mrs" weight="875856.0"></edge>
+      <edge id="599159" source="graduated" target="new" weight="896321.0"></edge>
+      <edge id="599160" source="graduated" target="normal" weight="901299.0"></edge>
+      <edge id="599162" source="graduated" target="pupils" weight="1079400.0"></edge>
+      <edge id="599163" source="graduated" target="school" weight="1191955.0"></edge>
+      <edge id="599164" source="graduated" target="street" weight="1294490.0"></edge>
+      <edge id="599165" source="graduated" target="teacher" weight="1335372.0"></edge>
+      <edge id="599166" source="graduated" target="teachers" weight="1337135.0"></edge>
+      <edge id="599167" source="graduated" target="training" weight="1377967.0"></edge>
+      <edge id="599168" source="graduated" target="university" weight="1408617.0"></edge>
+      <edge id="599169" source="graduated" target="west" weight="1454424.0"></edge>
+      <edge id="599170" source="graduated" target="work" weight="1474342.0"></edge>
+      <edge id="599171" source="graduated" target="year" weight="1489572.0"></edge>
+      <edge id="599172" source="graduated" target="years" weight="1497163.0"></edge>
+      <edge id="599173" source="graduated" target="york" weight="1495357.0"></edge>
+      <edge id="599174" source="graduated" target="affiliated" weight="1518099.0"></edge>
+      <edge id="599175" source="graduated" target="columbia" weight="1702368.0"></edge>
+      <edge id="599176" source="graduated" target="dept" weight="1777155.0"></edge>
+      <edge id="599177" source="graduated" target="homemaker" weight="2016936.0"></edge>
+      <edge id="599178" source="graduated" target="park" weight="2323023.0"></edge>
+      <edge id="599179" source="graduated" target="avenue" weight="2894493.0"></edge>
+      <edge id="599180" source="high" target="alumni" weight="58590.0"></edge>
+      <edge id="599181" source="high" target="art" weight="86211.0"></edge>
+      <edge id="599182" source="high" target="children" weight="220471.0"></edge>
+      <edge id="599183" source="high" target="city" weight="228501.0"></edge>
+      <edge id="599184" source="high" target="class" weight="230822.0"></edge>
+      <edge id="599185" source="high" target="college" weight="240676.0"></edge>
+      <edge id="599186" source="high" target="culture" weight="310390.0"></edge>
+      <edge id="599187" source="high" target="east" weight="401760.0"></edge>
+      <edge id="599188" source="high" target="ethical" weight="466962.0"></edge>
+      <edge id="599189" source="high" target="graduated" weight="645327.0"></edge>
+      <edge id="599190" source="high" target="high" weight="703378.0"></edge>
+      <edge id="599191" source="high" target="kindergarten" weight="819509.0"></edge>
+      <edge id="599192" source="high" target="member" weight="912988.0"></edge>
+      <edge id="599193" source="high" target="mrs" weight="950832.0"></edge>
+      <edge id="599194" source="high" target="new" weight="971366.0"></edge>
+      <edge id="599195" source="high" target="normal" weight="980997.0"></edge>
+      <edge id="599197" source="high" target="pupils" weight="1171800.0"></edge>
+      <edge id="599198" source="high" target="school" weight="1297714.0"></edge>
+      <edge id="599199" source="high" target="street" weight="1402812.0"></edge>
+      <edge id="599200" source="high" target="teacher" weight="1451645.0"></edge>
+      <edge id="599201" source="high" target="teachers" weight="1452217.0"></edge>
+      <edge id="599202" source="high" target="training" weight="1494882.0"></edge>
+      <edge id="599203" source="high" target="university" weight="1531107.0"></edge>
+      <edge id="599204" source="high" target="west" weight="1576908.0"></edge>
+      <edge id="599205" source="high" target="work" weight="1599507.0"></edge>
+      <edge id="599206" source="high" target="year" weight="1618674.0"></edge>
+      <edge id="599207" source="high" target="years" weight="1620677.0"></edge>
+      <edge id="599208" source="high" target="york" weight="1621397.0"></edge>
+      <edge id="599209" source="high" target="affiliated" weight="1648053.0"></edge>
+      <edge id="599210" source="high" target="columbia" weight="1850481.0"></edge>
+      <edge id="599211" source="high" target="dept" weight="1930875.0"></edge>
+      <edge id="599212" source="high" target="homemaker" weight="2191076.0"></edge>
+      <edge id="599213" source="high" target="park" weight="2521881.0"></edge>
+      <edge id="599214" source="high" target="avenue" weight="3141261.0"></edge>
+      <edge id="599215" source="kindergarten" target="alumni" weight="68320.0"></edge>
+      <edge id="599216" source="kindergarten" target="art" weight="100528.0"></edge>
+      <edge id="599217" source="kindergarten" target="children" weight="256598.0"></edge>
+      <edge id="599218" source="kindergarten" target="city" weight="266448.0"></edge>
+      <edge id="599219" source="kindergarten" target="class" weight="268796.0"></edge>
+      <edge id="599220" source="kindergarten" target="college" weight="279928.0"></edge>
+      <edge id="599221" source="kindergarten" target="culture" weight="361565.0"></edge>
+      <edge id="599222" source="kindergarten" target="east" weight="468480.0"></edge>
+      <edge id="599223" source="kindergarten" target="ethical" weight="544126.0"></edge>
+      <edge id="599224" source="kindergarten" target="graduated" weight="752496.0"></edge>
+      <edge id="599225" source="kindergarten" target="high" weight="819509.0"></edge>
+      <edge id="599226" source="kindergarten" target="kindergarten" weight="954977.0"></edge>
+      <edge id="599227" source="kindergarten" target="member" weight="1064044.0"></edge>
+      <edge id="599228" source="kindergarten" target="mrs" weight="1108736.0"></edge>
+      <edge id="599229" source="kindergarten" target="new" weight="1132168.0"></edge>
+      <edge id="599230" source="kindergarten" target="normal" weight="1143296.0"></edge>
+      <edge id="599232" source="kindergarten" target="pupils" weight="1366400.0"></edge>
+      <edge id="599233" source="kindergarten" target="school" weight="1511317.0"></edge>
+      <edge id="599234" source="kindergarten" target="street" weight="1635776.0"></edge>
+      <edge id="599235" source="kindergarten" target="teacher" weight="1692245.0"></edge>
+      <edge id="599236" source="kindergarten" target="teachers" weight="1692976.0"></edge>
+      <edge id="599237" source="kindergarten" target="training" weight="1743136.0"></edge>
+      <edge id="599238" source="kindergarten" target="university" weight="1784916.0"></edge>
+      <edge id="599239" source="kindergarten" target="west" weight="1838784.0"></edge>
+      <edge id="599240" source="kindergarten" target="work" weight="1865136.0"></edge>
+      <edge id="599241" source="kindergarten" target="year" weight="1887102.0"></edge>
+      <edge id="599242" source="kindergarten" target="years" weight="1889156.0"></edge>
+      <edge id="599243" source="kindergarten" target="york" weight="1890226.0"></edge>
+      <edge id="599244" source="kindergarten" target="affiliated" weight="1921744.0"></edge>
+      <edge id="599245" source="kindergarten" target="columbia" weight="2157213.0"></edge>
+      <edge id="599246" source="kindergarten" target="dept" weight="2251150.0"></edge>
+      <edge id="599247" source="kindergarten" target="homemaker" weight="2554588.0"></edge>
+      <edge id="599248" source="kindergarten" target="park" weight="2940688.0"></edge>
+      <edge id="599249" source="kindergarten" target="avenue" weight="3662928.0"></edge>
+      <edge id="599250" source="member" target="alumni" weight="76160.0"></edge>
+      <edge id="599251" source="member" target="art" weight="112064.0"></edge>
+      <edge id="599252" source="member" target="children" weight="285640.0"></edge>
+      <edge id="599253" source="member" target="city" weight="297024.0"></edge>
+      <edge id="599254" source="member" target="class" weight="299344.0"></edge>
+      <edge id="599255" source="member" target="college" weight="311456.0"></edge>
+      <edge id="599256" source="member" target="culture" weight="402748.0"></edge>
+      <edge id="599257" source="member" target="east" weight="522240.0"></edge>
+      <edge id="599258" source="member" target="ethical" weight="606248.0"></edge>
+      <edge id="599259" source="member" target="graduated" weight="838848.0"></edge>
+      <edge id="599260" source="member" target="high" weight="912988.0"></edge>
+      <edge id="599261" source="member" target="kindergarten" weight="1064044.0"></edge>
+      <edge id="599262" source="member" target="member" weight="1185680.0"></edge>
+      <edge id="599263" source="member" target="mrs" weight="1235968.0"></edge>
+      <edge id="599264" source="member" target="new" weight="1261664.0"></edge>
+      <edge id="599265" source="member" target="normal" weight="1273984.0"></edge>
+      <edge id="599267" source="member" target="pupils" weight="1523200.0"></edge>
+      <edge id="599268" source="member" target="school" weight="1683164.0"></edge>
+      <edge id="599269" source="member" target="street" weight="1823488.0"></edge>
+      <edge id="599270" source="member" target="teacher" weight="1886044.0"></edge>
+      <edge id="599271" source="member" target="teachers" weight="1886912.0"></edge>
+      <edge id="599272" source="member" target="training" weight="1943168.0"></edge>
+      <edge id="599273" source="member" target="university" weight="1989360.0"></edge>
+      <edge id="599274" source="member" target="west" weight="2049792.0"></edge>
+      <edge id="599275" source="member" target="work" weight="2079168.0"></edge>
+      <edge id="599276" source="member" target="year" weight="2103336.0"></edge>
+      <edge id="599277" source="member" target="years" weight="2105392.0"></edge>
+      <edge id="599278" source="member" target="york" weight="2106776.0"></edge>
+      <edge id="599279" source="member" target="affiliated" weight="2142272.0"></edge>
+      <edge id="599280" source="member" target="columbia" weight="2404284.0"></edge>
+      <edge id="599281" source="member" target="dept" weight="2509160.0"></edge>
+      <edge id="599282" source="member" target="homemaker" weight="2847440.0"></edge>
+      <edge id="599283" source="member" target="park" weight="3278144.0"></edge>
+      <edge id="599284" source="member" target="avenue" weight="4083264.0"></edge>
+      <edge id="599285" source="mrs" target="alumni" weight="79520.0"></edge>
+      <edge id="599286" source="mrs" target="art" weight="117008.0"></edge>
+      <edge id="599287" source="mrs" target="children" weight="296496.0"></edge>
+      <edge id="599288" source="mrs" target="city" weight="367584.0"></edge>
+      <edge id="599289" source="mrs" target="class" weight="311264.0"></edge>
+      <edge id="599290" source="mrs" target="college" weight="327952.0"></edge>
+      <edge id="599291" source="mrs" target="culture" weight="419184.0"></edge>
+      <edge id="599292" source="mrs" target="east" weight="553200.0"></edge>
+      <edge id="599293" source="mrs" target="ethical" weight="631616.0"></edge>
+      <edge id="599294" source="mrs" target="graduated" weight="875856.0"></edge>
+      <edge id="599295" source="mrs" target="high" weight="950832.0"></edge>
+      <edge id="599296" source="mrs" target="kindergarten" weight="1108736.0"></edge>
+      <edge id="599297" source="mrs" target="member" weight="1235968.0"></edge>
+      <edge id="599298" source="mrs" target="mrs" weight="1311232.0"></edge>
+      <edge id="599299" source="mrs" target="new" weight="1374240.0"></edge>
+      <edge id="599300" source="mrs" target="normal" weight="1327984.0"></edge>
+      <edge id="599302" source="mrs" target="pupils" weight="1590400.0"></edge>
+      <edge id="599303" source="mrs" target="school" weight="1758064.0"></edge>
+      <edge id="599304" source="mrs" target="street" weight="1948000.0"></edge>
+      <edge id="599305" source="mrs" target="teacher" weight="1967552.0"></edge>
+      <edge id="599306" source="mrs" target="teachers" weight="1968688.0"></edge>
+      <edge id="599307" source="mrs" target="training" weight="2028896.0"></edge>
+      <edge id="599308" source="mrs" target="university" weight="2079936.0"></edge>
+      <edge id="599309" source="mrs" target="west" weight="2174352.0"></edge>
+      <edge id="599310" source="mrs" target="work" weight="2170896.0"></edge>
+      <edge id="599311" source="mrs" target="year" weight="2194752.0"></edge>
+      <edge id="599312" source="mrs" target="years" weight="2216480.0"></edge>
+      <edge id="599313" source="mrs" target="york" weight="2255904.0"></edge>
+      <edge id="599314" source="mrs" target="affiliated" weight="2240528.0"></edge>
+      <edge id="599315" source="mrs" target="columbia" weight="2512176.0"></edge>
+      <edge id="599316" source="mrs" target="dept" weight="2618480.0"></edge>
+      <edge id="599317" source="mrs" target="homemaker" weight="2971776.0"></edge>
+      <edge id="599318" source="mrs" target="park" weight="3427664.0"></edge>
+      <edge id="599319" source="mrs" target="avenue" weight="4277088.0"></edge>
+      <edge id="599320" source="new" target="alumni" weight="81060.0"></edge>
+      <edge id="599321" source="new" target="art" weight="122325.0"></edge>
+      <edge id="599322" source="new" target="children" weight="303758.0"></edge>
+      <edge id="599323" source="new" target="city" weight="491017.0"></edge>
+      <edge id="599324" source="new" target="class" weight="318412.0"></edge>
+      <edge id="599325" source="new" target="college" weight="346208.0"></edge>
+      <edge id="599326" source="new" target="culture" weight="428462.0"></edge>
+      <edge id="599327" source="new" target="east" weight="578280.0"></edge>
+      <edge id="599328" source="new" target="ethical" weight="645048.0"></edge>
+      <edge id="599329" source="new" target="graduated" weight="896321.0"></edge>
+      <edge id="599330" source="new" target="high" weight="971366.0"></edge>
+      <edge id="599331" source="new" target="kindergarten" weight="1132168.0"></edge>
+      <edge id="599332" source="new" target="member" weight="1261664.0"></edge>
+      <edge id="599333" source="new" target="mrs" weight="1374240.0"></edge>
+      <edge id="599334" source="new" target="new" weight="1521797.0"></edge>
+      <edge id="599335" source="new" target="normal" weight="1355622.0"></edge>
+      <edge id="599337" source="new" target="pupils" weight="1621200.0"></edge>
+      <edge id="599338" source="new" target="school" weight="1825666.0"></edge>
+      <edge id="599339" source="new" target="street" weight="2074018.0"></edge>
+      <edge id="599340" source="new" target="teacher" weight="2007136.0"></edge>
+      <edge id="599341" source="new" target="teachers" weight="2011710.0"></edge>
+      <edge id="599342" source="new" target="training" weight="2071691.0"></edge>
+      <edge id="599343" source="new" target="university" weight="2129754.0"></edge>
+      <edge id="599344" source="new" target="west" weight="2285148.0"></edge>
+      <edge id="599345" source="new" target="work" weight="2216441.0"></edge>
+      <edge id="599346" source="new" target="year" weight="2238456.0"></edge>
+      <edge id="599347" source="new" target="years" weight="2323698.0"></edge>
+      <edge id="599348" source="new" target="york" weight="2418354.0"></edge>
+      <edge id="599349" source="new" target="affiliated" weight="2290710.0"></edge>
+      <edge id="599350" source="new" target="columbia" weight="2569680.0"></edge>
+      <edge id="599351" source="new" target="dept" weight="2670390.0"></edge>
+      <edge id="599352" source="new" target="homemaker" weight="3030448.0"></edge>
+      <edge id="599353" source="new" target="park" weight="3502926.0"></edge>
+      <edge id="599354" source="new" target="avenue" weight="4388124.0"></edge>
+      <edge id="599355" source="normal" target="alumni" weight="81830.0"></edge>
+      <edge id="599356" source="normal" target="art" weight="120407.0"></edge>
+      <edge id="599357" source="normal" target="children" weight="306933.0"></edge>
+      <edge id="599358" source="normal" target="city" weight="319137.0"></edge>
+      <edge id="599359" source="normal" target="class" weight="321650.0"></edge>
+      <edge id="599360" source="normal" target="college" weight="334684.0"></edge>
+      <edge id="599361" source="normal" target="culture" weight="432753.0"></edge>
+      <edge id="599362" source="normal" target="east" weight="561120.0"></edge>
+      <edge id="599363" source="normal" target="ethical" weight="651404.0"></edge>
+      <edge id="599364" source="normal" target="graduated" weight="901299.0"></edge>
+      <edge id="599365" source="normal" target="high" weight="980997.0"></edge>
+      <edge id="599366" source="normal" target="kindergarten" weight="1143296.0"></edge>
+      <edge id="599367" source="normal" target="member" weight="1273984.0"></edge>
+      <edge id="599368" source="normal" target="mrs" weight="1327984.0"></edge>
+      <edge id="599369" source="normal" target="new" weight="1355622.0"></edge>
+      <edge id="599370" source="normal" target="normal" weight="1368865.0"></edge>
+      <edge id="599372" source="normal" target="pupils" weight="1636600.0"></edge>
+      <edge id="599373" source="normal" target="school" weight="1808581.0"></edge>
+      <edge id="599374" source="normal" target="street" weight="1959244.0"></edge>
+      <edge id="599375" source="normal" target="teacher" weight="2026484.0"></edge>
+      <edge id="599376" source="normal" target="teachers" weight="2027413.0"></edge>
+      <edge id="599377" source="normal" target="training" weight="2087834.0"></edge>
+      <edge id="599378" source="normal" target="university" weight="2137491.0"></edge>
+      <edge id="599379" source="normal" target="west" weight="2202396.0"></edge>
+      <edge id="599380" source="normal" target="work" weight="2233959.0"></edge>
+      <edge id="599381" source="normal" target="year" weight="2259948.0"></edge>
+      <edge id="599382" source="normal" target="years" weight="2262173.0"></edge>
+      <edge id="599383" source="normal" target="york" weight="2263647.0"></edge>
+      <edge id="599384" source="normal" target="affiliated" weight="2301761.0"></edge>
+      <edge id="599385" source="normal" target="columbia" weight="2583312.0"></edge>
+      <edge id="599386" source="normal" target="dept" weight="2695985.0"></edge>
+      <edge id="599387" source="normal" target="homemaker" weight="3059448.0"></edge>
+      <edge id="599388" source="normal" target="park" weight="3522197.0"></edge>
+      <edge id="599389" source="normal" target="avenue" weight="4387257.0"></edge>
+      <edge id="599425" source="pupils" target="alumni" weight="99053.0"></edge>
+      <edge id="599426" source="pupils" target="art" weight="144200.0"></edge>
+      <edge id="599427" source="pupils" target="children" weight="365400.0"></edge>
+      <edge id="599428" source="pupils" target="city" weight="382200.0"></edge>
+      <edge id="599429" source="pupils" target="class" weight="383600.0"></edge>
+      <edge id="599430" source="pupils" target="college" weight="397600.0"></edge>
+      <edge id="599431" source="pupils" target="culture" weight="517770.0"></edge>
+      <edge id="599432" source="pupils" target="east" weight="672000.0"></edge>
+      <edge id="599433" source="pupils" target="ethical" weight="779960.0"></edge>
+      <edge id="599434" source="pupils" target="graduated" weight="1079400.0"></edge>
+      <edge id="599435" source="pupils" target="high" weight="1171800.0"></edge>
+      <edge id="599436" source="pupils" target="kindergarten" weight="1366400.0"></edge>
+      <edge id="599437" source="pupils" target="member" weight="1523200.0"></edge>
+      <edge id="599438" source="pupils" target="mrs" weight="1590400.0"></edge>
+      <edge id="599439" source="pupils" target="new" weight="1621200.0"></edge>
+      <edge id="599440" source="pupils" target="normal" weight="1636600.0"></edge>
+      <edge id="599442" source="pupils" target="pupils" weight="1961521.0"></edge>
+      <edge id="599443" source="pupils" target="school" weight="2163406.0"></edge>
+      <edge id="599444" source="pupils" target="street" weight="2346400.0"></edge>
+      <edge id="599445" source="pupils" target="teacher" weight="2424800.0"></edge>
+      <edge id="599446" source="pupils" target="teachers" weight="2426200.0"></edge>
+      <edge id="599447" source="pupils" target="training" weight="2500400.0"></edge>
+      <edge id="599448" source="pupils" target="university" weight="2557800.0"></edge>
+      <edge id="599449" source="pupils" target="west" weight="2637600.0"></edge>
+      <edge id="599450" source="pupils" target="work" weight="2675400.0"></edge>
+      <edge id="599451" source="pupils" target="year" weight="2704800.0"></edge>
+      <edge id="599452" source="pupils" target="years" weight="2707370.0"></edge>
+      <edge id="599453" source="pupils" target="york" weight="2709000.0"></edge>
+      <edge id="599454" source="pupils" target="affiliated" weight="2756600.0"></edge>
+      <edge id="599455" source="pupils" target="columbia" weight="3091200.0"></edge>
+      <edge id="599456" source="pupils" target="dept" weight="3227000.0"></edge>
+      <edge id="599457" source="pupils" target="homemaker" weight="3662400.0"></edge>
+      <edge id="599458" source="pupils" target="park" weight="4218200.0"></edge>
+      <edge id="599459" source="pupils" target="avenue" weight="5254200.0"></edge>
+      <edge id="599460" source="school" target="alumni" weight="112028.0"></edge>
+      <edge id="599461" source="school" target="art" weight="162071.0"></edge>
+      <edge id="599462" source="school" target="children" weight="407863.0"></edge>
+      <edge id="599463" source="school" target="city" weight="454709.0"></edge>
+      <edge id="599464" source="school" target="class" weight="426406.0"></edge>
+      <edge id="599465" source="school" target="college" weight="447912.0"></edge>
+      <edge id="599466" source="school" target="culture" weight="577570.0"></edge>
+      <edge id="599467" source="school" target="east" weight="742540.0"></edge>
+      <edge id="599468" source="school" target="ethical" weight="867426.0"></edge>
+      <edge id="599469" source="school" target="graduated" weight="1191955.0"></edge>
+      <edge id="599470" source="school" target="high" weight="1297714.0"></edge>
+      <edge id="599471" source="school" target="kindergarten" weight="1511317.0"></edge>
+      <edge id="599472" source="school" target="member" weight="1683164.0"></edge>
+      <edge id="599473" source="school" target="mrs" weight="1758064.0"></edge>
+      <edge id="599474" source="school" target="new" weight="1825666.0"></edge>
+      <edge id="599475" source="school" target="normal" weight="1808581.0"></edge>
+      <edge id="599477" source="school" target="pupils" weight="2163406.0"></edge>
+      <edge id="599478" source="school" target="school" weight="2438678.0"></edge>
+      <edge id="599479" source="school" target="street" weight="2607804.0"></edge>
+      <edge id="599480" source="school" target="teacher" weight="2674525.0"></edge>
+      <edge id="599481" source="school" target="teachers" weight="2679289.0"></edge>
+      <edge id="599482" source="school" target="training" weight="2756070.0"></edge>
+      <edge id="599483" source="school" target="university" weight="2822383.0"></edge>
+      <edge id="599484" source="school" target="west" weight="2923008.0"></edge>
+      <edge id="599485" source="school" target="work" weight="2948695.0"></edge>
+      <edge id="599486" source="school" target="year" weight="2981682.0"></edge>
+      <edge id="599487" source="school" target="years" weight="3025837.0"></edge>
+      <edge id="599488" source="school" target="york" weight="3021641.0"></edge>
+      <edge id="599489" source="school" target="affiliated" weight="3035581.0"></edge>
+      <edge id="599490" source="school" target="columbia" weight="3410637.0"></edge>
+      <edge id="599491" source="school" target="dept" weight="3556475.0"></edge>
+      <edge id="599492" source="school" target="homemaker" weight="4035428.0"></edge>
+      <edge id="599493" source="school" target="park" weight="4644801.0"></edge>
+      <edge id="599494" source="school" target="avenue" weight="5792033.0"></edge>
+      <edge id="599495" source="street" target="alumni" weight="117320.0"></edge>
+      <edge id="599496" source="street" target="art" weight="174626.0"></edge>
+      <edge id="599497" source="street" target="children" weight="437436.0"></edge>
+      <edge id="599498" source="street" target="city" weight="587560.0"></edge>
+      <edge id="599499" source="street" target="class" weight="459224.0"></edge>
+      <edge id="599500" source="street" target="college" weight="487306.0"></edge>
+      <edge id="599501" source="street" target="culture" weight="618444.0"></edge>
+      <edge id="599502" source="street" target="east" weight="821310.0"></edge>
+      <edge id="599503" source="street" target="ethical" weight="931856.0"></edge>
+      <edge id="599504" source="street" target="graduated" weight="1294490.0"></edge>
+      <edge id="599505" source="street" target="high" weight="1402812.0"></edge>
+      <edge id="599506" source="street" target="kindergarten" weight="1635776.0"></edge>
+      <edge id="599507" source="street" target="member" weight="1823488.0"></edge>
+      <edge id="599508" source="street" target="mrs" weight="1948000.0"></edge>
+      <edge id="599509" source="street" target="new" weight="2074018.0"></edge>
+      <edge id="599510" source="street" target="normal" weight="1959244.0"></edge>
+      <edge id="599512" source="street" target="pupils" weight="2346400.0"></edge>
+      <edge id="599513" source="street" target="school" weight="2607804.0"></edge>
+      <edge id="599514" source="street" target="street" weight="2908088.0"></edge>
+      <edge id="599515" source="street" target="teacher" weight="2902832.0"></edge>
+      <edge id="599516" source="street" target="teachers" weight="2906876.0"></edge>
+      <edge id="599517" source="street" target="training" weight="2995630.0"></edge>
+      <edge id="599518" source="street" target="university" weight="3071538.0"></edge>
+      <edge id="599519" source="street" target="west" weight="3234546.0"></edge>
+      <edge id="599520" source="street" target="work" weight="3205130.0"></edge>
+      <edge id="599521" source="street" target="year" weight="3238032.0"></edge>
+      <edge id="599522" source="street" target="years" weight="3299746.0"></edge>
+      <edge id="599523" source="street" target="york" weight="3374054.0"></edge>
+      <edge id="599524" source="street" target="affiliated" weight="3308000.0"></edge>
+      <edge id="599525" source="street" target="columbia" weight="3708870.0"></edge>
+      <edge id="599526" source="street" target="dept" weight="3863180.0"></edge>
+      <edge id="599527" source="street" target="homemaker" weight="4384416.0"></edge>
+      <edge id="599528" source="street" target="park" weight="5060192.0"></edge>
+      <edge id="599529" source="street" target="avenue" weight="6321318.0"></edge>
+      <edge id="599530" source="teacher" target="alumni" weight="121240.0"></edge>
+      <edge id="599531" source="teacher" target="art" weight="178396.0"></edge>
+      <edge id="599532" source="teacher" target="children" weight="453458.0"></edge>
+      <edge id="599533" source="teacher" target="city" weight="472836.0"></edge>
+      <edge id="599534" source="teacher" target="class" weight="475604.0"></edge>
+      <edge id="599535" source="teacher" target="college" weight="493960.0"></edge>
+      <edge id="599536" source="teacher" target="culture" weight="640181.0"></edge>
+      <edge id="599537" source="teacher" target="east" weight="831360.0"></edge>
+      <edge id="599538" source="teacher" target="ethical" weight="964102.0"></edge>
+      <edge id="599539" source="teacher" target="graduated" weight="1335372.0"></edge>
+      <edge id="599540" source="teacher" target="high" weight="1451645.0"></edge>
+      <edge id="599541" source="teacher" target="kindergarten" weight="1692245.0"></edge>
+      <edge id="599542" source="teacher" target="member" weight="1886044.0"></edge>
+      <edge id="599543" source="teacher" target="mrs" weight="1967552.0"></edge>
+      <edge id="599544" source="teacher" target="new" weight="2007136.0"></edge>
+      <edge id="599545" source="teacher" target="normal" weight="2026484.0"></edge>
+      <edge id="599547" source="teacher" target="pupils" weight="2424800.0"></edge>
+      <edge id="599548" source="teacher" target="school" weight="2674525.0"></edge>
+      <edge id="599549" source="teacher" target="street" weight="2902832.0"></edge>
+      <edge id="599550" source="teacher" target="teacher" weight="3001193.0"></edge>
+      <edge id="599551" source="teacher" target="teachers" weight="3002740.0"></edge>
+      <edge id="599552" source="teacher" target="training" weight="3093352.0"></edge>
+      <edge id="599553" source="teacher" target="university" weight="3165696.0"></edge>
+      <edge id="599554" source="teacher" target="west" weight="3263088.0"></edge>
+      <edge id="599555" source="teacher" target="work" weight="3309852.0"></edge>
+      <edge id="599556" source="teacher" target="year" weight="3347334.0"></edge>
+      <edge id="599557" source="teacher" target="years" weight="3349880.0"></edge>
+      <edge id="599558" source="teacher" target="york" weight="3352678.0"></edge>
+      <edge id="599559" source="teacher" target="affiliated" weight="3410308.0"></edge>
+      <edge id="599560" source="teacher" target="columbia" weight="3825921.0"></edge>
+      <edge id="599561" source="teacher" target="dept" weight="3993370.0"></edge>
+      <edge id="599562" source="teacher" target="homemaker" weight="4531948.0"></edge>
+      <edge id="599563" source="teacher" target="park" weight="5218516.0"></edge>
+      <edge id="599564" source="teacher" target="avenue" weight="6500196.0"></edge>
+      <edge id="599565" source="teachers" target="alumni" weight="121310.0"></edge>
+      <edge id="599566" source="teachers" target="art" weight="179363.0"></edge>
+      <edge id="599567" source="teachers" target="children" weight="453529.0"></edge>
+      <edge id="599568" source="teachers" target="city" weight="476533.0"></edge>
+      <edge id="599569" source="teachers" target="class" weight="475738.0"></edge>
+      <edge id="599570" source="teachers" target="college" weight="493964.0"></edge>
+      <edge id="599571" source="teachers" target="culture" weight="640405.0"></edge>
+      <edge id="599572" source="teachers" target="east" weight="831840.0"></edge>
+      <edge id="599573" source="teachers" target="ethical" weight="964508.0"></edge>
+      <edge id="599574" source="teachers" target="graduated" weight="1337135.0"></edge>
+      <edge id="599575" source="teachers" target="high" weight="1452217.0"></edge>
+      <edge id="599576" source="teachers" target="kindergarten" weight="1692976.0"></edge>
+      <edge id="599577" source="teachers" target="member" weight="1886912.0"></edge>
+      <edge id="599578" source="teachers" target="mrs" weight="1968688.0"></edge>
+      <edge id="599579" source="teachers" target="new" weight="2011710.0"></edge>
+      <edge id="599580" source="teachers" target="normal" weight="2027413.0"></edge>
+      <edge id="599582" source="teachers" target="pupils" weight="2426200.0"></edge>
+      <edge id="599583" source="teachers" target="school" weight="2679289.0"></edge>
+      <edge id="599584" source="teachers" target="street" weight="2906876.0"></edge>
+      <edge id="599585" source="teachers" target="teacher" weight="3002740.0"></edge>
+      <edge id="599586" source="teachers" target="teachers" weight="3005337.0"></edge>
+      <edge id="599587" source="teachers" target="training" weight="3096130.0"></edge>
+      <edge id="599588" source="teachers" target="university" weight="3167343.0"></edge>
+      <edge id="599589" source="teachers" target="west" weight="3266892.0"></edge>
+      <edge id="599590" source="teachers" target="work" weight="3312755.0"></edge>
+      <edge id="599591" source="teachers" target="year" weight="3349116.0"></edge>
+      <edge id="599592" source="teachers" target="years" weight="3358593.0"></edge>
+      <edge id="599593" source="teachers" target="york" weight="3358027.0"></edge>
+      <edge id="599594" source="teachers" target="affiliated" weight="3412277.0"></edge>
+      <edge id="599595" source="teachers" target="columbia" weight="3827904.0"></edge>
+      <edge id="599596" source="teachers" target="dept" weight="3995525.0"></edge>
+      <edge id="599597" source="teachers" target="homemaker" weight="4534424.0"></edge>
+      <edge id="599598" source="teachers" target="park" weight="5221529.0"></edge>
+      <edge id="599599" source="teachers" target="avenue" weight="6504909.0"></edge>
+      <edge id="599600" source="training" target="alumni" weight="125020.0"></edge>
+      <edge id="599601" source="training" target="art" weight="184795.0"></edge>
+      <edge id="599602" source="training" target="children" weight="466146.0"></edge>
+      <edge id="599603" source="training" target="city" weight="490895.0"></edge>
+      <edge id="599604" source="training" target="class" weight="489364.0"></edge>
+      <edge id="599605" source="training" target="college" weight="507224.0"></edge>
+      <edge id="599606" source="training" target="culture" weight="659034.0"></edge>
+      <edge id="599607" source="training" target="east" weight="857280.0"></edge>
+      <edge id="599608" source="training" target="ethical" weight="993016.0"></edge>
+      <edge id="599609" source="training" target="graduated" weight="1377967.0"></edge>
+      <edge id="599610" source="training" target="high" weight="1494882.0"></edge>
+      <edge id="599611" source="training" target="kindergarten" weight="1743136.0"></edge>
+      <edge id="599612" source="training" target="member" weight="1943168.0"></edge>
+      <edge id="599613" source="training" target="mrs" weight="2028896.0"></edge>
+      <edge id="599614" source="training" target="new" weight="2071691.0"></edge>
+      <edge id="599615" source="training" target="normal" weight="2087834.0"></edge>
+      <edge id="599617" source="training" target="pupils" weight="2500400.0"></edge>
+      <edge id="599618" source="training" target="school" weight="2756070.0"></edge>
+      <edge id="599619" source="training" target="street" weight="2995630.0"></edge>
+      <edge id="599620" source="training" target="teacher" weight="3093352.0"></edge>
+      <edge id="599621" source="training" target="teachers" weight="3096130.0"></edge>
+      <edge id="599622" source="training" target="training" weight="3190757.0"></edge>
+      <edge id="599623" source="training" target="university" weight="3263022.0"></edge>
+      <edge id="599624" source="training" target="west" weight="3366684.0"></edge>
+      <edge id="599625" source="training" target="work" weight="3414007.0"></edge>
+      <edge id="599626" source="training" target="year" weight="3450552.0"></edge>
+      <edge id="599627" source="training" target="years" weight="3459158.0"></edge>
+      <edge id="599628" source="training" target="york" weight="3459382.0"></edge>
+      <edge id="599629" source="training" target="affiliated" weight="3516634.0"></edge>
+      <edge id="599630" source="training" target="columbia" weight="3943488.0"></edge>
+      <edge id="599631" source="training" target="dept" weight="4116730.0"></edge>
+      <edge id="599632" source="training" target="homemaker" weight="4672176.0"></edge>
+      <edge id="599633" source="training" target="park" weight="5381218.0"></edge>
+      <edge id="599634" source="training" target="avenue" weight="6703788.0"></edge>
+      <edge id="599635" source="university" target="alumni" weight="127890.0"></edge>
+      <edge id="599636" source="university" target="art" weight="188181.0"></edge>
+      <edge id="599637" source="university" target="children" weight="478215.0"></edge>
+      <edge id="599638" source="university" target="city" weight="511140.0"></edge>
+      <edge id="599639" source="university" target="class" weight="501606.0"></edge>
+      <edge id="599640" source="university" target="college" weight="522031.0"></edge>
+      <edge id="599641" source="university" target="culture" weight="675207.0"></edge>
+      <edge id="599642" source="university" target="east" weight="878665.0"></edge>
+      <edge id="599643" source="university" target="ethical" weight="1016892.0"></edge>
+      <edge id="599644" source="university" target="graduated" weight="1408617.0"></edge>
+      <edge id="599645" source="university" target="high" weight="1531107.0"></edge>
+      <edge id="599646" source="university" target="kindergarten" weight="1784916.0"></edge>
+      <edge id="599647" source="university" target="member" weight="1989360.0"></edge>
+      <edge id="599648" source="university" target="mrs" weight="2079936.0"></edge>
+      <edge id="599649" source="university" target="new" weight="2129754.0"></edge>
+      <edge id="599650" source="university" target="normal" weight="2137491.0"></edge>
+      <edge id="599652" source="university" target="pupils" weight="2557800.0"></edge>
+      <edge id="599653" source="university" target="school" weight="2822383.0"></edge>
+      <edge id="599654" source="university" target="street" weight="3071538.0"></edge>
+      <edge id="599655" source="university" target="teacher" weight="3165696.0"></edge>
+      <edge id="599656" source="university" target="teachers" weight="3167343.0"></edge>
+      <edge id="599657" source="university" target="training" weight="3263022.0"></edge>
+      <edge id="599658" source="university" target="university" weight="3340186.0"></edge>
+      <edge id="599659" source="university" target="west" weight="3449415.0"></edge>
+      <edge id="599660" source="university" target="work" weight="3491397.0"></edge>
+      <edge id="599661" source="university" target="year" weight="3530844.0"></edge>
+      <edge id="599662" source="university" target="years" weight="3537896.0"></edge>
+      <edge id="599663" source="university" target="york" weight="3548900.0"></edge>
+      <edge id="599664" source="university" target="affiliated" weight="3598169.0"></edge>
+      <edge id="599665" source="university" target="columbia" weight="4036473.0"></edge>
+      <edge id="599666" source="university" target="dept" weight="4212315.0"></edge>
+      <edge id="599667" source="university" target="homemaker" weight="4780440.0"></edge>
+      <edge id="599668" source="university" target="park" weight="5505805.0"></edge>
+      <edge id="599669" source="university" target="avenue" weight="6859676.0"></edge>
+      <edge id="599670" source="west" target="alumni" weight="131880.0"></edge>
+      <edge id="599671" source="west" target="art" weight="195672.0"></edge>
+      <edge id="599672" source="west" target="children" weight="491724.0"></edge>
+      <edge id="599673" source="west" target="city" weight="615315.0"></edge>
+      <edge id="599674" source="west" target="class" weight="516216.0"></edge>
+      <edge id="599675" source="west" target="college" weight="543825.0"></edge>
+      <edge id="599676" source="west" target="culture" weight="695196.0"></edge>
+      <edge id="599677" source="west" target="east" weight="917355.0"></edge>
+      <edge id="599678" source="west" target="ethical" weight="1047504.0"></edge>
+      <edge id="599679" source="west" target="graduated" weight="1454424.0"></edge>
+      <edge id="599680" source="west" target="high" weight="1576908.0"></edge>
+      <edge id="599681" source="west" target="kindergarten" weight="1838784.0"></edge>
+      <edge id="599682" source="west" target="member" weight="2049792.0"></edge>
+      <edge id="599683" source="west" target="mrs" weight="2174352.0"></edge>
+      <edge id="599684" source="west" target="new" weight="2285148.0"></edge>
+      <edge id="599685" source="west" target="normal" weight="2202396.0"></edge>
+      <edge id="599687" source="west" target="pupils" weight="2637600.0"></edge>
+      <edge id="599688" source="west" target="school" weight="2923008.0"></edge>
+      <edge id="599689" source="west" target="street" weight="3234546.0"></edge>
+      <edge id="599690" source="west" target="teacher" weight="3263088.0"></edge>
+      <edge id="599691" source="west" target="teachers" weight="3266892.0"></edge>
+      <edge id="599692" source="west" target="training" weight="3366684.0"></edge>
+      <edge id="599693" source="west" target="university" weight="3449415.0"></edge>
+      <edge id="599694" source="west" target="west" weight="3609225.0"></edge>
+      <edge id="599695" source="west" target="work" weight="3602184.0"></edge>
+      <edge id="599696" source="west" target="year" weight="3639888.0"></edge>
+      <edge id="599697" source="west" target="years" weight="3688863.0"></edge>
+      <edge id="599698" source="west" target="york" weight="3747297.0"></edge>
+      <edge id="599699" source="west" target="affiliated" weight="3715758.0"></edge>
+      <edge id="599700" source="west" target="columbia" weight="4166271.0"></edge>
+      <edge id="599701" source="west" target="dept" weight="4342620.0"></edge>
+      <edge id="599702" source="west" target="homemaker" weight="4928544.0"></edge>
+      <edge id="599703" source="west" target="park" weight="5684550.0"></edge>
+      <edge id="599704" source="west" target="avenue" weight="7094967.0"></edge>
+      <edge id="599705" source="work" target="alumni" weight="133770.0"></edge>
+      <edge id="599706" source="work" target="art" weight="197670.0"></edge>
+      <edge id="599707" source="work" target="children" weight="498771.0"></edge>
+      <edge id="599708" source="work" target="city" weight="525020.0"></edge>
+      <edge id="599709" source="work" target="class" weight="523614.0"></edge>
+      <edge id="599710" source="work" target="college" weight="542724.0"></edge>
+      <edge id="599711" source="work" target="culture" weight="705159.0"></edge>
+      <edge id="599712" source="work" target="east" weight="917280.0"></edge>
+      <edge id="599713" source="work" target="ethical" weight="1062516.0"></edge>
+      <edge id="599714" source="work" target="graduated" weight="1474342.0"></edge>
+      <edge id="599715" source="work" target="high" weight="1599507.0"></edge>
+      <edge id="599716" source="work" target="kindergarten" weight="1865136.0"></edge>
+      <edge id="599717" source="work" target="member" weight="2079168.0"></edge>
+      <edge id="599718" source="work" target="mrs" weight="2170896.0"></edge>
+      <edge id="599719" source="work" target="new" weight="2216441.0"></edge>
+      <edge id="599720" source="work" target="normal" weight="2233959.0"></edge>
+      <edge id="599722" source="work" target="pupils" weight="2675400.0"></edge>
+      <edge id="599723" source="work" target="school" weight="2948695.0"></edge>
+      <edge id="599724" source="work" target="street" weight="3205130.0"></edge>
+      <edge id="599725" source="work" target="teacher" weight="3309852.0"></edge>
+      <edge id="599726" source="work" target="teachers" weight="3312755.0"></edge>
+      <edge id="599727" source="work" target="training" weight="3414007.0"></edge>
+      <edge id="599728" source="work" target="university" weight="3491397.0"></edge>
+      <edge id="599729" source="work" target="west" weight="3602184.0"></edge>
+      <edge id="599730" source="work" target="work" weight="3652882.0"></edge>
+      <edge id="599731" source="work" target="year" weight="3692052.0"></edge>
+      <edge id="599732" source="work" target="years" weight="3700783.0"></edge>
+      <edge id="599733" source="work" target="york" weight="3701257.0"></edge>
+      <edge id="599734" source="work" target="affiliated" weight="3762759.0"></edge>
+      <edge id="599735" source="work" target="columbia" weight="4219488.0"></edge>
+      <edge id="599736" source="work" target="dept" weight="4404855.0"></edge>
+      <edge id="599737" source="work" target="homemaker" weight="4999176.0"></edge>
+      <edge id="599738" source="work" target="park" weight="5757843.0"></edge>
+      <edge id="599739" source="work" target="avenue" weight="7172913.0"></edge>
+      <edge id="599740" source="year" target="alumni" weight="135240.0"></edge>
+      <edge id="599741" source="year" target="art" weight="198996.0"></edge>
+      <edge id="599742" source="year" target="children" weight="505392.0"></edge>
+      <edge id="599743" source="year" target="city" weight="527436.0"></edge>
+      <edge id="599744" source="year" target="class" weight="530208.0"></edge>
+      <edge id="599745" source="year" target="college" weight="550368.0"></edge>
+      <edge id="599746" source="year" target="culture" weight="713778.0"></edge>
+      <edge id="599747" source="year" target="east" weight="927360.0"></edge>
+      <edge id="599748" source="year" target="ethical" weight="1075092.0"></edge>
+      <edge id="599749" source="year" target="graduated" weight="1489572.0"></edge>
+      <edge id="599750" source="year" target="high" weight="1618674.0"></edge>
+      <edge id="599751" source="year" target="kindergarten" weight="1887102.0"></edge>
+      <edge id="599752" source="year" target="member" weight="2103336.0"></edge>
+      <edge id="599753" source="year" target="mrs" weight="2194752.0"></edge>
+      <edge id="599754" source="year" target="new" weight="2238456.0"></edge>
+      <edge id="599755" source="year" target="normal" weight="2259948.0"></edge>
+      <edge id="599757" source="year" target="pupils" weight="2704800.0"></edge>
+      <edge id="599758" source="year" target="school" weight="2981682.0"></edge>
+      <edge id="599759" source="year" target="street" weight="3238032.0"></edge>
+      <edge id="599760" source="year" target="teacher" weight="3347334.0"></edge>
+      <edge id="599761" source="year" target="teachers" weight="3349116.0"></edge>
+      <edge id="599762" source="year" target="training" weight="3450552.0"></edge>
+      <edge id="599763" source="year" target="university" weight="3530844.0"></edge>
+      <edge id="599764" source="year" target="west" weight="3639888.0"></edge>
+      <edge id="599765" source="year" target="work" weight="3692052.0"></edge>
+      <edge id="599766" source="year" target="year" weight="3733524.0"></edge>
+      <edge id="599767" source="year" target="years" weight="3736116.0"></edge>
+      <edge id="599768" source="year" target="york" weight="3739440.0"></edge>
+      <edge id="599769" source="year" target="affiliated" weight="3804108.0"></edge>
+      <edge id="599770" source="year" target="columbia" weight="4267206.0"></edge>
+      <edge id="599771" source="year" target="dept" weight="4454160.0"></edge>
+      <edge id="599772" source="year" target="homemaker" weight="5054952.0"></edge>
+      <edge id="599773" source="year" target="park" weight="5821116.0"></edge>
+      <edge id="599774" source="year" target="avenue" weight="7250796.0"></edge>
+      <edge id="599775" source="years" target="alumni" weight="136120.0"></edge>
+      <edge id="599776" source="years" target="art" weight="205039.0"></edge>
+      <edge id="599777" source="years" target="children" weight="506489.0"></edge>
+      <edge id="599778" source="years" target="city" weight="608306.0"></edge>
+      <edge id="599779" source="years" target="class" weight="531098.0"></edge>
+      <edge id="599780" source="years" target="college" weight="557175.0"></edge>
+      <edge id="599781" source="years" target="culture" weight="715685.0"></edge>
+      <edge id="599782" source="years" target="east" weight="935705.0"></edge>
+      <edge id="599783" source="years" target="ethical" weight="1077508.0"></edge>
+      <edge id="599784" source="years" target="graduated" weight="1497163.0"></edge>
+      <edge id="599785" source="years" target="high" weight="1620677.0"></edge>
+      <edge id="599786" source="years" target="kindergarten" weight="1889156.0"></edge>
+      <edge id="599787" source="years" target="member" weight="2105392.0"></edge>
+      <edge id="599788" source="years" target="mrs" weight="2216480.0"></edge>
+      <edge id="599789" source="years" target="new" weight="2323698.0"></edge>
+      <edge id="599790" source="years" target="normal" weight="2262173.0"></edge>
+      <edge id="599792" source="years" target="pupils" weight="2707370.0"></edge>
+      <edge id="599793" source="years" target="school" weight="3025837.0"></edge>
+      <edge id="599794" source="years" target="street" weight="3299746.0"></edge>
+      <edge id="599795" source="years" target="teacher" weight="3349880.0"></edge>
+      <edge id="599796" source="years" target="teachers" weight="3358593.0"></edge>
+      <edge id="599797" source="years" target="training" weight="3459158.0"></edge>
+      <edge id="599798" source="years" target="university" weight="3537896.0"></edge>
+      <edge id="599799" source="years" target="west" weight="3688863.0"></edge>
+      <edge id="599800" source="years" target="work" weight="3700783.0"></edge>
+      <edge id="599801" source="years" target="year" weight="3736116.0"></edge>
+      <edge id="599802" source="years" target="years" weight="3808942.0"></edge>
+      <edge id="599803" source="years" target="york" weight="3824106.0"></edge>
+      <edge id="599804" source="years" target="affiliated" weight="3809795.0"></edge>
+      <edge id="599805" source="years" target="columbia" weight="4274265.0"></edge>
+      <edge id="599806" source="years" target="dept" weight="4457125.0"></edge>
+      <edge id="599807" source="years" target="homemaker" weight="5058184.0"></edge>
+      <edge id="599808" source="years" target="park" weight="5828991.0"></edge>
+      <edge id="599809" source="years" target="avenue" weight="7274734.0"></edge>
+      <edge id="599810" source="york" target="alumni" weight="135450.0"></edge>
+      <edge id="599811" source="york" target="art" weight="202329.0"></edge>
+      <edge id="599812" source="york" target="children" weight="506327.0"></edge>
+      <edge id="599813" source="york" target="city" weight="700238.0"></edge>
+      <edge id="599814" source="york" target="class" weight="531142.0"></edge>
+      <edge id="599815" source="york" target="college" weight="566281.0"></edge>
+      <edge id="599816" source="york" target="culture" weight="715001.0"></edge>
+      <edge id="599817" source="york" target="east" weight="950855.0"></edge>
+      <edge id="599818" source="york" target="ethical" weight="1076880.0"></edge>
+      <edge id="599819" source="york" target="graduated" weight="1495357.0"></edge>
+      <edge id="599820" source="york" target="high" weight="1621397.0"></edge>
+      <edge id="599821" source="york" target="kindergarten" weight="1890226.0"></edge>
+      <edge id="599822" source="york" target="member" weight="2106776.0"></edge>
+      <edge id="599823" source="york" target="mrs" weight="2255904.0"></edge>
+      <edge id="599824" source="york" target="new" weight="2418354.0"></edge>
+      <edge id="599825" source="york" target="normal" weight="2263647.0"></edge>
+      <edge id="599827" source="york" target="pupils" weight="2709000.0"></edge>
+      <edge id="599828" source="york" target="school" weight="3021641.0"></edge>
+      <edge id="599829" source="york" target="street" weight="3374054.0"></edge>
+      <edge id="599830" source="york" target="teacher" weight="3352678.0"></edge>
+      <edge id="599831" source="york" target="teachers" weight="3358027.0"></edge>
+      <edge id="599832" source="york" target="training" weight="3459382.0"></edge>
+      <edge id="599833" source="york" target="university" weight="3548900.0"></edge>
+      <edge id="599834" source="york" target="west" weight="3747297.0"></edge>
+      <edge id="599835" source="york" target="work" weight="3701257.0"></edge>
+      <edge id="599836" source="york" target="year" weight="3739440.0"></edge>
+      <edge id="599837" source="york" target="years" weight="3824106.0"></edge>
+      <edge id="599838" source="york" target="york" weight="3918726.0"></edge>
+      <edge id="599839" source="york" target="affiliated" weight="3820441.0"></edge>
+      <edge id="599840" source="york" target="columbia" weight="4284837.0"></edge>
+      <edge id="599841" source="york" target="dept" weight="4461195.0"></edge>
+      <edge id="599842" source="york" target="homemaker" weight="5062912.0"></edge>
+      <edge id="599843" source="york" target="park" weight="5843789.0"></edge>
+      <edge id="599844" source="york" target="avenue" weight="7303510.0"></edge>
+      <edge id="599845" source="affiliated" target="alumni" weight="137830.0"></edge>
+      <edge id="599846" source="affiliated" target="art" weight="202807.0"></edge>
+      <edge id="599847" source="affiliated" target="children" weight="513909.0"></edge>
+      <edge id="599848" source="affiliated" target="city" weight="547911.0"></edge>
+      <edge id="599849" source="affiliated" target="class" weight="539506.0"></edge>
+      <edge id="599850" source="affiliated" target="college" weight="560158.0"></edge>
+      <edge id="599851" source="affiliated" target="culture" weight="726561.0"></edge>
+      <edge id="599852" source="affiliated" target="east" weight="946550.0"></edge>
+      <edge id="599853" source="affiliated" target="ethical" weight="1094764.0"></edge>
+      <edge id="599854" source="affiliated" target="graduated" weight="1518099.0"></edge>
+      <edge id="599855" source="affiliated" target="high" weight="1648053.0"></edge>
+      <edge id="599856" source="affiliated" target="kindergarten" weight="1921744.0"></edge>
+      <edge id="599857" source="affiliated" target="member" weight="2142272.0"></edge>
+      <edge id="599858" source="affiliated" target="mrs" weight="2240528.0"></edge>
+      <edge id="599859" source="affiliated" target="new" weight="2290710.0"></edge>
+      <edge id="599860" source="affiliated" target="normal" weight="2301761.0"></edge>
+      <edge id="599862" source="affiliated" target="pupils" weight="2756600.0"></edge>
+      <edge id="599863" source="affiliated" target="school" weight="3035581.0"></edge>
+      <edge id="599864" source="affiliated" target="street" weight="3308000.0"></edge>
+      <edge id="599865" source="affiliated" target="teacher" weight="3410308.0"></edge>
+      <edge id="599866" source="affiliated" target="teachers" weight="3412277.0"></edge>
+      <edge id="599867" source="affiliated" target="training" weight="3516634.0"></edge>
+      <edge id="599868" source="affiliated" target="university" weight="3598169.0"></edge>
+      <edge id="599869" source="affiliated" target="west" weight="3715758.0"></edge>
+      <edge id="599870" source="affiliated" target="work" weight="3762759.0"></edge>
+      <edge id="599871" source="affiliated" target="year" weight="3804108.0"></edge>
+      <edge id="599872" source="affiliated" target="years" weight="3809795.0"></edge>
+      <edge id="599873" source="affiliated" target="york" weight="3820441.0"></edge>
+      <edge id="599874" source="affiliated" target="affiliated" weight="3877637.0"></edge>
+      <edge id="599875" source="affiliated" target="columbia" weight="4348254.0"></edge>
+      <edge id="599876" source="affiliated" target="dept" weight="4538545.0"></edge>
+      <edge id="599877" source="affiliated" target="homemaker" weight="5150904.0"></edge>
+      <edge id="599878" source="affiliated" target="park" weight="5933481.0"></edge>
+      <edge id="599879" source="affiliated" target="avenue" weight="7392127.0"></edge>
+      <edge id="599880" source="columbia" target="alumni" weight="154560.0"></edge>
+      <edge id="599881" source="columbia" target="art" weight="227424.0"></edge>
+      <edge id="599882" source="columbia" target="children" weight="577998.0"></edge>
+      <edge id="599883" source="columbia" target="city" weight="613557.0"></edge>
+      <edge id="599884" source="columbia" target="class" weight="606252.0"></edge>
+      <edge id="599885" source="columbia" target="college" weight="630591.0"></edge>
+      <edge id="599886" source="columbia" target="culture" weight="816057.0"></edge>
+      <edge id="599887" source="columbia" target="east" weight="1061325.0"></edge>
+      <edge id="599888" source="columbia" target="ethical" weight="1228998.0"></edge>
+      <edge id="599889" source="columbia" target="graduated" weight="1702368.0"></edge>
+      <edge id="599890" source="columbia" target="high" weight="1850481.0"></edge>
+      <edge id="599891" source="columbia" target="kindergarten" weight="2157213.0"></edge>
+      <edge id="599892" source="columbia" target="member" weight="2404284.0"></edge>
+      <edge id="599893" source="columbia" target="mrs" weight="2512176.0"></edge>
+      <edge id="599894" source="columbia" target="new" weight="2569680.0"></edge>
+      <edge id="599895" source="columbia" target="normal" weight="2583312.0"></edge>
+      <edge id="599897" source="columbia" target="pupils" weight="3091200.0"></edge>
+      <edge id="599898" source="columbia" target="school" weight="3410637.0"></edge>
+      <edge id="599899" source="columbia" target="street" weight="3708870.0"></edge>
+      <edge id="599900" source="columbia" target="teacher" weight="3825921.0"></edge>
+      <edge id="599901" source="columbia" target="teachers" weight="3827904.0"></edge>
+      <edge id="599902" source="columbia" target="training" weight="3943488.0"></edge>
+      <edge id="599903" source="columbia" target="university" weight="4036473.0"></edge>
+      <edge id="599904" source="columbia" target="west" weight="4166271.0"></edge>
+      <edge id="599905" source="columbia" target="work" weight="4219488.0"></edge>
+      <edge id="599906" source="columbia" target="year" weight="4267206.0"></edge>
+      <edge id="599907" source="columbia" target="years" weight="4274265.0"></edge>
+      <edge id="599908" source="columbia" target="york" weight="4284837.0"></edge>
+      <edge id="599909" source="columbia" target="affiliated" weight="4348254.0"></edge>
+      <edge id="599910" source="columbia" target="columbia" weight="4878018.0"></edge>
+      <edge id="599911" source="columbia" target="dept" weight="5090790.0"></edge>
+      <edge id="599912" source="columbia" target="homemaker" weight="5777388.0"></edge>
+      <edge id="599913" source="columbia" target="park" weight="6653622.0"></edge>
+      <edge id="599914" source="columbia" target="avenue" weight="8289189.0"></edge>
+      <edge id="599915" source="dept" target="alumni" weight="161350.0"></edge>
+      <edge id="599916" source="dept" target="art" weight="237415.0"></edge>
+      <edge id="599917" source="dept" target="children" weight="602745.0"></edge>
+      <edge id="599918" source="dept" target="city" weight="629265.0"></edge>
+      <edge id="599919" source="dept" target="class" weight="632410.0"></edge>
+      <edge id="599920" source="dept" target="college" weight="656300.0"></edge>
+      <edge id="599921" source="dept" target="culture" weight="851415.0"></edge>
+      <edge id="599922" source="dept" target="east" weight="1106400.0"></edge>
+      <edge id="599923" source="dept" target="ethical" weight="1282480.0"></edge>
+      <edge id="599924" source="dept" target="graduated" weight="1777155.0"></edge>
+      <edge id="599925" source="dept" target="high" weight="1930875.0"></edge>
+      <edge id="599926" source="dept" target="kindergarten" weight="2251150.0"></edge>
+      <edge id="599927" source="dept" target="member" weight="2509160.0"></edge>
+      <edge id="599928" source="dept" target="mrs" weight="2618480.0"></edge>
+      <edge id="599929" source="dept" target="new" weight="2670390.0"></edge>
+      <edge id="599930" source="dept" target="normal" weight="2695985.0"></edge>
+      <edge id="599932" source="dept" target="pupils" weight="3227000.0"></edge>
+      <edge id="599933" source="dept" target="school" weight="3556475.0"></edge>
+      <edge id="599934" source="dept" target="street" weight="3863180.0"></edge>
+      <edge id="599935" source="dept" target="teacher" weight="3993370.0"></edge>
+      <edge id="599936" source="dept" target="teachers" weight="3995525.0"></edge>
+      <edge id="599937" source="dept" target="training" weight="4116730.0"></edge>
+      <edge id="599938" source="dept" target="university" weight="4212315.0"></edge>
+      <edge id="599939" source="dept" target="west" weight="4342620.0"></edge>
+      <edge id="599940" source="dept" target="work" weight="4404855.0"></edge>
+      <edge id="599941" source="dept" target="year" weight="4454160.0"></edge>
+      <edge id="599942" source="dept" target="years" weight="4457125.0"></edge>
+      <edge id="599943" source="dept" target="york" weight="4461195.0"></edge>
+      <edge id="599944" source="dept" target="affiliated" weight="4538545.0"></edge>
+      <edge id="599945" source="dept" target="columbia" weight="5090790.0"></edge>
+      <edge id="599946" source="dept" target="dept" weight="5313925.0"></edge>
+      <edge id="599947" source="dept" target="homemaker" weight="6030720.0"></edge>
+      <edge id="599948" source="dept" target="park" weight="6944965.0"></edge>
+      <edge id="599949" source="dept" target="avenue" weight="8650665.0"></edge>
+      <edge id="599950" source="homemaker" target="alumni" weight="183120.0"></edge>
+      <edge id="599951" source="homemaker" target="art" weight="269448.0"></edge>
+      <edge id="599952" source="homemaker" target="children" weight="683840.0"></edge>
+      <edge id="599953" source="homemaker" target="city" weight="714168.0"></edge>
+      <edge id="599954" source="homemaker" target="class" weight="717568.0"></edge>
+      <edge id="599955" source="homemaker" target="college" weight="744512.0"></edge>
+      <edge id="599956" source="homemaker" target="culture" weight="966116.0"></edge>
+      <edge id="599957" source="homemaker" target="east" weight="1255680.0"></edge>
+      <edge id="599958" source="homemaker" target="ethical" weight="1455336.0"></edge>
+      <edge id="599959" source="homemaker" target="graduated" weight="2016936.0"></edge>
+      <edge id="599960" source="homemaker" target="high" weight="2191076.0"></edge>
+      <edge id="599961" source="homemaker" target="kindergarten" weight="2554588.0"></edge>
+      <edge id="599962" source="homemaker" target="member" weight="2847440.0"></edge>
+      <edge id="599963" source="homemaker" target="mrs" weight="2971776.0"></edge>
+      <edge id="599964" source="homemaker" target="new" weight="3030448.0"></edge>
+      <edge id="599965" source="homemaker" target="normal" weight="3059448.0"></edge>
+      <edge id="599967" source="homemaker" target="pupils" weight="3662400.0"></edge>
+      <edge id="599968" source="homemaker" target="school" weight="4035428.0"></edge>
+      <edge id="599969" source="homemaker" target="street" weight="4384416.0"></edge>
+      <edge id="599970" source="homemaker" target="teacher" weight="4531948.0"></edge>
+      <edge id="599971" source="homemaker" target="teachers" weight="4534424.0"></edge>
+      <edge id="599972" source="homemaker" target="training" weight="4672176.0"></edge>
+      <edge id="599973" source="homemaker" target="university" weight="4780440.0"></edge>
+      <edge id="599974" source="homemaker" target="west" weight="4928544.0"></edge>
+      <edge id="599975" source="homemaker" target="work" weight="4999176.0"></edge>
+      <edge id="599976" source="homemaker" target="year" weight="5054952.0"></edge>
+      <edge id="599977" source="homemaker" target="years" weight="5058184.0"></edge>
+      <edge id="599978" source="homemaker" target="york" weight="5062912.0"></edge>
+      <edge id="599979" source="homemaker" target="affiliated" weight="5150904.0"></edge>
+      <edge id="599980" source="homemaker" target="columbia" weight="5777388.0"></edge>
+      <edge id="599981" source="homemaker" target="dept" weight="6030720.0"></edge>
+      <edge id="599982" source="homemaker" target="homemaker" weight="6844240.0"></edge>
+      <edge id="599983" source="homemaker" target="park" weight="7882008.0"></edge>
+      <edge id="599984" source="homemaker" target="avenue" weight="9817848.0"></edge>
+      <edge id="599985" source="park" target="alumni" weight="210910.0"></edge>
+      <edge id="599986" source="park" target="art" weight="310339.0"></edge>
+      <edge id="599987" source="park" target="children" weight="786393.0"></edge>
+      <edge id="599988" source="park" target="city" weight="836115.0"></edge>
+      <edge id="599989" source="park" target="class" weight="825562.0"></edge>
+      <edge id="599990" source="park" target="college" weight="856950.0"></edge>
+      <edge id="599991" source="park" target="culture" weight="1111797.0"></edge>
+      <edge id="599992" source="park" target="east" weight="1448110.0"></edge>
+      <edge id="599993" source="park" target="ethical" weight="1675228.0"></edge>
+      <edge id="599994" source="park" target="graduated" weight="2323023.0"></edge>
+      <edge id="599995" source="park" target="high" weight="2521881.0"></edge>
+      <edge id="599996" source="park" target="kindergarten" weight="2940688.0"></edge>
+      <edge id="599997" source="park" target="member" weight="3278144.0"></edge>
+      <edge id="599998" source="park" target="mrs" weight="3427664.0"></edge>
+      <edge id="599999" source="park" target="new" weight="3502926.0"></edge>
+      <edge id="600000" source="park" target="normal" weight="3522197.0"></edge>
+      <edge id="600002" source="park" target="pupils" weight="4218200.0"></edge>
+      <edge id="600003" source="park" target="school" weight="4644801.0"></edge>
+      <edge id="600004" source="park" target="street" weight="5060192.0"></edge>
+      <edge id="600005" source="park" target="teacher" weight="5218516.0"></edge>
+      <edge id="600006" source="park" target="teachers" weight="5221529.0"></edge>
+      <edge id="600007" source="park" target="training" weight="5381218.0"></edge>
+      <edge id="600008" source="park" target="university" weight="5505805.0"></edge>
+      <edge id="600009" source="park" target="west" weight="5684550.0"></edge>
+      <edge id="600010" source="park" target="work" weight="5757843.0"></edge>
+      <edge id="600011" source="park" target="year" weight="5821116.0"></edge>
+      <edge id="600012" source="park" target="years" weight="5828991.0"></edge>
+      <edge id="600013" source="park" target="york" weight="5843789.0"></edge>
+      <edge id="600014" source="park" target="affiliated" weight="5933481.0"></edge>
+      <edge id="600015" source="park" target="columbia" weight="6653622.0"></edge>
+      <edge id="600016" source="park" target="dept" weight="6944965.0"></edge>
+      <edge id="600017" source="park" target="homemaker" weight="7882008.0"></edge>
+      <edge id="600018" source="park" target="park" weight="9079325.0"></edge>
+      <edge id="600019" source="park" target="avenue" weight="1.1311019E7"></edge>
+      <edge id="600020" source="avenue" target="alumni" weight="262710.0"></edge>
+      <edge id="600021" source="avenue" target="art" weight="387369.0"></edge>
+      <edge id="600022" source="avenue" target="children" weight="979533.0"></edge>
+      <edge id="600023" source="avenue" target="city" weight="1065684.0"></edge>
+      <edge id="600024" source="avenue" target="class" weight="1028322.0"></edge>
+      <edge id="600025" source="avenue" target="college" weight="1069367.0"></edge>
+      <edge id="600026" source="avenue" target="culture" weight="1384857.0"></edge>
+      <edge id="600027" source="avenue" target="east" weight="1806665.0"></edge>
+      <edge id="600028" source="avenue" target="ethical" weight="2086668.0"></edge>
+      <edge id="600029" source="avenue" target="graduated" weight="2894493.0"></edge>
+      <edge id="600030" source="avenue" target="high" weight="3141261.0"></edge>
+      <edge id="600031" source="avenue" target="kindergarten" weight="3662928.0"></edge>
+      <edge id="600032" source="avenue" target="member" weight="4083264.0"></edge>
+      <edge id="600033" source="avenue" target="mrs" weight="4277088.0"></edge>
+      <edge id="600034" source="avenue" target="new" weight="4388124.0"></edge>
+      <edge id="600035" source="avenue" target="normal" weight="4387257.0"></edge>
+      <edge id="600037" source="avenue" target="pupils" weight="5254200.0"></edge>
+      <edge id="600038" source="avenue" target="school" weight="5792033.0"></edge>
+      <edge id="600039" source="avenue" target="street" weight="6321318.0"></edge>
+      <edge id="600040" source="avenue" target="teacher" weight="6500196.0"></edge>
+      <edge id="600041" source="avenue" target="teachers" weight="6504909.0"></edge>
+      <edge id="600042" source="avenue" target="training" weight="6703788.0"></edge>
+      <edge id="600043" source="avenue" target="university" weight="6859676.0"></edge>
+      <edge id="600044" source="avenue" target="west" weight="7094967.0"></edge>
+      <edge id="600045" source="avenue" target="work" weight="7172913.0"></edge>
+      <edge id="600046" source="avenue" target="year" weight="7250796.0"></edge>
+      <edge id="600047" source="avenue" target="years" weight="7274734.0"></edge>
+      <edge id="600048" source="avenue" target="york" weight="7303510.0"></edge>
+      <edge id="600049" source="avenue" target="affiliated" weight="7392127.0"></edge>
+      <edge id="600050" source="avenue" target="columbia" weight="8289189.0"></edge>
+      <edge id="600051" source="avenue" target="dept" weight="8650665.0"></edge>
+      <edge id="600052" source="avenue" target="homemaker" weight="9817848.0"></edge>
+      <edge id="600053" source="avenue" target="park" weight="1.1311019E7"></edge>
+      <edge id="600054" source="avenue" target="avenue" weight="1.4094934E7"></edge>
+    </edges>
+  </graph>
+</gexf>
