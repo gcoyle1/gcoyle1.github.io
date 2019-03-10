@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-03-10">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="alfred" label="alfred">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="70.88593" y="-94.76817"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="Ethical Culture_Split0.txt" label="Ethical Culture_Split0.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="240.67038" y="-0.4309957"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="Ethical Culture_Split1.txt" label="Ethical Culture_Split1.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-14.973627" y="139.54427"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="Ethical Culture_Split2.txt" label="Ethical Culture_Split2.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-173.77232" y="-88.549614"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="alice" label="alice">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-413.9909" y="-87.979996"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="alumni" label="alumni">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="329.32697" y="-5.6631374"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="art" label="art">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="28.86742" y="-15.25066"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="Ethical Culture_Split3.txt" label="Ethical Culture_Split3.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-25.108408" y="-87.447105"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="association" label="association">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="219.41116" y="129.29175"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="best" label="best">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="410.4042" y="-7.804032"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="book" label="book">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="360.05197" y="-31.477076"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="broadway" label="broadway">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-340.44012" y="-76.376335"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="brooklyn" label="brooklyn">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-276.561" y="-102.38012"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="business" label="business">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-13.981566" y="-316.66858"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="child" label="child">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="9.645493" y="250.24307"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="children" label="children">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="99.859726" y="111.441216"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="city" label="city">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-114.4529" y="-79.773026"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="class" label="class">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-41.968235" y="233.1791"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="college" label="college">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-78.907684" y="29.322567"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="committee" label="committee">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="83.753944" y="346.36716"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="country" label="country">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="382.4537" y="-101.89636"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="course" label="course">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="143.71486" y="128.13626"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="courses" label="courses">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-257.022" y="130.86305"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="culture" label="culture">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="166.64015" y="105.869385"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="department" label="department">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="142.70944" y="80.230316"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="development" label="development">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="452.25278" y="106.00651"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="directory" label="directory">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-236.19766" y="-242.61066"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="dorothy" label="dorothy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-314.20486" y="-200.86021"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="east" label="east">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-165.68521" y="-160.27975"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="education" label="education">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="245.9548" y="145.19353"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="educational" label="educational">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="376.3297" y="-69.81426"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="engineer" label="engineer">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-72.965866" y="338.17682"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="english" label="english">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-35.95858" y="-349.1277"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="especially" label="especially">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="472.50427" y="-69.95502"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="ethical" label="ethical">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="129.67592" y="34.191998"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="frank" label="frank">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-303.3933" y="-157.00734"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="free" label="free">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="475.39136" y="66.41876"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="fund" label="fund">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="20.200418" y="393.041"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="general" label="general">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2.6756196" y="348.39255"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="given" label="given">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="484.89224" y="-34.45651"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="grade" label="grade">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.4508324" y="-221.65335"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="graduated" label="graduated">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-0.5849435" y="-178.61751"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="harvard" label="harvard">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-104.48496" y="293.5386"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="help" label="help">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="480.28174" y="-1.864583"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="helped" label="helped">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="48.691692" y="-272.43842"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="helpful" label="helpful">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="72.41017" y="-299.29123"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="henry" label="henry">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-273.47403" y="-235.08719"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="herbert" label="herbert">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-322.65808" y="-100.43655"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="high" label="high">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="12.512052" y="50.66459"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="individual" label="individual">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="37.9271" y="-313.59955"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="kind" label="kind">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="416.12085" y="-75.00323"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="kindergarten" label="kindergarten">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="58.900566" y="73.86946"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="league" label="league">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-135.75809" y="370.74133"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="life" label="life">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="161.3364" y="-140.19508"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="live" label="live">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="431.24408" y="-130.4098"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="madison" label="madison">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-238.0224" y="-191.2022"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="make" label="make">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="393.71448" y="-36.873646"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="margaret" label="margaret">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-394.16656" y="-218.58713"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="marion" label="marion">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-332.6048" y="-289.275"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="married" label="married">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="47.48006" y="335.954"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="member" label="member">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-21.496635" y="72.820435"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="miss" label="miss">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="203.88031" y="-178.05482"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="moral" label="moral">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="430.4649" y="22.145311"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="mrs" label="mrs">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-105.14482" y="-100.270584"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="new" label="new">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-102.284454" y="-61.42258"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="normal" label="normal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-83.93692" y="91.225876"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="pagebreak" label="pagebreak">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="60.14913" y="-24.201649"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="people" label="people">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="483.9143" y="30.582241"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="private" label="private">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-17.430477" y="300.9988"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="public" label="public">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="382.60733" y="12.850268"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="pupils" label="pupils">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="148.73622" y="1.2648536"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="richard" label="richard">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-358.76556" y="-215.77087"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="robert" label="robert">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-382.5019" y="-171.67538"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="school" label="school">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="54.5931" y="12.21852"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="secretary" label="secretary">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="46.385998" y="291.58746"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="service" label="service">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="15.336355" y="310.25327"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="society" label="society">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="151.09393" y="174.0407"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="special" label="special">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-89.68848" y="388.4817"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="spirit" label="spirit">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-57.867462" y="-313.8383"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="story" label="story">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="361.9175" y="37.643253"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="street" label="street">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-128.96628" y="-96.36847"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="student" label="student">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-202.5702" y="11.43585"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="students" label="students">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="403.40167" y="94.35478"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="studied" label="studied">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="59.312233" y="386.43765"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="study" label="study">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="445.12424" y="-36.798683"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="teacher" label="teacher">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-110.78689" y="111.43364"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="teachers" label="teachers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="77.96238" y="30.345015"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="time" label="time">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="232.87502" y="-123.53042"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="today" label="today">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="455.15247" y="-101.57281"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="training" label="training">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="106.10881" y="-91.784424"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="university" label="university">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-117.95164" y="37.407597"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="west" label="west">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-131.8868" y="-118.21695"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="william" label="william">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-182.62097" y="74.227234"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="work" label="work">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="82.3452" y="-39.43077"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="workingmans" label="workingmans">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="439.0704" y="64.241"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="year" label="year">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-53.629578" y="28.497679"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="years" label="years">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-52.733162" y="-51.16363"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="york" label="york">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-129.34387" y="-63.504883"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="young" label="young">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="397.97333" y="56.583267"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="affiliated" label="affiliated">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-148.76411" y="10.141971"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="albert" label="albert">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-257.139" y="91.94154"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="barnard" label="barnard">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-176.4833" y="128.14232"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="beta" label="beta">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-36.769806" y="346.36465"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="central" label="central">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-254.55792" y="-161.4546"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="columbia" label="columbia">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-91.08159" y="55.838207"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="cornell" label="cornell">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-220.97693" y="63.703465"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="dept" label="dept">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-128.18549" y="73.61388"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="freshman" label="freshman">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-278.37717" y="-195.42383"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="graduate" label="graduate">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="19.020157" y="-347.94968"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="helen" label="helen">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-269.61523" y="-130.54813"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="homemaker" label="homemaker">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-11.563221" y="240.38466"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="honors" label="honors">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-52.28499" y="397.03903"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="institute" label="institute">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-52.527874" y="299.0767"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="junior" label="junior">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-389.27914" y="-118.252625"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="kappa" label="kappa">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-147.33011" y="323.07272"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="law" label="law">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-71.09698" y="272.77905"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="lawyer" label="lawyer">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-16.641851" y="400.543"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="louis" label="louis">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-249.44427" y="45.6029"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="louise" label="louise">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-272.20352" y="-296.57925"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="park" label="park">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-237.88286" y="-128.22688"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="phi" label="phi">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-110.514114" y="344.63367"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="ruth" label="ruth">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-334.94766" y="-126.01769"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="sophomore" label="sophomore">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-337.9954" y="-161.51035"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="avenue" label="avenue">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-136.95445" y="-139.6576"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="bronx" label="bronx">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-339.62985" y="-248.71333"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="drive" label="drive">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-293.28897" y="-262.8799"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="riverside" label="riverside">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-418.08246" y="-153.94373"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="apprecia" label="apprecia">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="12.266704" y="-284.77252"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+      <node id="tions" label="tions">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.874475" y="-273.5639"></viz:position>
+        <viz:color r="255" g="13" b="0"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="600261" source="alfred" target="Ethical Culture_Split0.txt" weight="10.0"></edge>
+      <edge id="600262" source="alfred" target="Ethical Culture_Split1.txt" weight="12.0"></edge>
+      <edge id="600263" source="alfred" target="Ethical Culture_Split2.txt" weight="15.0"></edge>
+      <edge id="600264" source="alice" target="Ethical Culture_Split2.txt" weight="10.0"></edge>
+      <edge id="600265" source="alumni" target="Ethical Culture_Split0.txt" weight="27.0"></edge>
+      <edge id="600266" source="art" target="Ethical Culture_Split0.txt" weight="14.0"></edge>
+      <edge id="600267" source="art" target="Ethical Culture_Split1.txt" weight="21.0"></edge>
+      <edge id="600268" source="art" target="Ethical Culture_Split2.txt" weight="12.0"></edge>
+      <edge id="600269" source="art" target="Ethical Culture_Split3.txt" weight="27.0"></edge>
+      <edge id="600270" source="association" target="Ethical Culture_Split0.txt" weight="20.0"></edge>
+      <edge id="600271" source="association" target="Ethical Culture_Split1.txt" weight="14.0"></edge>
+      <edge id="600272" source="best" target="Ethical Culture_Split0.txt" weight="13.0"></edge>
+      <edge id="600273" source="book" target="Ethical Culture_Split0.txt" weight="17.0"></edge>
+      <edge id="600274" source="broadway" target="Ethical Culture_Split2.txt" weight="15.0"></edge>
+      <edge id="600275" source="brooklyn" target="Ethical Culture_Split2.txt" weight="24.0"></edge>
+      <edge id="600276" source="business" target="Ethical Culture_Split3.txt" weight="11.0"></edge>
+      <edge id="600277" source="child" target="Ethical Culture_Split1.txt" weight="24.0"></edge>
+      <edge id="600278" source="children" target="Ethical Culture_Split0.txt" weight="19.0"></edge>
+      <edge id="600279" source="children" target="Ethical Culture_Split1.txt" weight="38.0"></edge>
+      <edge id="600280" source="children" target="Ethical Culture_Split3.txt" weight="11.0"></edge>
+      <edge id="600281" source="city" target="Ethical Culture_Split1.txt" weight="10.0"></edge>
+      <edge id="600282" source="city" target="Ethical Culture_Split2.txt" weight="399.0"></edge>
+      <edge id="600283" source="city" target="Ethical Culture_Split3.txt" weight="107.0"></edge>
+      <edge id="600284" source="class" target="Ethical Culture_Split1.txt" weight="28.0"></edge>
+      <edge id="600285" source="college" target="Ethical Culture_Split1.txt" weight="56.0"></edge>
+      <edge id="600286" source="college" target="Ethical Culture_Split2.txt" weight="37.0"></edge>
+      <edge id="600287" source="college" target="Ethical Culture_Split3.txt" weight="23.0"></edge>
+      <edge id="600288" source="committee" target="Ethical Culture_Split1.txt" weight="11.0"></edge>
+      <edge id="600289" source="country" target="Ethical Culture_Split0.txt" weight="13.0"></edge>
+      <edge id="600290" source="course" target="Ethical Culture_Split0.txt" weight="11.0"></edge>
+      <edge id="600291" source="course" target="Ethical Culture_Split1.txt" weight="15.0"></edge>
+      <edge id="600292" source="course" target="Ethical Culture_Split3.txt" weight="12.0"></edge>
+      <edge id="600293" source="courses" target="Ethical Culture_Split1.txt" weight="10.0"></edge>
+      <edge id="600294" source="courses" target="Ethical Culture_Split2.txt" weight="12.0"></edge>
+      <edge id="600295" source="culture" target="Ethical Culture_Split0.txt" weight="30.0"></edge>
+      <edge id="600296" source="culture" target="Ethical Culture_Split1.txt" weight="29.0"></edge>
+      <edge id="600297" source="department" target="Ethical Culture_Split0.txt" weight="12.0"></edge>
+      <edge id="600298" source="department" target="Ethical Culture_Split1.txt" weight="16.0"></edge>
+      <edge id="600299" source="department" target="Ethical Culture_Split3.txt" weight="12.0"></edge>
+      <edge id="600300" source="development" target="Ethical Culture_Split0.txt" weight="10.0"></edge>
+      <edge id="600301" source="directory" target="Ethical Culture_Split2.txt" weight="15.0"></edge>
+      <edge id="600302" source="dorothy" target="Ethical Culture_Split2.txt" weight="14.0"></edge>
+      <edge id="600303" source="east" target="Ethical Culture_Split2.txt" weight="55.0"></edge>
+      <edge id="600304" source="east" target="Ethical Culture_Split3.txt" weight="15.0"></edge>
+      <edge id="600305" source="education" target="Ethical Culture_Split0.txt" weight="18.0"></edge>
+      <edge id="600306" source="education" target="Ethical Culture_Split1.txt" weight="12.0"></edge>
+      <edge id="600307" source="educational" target="Ethical Culture_Split0.txt" weight="14.0"></edge>
+      <edge id="600308" source="engineer" target="Ethical Culture_Split1.txt" weight="12.0"></edge>
+      <edge id="600309" source="english" target="Ethical Culture_Split3.txt" weight="10.0"></edge>
+      <edge id="600310" source="especially" target="Ethical Culture_Split0.txt" weight="10.0"></edge>
+      <edge id="600311" source="ethical" target="Ethical Culture_Split0.txt" weight="40.0"></edge>
+      <edge id="600312" source="ethical" target="Ethical Culture_Split1.txt" weight="30.0"></edge>
+      <edge id="600313" source="ethical" target="Ethical Culture_Split3.txt" weight="21.0"></edge>
+      <edge id="600314" source="frank" target="Ethical Culture_Split2.txt" weight="16.0"></edge>
+      <edge id="600315" source="free" target="Ethical Culture_Split0.txt" weight="10.0"></edge>
+      <edge id="600316" source="fund" target="Ethical Culture_Split1.txt" weight="10.0"></edge>
+      <edge id="600317" source="general" target="Ethical Culture_Split1.txt" weight="12.0"></edge>
+      <edge id="600318" source="given" target="Ethical Culture_Split0.txt" weight="10.0"></edge>
+      <edge id="600319" source="grade" target="Ethical Culture_Split3.txt" weight="19.0"></edge>
+      <edge id="600320" source="graduated" target="Ethical Culture_Split3.txt" weight="31.0"></edge>
+      <edge id="600321" source="harvard" target="Ethical Culture_Split1.txt" weight="14.0"></edge>
+      <edge id="600322" source="help" target="Ethical Culture_Split0.txt" weight="10.0"></edge>
+      <edge id="600323" source="helped" target="Ethical Culture_Split3.txt" weight="12.0"></edge>
+      <edge id="600324" source="helpful" target="Ethical Culture_Split3.txt" weight="11.0"></edge>
+      <edge id="600325" source="henry" target="Ethical Culture_Split2.txt" weight="14.0"></edge>
+      <edge id="600326" source="herbert" target="Ethical Culture_Split2.txt" weight="16.0"></edge>
+      <edge id="600327" source="high" target="Ethical Culture_Split0.txt" weight="12.0"></edge>
+      <edge id="600328" source="high" target="Ethical Culture_Split1.txt" weight="53.0"></edge>
+      <edge id="600329" source="high" target="Ethical Culture_Split2.txt" weight="11.0"></edge>
+      <edge id="600330" source="high" target="Ethical Culture_Split3.txt" weight="24.0"></edge>
+      <edge id="600331" source="individual" target="Ethical Culture_Split3.txt" weight="11.0"></edge>
+      <edge id="600332" source="kind" target="Ethical Culture_Split0.txt" weight="12.0"></edge>
+      <edge id="600333" source="kindergarten" target="Ethical Culture_Split0.txt" weight="21.0"></edge>
+      <edge id="600334" source="kindergarten" target="Ethical Culture_Split1.txt" weight="49.0"></edge>
+      <edge id="600335" source="kindergarten" target="Ethical Culture_Split2.txt" weight="12.0"></edge>
+      <edge id="600336" source="kindergarten" target="Ethical Culture_Split3.txt" weight="13.0"></edge>
+      <edge id="600337" source="league" target="Ethical Culture_Split1.txt" weight="10.0"></edge>
+      <edge id="600338" source="life" target="Ethical Culture_Split0.txt" weight="14.0"></edge>
+      <edge id="600339" source="life" target="Ethical Culture_Split3.txt" weight="18.0"></edge>
+      <edge id="600340" source="live" target="Ethical Culture_Split0.txt" weight="10.0"></edge>
+      <edge id="600341" source="madison" target="Ethical Culture_Split2.txt" weight="21.0"></edge>
+      <edge id="600342" source="make" target="Ethical Culture_Split0.txt" weight="14.0"></edge>
+      <edge id="600343" source="margaret" target="Ethical Culture_Split2.txt" weight="10.0"></edge>
+      <edge id="600344" source="marion" target="Ethical Culture_Split2.txt" weight="10.0"></edge>
+      <edge id="600345" source="married" target="Ethical Culture_Split1.txt" weight="12.0"></edge>
+      <edge id="600346" source="member" target="Ethical Culture_Split1.txt" weight="44.0"></edge>
+      <edge id="600347" source="member" target="Ethical Culture_Split3.txt" weight="20.0"></edge>
+      <edge id="600348" source="miss" target="Ethical Culture_Split0.txt" weight="11.0"></edge>
+      <edge id="600349" source="miss" target="Ethical Culture_Split3.txt" weight="12.0"></edge>
+      <edge id="600350" source="moral" target="Ethical Culture_Split0.txt" weight="12.0"></edge>
+      <edge id="600351" source="mrs" target="Ethical Culture_Split0.txt" weight="19.0"></edge>
+      <edge id="600352" source="mrs" target="Ethical Culture_Split2.txt" weight="144.0"></edge>
+      <edge id="600353" source="new" target="Ethical Culture_Split0.txt" weight="21.0"></edge>
+      <edge id="600354" source="new" target="Ethical Culture_Split1.txt" weight="40.0"></edge>
+      <edge id="600355" source="new" target="Ethical Culture_Split2.txt" weight="408.0"></edge>
+      <edge id="600356" source="new" target="Ethical Culture_Split3.txt" weight="113.0"></edge>
+      <edge id="600357" source="normal" target="Ethical Culture_Split1.txt" weight="48.0"></edge>
+      <edge id="600358" source="normal" target="Ethical Culture_Split2.txt" weight="15.0"></edge>
+      <edge id="600359" source="normal" target="Ethical Culture_Split3.txt" weight="14.0"></edge>
+      <edge id="600360" source="pagebreak" target="Ethical Culture_Split0.txt" weight="35.0"></edge>
+      <edge id="600361" source="pagebreak" target="Ethical Culture_Split1.txt" weight="26.0"></edge>
+      <edge id="600362" source="pagebreak" target="Ethical Culture_Split2.txt" weight="23.0"></edge>
+      <edge id="600363" source="pagebreak" target="Ethical Culture_Split3.txt" weight="32.0"></edge>
+      <edge id="600364" source="people" target="Ethical Culture_Split0.txt" weight="10.0"></edge>
+      <edge id="600365" source="private" target="Ethical Culture_Split1.txt" weight="15.0"></edge>
+      <edge id="600366" source="public" target="Ethical Culture_Split0.txt" weight="15.0"></edge>
+      <edge id="600367" source="pupils" target="Ethical Culture_Split0.txt" weight="39.0"></edge>
+      <edge id="600368" source="pupils" target="Ethical Culture_Split1.txt" weight="19.0"></edge>
+      <edge id="600369" source="pupils" target="Ethical Culture_Split3.txt" weight="20.0"></edge>
+      <edge id="600370" source="richard" target="Ethical Culture_Split2.txt" weight="11.0"></edge>
+      <edge id="600371" source="robert" target="Ethical Culture_Split2.txt" weight="11.0"></edge>
+      <edge id="600372" source="school" target="Ethical Culture_Split0.txt" weight="154.0"></edge>
+      <edge id="600373" source="school" target="Ethical Culture_Split1.txt" weight="149.0"></edge>
+      <edge id="600374" source="school" target="Ethical Culture_Split2.txt" weight="52.0"></edge>
+      <edge id="600375" source="school" target="Ethical Culture_Split3.txt" weight="124.0"></edge>
+      <edge id="600376" source="secretary" target="Ethical Culture_Split1.txt" weight="15.0"></edge>
+      <edge id="600377" source="service" target="Ethical Culture_Split1.txt" weight="14.0"></edge>
+      <edge id="600378" source="society" target="Ethical Culture_Split0.txt" weight="15.0"></edge>
+      <edge id="600379" source="society" target="Ethical Culture_Split1.txt" weight="23.0"></edge>
+      <edge id="600380" source="special" target="Ethical Culture_Split1.txt" weight="10.0"></edge>
+      <edge id="600381" source="spirit" target="Ethical Culture_Split3.txt" weight="11.0"></edge>
+      <edge id="600382" source="story" target="Ethical Culture_Split0.txt" weight="17.0"></edge>
+      <edge id="600383" source="street" target="Ethical Culture_Split2.txt" weight="306.0"></edge>
+      <edge id="600384" source="street" target="Ethical Culture_Split3.txt" weight="74.0"></edge>
+      <edge id="600385" source="student" target="Ethical Culture_Split1.txt" weight="10.0"></edge>
+      <edge id="600386" source="student" target="Ethical Culture_Split2.txt" weight="14.0"></edge>
+      <edge id="600387" source="student" target="Ethical Culture_Split3.txt" weight="17.0"></edge>
+      <edge id="600388" source="students" target="Ethical Culture_Split0.txt" weight="12.0"></edge>
+      <edge id="600389" source="studied" target="Ethical Culture_Split1.txt" weight="10.0"></edge>
+      <edge id="600390" source="study" target="Ethical Culture_Split0.txt" weight="11.0"></edge>
+      <edge id="600391" source="teacher" target="Ethical Culture_Split1.txt" weight="37.0"></edge>
+      <edge id="600392" source="teacher" target="Ethical Culture_Split2.txt" weight="12.0"></edge>
+      <edge id="600393" source="teacher" target="Ethical Culture_Split3.txt" weight="14.0"></edge>
+      <edge id="600394" source="teachers" target="Ethical Culture_Split0.txt" weight="19.0"></edge>
+      <edge id="600395" source="teachers" target="Ethical Culture_Split1.txt" weight="32.0"></edge>
+      <edge id="600396" source="teachers" target="Ethical Culture_Split3.txt" weight="32.0"></edge>
+      <edge id="600397" source="time" target="Ethical Culture_Split0.txt" weight="18.0"></edge>
+      <edge id="600398" source="time" target="Ethical Culture_Split3.txt" weight="11.0"></edge>
+      <edge id="600399" source="today" target="Ethical Culture_Split0.txt" weight="10.0"></edge>
+      <edge id="600400" source="training" target="Ethical Culture_Split0.txt" weight="12.0"></edge>
+      <edge id="600401" source="training" target="Ethical Culture_Split1.txt" weight="10.0"></edge>
+      <edge id="600402" source="training" target="Ethical Culture_Split3.txt" weight="31.0"></edge>
+      <edge id="600403" source="university" target="Ethical Culture_Split1.txt" weight="36.0"></edge>
+      <edge id="600404" source="university" target="Ethical Culture_Split2.txt" weight="31.0"></edge>
+      <edge id="600405" source="university" target="Ethical Culture_Split3.txt" weight="12.0"></edge>
+      <edge id="600406" source="west" target="Ethical Culture_Split2.txt" weight="237.0"></edge>
+      <edge id="600407" source="west" target="Ethical Culture_Split3.txt" weight="60.0"></edge>
+      <edge id="600408" source="william" target="Ethical Culture_Split1.txt" weight="18.0"></edge>
+      <edge id="600409" source="william" target="Ethical Culture_Split2.txt" weight="21.0"></edge>
+      <edge id="600410" source="work" target="Ethical Culture_Split0.txt" weight="20.0"></edge>
+      <edge id="600411" source="work" target="Ethical Culture_Split1.txt" weight="22.0"></edge>
+      <edge id="600412" source="work" target="Ethical Culture_Split2.txt" weight="10.0"></edge>
+      <edge id="600413" source="work" target="Ethical Culture_Split3.txt" weight="31.0"></edge>
+      <edge id="600414" source="workingmans" target="Ethical Culture_Split0.txt" weight="11.0"></edge>
+      <edge id="600415" source="year" target="Ethical Culture_Split1.txt" weight="30.0"></edge>
+      <edge id="600416" source="year" target="Ethical Culture_Split2.txt" weight="14.0"></edge>
+      <edge id="600417" source="year" target="Ethical Culture_Split3.txt" weight="21.0"></edge>
+      <edge id="600418" source="years" target="Ethical Culture_Split0.txt" weight="30.0"></edge>
+      <edge id="600419" source="years" target="Ethical Culture_Split1.txt" weight="52.0"></edge>
+      <edge id="600420" source="years" target="Ethical Culture_Split2.txt" weight="143.0"></edge>
+      <edge id="600421" source="years" target="Ethical Culture_Split3.txt" weight="220.0"></edge>
+      <edge id="600422" source="york" target="Ethical Culture_Split1.txt" weight="34.0"></edge>
+      <edge id="600423" source="york" target="Ethical Culture_Split2.txt" weight="401.0"></edge>
+      <edge id="600424" source="york" target="Ethical Culture_Split3.txt" weight="112.0"></edge>
+      <edge id="600425" source="young" target="Ethical Culture_Split0.txt" weight="13.0"></edge>
+      <edge id="600426" source="affiliated" target="Ethical Culture_Split1.txt" weight="17.0"></edge>
+      <edge id="600427" source="affiliated" target="Ethical Culture_Split2.txt" weight="26.0"></edge>
+      <edge id="600428" source="affiliated" target="Ethical Culture_Split3.txt" weight="17.0"></edge>
+      <edge id="600429" source="albert" target="Ethical Culture_Split1.txt" weight="11.0"></edge>
+      <edge id="600430" source="albert" target="Ethical Culture_Split2.txt" weight="14.0"></edge>
+      <edge id="600431" source="barnard" target="Ethical Culture_Split1.txt" weight="19.0"></edge>
+      <edge id="600432" source="barnard" target="Ethical Culture_Split2.txt" weight="15.0"></edge>
+      <edge id="600433" source="beta" target="Ethical Culture_Split1.txt" weight="12.0"></edge>
+      <edge id="600434" source="central" target="Ethical Culture_Split2.txt" weight="23.0"></edge>
+      <edge id="600435" source="columbia" target="Ethical Culture_Split1.txt" weight="45.0"></edge>
+      <edge id="600436" source="columbia" target="Ethical Culture_Split2.txt" weight="27.0"></edge>
+      <edge id="600437" source="columbia" target="Ethical Culture_Split3.txt" weight="14.0"></edge>
+      <edge id="600438" source="cornell" target="Ethical Culture_Split1.txt" weight="13.0"></edge>
+      <edge id="600439" source="cornell" target="Ethical Culture_Split2.txt" weight="19.0"></edge>
+      <edge id="600440" source="dept" target="Ethical Culture_Split1.txt" weight="30.0"></edge>
+      <edge id="600441" source="dept" target="Ethical Culture_Split2.txt" weight="17.0"></edge>
+      <edge id="600442" source="dept" target="Ethical Culture_Split3.txt" weight="14.0"></edge>
+      <edge id="600443" source="freshman" target="Ethical Culture_Split2.txt" weight="16.0"></edge>
+      <edge id="600444" source="graduate" target="Ethical Culture_Split3.txt" weight="10.0"></edge>
+      <edge id="600445" source="helen" target="Ethical Culture_Split2.txt" weight="24.0"></edge>
+      <edge id="600446" source="homemaker" target="Ethical Culture_Split1.txt" weight="28.0"></edge>
+      <edge id="600447" source="honors" target="Ethical Culture_Split1.txt" weight="10.0"></edge>
+      <edge id="600448" source="institute" target="Ethical Culture_Split1.txt" weight="15.0"></edge>
+      <edge id="600449" source="junior" target="Ethical Culture_Split2.txt" weight="11.0"></edge>
+      <edge id="600450" source="kappa" target="Ethical Culture_Split1.txt" weight="11.0"></edge>
+      <edge id="600451" source="law" target="Ethical Culture_Split1.txt" weight="17.0"></edge>
+      <edge id="600452" source="lawyer" target="Ethical Culture_Split1.txt" weight="10.0"></edge>
+      <edge id="600453" source="louis" target="Ethical Culture_Split1.txt" weight="12.0"></edge>
+      <edge id="600454" source="louis" target="Ethical Culture_Split2.txt" weight="18.0"></edge>
+      <edge id="600455" source="louise" target="Ethical Culture_Split2.txt" weight="11.0"></edge>
+      <edge id="600456" source="park" target="Ethical Culture_Split2.txt" weight="34.0"></edge>
+      <edge id="600457" source="phi" target="Ethical Culture_Split1.txt" weight="11.0"></edge>
+      <edge id="600458" source="ruth" target="Ethical Culture_Split2.txt" weight="15.0"></edge>
+      <edge id="600459" source="sophomore" target="Ethical Culture_Split2.txt" weight="14.0"></edge>
+      <edge id="600460" source="avenue" target="Ethical Culture_Split2.txt" weight="95.0"></edge>
+      <edge id="600461" source="avenue" target="Ethical Culture_Split3.txt" weight="30.0"></edge>
+      <edge id="600462" source="bronx" target="Ethical Culture_Split2.txt" weight="11.0"></edge>
+      <edge id="600463" source="drive" target="Ethical Culture_Split2.txt" weight="12.0"></edge>
+      <edge id="600464" source="riverside" target="Ethical Culture_Split2.txt" weight="10.0"></edge>
+      <edge id="600465" source="apprecia" target="Ethical Culture_Split3.txt" weight="12.0"></edge>
+      <edge id="600466" source="tions" target="Ethical Culture_Split3.txt" weight="13.0"></edge>
+    </edges>
+  </graph>
+</gexf>
