@@ -1,0 +1,1 @@
+To transfer to github rename 2019 folder for new chronology, like 1-2019, 2-2019, 3-2019... copy paste first two folders, load to github, then add other folders in!
