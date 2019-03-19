@@ -1,0 +1,2735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-03-18">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="abv" label="abv">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1354.5419" y="672.4605"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="The Beer Bible_ The Essential B - Jeff Alworth.txt" label="The Beer Bible_ The Essential B - Jeff Alworth.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1449.3088" y="615.06024"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="acid" label="acid">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="371.9228" y="-402.10544"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="The Oxford Companion to Wine (O - Jancis Robinson.txt" label="The Oxford Companion to Wine (O - Jancis Robinson.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="211.50803" y="-500.5499"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="acidity" label="acidity">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-468.59882" y="35.8581"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" label="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-114.86603" y="67.79462"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="The World_s Greatest Wine Estat - Robert M. Parker.txt" label="The World_s Greatest Wine Estat - Robert M. Parker.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-250.34526" y="-2.406364"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" label="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5.5435505" y="-832.40137"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="acres" label="acres">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-74.99812" y="82.04641"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" label="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="288.37643" y="71.39004"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="age" label="age">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-483.179" y="553.42456"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="aging" label="aging">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-353.43405" y="715.2854"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="alcohol" label="alcohol">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-204.40945" y="-357.07608"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="american" label="american">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="749.73114" y="257.8545"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="ancient" label="ancient">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="554.718" y="94.58434"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="The Origins and Ancient History - Unknown.txt" label="The Origins and Ancient History - Unknown.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="425.89276" y="-221.07101"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="appointment" label="appointment">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-498.31848" y="687.5795"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="area" label="area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-249.55582" y="-65.742424"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="aromas" label="aromas">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-559.8671" y="427.70087"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="australia" label="australia">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="393.33313" y="-373.61404"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="average" label="average">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-491.64938" y="643.9294"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="barolo" label="barolo">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-779.3879" y="408.48737"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="barrel" label="barrel">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="495.8573" y="-304.4449"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="barrels" label="barrels">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-360.18365" y="321.59924"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="based" label="based">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="521.0464" y="-453.48444"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="berries" label="berries">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-67.81448" y="-617.2699"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="berry" label="berry">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-86.00838" y="-502.6676"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="best" label="best">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="169.67424" y="236.68108"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="The Wine Bible - Karen MacNeil.txt" label="The Wine Bible - Karen MacNeil.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="264.85825" y="-289.6156"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="bianco" label="bianco">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-203.06926" y="-877.354"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="black" label="black">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-401.69373" y="155.7943"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="blanc" label="blanc">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="13.052088" y="-1.0824635"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="blend" label="blend">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-534.9012" y="-182.0735"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="blended" label="blended">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-339.49887" y="-774.72656"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="blends" label="blends">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-280.92706" y="-887.4674"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="body" label="body">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-662.27356" y="526.34656"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="bordeaux" label="bordeaux">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-107.414604" y="256.49554"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="botrytis" label="botrytis">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-110.57897" y="-863.65"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="bottle" label="bottle">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="321.8014" y="-92.16478"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="bouquet" label="bouquet">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="348.91647" y="616.0692"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="Wines of the Rhone Valley - Robert M. Parker.txt" label="Wines of the Rhone Valley - Robert M. Parker.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="117.46632" y="-58.907322"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="bunches" label="bunches">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-234.25597" y="-745.0234"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="burgundy" label="burgundy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="312.53552" y="358.05444"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="cabernet" label="cabernet">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-222.18849" y="224.18929"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="california" label="california">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="307.54556" y="38.316776"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="called" label="called">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.958372" y="-370.73035"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="central" label="central">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="55.342476" y="-473.38834"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="century" label="century">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="150.06505" y="-43.919697"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="Wine and the Vine_ An Historica - Tim Unwin.txt" label="Wine and the Vine_ An Historica - Tim Unwin.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="330.19476" y="-271.1371"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="champagne" label="champagne">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="434.1968" y="78.395195"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="characteristics" label="characteristics">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-60.656094" y="-577.4463"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="chardonnay" label="chardonnay">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="151.1543" y="148.08337"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="cherry" label="cherry">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-603.7788" y="481.46967"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="cheteauneufdupape" label="cheteauneufdupape">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-722.6603" y="385.97928"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="climate" label="climate">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.905159" y="-323.2289"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="color" label="color">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-380.9278" y="485.80377"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="common" label="common">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="257.63184" y="-132.27592"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="commonly" label="commonly">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-99.19504" y="-772.7509"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="compounds" label="compounds">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-438.82352" y="-521.59796"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="concentrated" label="concentrated">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-337.771" y="614.4347"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="concentration" label="concentration">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-842.63556" y="275.16864"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="conditions" label="conditions">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-207.21907" y="-577.1831"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="contact" label="contact">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-436.17883" y="497.34982"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="country" label="country">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-406.1208" y="-399.23914"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="cross" label="cross">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-135.01952" y="-702.1453"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="cru" label="cru">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="155.02094" y="657.9874"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="cultivated" label="cultivated">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-137.62491" y="-605.75665"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="currant" label="currant">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-502.0552" y="462.95673"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="dark" label="dark">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-590.7651" y="444.69754"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="deep" label="deep">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-667.5089" y="449.10236"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="different" label="different">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="157.20924" y="-320.49814"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="diseases" label="diseases">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="372.45212" y="-118.01667"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="distinct" label="distinct">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-302.029" y="-831.92865"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="dry" label="dry">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="124.10149" y="-308.2028"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="early" label="early">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.3371863" y="-293.19458"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="east" label="east">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="80.41902" y="-333.8792"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="eastern" label="eastern">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="616.199" y="-396.6972"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="end" label="end">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="617.6052" y="-309.51025"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="especially" label="especially">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-146.68701" y="-366.39395"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="estate" label="estate">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-29.345089" y="522.34296"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="europe" label="europe">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="419.87604" y="-492.26767"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="example" label="example">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="265.06064" y="-203.36493"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="excellent" label="excellent">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="189.85019" y="609.7176"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="family" label="family">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-590.378" y="516.2971"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="famous" label="famous">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="629.90216" y="-203.52922"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="far" label="far">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="453.32086" y="-130.24965"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="fermentation" label="fermentation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-58.157875" y="162.07384"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="fine" label="fine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="365.62613" y="-264.7397"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="finish" label="finish">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-569.5215" y="477.63177"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="flavor" label="flavor">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="832.22906" y="383.72687"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="flavors" label="flavors">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="372.74347" y="727.463"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="The Complete Book of Spirits_ A - Anthony Dias Blue.txt" label="The Complete Book of Spirits_ A - Anthony Dias Blue.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="784.78656" y="1044.3789"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="form" label="form">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1148.9817" y="-469.7096"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="franc" label="franc">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-405.57108" y="555.5687"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="france" label="france">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="87.155464" y="-373.0126"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="french" label="french">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="225.61963" y="-117.63452"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="fruit" label="fruit">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-120.567375" y="420.45352"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="fruits" label="fruits">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-742.4762" y="298.21854"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="fullbodied" label="fullbodied">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-550.7584" y="572.35144"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="general" label="general">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-764.777" y="662.03613"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="generally" label="generally">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-163.22043" y="-469.33963"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="germany" label="germany">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-169.07805" y="-629.34796"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="good" label="good">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="108.40615" y="278.69064"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="grape" label="grape">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-64.87618" y="117.60008"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="grapes" label="grapes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="37.11428" y="40.86431"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="Sommelier_s Guide to Wine_ Ever - Brian H. Smith.txt" label="Sommelier_s Guide to Wine_ Ever - Brian H. Smith.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="139.04134" y="-252.90112"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="great" label="great">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-36.374542" y="294.55826"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="growers" label="growers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="521.3566" y="-238.43289"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="growing" label="growing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-191.83937" y="-429.74396"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="grown" label="grown">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="203.61577" y="-800.9884"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="growth" label="growth">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="452.35974" y="-302.74628"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="high" label="high">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-194.57808" y="-20.004444"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="higher" label="higher">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="338.59027" y="-122.195656"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="hybrid" label="hybrid">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-167.57042" y="-747.4364"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="important" label="important">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5.638053" y="132.39651"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="include" label="include">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-166.56477" y="-505.04025"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="including" label="including">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="360.29373" y="-304.76233"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="increasingly" label="increasingly">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="515.5797" y="102.08427"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="industry" label="industry">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="535.7346" y="-334.3286"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="international" label="international">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-287.42023" y="-357.99884"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="island" label="island">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-136.63094" y="-937.33545"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="italian" label="italian">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-225.43881" y="-610.4813"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="italy" label="italy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-31.646955" y="-412.4329"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="juice" label="juice">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="590.8918" y="-187.05258"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="just" label="just">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="42.50606" y="-266.48315"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="known" label="known">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="195.55453" y="-81.13859"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="large" label="large">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="234.58597" y="-186.15498"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="late" label="late">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-96.94489" y="-442.9384"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="levels" label="levels">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-241.14505" y="-507.5835"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="licorice" label="licorice">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-631.6246" y="392.43585"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="light" label="light">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-372.63434" y="-562.7459"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="like" label="like">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="334.54803" y="73.547806"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="Oldman_s Guide to Outsmarting W - Mark Oldman.txt" label="Oldman_s Guide to Outsmarting W - Mark Oldman.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="332.68607" y="-235.13686"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="likely" label="likely">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-401.49353" y="-899.49335"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="little" label="little">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="465.2454" y="-397.39258"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="long" label="long">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="234.23952" y="485.1331"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="low" label="low">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-284.0019" y="164.98148"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="lower" label="lower">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="664.76044" y="-300.60922"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="maceration" label="maceration">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-482.1636" y="605.82837"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="mainly" label="mainly">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-122.81468" y="-571.27374"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="make" label="make">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="204.12328" y="-253.67593"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="makes" label="makes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="545.8868" y="178.56639"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="making" label="making">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-455.32126" y="-334.12366"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="market" label="market">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="121.430046" y="-358.90335"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="maturity" label="maturity">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-360.85663" y="681.0831"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="medium" label="medium">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-523.3633" y="432.86713"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="merlot" label="merlot">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-205.62419" y="316.62552"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="mildew" label="mildew">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-202.08583" y="-764.40283"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="million" label="million">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-344.92847" y="-507.87195"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="minerals" label="minerals">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-776.64984" y="287.1709"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="modern" label="modern">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="141.11667" y="-507.58075"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="months" label="months">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="74.03267" y="653.9822"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="muscat" label="muscat">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="54.299656" y="-559.4468"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="natural" label="natural">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="672.5307" y="-340.86777"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="new" label="new">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1.703367" y="240.84825"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="noir" label="noir">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="42.472385" y="-324.39075"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="north" label="north">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="8.689188" y="-336.51587"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="northern" label="northern">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.503496" y="-682.73303"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="nose" label="nose">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-505.15274" y="504.56674"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="notes" label="notes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-629.9708" y="512.9094"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="number" label="number">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-606.13226" y="-466.04294"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="oak" label="oak">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-84.58377" y="428.99277"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="offers" label="offers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-830.5891" y="423.69955"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="old" label="old">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="480.89694" y="-29.741953"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="palate" label="palate">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-850.85443" y="350.83347"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="pale" label="pale">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1262.633" y="713.2127"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="particular" label="particular">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="103.46097" y="-492.60104"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="particularly" label="particularly">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="152.02417" y="-148.30171"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="phylloxera" label="phylloxera">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="650.4071" y="-387.49133"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="pinot" label="pinot">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="54.499348" y="10.426803"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="plant" label="plant">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-292.01865" y="-490.58527"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="planted" label="planted">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="107.61993" y="-238.22815"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="plantings" label="plantings">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="17.208487" y="-548.536"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="portugal" label="portugal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-364.39386" y="-828.5034"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="potential" label="potential">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="672.09564" y="-167.55064"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="powdery" label="powdery">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-164.7652" y="-895.58167"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="powerful" label="powerful">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-810.03845" y="296.73248"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="premier" label="premier">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="436.40375" y="656.86993"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="principal" label="principal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-110.20659" y="-538.32715"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="probably" label="probably">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-352.50342" y="-970.1334"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="process" label="process">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-243.92972" y="-544.5128"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="produce" label="produce">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-18.914745" y="-447.0179"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="produced" label="produced">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-49.979744" y="406.6445"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="producers" label="producers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="132.90773" y="9.391162"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="producing" label="producing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.183677" y="-479.22922"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="production" label="production">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="222.23035" y="11.05688"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="quality" label="quality">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="71.140816" y="242.62729"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="range" label="range">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="286.12943" y="-543.1005"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="recent" label="recent">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-379.66272" y="-932.4131"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="red" label="red">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="29.285835" y="223.23007"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="reds" label="reds">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-328.01746" y="-473.96844"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="region" label="region">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="16.413115" y="-53.63671"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="regions" label="regions">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="177.80475" y="17.934816"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="relatively" label="relatively">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="295.73337" y="-258.0974"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="research" label="research">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="427.2698" y="-20.715662"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="result" label="result">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-369.31595" y="-373.9621"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="rich" label="rich">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-225.46667" y="676.8096"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="riesling" label="riesling">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-476.15308" y="101.27155"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="ripe" label="ripe">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="29.082336" y="747.8579"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="ripening" label="ripening">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.918577" y="-570.2743"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="river" label="river">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="161.2069" y="-543.98694"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="sauvignon" label="sauvignon">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-184.7168" y="129.12003"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="second" label="second">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-343.4945" y="187.56783"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="significant" label="significant">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-378.10516" y="-524.91626"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="small" label="small">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="186.65526" y="-44.40125"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="soil" label="soil">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="203.97507" y="-204.4743"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="soils" label="soils">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="276.14944" y="-168.04985"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="south" label="south">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="186.56401" y="-165.51947"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="southern" label="southern">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="155.5255" y="-450.8739"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="spain" label="spain">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-126.13674" y="-504.58942"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="sparkling" label="sparkling">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-19.857084" y="-380.28903"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="spicy" label="spicy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="518.1801" y="760.97253"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="state" label="state">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="576.2802" y="-351.77628"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="states" label="states">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-409.76343" y="-437.28406"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="style" label="style">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="483.57123" y="605.1042"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="sugar" label="sugar">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="84.34407" y="-427.46088"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="surface" label="surface">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-328.23868" y="577.95416"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="sweet" label="sweet">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-158.05287" y="97.947205"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="synonym" label="synonym">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-172.98192" y="-944.5385"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="syrah" label="syrah">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-543.89655" y="73.259315"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="table" label="table">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-492.10922" y="-586.48676"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="tannic" label="tannic">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="107.21231" y="799.03406"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="tannin" label="tannin">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-471.9358" y="518.6868"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="taste" label="taste">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="449.12463" y="186.91652"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="Essential Winetasting_ The Comp - Michael Schuster.txt" label="Essential Winetasting_ The Comp - Michael Schuster.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="311.0169" y="-183.50328"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="telephone" label="telephone">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-339.6523" y="543.595"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="temperature" label="temperature">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="190.64218" y="-427.15622"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="temperatures" label="temperatures">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-423.29153" y="-482.56793"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="term" label="term">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="404.35852" y="-249.21434"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="time" label="time">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="343.89468" y="39.6064"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="today" label="today">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="449.13965" y="15.495698"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="total" label="total">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="39.637287" y="-398.05673"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="trade" label="trade">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="464.94736" y="52.176216"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="traditional" label="traditional">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-308.37445" y="-525.2762"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="typically" label="typically">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-488.42914" y="-384.87323"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="use" label="use">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="301.90768" y="-297.9348"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="used" label="used">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-30.139784" y="-51.355705"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="usually" label="usually">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="295.45068" y="-222.5356"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="valley" label="valley">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="174.66104" y="61.499702"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="varietal" label="varietal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-28.62036" y="-601.1436"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="varieties" label="varieties">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.09055" y="-91.39932"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="variety" label="variety">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-51.929195" y="-126.15625"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="vine" label="vine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="40.543903" y="-22.879658"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="vines" label="vines">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-122.16076" y="171.54178"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="vineyard" label="vineyard">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-89.90095" y="148.30058"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="vineyards" label="vineyards">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-27.659578" y="198.30762"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="vintage" label="vintage">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-129.58176" y="511.65393"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="viticultural" label="viticultural">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-50.41504" y="-460.2003"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="viticulture" label="viticulture">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="263.5801" y="39.40132"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="vitis" label="vitis">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-121.09757" y="-670.88367"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="water" label="water">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="80.464355" y="-263.1024"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="white" label="white">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-34.237347" y="132.60226"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="widely" label="widely">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-38.78857" y="-548.90857"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="wine" label="wine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-65.7252" y="507.33975"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="Executive Wine Education_ What - R Sean Cochran.txt" label="Executive Wine Education_ What - R Sean Cochran.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="594.86633" y="-75.02781"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="Land and Wine_ The French Terro - Charles Frankel.txt" label="Land and Wine_ The French Terro - Charles Frankel.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="609.03143" y="-124.35817"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="The Dirty Guide to Wine_ Follow - Alice Feiring.txt" label="The Dirty Guide to Wine_ Follow - Alice Feiring.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="7.681416" y="306.89185"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="The Wine Trade in Medieval Euro - Susan Rose.txt" label="The Wine Trade in Medieval Euro - Susan Rose.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="233.82751" y="-230.46904"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="Uncorked_ The Novice_s Guide to - Paul Kreider.txt" label="Uncorked_ The Novice_s Guide to - Paul Kreider.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="437.039" y="-161.44157"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="WINE 101 - Byron Bennett.txt" label="WINE 101 - Byron Bennett.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="369.29138" y="-158.2838"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="WINE RED WHITE WONDERFUL - S.K. Newberry.txt" label="WINE RED WHITE WONDERFUL - S.K. Newberry.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="402.62766" y="-150.85391"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="Wine Science_ The Application o - Jamie Goode.txt" label="Wine Science_ The Application o - Jamie Goode.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="224.87445" y="-284.37988"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="Wine_ Everything You Need to Kn - James Waldorf.txt" label="Wine_ Everything You Need to Kn - James Waldorf.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="297.2944" y="-137.74557"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="winemakers" label="winemakers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="701.22076" y="-225.54483"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="winemaking" label="winemaking">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-209.66315" y="-78.635345"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="winery" label="winery">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-276.55215" y="-405.0343"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="wines" label="wines">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-26.88982" y="438.92664"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="wood" label="wood">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-451.20715" y="-405.96127"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="world" label="world">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="206.71246" y="42.266407"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="year" label="year">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-141.33023" y="-440.62646"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="years" label="years">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-172.80879" y="535.2451"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="yeast" label="yeast">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="861.47235" y="297.17953"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="yield" label="yield">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-466.0857" y="-460.54114"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="acre" label="acre">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="451.4815" y="696.5228"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="address" label="address">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-352.11554" y="646.8918"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="analysis" label="analysis">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-416.9294" y="-786.3437"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="anticipated" label="anticipated">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-456.57037" y="578.54803"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="appellation" label="appellation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="327.86752" y="190.33199"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="authorized" label="authorized">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-378.14728" y="-793.8984"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="beaune" label="beaune">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="329.8133" y="586.2779"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="beer" label="beer">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="805.8024" y="502.5707"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="bottles" label="bottles">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-350.90826" y="370.9199"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="bourgeois" label="bourgeois">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-653.2948" y="481.7818"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="budding" label="budding">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-299.31442" y="-775.57196"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="bunch" label="bunch">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-251.44994" y="-697.2603"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="cassis" label="cassis">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-731.3018" y="332.53113"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="cfte" label="cfte">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="157.80447" y="524.31287"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="cheteau" label="cheteau">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-411.9867" y="623.6357"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="classification" label="classification">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-351.03482" y="504.0201"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="clos" label="clos">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="277.83112" y="627.2904"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="crus" label="crus">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="338.64685" y="542.8965"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="cuvee" label="cuvee">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-672.241" y="330.2553"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="dense" label="dense">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-658.86414" y="278.3978"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="density" label="density">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-421.80978" y="588.8246"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="des" label="des">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="373.44385" y="649.1947"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="domaine" label="domaine">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="175.48093" y="704.3006"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="drink" label="drink">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-267.8477" y="618.3906"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="effort" label="effort">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-536.0612" y="668.8208"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="elegant" label="elegant">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-535.63635" y="469.92743"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="elevage" label="elevage">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-397.72015" y="693.5344"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="email" label="email">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-703.8349" y="606.20654"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="established" label="established">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="529.1617" y="-417.9942"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="exhibits" label="exhibits">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-618.6092" y="547.392"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="extraordinary" label="extraordinary">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-777.4044" y="327.36813"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="fils" label="fils">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="509.00198" y="697.6917"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="filtration" label="filtration">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-452.3352" y="426.63904"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="finest" label="finest">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-801.94385" y="888.74225"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="fining" label="fining">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-469.36447" y="481.37125"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="german" label="german">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-142.32597" y="-400.69595"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="grand" label="grand">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="156.69632" y="736.8405"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="grands" label="grands">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="419.76376" y="716.47766"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="graves" label="graves">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-469.61874" y="719.8931"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="hautbrion" label="hautbrion">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-408.90958" y="520.4676"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="hectare" label="hectare">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-448.17792" y="613.0559"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="hectoliters" label="hectoliters">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-433.73083" y="462.66302"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="hermitage" label="hermitage">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="291.25085" y="518.73535"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="history" label="history">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="401.10876" y="-97.25755"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="intermixed" label="intermixed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-709.4244" y="666.66113"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="les" label="les">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="172.10698" y="817.2352"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="local" label="local">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-65.89775" y="-426.75854"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="malt" label="malt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1122.118" y="623.98627"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="margaux" label="margaux">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-540.2438" y="506.3964"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="mediumbodied" label="mediumbodied">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-673.4203" y="587.32837"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="medoc" label="medoc">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-386.35388" y="654.8569"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="mentioned" label="mentioned">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-283.51868" y="-933.98"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="mid" label="mid">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-102.751785" y="-606.4807"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="mistaken" label="mistaken">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-138.41042" y="-768.288"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="notably" label="notably">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="694.1692" y="-280.29306"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="nowad" label="nowad">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-559.6358" y="536.5342"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="origins" label="origins">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-52.26893" y="-513.70905"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="owner" label="owner">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-456.4843" y="646.4615"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="pauillac" label="pauillac">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-463.75134" y="683.8307"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="percent" label="percent">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="477.18225" y="218.0078"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="plantation" label="plantation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-441.0994" y="542.15814"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="plateau" label="plateau">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-370.81656" y="572.25"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="points" label="points">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-585.8329" y="561.0192"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="pomerol" label="pomerol">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-523.5604" y="536.19086"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="port" label="port">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-463.77164" y="-300.27963"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="possesses" label="possesses">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-885.58295" y="393.37924"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="premiers" label="premiers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="479.31888" y="676.8838"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="purity" label="purity">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-885.70105" y="317.6187"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="rating" label="rating">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-636.34503" y="579.72076"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="recommended" label="recommended">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-233.58344" y="-928.47864"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="richard" label="richard">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-321.68985" y="-569.9469"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="richness" label="richness">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-814.1878" y="366.48474"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="rot" label="rot">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-204.62915" y="-693.50977"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="rouge" label="rouge">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="517.506" y="522.4753"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="smart" label="smart">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-387.29877" y="-491.1238"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="smooth" label="smooth">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="844.1572" y="1373.6259"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="sold" label="sold">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-122.591805" y="-470.2886"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="stainlesssteel" label="stainlesssteel">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-745.32574" y="532.22705"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="stdenis" label="stdenis">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="577.2975" y="618.4731"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="stemilion" label="stemilion">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-374.1487" y="608.60614"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="stgeorges" label="stgeorges">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="384.42648" y="605.9196"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="susceptible" label="susceptible">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-82.33362" y="-713.846"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="tasted" label="tasted">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-264.38046" y="678.30054"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="tastes" label="tastes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-148.9378" y="-536.9921"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="telefax" label="telefax">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-303.73926" y="601.8756"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="temperaturecontrolled" label="temperaturecontrolled">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-302.65408" y="547.4146"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="varietals" label="varietals">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-377.1741" y="532.9201"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="vats" label="vats">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-516.65826" y="610.1923"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="vigorous" label="vigorous">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-275.55988" y="-801.5856"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="village" label="village">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="547.8722" y="592.09906"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="vin" label="vin">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="199.06718" y="-467.53827"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="vintages" label="vintages">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-423.0431" y="666.31274"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="visits" label="visits">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-513.2365" y="573.6795"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="west" label="west">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="492.82355" y="-350.9442"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="wineries" label="wineries">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="365.99368" y="-440.66803"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="yields" label="yields">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-436.85345" y="178.73773"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="zone" label="zone">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="473.88034" y="-432.6173"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="bourgogne" label="bourgogne">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="320.77515" y="638.0339"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="chablis" label="chablis">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="471.4067" y="556.4622"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="chambollemusigny" label="chambollemusigny">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="406.15045" y="637.18945"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="chassagnemontrachet" label="chassagnemontrachet">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="486.63672" y="740.2802"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="gevreychambertin" label="gevreychambertin">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="275.09558" y="592.72363"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="london" label="london">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="52.032684" y="-511.52634"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="meursault" label="meursault">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="448.67285" y="624.69025"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="morey" label="morey">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="593.527" y="649.42285"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="nuits" label="nuits">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="302.79483" y="563.41187"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="pommard" label="pommard">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="424.21048" y="560.4172"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="volnay" label="volnay">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="392.07495" y="695.5348"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="vosneromanee" label="vosneromanee">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="490.73468" y="639.09143"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="vougeot" label="vougeot">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="449.41718" y="588.3415"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="ale" label="ale">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1218.4908" y="669.9214"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="ales" label="ales">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1067.3477" y="569.3811"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="beers" label="beers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1038.1155" y="549.0558"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="brewery" label="brewery">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1147.8842" y="574.35754"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="flavour" label="flavour">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="394.48718" y="-288.1197"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="vodka" label="vodka">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="857.3209" y="1410.3916"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="ageing" label="ageing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="501.62604" y="-397.97397"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="colour" label="colour">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-56.941013" y="-380.75235"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="del" label="del">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-258.06256" y="-994.00165"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="doc" label="doc">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="426.04498" y="-65.1189"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="malvasia" label="malvasia">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-322.36304" y="-715.24115"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="productive" label="productive">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-335.73853" y="-876.9681"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="province" label="province">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-130.57593" y="-828.97906"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="vouillamoz" label="vouillamoz">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-199.40543" y="-967.3813"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="breweries" label="breweries">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1080.4574" y="527.5729"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="brewing" label="brewing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1114.6383" y="586.93243"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="dna" label="dna">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-74.577675" y="-543.1784"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="hops" label="hops">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1109.3188" y="550.7384"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="lagers" label="lagers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1348.2039" y="739.35406"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="rum" label="rum">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="890.81036" y="1431.7843"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="jars" label="jars">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="709.0133" y="223.8944"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="synonyms" label="synonyms">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-22.155384" y="-494.09634"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="brewers" label="brewers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1224.0146" y="707.25885"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="downy" label="downy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-429.42474" y="-855.2027"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="parentage" label="parentage">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-87.788666" y="-399.2445"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+      <node id="profiling" label="profiling">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-241.41437" y="-858.835"></viz:position>
+        <viz:color r="255" g="4" b="0"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="149673" source="abv" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="394.0"></edge>
+      <edge id="149674" source="acid" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="563.0"></edge>
+      <edge id="149675" source="acidity" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="629.0"></edge>
+      <edge id="149676" source="acidity" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="473.0"></edge>
+      <edge id="149677" source="acidity" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="515.0"></edge>
+      <edge id="149678" source="acidity" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="600.0"></edge>
+      <edge id="149679" source="acres" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="917.0"></edge>
+      <edge id="149680" source="acres" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="1037.0"></edge>
+      <edge id="149681" source="acres" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1339.0"></edge>
+      <edge id="149682" source="acres" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="2468.0"></edge>
+      <edge id="149683" source="age" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1007.0"></edge>
+      <edge id="149684" source="age" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="465.0"></edge>
+      <edge id="149685" source="aging" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="857.0"></edge>
+      <edge id="149686" source="alcohol" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="644.0"></edge>
+      <edge id="149687" source="american" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="529.0"></edge>
+      <edge id="149688" source="american" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="515.0"></edge>
+      <edge id="149689" source="ancient" target="The Origins and Ancient History - Unknown.txt" weight="367.0"></edge>
+      <edge id="149690" source="ancient" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="380.0"></edge>
+      <edge id="149691" source="appointment" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="574.0"></edge>
+      <edge id="149692" source="area" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="823.0"></edge>
+      <edge id="149693" source="area" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="743.0"></edge>
+      <edge id="149694" source="area" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="538.0"></edge>
+      <edge id="149695" source="aromas" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="420.0"></edge>
+      <edge id="149696" source="aromas" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="572.0"></edge>
+      <edge id="149697" source="australia" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="569.0"></edge>
+      <edge id="149698" source="average" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1588.0"></edge>
+      <edge id="149699" source="average" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="520.0"></edge>
+      <edge id="149700" source="barolo" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="450.0"></edge>
+      <edge id="149701" source="barrel" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="469.0"></edge>
+      <edge id="149702" source="barrels" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="815.0"></edge>
+      <edge id="149703" source="barrels" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="352.0"></edge>
+      <edge id="149704" source="based" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="385.0"></edge>
+      <edge id="149705" source="berries" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="884.0"></edge>
+      <edge id="149706" source="berry" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1401.0"></edge>
+      <edge id="149707" source="best" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="465.0"></edge>
+      <edge id="149708" source="best" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="959.0"></edge>
+      <edge id="149709" source="best" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="687.0"></edge>
+      <edge id="149710" source="best" target="The Wine Bible - Karen MacNeil.txt" weight="650.0"></edge>
+      <edge id="149711" source="best" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="389.0"></edge>
+      <edge id="149712" source="bianco" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="487.0"></edge>
+      <edge id="149713" source="black" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1173.0"></edge>
+      <edge id="149714" source="black" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="1040.0"></edge>
+      <edge id="149715" source="black" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="976.0"></edge>
+      <edge id="149716" source="blanc" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="411.0"></edge>
+      <edge id="149717" source="blanc" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1276.0"></edge>
+      <edge id="149718" source="blanc" target="The Wine Bible - Karen MacNeil.txt" weight="540.0"></edge>
+      <edge id="149719" source="blanc" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1210.0"></edge>
+      <edge id="149720" source="blend" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="355.0"></edge>
+      <edge id="149721" source="blend" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="477.0"></edge>
+      <edge id="149722" source="blended" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="417.0"></edge>
+      <edge id="149723" source="blends" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="393.0"></edge>
+      <edge id="149724" source="body" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="378.0"></edge>
+      <edge id="149725" source="bordeaux" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1031.0"></edge>
+      <edge id="149726" source="bordeaux" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1096.0"></edge>
+      <edge id="149727" source="botrytis" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="511.0"></edge>
+      <edge id="149728" source="bottle" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="612.0"></edge>
+      <edge id="149729" source="bouquet" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="366.0"></edge>
+      <edge id="149730" source="bouquet" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="351.0"></edge>
+      <edge id="149731" source="bunches" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="506.0"></edge>
+      <edge id="149732" source="burgundy" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="912.0"></edge>
+      <edge id="149733" source="burgundy" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="469.0"></edge>
+      <edge id="149734" source="cabernet" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1548.0"></edge>
+      <edge id="149735" source="cabernet" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1197.0"></edge>
+      <edge id="149736" source="cabernet" target="The Wine Bible - Karen MacNeil.txt" weight="596.0"></edge>
+      <edge id="149737" source="cabernet" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="1322.0"></edge>
+      <edge id="149738" source="cabernet" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="631.0"></edge>
+      <edge id="149739" source="california" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="735.0"></edge>
+      <edge id="149740" source="california" target="The Wine Bible - Karen MacNeil.txt" weight="439.0"></edge>
+      <edge id="149741" source="called" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="652.0"></edge>
+      <edge id="149742" source="called" target="The Wine Bible - Karen MacNeil.txt" weight="489.0"></edge>
+      <edge id="149743" source="called" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="535.0"></edge>
+      <edge id="149744" source="central" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="408.0"></edge>
+      <edge id="149745" source="century" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1457.0"></edge>
+      <edge id="149746" source="century" target="Wine and the Vine_ An Historica - Tim Unwin.txt" weight="707.0"></edge>
+      <edge id="149747" source="century" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="491.0"></edge>
+      <edge id="149748" source="champagne" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="377.0"></edge>
+      <edge id="149749" source="champagne" target="The Wine Bible - Karen MacNeil.txt" weight="376.0"></edge>
+      <edge id="149750" source="characteristics" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1291.0"></edge>
+      <edge id="149751" source="chardonnay" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="807.0"></edge>
+      <edge id="149752" source="chardonnay" target="The Wine Bible - Karen MacNeil.txt" weight="406.0"></edge>
+      <edge id="149753" source="chardonnay" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="385.0"></edge>
+      <edge id="149754" source="cherry" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="445.0"></edge>
+      <edge id="149755" source="cheteauneufdupape" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="563.0"></edge>
+      <edge id="149756" source="climate" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="798.0"></edge>
+      <edge id="149757" source="color" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1051.0"></edge>
+      <edge id="149758" source="color" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="422.0"></edge>
+      <edge id="149759" source="color" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="942.0"></edge>
+      <edge id="149760" source="color" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="351.0"></edge>
+      <edge id="149761" source="common" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="742.0"></edge>
+      <edge id="149762" source="commonly" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="606.0"></edge>
+      <edge id="149763" source="compounds" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="355.0"></edge>
+      <edge id="149764" source="concentrated" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="493.0"></edge>
+      <edge id="149765" source="concentrated" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="352.0"></edge>
+      <edge id="149766" source="concentrated" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="648.0"></edge>
+      <edge id="149767" source="concentration" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="388.0"></edge>
+      <edge id="149768" source="conditions" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="360.0"></edge>
+      <edge id="149769" source="contact" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="620.0"></edge>
+      <edge id="149770" source="country" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="397.0"></edge>
+      <edge id="149771" source="cross" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="652.0"></edge>
+      <edge id="149772" source="cru" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="554.0"></edge>
+      <edge id="149773" source="cru" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="867.0"></edge>
+      <edge id="149774" source="cultivated" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="781.0"></edge>
+      <edge id="149775" source="currant" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="383.0"></edge>
+      <edge id="149776" source="dark" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="587.0"></edge>
+      <edge id="149777" source="dark" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="401.0"></edge>
+      <edge id="149778" source="deep" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="408.0"></edge>
+      <edge id="149779" source="deep" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="358.0"></edge>
+      <edge id="149780" source="different" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="688.0"></edge>
+      <edge id="149781" source="diseases" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="397.0"></edge>
+      <edge id="149782" source="distinct" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="445.0"></edge>
+      <edge id="149783" source="dry" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="861.0"></edge>
+      <edge id="149784" source="dry" target="The Wine Bible - Karen MacNeil.txt" weight="544.0"></edge>
+      <edge id="149785" source="dry" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="550.0"></edge>
+      <edge id="149786" source="early" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1048.0"></edge>
+      <edge id="149787" source="early" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="759.0"></edge>
+      <edge id="149788" source="east" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="522.0"></edge>
+      <edge id="149789" source="eastern" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="373.0"></edge>
+      <edge id="149790" source="end" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="389.0"></edge>
+      <edge id="149791" source="especially" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="643.0"></edge>
+      <edge id="149792" source="estate" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="479.0"></edge>
+      <edge id="149793" source="estate" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="492.0"></edge>
+      <edge id="149794" source="estate" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="409.0"></edge>
+      <edge id="149795" source="europe" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="460.0"></edge>
+      <edge id="149796" source="example" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="705.0"></edge>
+      <edge id="149797" source="excellent" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="488.0"></edge>
+      <edge id="149798" source="excellent" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="659.0"></edge>
+      <edge id="149799" source="family" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="374.0"></edge>
+      <edge id="149800" source="famous" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="412.0"></edge>
+      <edge id="149801" source="far" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="471.0"></edge>
+      <edge id="149802" source="fermentation" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="756.0"></edge>
+      <edge id="149803" source="fermentation" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="829.0"></edge>
+      <edge id="149804" source="fine" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="477.0"></edge>
+      <edge id="149805" source="finish" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="696.0"></edge>
+      <edge id="149806" source="finish" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="881.0"></edge>
+      <edge id="149807" source="flavor" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="387.0"></edge>
+      <edge id="149808" source="flavor" target="The Wine Bible - Karen MacNeil.txt" weight="397.0"></edge>
+      <edge id="149809" source="flavors" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="353.0"></edge>
+      <edge id="149810" source="flavors" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="364.0"></edge>
+      <edge id="149811" source="flavors" target="The Complete Book of Spirits_ A - Anthony Dias Blue.txt" weight="438.0"></edge>
+      <edge id="149812" source="flavors" target="The Wine Bible - Karen MacNeil.txt" weight="603.0"></edge>
+      <edge id="149813" source="flavors" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="468.0"></edge>
+      <edge id="149814" source="form" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="497.0"></edge>
+      <edge id="149815" source="franc" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="733.0"></edge>
+      <edge id="149816" source="france" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="972.0"></edge>
+      <edge id="149817" source="france" target="The Wine Bible - Karen MacNeil.txt" weight="358.0"></edge>
+      <edge id="149818" source="france" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="895.0"></edge>
+      <edge id="149819" source="french" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1105.0"></edge>
+      <edge id="149820" source="french" target="The Wine Bible - Karen MacNeil.txt" weight="442.0"></edge>
+      <edge id="149821" source="french" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="399.0"></edge>
+      <edge id="149822" source="fruit" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1396.0"></edge>
+      <edge id="149823" source="fruit" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="888.0"></edge>
+      <edge id="149824" source="fruit" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="704.0"></edge>
+      <edge id="149825" source="fruit" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="1092.0"></edge>
+      <edge id="149826" source="fruit" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="634.0"></edge>
+      <edge id="149827" source="fruits" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="459.0"></edge>
+      <edge id="149828" source="fullbodied" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="737.0"></edge>
+      <edge id="149829" source="fullbodied" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="971.0"></edge>
+      <edge id="149830" source="general" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="372.0"></edge>
+      <edge id="149831" source="generally" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="517.0"></edge>
+      <edge id="149832" source="generally" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="516.0"></edge>
+      <edge id="149833" source="germany" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="419.0"></edge>
+      <edge id="149834" source="germany" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="357.0"></edge>
+      <edge id="149835" source="good" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="748.0"></edge>
+      <edge id="149836" source="good" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="981.0"></edge>
+      <edge id="149837" source="good" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="510.0"></edge>
+      <edge id="149838" source="good" target="The Wine Bible - Karen MacNeil.txt" weight="408.0"></edge>
+      <edge id="149839" source="good" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="610.0"></edge>
+      <edge id="149840" source="good" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="558.0"></edge>
+      <edge id="149841" source="grape" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="967.0"></edge>
+      <edge id="149842" source="grape" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="2723.0"></edge>
+      <edge id="149843" source="grape" target="The Wine Bible - Karen MacNeil.txt" weight="1292.0"></edge>
+      <edge id="149844" source="grape" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="822.0"></edge>
+      <edge id="149845" source="grapes" target="Sommelier_s Guide to Wine_ Ever - Brian H. Smith.txt" weight="413.0"></edge>
+      <edge id="149846" source="grapes" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="2364.0"></edge>
+      <edge id="149847" source="grapes" target="The Wine Bible - Karen MacNeil.txt" weight="1682.0"></edge>
+      <edge id="149848" source="grapes" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="365.0"></edge>
+      <edge id="149849" source="great" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="624.0"></edge>
+      <edge id="149850" source="great" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="589.0"></edge>
+      <edge id="149851" source="great" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="502.0"></edge>
+      <edge id="149852" source="great" target="The Wine Bible - Karen MacNeil.txt" weight="416.0"></edge>
+      <edge id="149853" source="great" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="775.0"></edge>
+      <edge id="149854" source="growers" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="482.0"></edge>
+      <edge id="149855" source="growing" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="491.0"></edge>
+      <edge id="149856" source="grown" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="949.0"></edge>
+      <edge id="149857" source="grown" target="The Wine Bible - Karen MacNeil.txt" weight="398.0"></edge>
+      <edge id="149858" source="grown" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1895.0"></edge>
+      <edge id="149859" source="growth" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="532.0"></edge>
+      <edge id="149860" source="high" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="502.0"></edge>
+      <edge id="149861" source="high" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1106.0"></edge>
+      <edge id="149862" source="high" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="603.0"></edge>
+      <edge id="149863" source="higher" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="484.0"></edge>
+      <edge id="149864" source="hybrid" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="576.0"></edge>
+      <edge id="149865" source="important" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="687.0"></edge>
+      <edge id="149866" source="important" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1220.0"></edge>
+      <edge id="149867" source="important" target="The Wine Bible - Karen MacNeil.txt" weight="382.0"></edge>
+      <edge id="149868" source="include" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="451.0"></edge>
+      <edge id="149869" source="include" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="647.0"></edge>
+      <edge id="149870" source="including" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="615.0"></edge>
+      <edge id="149871" source="increasingly" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="438.0"></edge>
+      <edge id="149872" source="industry" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="472.0"></edge>
+      <edge id="149873" source="international" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="439.0"></edge>
+      <edge id="149874" source="island" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="432.0"></edge>
+      <edge id="149875" source="italian" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="397.0"></edge>
+      <edge id="149876" source="italian" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="416.0"></edge>
+      <edge id="149877" source="italy" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="626.0"></edge>
+      <edge id="149878" source="italy" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1058.0"></edge>
+      <edge id="149879" source="juice" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="435.0"></edge>
+      <edge id="149880" source="just" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="724.0"></edge>
+      <edge id="149881" source="just" target="The Wine Bible - Karen MacNeil.txt" weight="503.0"></edge>
+      <edge id="149882" source="just" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="462.0"></edge>
+      <edge id="149883" source="known" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1082.0"></edge>
+      <edge id="149884" source="known" target="The Wine Bible - Karen MacNeil.txt" weight="717.0"></edge>
+      <edge id="149885" source="known" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="609.0"></edge>
+      <edge id="149886" source="large" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="595.0"></edge>
+      <edge id="149887" source="late" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="675.0"></edge>
+      <edge id="149888" source="late" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="832.0"></edge>
+      <edge id="149889" source="levels" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="422.0"></edge>
+      <edge id="149890" source="licorice" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="405.0"></edge>
+      <edge id="149891" source="licorice" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="515.0"></edge>
+      <edge id="149892" source="light" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="367.0"></edge>
+      <edge id="149893" source="like" target="Oldman_s Guide to Outsmarting W - Mark Oldman.txt" weight="366.0"></edge>
+      <edge id="149894" source="like" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="855.0"></edge>
+      <edge id="149895" source="like" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="380.0"></edge>
+      <edge id="149896" source="like" target="The Wine Bible - Karen MacNeil.txt" weight="800.0"></edge>
+      <edge id="149897" source="like" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1411.0"></edge>
+      <edge id="149898" source="likely" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="350.0"></edge>
+      <edge id="149899" source="little" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="389.0"></edge>
+      <edge id="149900" source="long" target="The Complete Book of Spirits_ A - Anthony Dias Blue.txt" weight="359.0"></edge>
+      <edge id="149901" source="long" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="664.0"></edge>
+      <edge id="149902" source="long" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="501.0"></edge>
+      <edge id="149903" source="low" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="365.0"></edge>
+      <edge id="149904" source="low" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="586.0"></edge>
+      <edge id="149905" source="lower" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="361.0"></edge>
+      <edge id="149906" source="maceration" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="641.0"></edge>
+      <edge id="149907" source="mainly" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="436.0"></edge>
+      <edge id="149908" source="mainly" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="631.0"></edge>
+      <edge id="149909" source="make" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="582.0"></edge>
+      <edge id="149910" source="make" target="The Wine Bible - Karen MacNeil.txt" weight="581.0"></edge>
+      <edge id="149911" source="make" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="639.0"></edge>
+      <edge id="149912" source="makes" target="The Wine Bible - Karen MacNeil.txt" weight="423.0"></edge>
+      <edge id="149913" source="making" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="385.0"></edge>
+      <edge id="149914" source="market" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="451.0"></edge>
+      <edge id="149915" source="maturity" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="2651.0"></edge>
+      <edge id="149916" source="maturity" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="1675.0"></edge>
+      <edge id="149917" source="maturity" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="563.0"></edge>
+      <edge id="149918" source="medium" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="908.0"></edge>
+      <edge id="149919" source="medium" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="516.0"></edge>
+      <edge id="149920" source="merlot" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1082.0"></edge>
+      <edge id="149921" source="merlot" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="537.0"></edge>
+      <edge id="149922" source="mildew" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="484.0"></edge>
+      <edge id="149923" source="million" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="390.0"></edge>
+      <edge id="149924" source="minerals" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="425.0"></edge>
+      <edge id="149925" source="modern" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="502.0"></edge>
+      <edge id="149926" source="months" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="842.0"></edge>
+      <edge id="149927" source="months" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="458.0"></edge>
+      <edge id="149928" source="muscat" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="502.0"></edge>
+      <edge id="149929" source="muscat" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="608.0"></edge>
+      <edge id="149930" source="natural" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="356.0"></edge>
+      <edge id="149931" source="new" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1190.0"></edge>
+      <edge id="149932" source="new" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="796.0"></edge>
+      <edge id="149933" source="new" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1856.0"></edge>
+      <edge id="149934" source="new" target="The Wine Bible - Karen MacNeil.txt" weight="590.0"></edge>
+      <edge id="149935" source="new" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="598.0"></edge>
+      <edge id="149936" source="new" target="Wine and the Vine_ An Historica - Tim Unwin.txt" weight="485.0"></edge>
+      <edge id="149937" source="new" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="399.0"></edge>
+      <edge id="149938" source="noir" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="758.0"></edge>
+      <edge id="149939" source="noir" target="The Wine Bible - Karen MacNeil.txt" weight="470.0"></edge>
+      <edge id="149940" source="noir" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="873.0"></edge>
+      <edge id="149941" source="north" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="957.0"></edge>
+      <edge id="149942" source="north" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="526.0"></edge>
+      <edge id="149943" source="northern" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="514.0"></edge>
+      <edge id="149944" source="northern" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="392.0"></edge>
+      <edge id="149945" source="nose" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="718.0"></edge>
+      <edge id="149946" source="nose" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="856.0"></edge>
+      <edge id="149947" source="notes" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="511.0"></edge>
+      <edge id="149948" source="notes" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="416.0"></edge>
+      <edge id="149949" source="number" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="463.0"></edge>
+      <edge id="149950" source="oak" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1347.0"></edge>
+      <edge id="149951" source="oak" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="999.0"></edge>
+      <edge id="149952" source="oak" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="591.0"></edge>
+      <edge id="149953" source="oak" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="706.0"></edge>
+      <edge id="149954" source="offers" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="406.0"></edge>
+      <edge id="149955" source="old" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="366.0"></edge>
+      <edge id="149956" source="old" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="536.0"></edge>
+      <edge id="149957" source="old" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="680.0"></edge>
+      <edge id="149958" source="palate" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="389.0"></edge>
+      <edge id="149959" source="pale" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="448.0"></edge>
+      <edge id="149960" source="particular" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="397.0"></edge>
+      <edge id="149961" source="particularly" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1088.0"></edge>
+      <edge id="149962" source="phylloxera" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="358.0"></edge>
+      <edge id="149963" source="pinot" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1289.0"></edge>
+      <edge id="149964" source="pinot" target="The Wine Bible - Karen MacNeil.txt" weight="745.0"></edge>
+      <edge id="149965" source="pinot" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="735.0"></edge>
+      <edge id="149966" source="plant" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="379.0"></edge>
+      <edge id="149967" source="planted" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1241.0"></edge>
+      <edge id="149968" source="planted" target="The Wine Bible - Karen MacNeil.txt" weight="403.0"></edge>
+      <edge id="149969" source="planted" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1238.0"></edge>
+      <edge id="149970" source="plantings" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="501.0"></edge>
+      <edge id="149971" source="plantings" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="601.0"></edge>
+      <edge id="149972" source="portugal" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="403.0"></edge>
+      <edge id="149973" source="potential" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="375.0"></edge>
+      <edge id="149974" source="powdery" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="433.0"></edge>
+      <edge id="149975" source="powerful" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="407.0"></edge>
+      <edge id="149976" source="premier" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="534.0"></edge>
+      <edge id="149977" source="principal" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1213.0"></edge>
+      <edge id="149978" source="probably" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="350.0"></edge>
+      <edge id="149979" source="process" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="388.0"></edge>
+      <edge id="149980" source="produce" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="738.0"></edge>
+      <edge id="149981" source="produce" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="495.0"></edge>
+      <edge id="149982" source="produced" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1501.0"></edge>
+      <edge id="149983" source="produced" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="937.0"></edge>
+      <edge id="149984" source="produced" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="809.0"></edge>
+      <edge id="149985" source="produced" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="379.0"></edge>
+      <edge id="149986" source="producers" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="516.0"></edge>
+      <edge id="149987" source="producers" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="960.0"></edge>
+      <edge id="149988" source="producers" target="The Wine Bible - Karen MacNeil.txt" weight="356.0"></edge>
+      <edge id="149989" source="producers" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="825.0"></edge>
+      <edge id="149990" source="producing" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="407.0"></edge>
+      <edge id="149991" source="production" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1265.0"></edge>
+      <edge id="149992" source="production" target="Wine and the Vine_ An Historica - Tim Unwin.txt" weight="403.0"></edge>
+      <edge id="149993" source="quality" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="600.0"></edge>
+      <edge id="149994" source="quality" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="580.0"></edge>
+      <edge id="149995" source="quality" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1497.0"></edge>
+      <edge id="149996" source="range" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="465.0"></edge>
+      <edge id="149997" source="recent" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="354.0"></edge>
+      <edge id="149998" source="red" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="671.0"></edge>
+      <edge id="149999" source="red" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="947.0"></edge>
+      <edge id="150000" source="red" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1958.0"></edge>
+      <edge id="150001" source="red" target="The Wine Bible - Karen MacNeil.txt" weight="1023.0"></edge>
+      <edge id="150002" source="red" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="549.0"></edge>
+      <edge id="150003" source="red" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="608.0"></edge>
+      <edge id="150004" source="red" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="605.0"></edge>
+      <edge id="150005" source="reds" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="404.0"></edge>
+      <edge id="150006" source="region" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1470.0"></edge>
+      <edge id="150007" source="region" target="The Wine Bible - Karen MacNeil.txt" weight="726.0"></edge>
+      <edge id="150008" source="region" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="709.0"></edge>
+      <edge id="150009" source="regions" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1134.0"></edge>
+      <edge id="150010" source="regions" target="The Wine Bible - Karen MacNeil.txt" weight="435.0"></edge>
+      <edge id="150011" source="relatively" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="647.0"></edge>
+      <edge id="150012" source="research" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="460.0"></edge>
+      <edge id="150013" source="result" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="403.0"></edge>
+      <edge id="150014" source="rich" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="639.0"></edge>
+      <edge id="150015" source="rich" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="612.0"></edge>
+      <edge id="150016" source="rich" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="744.0"></edge>
+      <edge id="150017" source="riesling" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="536.0"></edge>
+      <edge id="150018" source="riesling" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="486.0"></edge>
+      <edge id="150019" source="ripe" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="474.0"></edge>
+      <edge id="150020" source="ripe" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="378.0"></edge>
+      <edge id="150021" source="ripening" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1158.0"></edge>
+      <edge id="150022" source="river" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="440.0"></edge>
+      <edge id="150023" source="sauvignon" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="951.0"></edge>
+      <edge id="150024" source="sauvignon" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1311.0"></edge>
+      <edge id="150025" source="sauvignon" target="The Wine Bible - Karen MacNeil.txt" weight="621.0"></edge>
+      <edge id="150026" source="sauvignon" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="999.0"></edge>
+      <edge id="150027" source="sauvignon" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="535.0"></edge>
+      <edge id="150028" source="second" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="459.0"></edge>
+      <edge id="150029" source="second" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="514.0"></edge>
+      <edge id="150030" source="significant" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="375.0"></edge>
+      <edge id="150031" source="small" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="881.0"></edge>
+      <edge id="150032" source="small" target="The Wine Bible - Karen MacNeil.txt" weight="601.0"></edge>
+      <edge id="150033" source="small" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="536.0"></edge>
+      <edge id="150034" source="soil" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1074.0"></edge>
+      <edge id="150035" source="soils" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="751.0"></edge>
+      <edge id="150036" source="south" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1390.0"></edge>
+      <edge id="150037" source="south" target="The Wine Bible - Karen MacNeil.txt" weight="420.0"></edge>
+      <edge id="150038" source="south" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="704.0"></edge>
+      <edge id="150039" source="southern" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="628.0"></edge>
+      <edge id="150040" source="southern" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="579.0"></edge>
+      <edge id="150041" source="spain" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="488.0"></edge>
+      <edge id="150042" source="spain" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="564.0"></edge>
+      <edge id="150043" source="sparkling" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="565.0"></edge>
+      <edge id="150044" source="spicy" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="397.0"></edge>
+      <edge id="150045" source="state" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="375.0"></edge>
+      <edge id="150046" source="states" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="382.0"></edge>
+      <edge id="150047" source="style" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="595.0"></edge>
+      <edge id="150048" source="style" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="416.0"></edge>
+      <edge id="150049" source="sugar" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="523.0"></edge>
+      <edge id="150050" source="surface" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="753.0"></edge>
+      <edge id="150051" source="sweet" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1299.0"></edge>
+      <edge id="150052" source="sweet" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="712.0"></edge>
+      <edge id="150053" source="sweet" target="The Wine Bible - Karen MacNeil.txt" weight="504.0"></edge>
+      <edge id="150054" source="sweet" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="1007.0"></edge>
+      <edge id="150055" source="sweet" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="486.0"></edge>
+      <edge id="150056" source="synonym" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="392.0"></edge>
+      <edge id="150057" source="syrah" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="398.0"></edge>
+      <edge id="150058" source="syrah" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="405.0"></edge>
+      <edge id="150059" source="table" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="420.0"></edge>
+      <edge id="150060" source="tannic" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="413.0"></edge>
+      <edge id="150061" source="tannic" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="356.0"></edge>
+      <edge id="150062" source="tannin" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1153.0"></edge>
+      <edge id="150063" source="tannin" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="824.0"></edge>
+      <edge id="150064" source="taste" target="Essential Winetasting_ The Comp - Michael Schuster.txt" weight="457.0"></edge>
+      <edge id="150065" source="taste" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="359.0"></edge>
+      <edge id="150066" source="telephone" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="749.0"></edge>
+      <edge id="150067" source="temperature" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="479.0"></edge>
+      <edge id="150068" source="temperatures" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="365.0"></edge>
+      <edge id="150069" source="term" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="567.0"></edge>
+      <edge id="150070" source="time" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="689.0"></edge>
+      <edge id="150071" source="time" target="The Wine Bible - Karen MacNeil.txt" weight="413.0"></edge>
+      <edge id="150072" source="today" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="423.0"></edge>
+      <edge id="150073" source="today" target="The Wine Bible - Karen MacNeil.txt" weight="421.0"></edge>
+      <edge id="150074" source="total" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="912.0"></edge>
+      <edge id="150075" source="total" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="442.0"></edge>
+      <edge id="150076" source="trade" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="459.0"></edge>
+      <edge id="150077" source="trade" target="Wine and the Vine_ An Historica - Tim Unwin.txt" weight="363.0"></edge>
+      <edge id="150078" source="traditional" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="439.0"></edge>
+      <edge id="150079" source="typically" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="367.0"></edge>
+      <edge id="150080" source="use" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="678.0"></edge>
+      <edge id="150081" source="used" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1792.0"></edge>
+      <edge id="150082" source="used" target="The Wine Bible - Karen MacNeil.txt" weight="691.0"></edge>
+      <edge id="150083" source="used" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1088.0"></edge>
+      <edge id="150084" source="usually" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="744.0"></edge>
+      <edge id="150085" source="valley" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="912.0"></edge>
+      <edge id="150086" source="valley" target="The Wine Bible - Karen MacNeil.txt" weight="657.0"></edge>
+      <edge id="150087" source="varietal" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1085.0"></edge>
+      <edge id="150088" source="varieties" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="2136.0"></edge>
+      <edge id="150089" source="varieties" target="The Wine Bible - Karen MacNeil.txt" weight="480.0"></edge>
+      <edge id="150090" source="varieties" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="2166.0"></edge>
+      <edge id="150091" source="variety" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1488.0"></edge>
+      <edge id="150092" source="variety" target="The Wine Bible - Karen MacNeil.txt" weight="429.0"></edge>
+      <edge id="150093" source="variety" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="3308.0"></edge>
+      <edge id="150094" source="vine" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="2547.0"></edge>
+      <edge id="150095" source="vine" target="Wine and the Vine_ An Historica - Tim Unwin.txt" weight="371.0"></edge>
+      <edge id="150096" source="vine" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="431.0"></edge>
+      <edge id="150097" source="vines" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1609.0"></edge>
+      <edge id="150098" source="vines" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1853.0"></edge>
+      <edge id="150099" source="vines" target="The Wine Bible - Karen MacNeil.txt" weight="454.0"></edge>
+      <edge id="150100" source="vines" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="610.0"></edge>
+      <edge id="150101" source="vines" target="Wine and the Vine_ An Historica - Tim Unwin.txt" weight="415.0"></edge>
+      <edge id="150102" source="vines" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="559.0"></edge>
+      <edge id="150103" source="vineyard" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="498.0"></edge>
+      <edge id="150104" source="vineyard" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="536.0"></edge>
+      <edge id="150105" source="vineyard" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1594.0"></edge>
+      <edge id="150106" source="vineyard" target="The Wine Bible - Karen MacNeil.txt" weight="556.0"></edge>
+      <edge id="150107" source="vineyard" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="879.0"></edge>
+      <edge id="150108" source="vineyard" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="418.0"></edge>
+      <edge id="150109" source="vineyards" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1112.0"></edge>
+      <edge id="150110" source="vineyards" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="639.0"></edge>
+      <edge id="150111" source="vineyards" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="2214.0"></edge>
+      <edge id="150112" source="vineyards" target="The Wine Bible - Karen MacNeil.txt" weight="1054.0"></edge>
+      <edge id="150113" source="vineyards" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="545.0"></edge>
+      <edge id="150114" source="vineyards" target="Wine and the Vine_ An Historica - Tim Unwin.txt" weight="387.0"></edge>
+      <edge id="150115" source="vineyards" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="423.0"></edge>
+      <edge id="150116" source="vintage" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="2100.0"></edge>
+      <edge id="150117" source="vintage" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="672.0"></edge>
+      <edge id="150118" source="vintage" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="488.0"></edge>
+      <edge id="150119" source="vintage" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="883.0"></edge>
+      <edge id="150120" source="viticultural" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="418.0"></edge>
+      <edge id="150121" source="viticultural" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1283.0"></edge>
+      <edge id="150122" source="viticulture" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="1050.0"></edge>
+      <edge id="150123" source="viticulture" target="Wine and the Vine_ An Historica - Tim Unwin.txt" weight="592.0"></edge>
+      <edge id="150124" source="vitis" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="690.0"></edge>
+      <edge id="150125" source="water" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="776.0"></edge>
+      <edge id="150126" source="white" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="535.0"></edge>
+      <edge id="150127" source="white" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="730.0"></edge>
+      <edge id="150128" source="white" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="2061.0"></edge>
+      <edge id="150129" source="white" target="The Wine Bible - Karen MacNeil.txt" weight="1026.0"></edge>
+      <edge id="150130" source="white" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="411.0"></edge>
+      <edge id="150131" source="white" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1319.0"></edge>
+      <edge id="150132" source="white" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="489.0"></edge>
+      <edge id="150133" source="widely" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="515.0"></edge>
+      <edge id="150134" source="widely" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="442.0"></edge>
+      <edge id="150135" source="wine" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="5395.0"></edge>
+      <edge id="150136" source="wine" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="2428.0"></edge>
+      <edge id="150137" source="wine" target="Essential Winetasting_ The Comp - Michael Schuster.txt" weight="1149.0"></edge>
+      <edge id="150138" source="wine" target="Executive Wine Education_ What - R Sean Cochran.txt" weight="382.0"></edge>
+      <edge id="150139" source="wine" target="Land and Wine_ The French Terro - Charles Frankel.txt" weight="428.0"></edge>
+      <edge id="150140" source="wine" target="Oldman_s Guide to Outsmarting W - Mark Oldman.txt" weight="1792.0"></edge>
+      <edge id="150141" source="wine" target="Sommelier_s Guide to Wine_ Ever - Brian H. Smith.txt" weight="1317.0"></edge>
+      <edge id="150142" source="wine" target="The Dirty Guide to Wine_ Follow - Alice Feiring.txt" weight="473.0"></edge>
+      <edge id="150143" source="wine" target="The Origins and Ancient History - Unknown.txt" weight="1993.0"></edge>
+      <edge id="150144" source="wine" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="13196.0"></edge>
+      <edge id="150145" source="wine" target="The Wine Bible - Karen MacNeil.txt" weight="5199.0"></edge>
+      <edge id="150146" source="wine" target="The Wine Trade in Medieval Euro - Susan Rose.txt" weight="1266.0"></edge>
+      <edge id="150147" source="wine" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="3908.0"></edge>
+      <edge id="150148" source="wine" target="Uncorked_ The Novice_s Guide to - Paul Kreider.txt" weight="605.0"></edge>
+      <edge id="150149" source="wine" target="WINE 101 - Byron Bennett.txt" weight="674.0"></edge>
+      <edge id="150150" source="wine" target="Wine and the Vine_ An Historica - Tim Unwin.txt" weight="2503.0"></edge>
+      <edge id="150151" source="wine" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="2854.0"></edge>
+      <edge id="150152" source="wine" target="WINE RED WHITE WONDERFUL - S.K. Newberry.txt" weight="712.0"></edge>
+      <edge id="150153" source="wine" target="Wine Science_ The Application o - Jamie Goode.txt" weight="1483.0"></edge>
+      <edge id="150154" source="wine" target="Wine_ Everything You Need to Kn - James Waldorf.txt" weight="993.0"></edge>
+      <edge id="150155" source="wine" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="2287.0"></edge>
+      <edge id="150156" source="winemakers" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="350.0"></edge>
+      <edge id="150157" source="winemaking" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="956.0"></edge>
+      <edge id="150158" source="winemaking" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="386.0"></edge>
+      <edge id="150159" source="winery" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="462.0"></edge>
+      <edge id="150160" source="wines" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="3472.0"></edge>
+      <edge id="150161" source="wines" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="5137.0"></edge>
+      <edge id="150162" source="wines" target="Essential Winetasting_ The Comp - Michael Schuster.txt" weight="1167.0"></edge>
+      <edge id="150163" source="wines" target="Oldman_s Guide to Outsmarting W - Mark Oldman.txt" weight="459.0"></edge>
+      <edge id="150164" source="wines" target="Sommelier_s Guide to Wine_ Ever - Brian H. Smith.txt" weight="661.0"></edge>
+      <edge id="150165" source="wines" target="The Dirty Guide to Wine_ Follow - Alice Feiring.txt" weight="358.0"></edge>
+      <edge id="150166" source="wines" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="6349.0"></edge>
+      <edge id="150167" source="wines" target="The Wine Bible - Karen MacNeil.txt" weight="3386.0"></edge>
+      <edge id="150168" source="wines" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="1709.0"></edge>
+      <edge id="150169" source="wines" target="WINE 101 - Byron Bennett.txt" weight="379.0"></edge>
+      <edge id="150170" source="wines" target="Wine and the Vine_ An Historica - Tim Unwin.txt" weight="901.0"></edge>
+      <edge id="150171" source="wines" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="2432.0"></edge>
+      <edge id="150172" source="wines" target="WINE RED WHITE WONDERFUL - S.K. Newberry.txt" weight="430.0"></edge>
+      <edge id="150173" source="wines" target="Wine Science_ The Application o - Jamie Goode.txt" weight="586.0"></edge>
+      <edge id="150174" source="wines" target="Wine_ Everything You Need to Kn - James Waldorf.txt" weight="382.0"></edge>
+      <edge id="150175" source="wines" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="1247.0"></edge>
+      <edge id="150176" source="wood" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="362.0"></edge>
+      <edge id="150177" source="world" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="963.0"></edge>
+      <edge id="150178" source="world" target="The Wine Bible - Karen MacNeil.txt" weight="521.0"></edge>
+      <edge id="150179" source="year" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="502.0"></edge>
+      <edge id="150180" source="years" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="3104.0"></edge>
+      <edge id="150181" source="years" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="1229.0"></edge>
+      <edge id="150182" source="years" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="928.0"></edge>
+      <edge id="150183" source="years" target="The Wine Bible - Karen MacNeil.txt" weight="552.0"></edge>
+      <edge id="150184" source="years" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="1558.0"></edge>
+      <edge id="150185" source="years" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="744.0"></edge>
+      <edge id="150186" source="yeast" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="451.0"></edge>
+      <edge id="150187" source="yeast" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="371.0"></edge>
+      <edge id="150188" source="yield" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="357.0"></edge>
+      <edge id="150189" source="acre" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="447.0"></edge>
+      <edge id="150190" source="address" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="957.0"></edge>
+      <edge id="150191" source="analysis" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="388.0"></edge>
+      <edge id="150192" source="anticipated" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1654.0"></edge>
+      <edge id="150193" source="anticipated" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="1567.0"></edge>
+      <edge id="150194" source="anticipated" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="435.0"></edge>
+      <edge id="150195" source="appellation" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="389.0"></edge>
+      <edge id="150196" source="appellation" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="676.0"></edge>
+      <edge id="150197" source="authorized" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="382.0"></edge>
+      <edge id="150198" source="beaune" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="1059.0"></edge>
+      <edge id="150199" source="beer" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="3031.0"></edge>
+      <edge id="150200" source="bottles" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1309.0"></edge>
+      <edge id="150201" source="bottles" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="385.0"></edge>
+      <edge id="150202" source="bottles" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="488.0"></edge>
+      <edge id="150203" source="bourgeois" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="380.0"></edge>
+      <edge id="150204" source="budding" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="419.0"></edge>
+      <edge id="150205" source="bunch" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="529.0"></edge>
+      <edge id="150206" source="cassis" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="513.0"></edge>
+      <edge id="150207" source="cfte" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="580.0"></edge>
+      <edge id="150208" source="cfte" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="383.0"></edge>
+      <edge id="150209" source="cfte" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="384.0"></edge>
+      <edge id="150210" source="cheteau" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1869.0"></edge>
+      <edge id="150211" source="cheteau" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="368.0"></edge>
+      <edge id="150212" source="cheteau" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="627.0"></edge>
+      <edge id="150213" source="classification" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="742.0"></edge>
+      <edge id="150214" source="clos" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="1500.0"></edge>
+      <edge id="150215" source="crus" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="847.0"></edge>
+      <edge id="150216" source="cuvee" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="607.0"></edge>
+      <edge id="150217" source="dense" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="420.0"></edge>
+      <edge id="150218" source="dense" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="520.0"></edge>
+      <edge id="150219" source="density" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="805.0"></edge>
+      <edge id="150220" source="des" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="703.0"></edge>
+      <edge id="150221" source="domaine" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="3533.0"></edge>
+      <edge id="150222" source="domaine" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="544.0"></edge>
+      <edge id="150223" source="drink" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="498.0"></edge>
+      <edge id="150224" source="drink" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="396.0"></edge>
+      <edge id="150225" source="drink" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="503.0"></edge>
+      <edge id="150226" source="effort" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="485.0"></edge>
+      <edge id="150227" source="elegant" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="413.0"></edge>
+      <edge id="150228" source="elevage" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="780.0"></edge>
+      <edge id="150229" source="email" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="403.0"></edge>
+      <edge id="150230" source="established" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="371.0"></edge>
+      <edge id="150231" source="exhibits" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="373.0"></edge>
+      <edge id="150232" source="extraordinary" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="432.0"></edge>
+      <edge id="150233" source="fils" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="394.0"></edge>
+      <edge id="150234" source="filtration" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="712.0"></edge>
+      <edge id="150235" source="finest" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="363.0"></edge>
+      <edge id="150236" source="fining" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="708.0"></edge>
+      <edge id="150237" source="german" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="543.0"></edge>
+      <edge id="150238" source="grand" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="420.0"></edge>
+      <edge id="150239" source="grand" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="357.0"></edge>
+      <edge id="150240" source="grands" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="497.0"></edge>
+      <edge id="150241" source="graves" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="462.0"></edge>
+      <edge id="150242" source="hautbrion" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="477.0"></edge>
+      <edge id="150243" source="hectare" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1576.0"></edge>
+      <edge id="150244" source="hectare" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="389.0"></edge>
+      <edge id="150245" source="hectoliters" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="826.0"></edge>
+      <edge id="150246" source="hermitage" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="446.0"></edge>
+      <edge id="150247" source="history" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="575.0"></edge>
+      <edge id="150248" source="intermixed" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="401.0"></edge>
+      <edge id="150249" source="les" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="3919.0"></edge>
+      <edge id="150250" source="local" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="734.0"></edge>
+      <edge id="150251" source="local" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="488.0"></edge>
+      <edge id="150252" source="malt" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="703.0"></edge>
+      <edge id="150253" source="margaux" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="452.0"></edge>
+      <edge id="150254" source="mediumbodied" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="442.0"></edge>
+      <edge id="150255" source="medoc" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="360.0"></edge>
+      <edge id="150256" source="mentioned" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="377.0"></edge>
+      <edge id="150257" source="mid" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="808.0"></edge>
+      <edge id="150258" source="mistaken" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="600.0"></edge>
+      <edge id="150259" source="notably" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="350.0"></edge>
+      <edge id="150260" source="nowad" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="791.0"></edge>
+      <edge id="150261" source="nowad" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="964.0"></edge>
+      <edge id="150262" source="origins" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1367.0"></edge>
+      <edge id="150263" source="owner" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="722.0"></edge>
+      <edge id="150264" source="pauillac" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="394.0"></edge>
+      <edge id="150265" source="percent" target="The Wine Bible - Karen MacNeil.txt" weight="464.0"></edge>
+      <edge id="150266" source="plantation" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="747.0"></edge>
+      <edge id="150267" source="plateau" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="871.0"></edge>
+      <edge id="150268" source="points" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="401.0"></edge>
+      <edge id="150269" source="points" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="2606.0"></edge>
+      <edge id="150270" source="pomerol" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="696.0"></edge>
+      <edge id="150271" source="port" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="422.0"></edge>
+      <edge id="150272" source="possesses" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="361.0"></edge>
+      <edge id="150273" source="premiers" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="475.0"></edge>
+      <edge id="150274" source="purity" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="359.0"></edge>
+      <edge id="150275" source="rating" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="2601.0"></edge>
+      <edge id="150276" source="recommended" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="375.0"></edge>
+      <edge id="150277" source="richard" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="363.0"></edge>
+      <edge id="150278" source="richness" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="409.0"></edge>
+      <edge id="150279" source="rot" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="608.0"></edge>
+      <edge id="150280" source="rouge" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="503.0"></edge>
+      <edge id="150281" source="smart" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="364.0"></edge>
+      <edge id="150282" source="smooth" target="The Complete Book of Spirits_ A - Anthony Dias Blue.txt" weight="434.0"></edge>
+      <edge id="150283" source="sold" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="410.0"></edge>
+      <edge id="150284" source="stainlesssteel" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="365.0"></edge>
+      <edge id="150285" source="stdenis" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="398.0"></edge>
+      <edge id="150286" source="stemilion" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="939.0"></edge>
+      <edge id="150287" source="stgeorges" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="870.0"></edge>
+      <edge id="150288" source="susceptible" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="667.0"></edge>
+      <edge id="150289" source="tasted" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="3103.0"></edge>
+      <edge id="150290" source="tasted" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="1073.0"></edge>
+      <edge id="150291" source="tastes" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1190.0"></edge>
+      <edge id="150292" source="telefax" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="697.0"></edge>
+      <edge id="150293" source="temperaturecontrolled" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="517.0"></edge>
+      <edge id="150294" source="varietals" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="757.0"></edge>
+      <edge id="150295" source="vats" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="545.0"></edge>
+      <edge id="150296" source="vigorous" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="466.0"></edge>
+      <edge id="150297" source="village" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="405.0"></edge>
+      <edge id="150298" source="vin" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="440.0"></edge>
+      <edge id="150299" source="vintages" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="1891.0"></edge>
+      <edge id="150300" source="vintages" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="461.0"></edge>
+      <edge id="150301" source="vintages" target="The World_s Greatest Wine Estat - Robert M. Parker.txt" weight="573.0"></edge>
+      <edge id="150302" source="vintages" target="Wines of the Rhone Valley - Robert M. Parker.txt" weight="422.0"></edge>
+      <edge id="150303" source="visits" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="702.0"></edge>
+      <edge id="150304" source="west" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="510.0"></edge>
+      <edge id="150305" source="wineries" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="500.0"></edge>
+      <edge id="150306" source="yields" target="Bordeaux_ A Consumer_s Guide to - Robert M. Parker.txt" weight="858.0"></edge>
+      <edge id="150307" source="yields" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="444.0"></edge>
+      <edge id="150308" source="yields" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="370.0"></edge>
+      <edge id="150309" source="zone" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="438.0"></edge>
+      <edge id="150310" source="bourgogne" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="814.0"></edge>
+      <edge id="150311" source="chablis" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="534.0"></edge>
+      <edge id="150312" source="chambollemusigny" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="572.0"></edge>
+      <edge id="150313" source="chassagnemontrachet" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="391.0"></edge>
+      <edge id="150314" source="gevreychambertin" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="907.0"></edge>
+      <edge id="150315" source="london" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="469.0"></edge>
+      <edge id="150316" source="meursault" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="544.0"></edge>
+      <edge id="150317" source="morey" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="390.0"></edge>
+      <edge id="150318" source="nuits" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="1148.0"></edge>
+      <edge id="150319" source="pommard" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="600.0"></edge>
+      <edge id="150320" source="volnay" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="466.0"></edge>
+      <edge id="150321" source="vosneromanee" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="453.0"></edge>
+      <edge id="150322" source="vougeot" target="Burgundy_ A Comprehensive Guide - Robert M. Parker.txt" weight="537.0"></edge>
+      <edge id="150323" source="ale" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="637.0"></edge>
+      <edge id="150324" source="ales" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="1011.0"></edge>
+      <edge id="150325" source="beers" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="1336.0"></edge>
+      <edge id="150326" source="brewery" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="710.0"></edge>
+      <edge id="150327" source="flavour" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="565.0"></edge>
+      <edge id="150328" source="vodka" target="The Complete Book of Spirits_ A - Anthony Dias Blue.txt" weight="405.0"></edge>
+      <edge id="150329" source="ageing" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="451.0"></edge>
+      <edge id="150330" source="colour" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="457.0"></edge>
+      <edge id="150331" source="colour" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1772.0"></edge>
+      <edge id="150332" source="del" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="392.0"></edge>
+      <edge id="150333" source="doc" target="The Oxford Companion to Wine (O - Jancis Robinson.txt" weight="399.0"></edge>
+      <edge id="150334" source="malvasia" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="464.0"></edge>
+      <edge id="150335" source="productive" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="395.0"></edge>
+      <edge id="150336" source="province" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="526.0"></edge>
+      <edge id="150337" source="vouillamoz" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="420.0"></edge>
+      <edge id="150338" source="breweries" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="1013.0"></edge>
+      <edge id="150339" source="brewing" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="874.0"></edge>
+      <edge id="150340" source="dna" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1227.0"></edge>
+      <edge id="150341" source="hops" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="1007.0"></edge>
+      <edge id="150342" source="lagers" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="353.0"></edge>
+      <edge id="150343" source="rum" target="The Complete Book of Spirits_ A - Anthony Dias Blue.txt" weight="357.0"></edge>
+      <edge id="150344" source="jars" target="The Origins and Ancient History - Unknown.txt" weight="387.0"></edge>
+      <edge id="150345" source="synonyms" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1352.0"></edge>
+      <edge id="150346" source="brewers" target="The Beer Bible_ The Essential B - Jeff Alworth.txt" weight="494.0"></edge>
+      <edge id="150347" source="downy" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="358.0"></edge>
+      <edge id="150348" source="parentage" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="1710.0"></edge>
+      <edge id="150349" source="profiling" target="Wine Grapes_ A Complete Guide t - Jancis Robinson.txt" weight="440.0"></edge>
+    </edges>
+  </graph>
+</gexf>
