@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+  <head>
+  <meta charset="utf-8" />
+  <title> Script in the Body </title>
+  </head>
+  <body>
+
+
+<h1>To-Do App</h1>
+<form id="OurForm">
+     <input id="OurField" type="text" autocomplete="off">
+     <button>Create item</button>
+</form>
+
+<h3>Need To Do</h3>
+<ul id="OurList">
+     
+</ul>
+<script type = "text/javascript">
+let OurForm = document.getElementById("OurForm")
+let OurField = document.getElementById("OurField")
+
+OurForm.addEventListener("submit", (e) => {
+     e.preventDefault() //stop browser from refreshing window and wanting to send data to a different location
+     createItem(OurField.value)
+})
+
+function createItem(x){
+     let OurHTML = `<li>${x} <button onclick="deleteItem(this)">Delete</button></li>` //dynamic expression
+     //note this will point to the object associated with the call which is the button only
+     OurList.insertAdjacentHTML("beforeend", OurHTML)
+     OurField.value = ""//clear entry box after entering
+     OurField.focus()//insert cursor back in box ready to type next entry
+}
+
+function deleteItem(elementToDelete) { //parameter will bring in value and apply function
+    //alert("Delete requested") //would send a pop up when delete is hit
+     elementToDelete.parentElement.remove()  //parentElement will bring in entire OurHTML line, including the button
+}
+</script>
+</body>
+</html>
+
+
