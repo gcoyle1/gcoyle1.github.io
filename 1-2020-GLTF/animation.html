@@ -1,0 +1,30 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>The HTML5 Herald</title>
+  <meta name="description" content="The HTML5 Herald">
+  <meta name="author" content="SitePoint">
+
+
+
+</head>
+
+<body>
+    <script src="https://github.com/mrdoob/three.js/blob/master/examples/js/loaders/GLTFLoader.js">
+    var loader = new THREE.GLTFLoader();
+
+loader.load( 'https://github.com/gcoyle1/gcoyle1.github.io/blob/master/1-2020-GLTF/particle_test.glb', function ( gltf ) {
+
+	scene.add( gltf.scene );
+
+}, undefined, function ( error ) {
+
+	console.error( error );
+
+} );
+    </script>
+</body>
+</html>
