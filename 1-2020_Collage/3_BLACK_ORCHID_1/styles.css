@@ -345,3 +345,12 @@
 	 height: 289px;
 	 z-index:33;
 } 
+/*sweet added this for hover animation*/
+img {
+    transition:transform 0.25s ease;
+}
+
+img:hover {
+    -webkit-transform:scale(1.1); /* or some other value */
+    transform:scale(1.1);
+}
