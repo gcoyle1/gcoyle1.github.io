@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-02-24">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="defendant" label="defendant">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="41.91078" y="-95.59226"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi-opinion-judgment.txt" label="NT_Nazi-opinion-judgment.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-43.81594" y="-256.5913"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi-Suppl-A.txt" label="NT_Nazi-Suppl-A.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-450.7068" y="-212.6511"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi-Suppl-B.txt" label="NT_Nazi-Suppl-B.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-271.62988" y="70.221504"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-I.txt" label="NT_Nazi_Vol-I.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-419.18054" y="-244.73343"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-II.txt" label="NT_Nazi_Vol-II.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="449.65958" y="-363.59995"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-III.txt" label="NT_Nazi_Vol-III.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-502.9636" y="33.790897"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-IV.txt" label="NT_Nazi_Vol-IV.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="157.22124" y="-242.73773"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-V.txt" label="NT_Nazi_Vol-V.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-314.99045" y="407.91266"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-VI.txt" label="NT_Nazi_Vol-VI.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-123.53576" y="-40.690353"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-VIII.txt" label="NT_Nazi_Vol-VIII.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="195.04558" y="456.54114"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="economic" label="economic">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="398.95718" y="-120.89626"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="NT_Nazi_Vol-VII.txt" label="NT_Nazi_Vol-VII.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="245.54185" y="-336.81067"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="foreign" label="foreign">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="175.35258" y="480.72754"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="german" label="german">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="322.51706" y="353.49585"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="labor" label="labor">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="270.03043" y="-17.703365"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="military" label="military">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="141.67699" y="287.25092"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="office" label="office">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="161.76549" y="264.20184"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="police" label="police">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-8.156273" y="-414.8678"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="political" label="political">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-290.468" y="38.687748"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="property" label="property">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="10.804787" y="554.1461"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="reich" label="reich">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="141.30919" y="-297.0948"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+      <node id="war" label="war">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-241.88548" y="-109.19079"></viz:position>
+        <viz:color r="255" g="10" b="18"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1142" source="defendant" target="NT_Nazi-opinion-judgment.txt" weight="155.0"></edge>
+      <edge id="1143" source="defendant" target="NT_Nazi-Suppl-A.txt" weight="203.0"></edge>
+      <edge id="1144" source="defendant" target="NT_Nazi-Suppl-B.txt" weight="1413.0"></edge>
+      <edge id="1145" source="defendant" target="NT_Nazi_Vol-I.txt" weight="217.0"></edge>
+      <edge id="1146" source="defendant" target="NT_Nazi_Vol-II.txt" weight="40.0"></edge>
+      <edge id="1147" source="defendant" target="NT_Nazi_Vol-III.txt"></edge>
+      <edge id="1148" source="defendant" target="NT_Nazi_Vol-IV.txt" weight="4.0"></edge>
+      <edge id="1149" source="defendant" target="NT_Nazi_Vol-V.txt" weight="24.0"></edge>
+      <edge id="1150" source="defendant" target="NT_Nazi_Vol-VI.txt" weight="14.0"></edge>
+      <edge id="1151" source="defendant" target="NT_Nazi_Vol-VIII.txt" weight="11.0"></edge>
+      <edge id="1152" source="economic" target="NT_Nazi-opinion-judgment.txt" weight="63.0"></edge>
+      <edge id="1153" source="economic" target="NT_Nazi-Suppl-A.txt" weight="200.0"></edge>
+      <edge id="1154" source="economic" target="NT_Nazi-Suppl-B.txt" weight="279.0"></edge>
+      <edge id="1155" source="economic" target="NT_Nazi_Vol-I.txt" weight="252.0"></edge>
+      <edge id="1156" source="economic" target="NT_Nazi_Vol-II.txt" weight="227.0"></edge>
+      <edge id="1157" source="economic" target="NT_Nazi_Vol-III.txt" weight="220.0"></edge>
+      <edge id="1158" source="economic" target="NT_Nazi_Vol-IV.txt" weight="235.0"></edge>
+      <edge id="1159" source="economic" target="NT_Nazi_Vol-V.txt" weight="144.0"></edge>
+      <edge id="1160" source="economic" target="NT_Nazi_Vol-VI.txt" weight="270.0"></edge>
+      <edge id="1161" source="economic" target="NT_Nazi_Vol-VII.txt" weight="472.0"></edge>
+      <edge id="1162" source="economic" target="NT_Nazi_Vol-VIII.txt" weight="162.0"></edge>
+      <edge id="1163" source="foreign" target="NT_Nazi-opinion-judgment.txt" weight="68.0"></edge>
+      <edge id="1164" source="foreign" target="NT_Nazi-Suppl-A.txt" weight="569.0"></edge>
+      <edge id="1165" source="foreign" target="NT_Nazi-Suppl-B.txt" weight="771.0"></edge>
+      <edge id="1166" source="foreign" target="NT_Nazi_Vol-I.txt" weight="499.0"></edge>
+      <edge id="1167" source="foreign" target="NT_Nazi_Vol-II.txt" weight="412.0"></edge>
+      <edge id="1168" source="foreign" target="NT_Nazi_Vol-III.txt" weight="360.0"></edge>
+      <edge id="1169" source="foreign" target="NT_Nazi_Vol-IV.txt" weight="455.0"></edge>
+      <edge id="1170" source="foreign" target="NT_Nazi_Vol-V.txt" weight="574.0"></edge>
+      <edge id="1171" source="foreign" target="NT_Nazi_Vol-VI.txt" weight="510.0"></edge>
+      <edge id="1172" source="foreign" target="NT_Nazi_Vol-VII.txt" weight="759.0"></edge>
+      <edge id="1173" source="foreign" target="NT_Nazi_Vol-VIII.txt" weight="367.0"></edge>
+      <edge id="1174" source="german" target="NT_Nazi-opinion-judgment.txt" weight="344.0"></edge>
+      <edge id="1175" source="german" target="NT_Nazi-Suppl-A.txt" weight="1589.0"></edge>
+      <edge id="1176" source="german" target="NT_Nazi-Suppl-B.txt" weight="2009.0"></edge>
+      <edge id="1177" source="german" target="NT_Nazi_Vol-I.txt" weight="2189.0"></edge>
+      <edge id="1178" source="german" target="NT_Nazi_Vol-II.txt" weight="1902.0"></edge>
+      <edge id="1179" source="german" target="NT_Nazi_Vol-III.txt" weight="1240.0"></edge>
+      <edge id="1180" source="german" target="NT_Nazi_Vol-IV.txt" weight="1722.0"></edge>
+      <edge id="1181" source="german" target="NT_Nazi_Vol-V.txt" weight="2180.0"></edge>
+      <edge id="1182" source="german" target="NT_Nazi_Vol-VI.txt" weight="1355.0"></edge>
+      <edge id="1183" source="german" target="NT_Nazi_Vol-VII.txt" weight="1476.0"></edge>
+      <edge id="1184" source="german" target="NT_Nazi_Vol-VIII.txt" weight="1871.0"></edge>
+      <edge id="1185" source="labor" target="NT_Nazi-opinion-judgment.txt" weight="95.0"></edge>
+      <edge id="1186" source="labor" target="NT_Nazi-Suppl-A.txt" weight="385.0"></edge>
+      <edge id="1187" source="labor" target="NT_Nazi-Suppl-B.txt" weight="553.0"></edge>
+      <edge id="1188" source="labor" target="NT_Nazi_Vol-I.txt" weight="406.0"></edge>
+      <edge id="1189" source="labor" target="NT_Nazi_Vol-II.txt" weight="287.0"></edge>
+      <edge id="1190" source="labor" target="NT_Nazi_Vol-III.txt" weight="487.0"></edge>
+      <edge id="1191" source="labor" target="NT_Nazi_Vol-IV.txt" weight="334.0"></edge>
+      <edge id="1192" source="labor" target="NT_Nazi_Vol-V.txt" weight="195.0"></edge>
+      <edge id="1193" source="labor" target="NT_Nazi_Vol-VI.txt" weight="139.0"></edge>
+      <edge id="1194" source="labor" target="NT_Nazi_Vol-VII.txt" weight="190.0"></edge>
+      <edge id="1195" source="labor" target="NT_Nazi_Vol-VIII.txt" weight="267.0"></edge>
+      <edge id="1196" source="military" target="NT_Nazi-opinion-judgment.txt" weight="134.0"></edge>
+      <edge id="1197" source="military" target="NT_Nazi-Suppl-A.txt" weight="578.0"></edge>
+      <edge id="1198" source="military" target="NT_Nazi-Suppl-B.txt" weight="757.0"></edge>
+      <edge id="1199" source="military" target="NT_Nazi_Vol-I.txt" weight="644.0"></edge>
+      <edge id="1200" source="military" target="NT_Nazi_Vol-II.txt" weight="555.0"></edge>
+      <edge id="1201" source="military" target="NT_Nazi_Vol-III.txt" weight="385.0"></edge>
+      <edge id="1202" source="military" target="NT_Nazi_Vol-IV.txt" weight="303.0"></edge>
+      <edge id="1203" source="military" target="NT_Nazi_Vol-V.txt" weight="365.0"></edge>
+      <edge id="1204" source="military" target="NT_Nazi_Vol-VI.txt" weight="427.0"></edge>
+      <edge id="1205" source="military" target="NT_Nazi_Vol-VII.txt" weight="621.0"></edge>
+      <edge id="1206" source="military" target="NT_Nazi_Vol-VIII.txt" weight="343.0"></edge>
+      <edge id="1207" source="office" target="NT_Nazi-opinion-judgment.txt" weight="42.0"></edge>
+      <edge id="1208" source="office" target="NT_Nazi-Suppl-A.txt" weight="642.0"></edge>
+      <edge id="1209" source="office" target="NT_Nazi-Suppl-B.txt" weight="539.0"></edge>
+      <edge id="1210" source="office" target="NT_Nazi_Vol-I.txt" weight="303.0"></edge>
+      <edge id="1211" source="office" target="NT_Nazi_Vol-II.txt" weight="434.0"></edge>
+      <edge id="1212" source="office" target="NT_Nazi_Vol-III.txt" weight="518.0"></edge>
+      <edge id="1213" source="office" target="NT_Nazi_Vol-IV.txt" weight="683.0"></edge>
+      <edge id="1214" source="office" target="NT_Nazi_Vol-V.txt" weight="605.0"></edge>
+      <edge id="1215" source="office" target="NT_Nazi_Vol-VI.txt" weight="394.0"></edge>
+      <edge id="1216" source="office" target="NT_Nazi_Vol-VII.txt" weight="662.0"></edge>
+      <edge id="1217" source="office" target="NT_Nazi_Vol-VIII.txt" weight="308.0"></edge>
+      <edge id="1218" source="police" target="NT_Nazi-opinion-judgment.txt" weight="139.0"></edge>
+      <edge id="1219" source="police" target="NT_Nazi-Suppl-A.txt" weight="701.0"></edge>
+      <edge id="1220" source="police" target="NT_Nazi-Suppl-B.txt" weight="517.0"></edge>
+      <edge id="1221" source="police" target="NT_Nazi_Vol-I.txt" weight="265.0"></edge>
+      <edge id="1222" source="police" target="NT_Nazi_Vol-II.txt" weight="743.0"></edge>
+      <edge id="1223" source="police" target="NT_Nazi_Vol-III.txt" weight="820.0"></edge>
+      <edge id="1224" source="police" target="NT_Nazi_Vol-IV.txt" weight="1013.0"></edge>
+      <edge id="1225" source="police" target="NT_Nazi_Vol-V.txt" weight="518.0"></edge>
+      <edge id="1226" source="police" target="NT_Nazi_Vol-VI.txt" weight="289.0"></edge>
+      <edge id="1227" source="police" target="NT_Nazi_Vol-VII.txt" weight="606.0"></edge>
+      <edge id="1228" source="police" target="NT_Nazi_Vol-VIII.txt" weight="398.0"></edge>
+      <edge id="1229" source="political" target="NT_Nazi-opinion-judgment.txt" weight="88.0"></edge>
+      <edge id="1230" source="political" target="NT_Nazi-Suppl-A.txt" weight="558.0"></edge>
+      <edge id="1231" source="political" target="NT_Nazi-Suppl-B.txt" weight="745.0"></edge>
+      <edge id="1232" source="political" target="NT_Nazi_Vol-I.txt" weight="473.0"></edge>
+      <edge id="1233" source="political" target="NT_Nazi_Vol-II.txt" weight="536.0"></edge>
+      <edge id="1234" source="political" target="NT_Nazi_Vol-III.txt" weight="428.0"></edge>
+      <edge id="1235" source="political" target="NT_Nazi_Vol-IV.txt" weight="456.0"></edge>
+      <edge id="1236" source="political" target="NT_Nazi_Vol-V.txt" weight="558.0"></edge>
+      <edge id="1237" source="political" target="NT_Nazi_Vol-VI.txt" weight="229.0"></edge>
+      <edge id="1238" source="political" target="NT_Nazi_Vol-VII.txt" weight="222.0"></edge>
+      <edge id="1239" source="political" target="NT_Nazi_Vol-VIII.txt" weight="193.0"></edge>
+      <edge id="1240" source="property" target="NT_Nazi-opinion-judgment.txt" weight="26.0"></edge>
+      <edge id="1241" source="property" target="NT_Nazi-Suppl-A.txt" weight="89.0"></edge>
+      <edge id="1242" source="property" target="NT_Nazi-Suppl-B.txt" weight="126.0"></edge>
+      <edge id="1243" source="property" target="NT_Nazi_Vol-I.txt" weight="147.0"></edge>
+      <edge id="1244" source="property" target="NT_Nazi_Vol-II.txt" weight="160.0"></edge>
+      <edge id="1245" source="property" target="NT_Nazi_Vol-III.txt" weight="185.0"></edge>
+      <edge id="1246" source="property" target="NT_Nazi_Vol-IV.txt" weight="194.0"></edge>
+      <edge id="1247" source="property" target="NT_Nazi_Vol-V.txt" weight="75.0"></edge>
+      <edge id="1248" source="property" target="NT_Nazi_Vol-VI.txt" weight="122.0"></edge>
+      <edge id="1249" source="property" target="NT_Nazi_Vol-VII.txt" weight="99.0"></edge>
+      <edge id="1250" source="property" target="NT_Nazi_Vol-VIII.txt" weight="101.0"></edge>
+      <edge id="1251" source="reich" target="NT_Nazi-opinion-judgment.txt" weight="175.0"></edge>
+      <edge id="1252" source="reich" target="NT_Nazi-Suppl-A.txt" weight="1282.0"></edge>
+      <edge id="1253" source="reich" target="NT_Nazi-Suppl-B.txt" weight="1515.0"></edge>
+      <edge id="1254" source="reich" target="NT_Nazi_Vol-I.txt" weight="1047.0"></edge>
+      <edge id="1255" source="reich" target="NT_Nazi_Vol-II.txt" weight="1647.0"></edge>
+      <edge id="1256" source="reich" target="NT_Nazi_Vol-III.txt" weight="1538.0"></edge>
+      <edge id="1257" source="reich" target="NT_Nazi_Vol-IV.txt" weight="2595.0"></edge>
+      <edge id="1258" source="reich" target="NT_Nazi_Vol-V.txt" weight="2155.0"></edge>
+      <edge id="1259" source="reich" target="NT_Nazi_Vol-VI.txt" weight="1109.0"></edge>
+      <edge id="1260" source="reich" target="NT_Nazi_Vol-VII.txt" weight="1358.0"></edge>
+      <edge id="1261" source="reich" target="NT_Nazi_Vol-VIII.txt" weight="939.0"></edge>
+      <edge id="1262" source="war" target="NT_Nazi-opinion-judgment.txt" weight="466.0"></edge>
+      <edge id="1263" source="war" target="NT_Nazi-Suppl-A.txt" weight="1374.0"></edge>
+      <edge id="1264" source="war" target="NT_Nazi-Suppl-B.txt" weight="2418.0"></edge>
+      <edge id="1265" source="war" target="NT_Nazi_Vol-I.txt" weight="1469.0"></edge>
+      <edge id="1266" source="war" target="NT_Nazi_Vol-II.txt" weight="1067.0"></edge>
+      <edge id="1267" source="war" target="NT_Nazi_Vol-III.txt" weight="647.0"></edge>
+      <edge id="1268" source="war" target="NT_Nazi_Vol-IV.txt" weight="671.0"></edge>
+      <edge id="1269" source="war" target="NT_Nazi_Vol-V.txt" weight="437.0"></edge>
+      <edge id="1270" source="war" target="NT_Nazi_Vol-VI.txt" weight="942.0"></edge>
+      <edge id="1271" source="war" target="NT_Nazi_Vol-VII.txt" weight="1181.0"></edge>
+      <edge id="1272" source="war" target="NT_Nazi_Vol-VIII.txt" weight="773.0"></edge>
+    </edges>
+  </graph>
+</gexf>
