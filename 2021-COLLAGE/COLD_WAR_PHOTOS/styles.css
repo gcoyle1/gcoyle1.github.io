@@ -1,0 +1,117 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 700px;
+	 height: 518px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 700px;
+	 height: 518px;
+	 z-index:1;
+} 
+
+ #Layer2 
+{ 
+	 left: 377px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 90px;
+	 z-index:2;
+} 
+
+ #Layer3 
+{ 
+	 left: 377px; 
+	 top: 129px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 200px;
+	 z-index:3;
+} 
+
+ #Layer4 
+{ 
+	 left: 187px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 258px;
+	 z-index:4;
+} 
+
+ #Layer5 
+{ 
+	 left: 187px; 
+	 top: 297px; 
+	 position: absolute; 
+	 width: 174px;
+	 height: 198px;
+	 z-index:5;
+} 
+
+ #Layer6 
+{ 
+	 left: 23px; 
+	 top: 345px; 
+	 position: absolute; 
+	 width: 149px;
+	 height: 150px;
+	 z-index:6;
+} 
+
+ #Layer7 
+{ 
+	 left: 23px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 149px;
+	 height: 306px;
+	 z-index:7;
+} 
+
+ #Layer8 
+{ 
+	 left: 498px; 
+	 top: 229px; 
+	 position: absolute; 
+	 width: 179px;
+	 height: 266px;
+	 z-index:8;
+} 
+
+ #Layer9 
+{ 
+	 left: 498px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 179px;
+	 height: 190px;
+	 z-index:9;
+} 
+
+ #Layer10 
+{ 
+	 left: 377px; 
+	 top: 345px; 
+	 position: absolute; 
+	 width: 105px;
+	 height: 150px;
+	 z-index:10;
+} 

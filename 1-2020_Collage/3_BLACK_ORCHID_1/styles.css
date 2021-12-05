@@ -1,0 +1,356 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1359px;
+	 height: 954px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1359px;
+	 height: 954px;
+	 z-index:1;
+} 
+
+ #Layer2 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1359px;
+	 height: 954px;
+	 z-index:2;
+} 
+
+ #Layer3 
+{ 
+	 left: 631px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 289px;
+	 z-index:3;
+} 
+
+ #Layer4 
+{ 
+	 left: 461px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 289px;
+	 z-index:4;
+} 
+
+ #Layer5 
+{ 
+	 left: 729px; 
+	 top: 638px; 
+	 position: absolute; 
+	 width: 252px;
+	 height: 294px;
+	 z-index:5;
+} 
+
+ #Layer6 
+{ 
+	 left: 729px; 
+	 top: 328px; 
+	 position: absolute; 
+	 width: 252px;
+	 height: 294px;
+	 z-index:6;
+} 
+
+ #Layer7 
+{ 
+	 left: 461px; 
+	 top: 328px; 
+	 position: absolute; 
+	 width: 252px;
+	 height: 294px;
+	 z-index:7;
+} 
+
+ #Layer8 
+{ 
+	 left: 461px; 
+	 top: 638px; 
+	 position: absolute; 
+	 width: 252px;
+	 height: 294px;
+	 z-index:8;
+} 
+
+ #Layer9 
+{ 
+	 left: 1174px; 
+	 top: 485px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 215px;
+	 z-index:9;
+} 
+
+ #Layer10 
+{ 
+	 left: 996px; 
+	 top: 485px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 215px;
+	 z-index:10;
+} 
+
+ #Layer11 
+{ 
+	 left: 1174px; 
+	 top: 717px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 215px;
+	 z-index:11;
+} 
+
+ #Layer12 
+{ 
+	 left: 996px; 
+	 top: 717px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 215px;
+	 z-index:12;
+} 
+
+ #Layer13 
+{ 
+	 left: 1174px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 215px;
+	 z-index:13;
+} 
+
+ #Layer14 
+{ 
+	 left: 1174px; 
+	 top: 255px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 215px;
+	 z-index:14;
+} 
+
+ #Layer15 
+{ 
+	 left: 996px; 
+	 top: 255px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 215px;
+	 z-index:15;
+} 
+
+ #Layer16 
+{ 
+	 left: 996px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 162px;
+	 height: 215px;
+	 z-index:16;
+} 
+
+ #Layer17 
+{ 
+	 left: 157px; 
+	 top: 790px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 141px;
+	 z-index:17;
+} 
+
+ #Layer18 
+{ 
+	 left: 157px; 
+	 top: 633px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 141px;
+	 z-index:18;
+} 
+
+ #Layer19 
+{ 
+	 left: 23px; 
+	 top: 790px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 141px;
+	 z-index:19;
+} 
+
+ #Layer20 
+{ 
+	 left: 23px; 
+	 top: 633px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 141px;
+	 z-index:20;
+} 
+
+ #Layer21 
+{ 
+	 left: 157px; 
+	 top: 426px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 191px;
+	 z-index:21;
+} 
+
+ #Layer22 
+{ 
+	 left: 23px; 
+	 top: 426px; 
+	 position: absolute; 
+	 width: 118px;
+	 height: 191px;
+	 z-index:22;
+} 
+
+ #Layer23 
+{ 
+	 left: 23px; 
+	 top: 225px; 
+	 position: absolute; 
+	 width: 252px;
+	 height: 185px;
+	 z-index:23;
+} 
+
+ #Layer24 
+{ 
+	 left: 23px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 252px;
+	 height: 185px;
+	 z-index:24;
+} 
+
+ #Layer25 
+{ 
+	 left: 291px; 
+	 top: 328px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 141px;
+	 z-index:25;
+} 
+
+ #Layer26 
+{ 
+	 left: 376px; 
+	 top: 328px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 141px;
+	 z-index:26;
+} 
+
+ #Layer27 
+{ 
+	 left: 291px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 137px;
+	 z-index:27;
+} 
+
+ #Layer28 
+{ 
+	 left: 291px; 
+	 top: 176px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 137px;
+	 z-index:28;
+} 
+
+ #Layer29 
+{ 
+	 left: 291px; 
+	 top: 637px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 139px;
+	 z-index:29;
+} 
+
+ #Layer30 
+{ 
+	 left: 291px; 
+	 top: 792px; 
+	 position: absolute; 
+	 width: 154px;
+	 height: 139px;
+	 z-index:30;
+} 
+
+ #Layer31 
+{ 
+	 left: 376px; 
+	 top: 485px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 136px;
+	 z-index:31;
+} 
+
+ #Layer32 
+{ 
+	 left: 291px; 
+	 top: 485px; 
+	 position: absolute; 
+	 width: 69px;
+	 height: 136px;
+	 z-index:32;
+} 
+
+ #Layer33 
+{ 
+	 left: 800px; 
+	 top: 23px; 
+	 position: absolute; 
+	 width: 180px;
+	 height: 289px;
+	 z-index:33;
+} 
+/*sweet added this for hover animation*/
+img {
+    transition:transform 0.25s ease;
+}
+
+img:hover {
+    -webkit-transform:scale(1.1); /* or some other value */
+    transform:scale(1.1);
+}
