@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, user-scalable=no"
+    />
+    <link rel="canonical" href="index.html" />
+
+    <title>IF MAGAZINE APRIL 1954</title>
+    <meta name="description" content="Heyzine html flip book" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="PDF to Flipbook | Heyzine" />
+    <meta property="og:description" content="Heyzine html flip book" />
+    <meta property="og:url" content="index.html" />
+    <meta property="og:image" content="./flipbook.pdf-thumb.jpg" />
+
+    <meta name="robots" content="index, nofollow" />
+
+    <script
+      type="text/javascript"
+      src="flipbook/js/site/modernizr.2.5.3.min.js"
+    ></script>
+    <script type="text/javascript" src="flipbook/js/site/hash.js"></script>
+
+    <script
+      type="text/javascript"
+      src="https://unpkg.com/pdfjs-dist@2.8.335/legacy/build/pdf.min.js"
+    ></script>
+    <script type="text/javascript">
+      PDFJS_WORKER =
+        "https://unpkg.com/pdfjs-dist@2.8.335/legacy/build/pdf.worker.min.js";
+    </script>
+
+    <script type="text/javascript">
+      var flipbookcfg = {
+        id: "103098710f2305ff22a62e2ef014f80dab1877854",
+        name: "flipbook.pdf",
+        custom_name: null,
+        domain: "heyzine.com",
+        mode: "PDF",
+        isize: 2.61708,
+        width: 363,
+        height: 529,
+        size: "53867353",
+        admin_key: "",
+        url: "index.html",
+        cover: 0,
+        num_pages: 124,
+        viewer: "MAGAZINE",
+        thumbnail: "flipbook.pdf-thumb.jpg",
+        design: {
+          type: "magazine",
+          background:
+            "https:\/\/cdn.heyzine.com\/files\/backgrounds\/back60.jpg",
+          background_color: "rgba(140, 116, 255, 1)",
+          background_style: {
+            blur: "0",
+            transparency: "40",
+            size: "Cover",
+            position: "center center",
+          },
+          company_logo: null,
+          company_logo_link: "https:\/\/heyzine.com",
+          title: "",
+          subtitle: "",
+          description: "",
+          show_slider: 0,
+          show_download: 0,
+          show_fullscreen: 1,
+          show_text: 1,
+          show_shadow: 1,
+          show_depth: 0,
+          show_double: 0,
+          show_zoom: 1,
+          start_page: null,
+          end_page: null,
+          click_zoom: 1,
+          show_prevnext: 0,
+          show_start: 0,
+          show_end: 0,
+          rtl: 0,
+          arrows: 1,
+          controls_iconset: "iconset2_3",
+          controls_style: null,
+          sound_flip: 0,
+        },
+        layers: null,
+      };
+
+      THUMBNAIL_PATH = "./";
+      TOC_PATH = "https://cdn.heyzine.com/files/toc/";
+    </script>
+  </head>
+  <body style="width: 100vw; height: 100vh">
+    <div class="logo-backs"></div>
+
+    <img
+      src=""
+      class="logo-backs2"
+      style="display: none"
+      alt="PDF to Flipbook"
+      width="5px"
+    />
+
+    <div class="flipbook-title" style="display: none">
+      <h1></h1>
+      <h2></h2>
+      <p></p>
+    </div>
+
+    <div id="modalFull" style="display: none">
+      <div
+        class="hz-icon hz-icn-fullscreen-on"
+        style="background-image: url('flipbook/img/iconset2_3.png')"
+      ></div>
+    </div>
+
+    <div id="modalOver" style="display: none"></div>
+
+    <div id="zoomArea"></div>
+
+    <div
+      id="canvas"
+      style="
+        width: calc(100% - 55px);
+        height: calc(100% - 40px);
+        margin: 20px auto 0 auto;
+      "
+    >
+      <div id="pnlControls" class="controls-pdf controls-md">
+        <a
+          href="#"
+          id="btnNavStart"
+          class="hz-icon hz-icn-start"
+          style="
+            display: none;
+            background-image: url('flipbook/img/iconset2_3.png');
+          "
+        ></a>
+        <a
+          href="#"
+          id="btnNavPrev"
+          class="hz-icon hz-icn-prev"
+          style="
+            display: none;
+            background-image: url('flipbook/img/iconset2_3.png');
+          "
+        ></a>
+        <a
+          href="#"
+          id="btnNavNext"
+          class="hz-icon hz-icn-next"
+          style="
+            display: none;
+            background-image: url('flipbook/img/iconset2_3.png');
+          "
+        ></a>
+        <a
+          href="#"
+          id="btnNavEnd"
+          class="hz-icon hz-icn-end"
+          style="
+            display: none;
+            background-image: url('flipbook/img/iconset2_3.png');
+          "
+        ></a>
+
+        <a
+          href="./flipbook.pdf"
+          target="_blank"
+          class="hz-icon hz-icn-down down-pdf"
+          style="
+            display: none;
+            background-image: url('flipbook/img/iconset2_3.png');
+          "
+        ></a>
+        <span
+          class="zoom-icon zoom-icon-in hz-icon"
+          style="
+            display: none;
+            background-image: url('flipbook/img/iconset2_3.png');
+          "
+        ></span>
+        <a
+          href="#"
+          id="btnFullscreen"
+          class="fullscreen-button hz-icon hz-icn-fullscreen-on"
+          onclick="if (typeof toggleFullScreen != 'undefined') { toggleFullScreen(); } return false;"
+        ></a>
+        <a
+          href="#"
+          id="btnSoundOff"
+          class="hz-icon hz-icn-sound-on"
+          style="display: none"
+        ></a>
+      </div>
+
+      <div
+        id="pnlZoomStep"
+        class="controls-pdf controls-zoom-step controls-md"
+        style="display: none"
+      >
+        <div class="btnZoomMore hz-icon hz-icn-zoom-more"></div>
+        <div class="btnZoomLess hz-icon hz-icn-zoom-less"></div>
+      </div>
+
+      <div class="corner-arrow" style="display: none; position: absolute">
+        <img src="" />
+      </div>
+
+      <div id="magazineViewport" class="magazine-viewport"></div>
+
+      <script id="tplMagazine" type="template/x-template">
+        <div class="container">
+            <div class="magazine">
+
+
+                <div ignore="1" class="next-button btnNext"></div>
+                <div ignore="1" class="previous-button btnPrevious"></div>
+
+            </div>
+        </div>
+        <div class="bottom control-bottom">
+            <div class="page-bar">
+                <span class="page-bar-value" style="display: none;"></span>
+                <span class="page-bar-num" style="display: none;"></span>
+                <input class="page-bar-range" type="range" value="0" min="0" max="50" step="1">
+            </div>
+        </div>
+      </script>
+
+      <script id="tplSwiper" type="template/x-template">
+        <div class="container">
+
+            <div class="swiper-wrapper">
+            </div>
+
+            <div class="swiper-button-next btnNext hz-icon hz-icon-md" style="background-image: url('flipbook/img/iconset2_3.png')"></div>
+            <div class="swiper-button-prev btnPrevious hz-icon hz-icon-md" style="background-image: url('flipbook/img/iconset2_3.png')"></div>
+        </div>
+
+        <div class="bottom control-bottom">
+            <div class="page-bar">
+                <span class="page-bar-value" style="display: none;"></span>
+                <span class="page-bar-num" style="display: none;"></span>
+                <input class="page-bar-range" type="range" value="0" min="0" max="50" step="1">
+            </div>
+        </div>
+      </script>
+
+      <audio id="audioPageTurn" style="display: none" preload="none">
+        <source src="flipbook/snd/flip-ct-sm.mp3" type="audio/mpeg" />
+      </audio>
+      <audio id="audioPageTurn2" style="display: none" preload="none">
+        <source src="flipbook/snd/flip-ct-md.mp3" type="audio/mpeg" />
+      </audio>
+      <audio id="audioPageTurn3" style="display: none" preload="none">
+        <source src="flipbook/snd/flip-ct-lg.mp3" type="audio/mpeg" />
+      </audio>
+    </div>
+
+    <script type="text/javascript">
+      yepnope({
+        test: Modernizr.csstransforms,
+        yep: [
+          "flipbook/js/site/jquery-3.5.1.min.js",
+          "flipbook/js/prod5.min.js?v=451",
+          "flipbook/css/prod5.min.css?v=451",
+        ],
+        nope: [
+          "flipbook/js/prod4.min.js?v=451",
+          "flipbook/css/prod4.min.css?v=451",
+        ],
+        both: ["flipbook/js/prodhzp.min.js?v=451"],
+        complete: () => {
+          heyzineDesign.load(flipbookcfg.design);
+          heyzine.load("./flipbook.pdf", flipbookcfg).then(() => {
+            heyzineDesign.afterLoad(flipbookcfg.design);
+
+            if (typeof app != "undefined" && app != null && app.bus != null) {
+              app.bus().$emit("flipbookLoaded");
+            }
+          });
+        },
+      });
+    </script>
+  </body>
+</html>

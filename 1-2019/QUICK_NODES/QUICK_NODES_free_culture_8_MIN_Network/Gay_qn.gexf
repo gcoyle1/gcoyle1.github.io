@@ -1,0 +1,1962 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-03-03">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="accused" label="accused">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-244.31871" y="83.97163"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" label="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-224.27536" y="-274.69077"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" label="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="289.90994" y="120.48789"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" label="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-194.9853" y="260.1765"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="africa" label="africa">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="656.2528" y="270.23618"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="age" label="age">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="327.33752" y="-525.07196"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" label="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="267.44025" y="-410.73264"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="ages" label="ages">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-514.01843" y="-445.65082"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="america" label="america">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="442.04324" y="197.53604"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="american" label="american">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="185.8973" y="249.23355"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="americans" label="americans">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="682.9064" y="189.89455"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="ancient" label="ancient">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="165.58464" y="-145.90477"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="animal" label="animal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="494.01407" y="-99.090256"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="animals" label="animals">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="358.59158" y="-196.40506"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="appeared" label="appeared">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-460.68802" y="-404.77103"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="arc" label="arc">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="647.23175" y="-642.7096"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="army" label="army">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-428.63116" y="-575.59125"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="art" label="art">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="385.65927" y="8.772696"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="associated" label="associated">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="539.4375" y="-234.82469"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="authority" label="authority">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-510.83688" y="-579.97656"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="bailey" label="bailey">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-469.4506" y="510.75684"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="baumann" label="baumann">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="452.94653" y="342.7175"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="believed" label="believed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-392.60873" y="-453.70587"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="body" label="body">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-122.32612" y="-90.81756"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="book" label="book">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="405.3441" y="-549.3395"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="briffault" label="briffault">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="410.5403" y="-621.43695"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="bronze" label="bronze">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="581.56116" y="-759.2079"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="brought" label="brought">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-627.9072" y="-326.97037"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="called" label="called">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="11.713307" y="-219.77815"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="came" label="came">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3.6094832" y="-394.15396"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="capitalism" label="capitalism">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-466.87387" y="636.5459"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="case" label="case">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="606.1951" y="292.4184"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="celtic" label="celtic">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="354.63574" y="-522.3797"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="celts" label="celts">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="534.4357" y="-538.90216"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="century" label="century">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-11.461995" y="-308.4927"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="certain" label="certain">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-509.0269" y="-494.09164"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="charges" label="charges">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-576.1197" y="-495.1829"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="china" label="china">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-235.41147" y="589.5757"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="christian" label="christian">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-24.210205" y="-151.25908"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="christianity" label="christianity">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-326.94287" y="-125.19416"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="christians" label="christians">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-8.038973" y="-344.49435"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="church" label="church">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-148.73431" y="-55.008728"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="civilization" label="civilization">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="217.34557" y="-226.11206"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="claimed" label="claimed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-417.84625" y="-642.79095"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="class" label="class">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="358.8881" y="-31.260393"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="classes" label="classes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-209.00041" y="-74.43818"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="clothing" label="clothing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="330.8603" y="-703.2011"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="collective" label="collective">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-519.40894" y="508.97092"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="come" label="come">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="195.39818" y="480.98355"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="common" label="common">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="610.0513" y="359.27237"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="condemned" label="condemned">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-374.4905" y="-548.79816"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="condemns" label="condemns">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-287.56915" y="448.50302"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="continued" label="continued">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-540.28723" y="-636.55206"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="control" label="control">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="148.56459" y="430.3806"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="culture" label="culture">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="146.8319" y="469.904"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="death" label="death">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="630.32385" y="-579.1868"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="demons" label="demons">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-307.3108" y="2.6857226"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="devil" label="devil">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-146.40112" y="-487.90057"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="diana" label="diana">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-255.92607" y="-104.850395"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="dorians" label="dorians">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="481.81577" y="-677.80865"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="early" label="early">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="174.43242" y="-83.68306"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="earth" label="earth">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="639.61865" y="321.78012"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="economic" label="economic">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-419.2661" y="598.8447"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="effect" label="effect">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="478.87387" y="395.17264"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="emperor" label="emperor">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-554.0921" y="-522.1325"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="empire" label="empire">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="221.06087" y="429.62738"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="england" label="england">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-414.57516" y="542.56433"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="especially" label="especially">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="574.1117" y="-558.9841"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="europe" label="europe">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="149.30038" y="-181.3181"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="evans" label="evans">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="435.43365" y="-736.28827"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="evidence" label="evidence">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="14.5632515" y="-650.68744"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="evil" label="evil">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-455.09482" y="-484.87036"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="example" label="example">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="90.17121" y="-79.33886"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="fact" label="fact">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="414.3937" y="-243.4514"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="fairies" label="fairies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="374.22513" y="-734.0615"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="female" label="female">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="420.70282" y="-783.24835"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="figures" label="figures">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="439.5381" y="-841.71075"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="followers" label="followers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-506.33792" y="-391.50406"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="force" label="force">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-199.57448" y="590.96875"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="form" label="form">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-176.28586" y="20.133165"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="forward" label="forward">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-319.3105" y="528.79834"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="france" label="france">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-512.3817" y="30.007223"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="free" label="free">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-388.13614" y="31.452042"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="gay" label="gay">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="68.32959" y="40.711117"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="gilles" label="gilles">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="345.80423" y="-606.91205"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="god" label="god">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="40.39628" y="-302.41223"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="goddess" label="goddess">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-74.89846" y="-162.08707"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="gods" label="gods">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="532.5731" y="-659.71625"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="government" label="government">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="188.28133" y="78.03386"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="great" label="great">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="60.028" y="-152.14952"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="greece" label="greece">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="383.92975" y="-686.39105"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="greek" label="greek">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="375.30447" y="-575.8276"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="group" label="group">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-526.19366" y="583.8181"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="hair" label="hair">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="555.0691" y="193.76717"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="held" label="held">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-573.40137" y="-607.2502"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="henry" label="henry">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-557.41376" y="449.5362"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="heresy" label="heresy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-134.77351" y="64.09033"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="heretics" label="heretics">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-73.62139" y="169.51678"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="hierarchy" label="hierarchy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-453.79416" y="-686.5329"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="high" label="high">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="672.12756" y="-607.0556"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="historian" label="historian">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-534.95654" y="-552.1409"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="historians" label="historians">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-10.26068" y="-594.51056"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="historical" label="historical">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="329.19876" y="-773.01483"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="history" label="history">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2.9687133" y="34.215767"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="holding" label="holding">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-419.23892" y="501.126"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="homosexuality" label="homosexuality">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-42.11647" y="-74.6355"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="horned" label="horned">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="405.23492" y="-511.77036"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="hughes" label="hughes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="516.0397" y="-782.8608"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="human" label="human">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-469.95712" y="49.857048"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="important" label="important">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="623.6539" y="-718.0247"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="indian" label="indian">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="513.69214" y="209.69191"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="indians" label="indians">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="401.77203" y="195.57088"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="industrial" label="industrial">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7.183069" y="293.72495"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="industrialism" label="industrialism">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="8.529489" y="332.2248"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="inquisition" label="inquisition">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-33.272675" y="88.146065"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="inquisitors" label="inquisitors">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-644.06134" y="-502.24164"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="institutions" label="institutions">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="135.11703" y="327.82053"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="joan" label="joan">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="369.24033" y="-498.38885"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="joans" label="joans">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="373.7329" y="-641.53107"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="john" label="john">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-358.4542" y="115.05933"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="judges" label="judges">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="462.16974" y="-572.4516"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="just" label="just">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="316.9716" y="-211.2242"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="king" label="king">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="121.06664" y="506.05496"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="known" label="known">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-62.06818" y="-639.834"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="land" label="land">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="439.00854" y="285.67142"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="later" label="later">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-77.33914" y="-496.56696"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="law" label="law">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="38.74006" y="477.51212"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="leaders" label="leaders">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-104.158936" y="-9.327372"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="led" label="led">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-531.23596" y="-342.91025"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="lesbianism" label="lesbianism">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-510.7948" y="456.24588"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="life" label="life">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="97.00976" y="-125.869484"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="like" label="like">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="221.96358" y="-26.142965"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="live" label="live">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="484.592" y="-747.6464"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="lived" label="lived">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="588.3809" y="-655.3416"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="lives" label="lives">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="478.66486" y="294.09705"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="london" label="london">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-339.15945" y="395.30676"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="long" label="long">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="499.1955" y="327.7192"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="look" label="look">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-250.64522" y="484.3684"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="magic" label="magic">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-333.09" y="432.9392"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="make" label="make">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="554.55865" y="482.71826"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="making" label="making">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-434.0819" y="657.59564"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="male" label="male">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="111.49683" y="-184.13809"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="malleus" label="malleus">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-578.38477" y="-355.91156"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="man" label="man">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="278.45093" y="-164.35258"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="mass" label="mass">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-411.29327" y="434.7589"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="means" label="means">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-303.2569" y="-107.54657"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="men" label="men">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="127.066505" y="-114.5283"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="middle" label="middle">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-20.676207" y="182.24724"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="militarism" label="militarism">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="549.2826" y="334.1409"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="military" label="military">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="586.4225" y="-180.31847"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="modern" label="modern">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="18.694084" y="99.79219"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="money" label="money">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="540.5194" y="238.8817"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="mother" label="mother">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="81.13926" y="-346.08435"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="mothers" label="mothers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="576.0624" y="-609.1826"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="movement" label="movement">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-445.94104" y="471.24033"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="murray" label="murray">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="327.65335" y="-645.84546"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="nature" label="nature">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="112.22343" y="-16.004587"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="new" label="new">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="46.46638" y="-97.368416"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="night" label="night">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-342.3561" y="-162.25092"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="north" label="north">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="462.88834" y="235.42308"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="old" label="old">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4.9066095" y="-181.77007"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="order" label="order">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="401.29697" y="-149.44444"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="orgies" label="orgies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="16.166027" y="253.79243"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="oxford" label="oxford">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-472.2154" y="438.91705"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="pagan" label="pagan">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-379.41812" y="-99.937195"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="paganism" label="paganism">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-397.83084" y="-391.30353"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="patriarchal" label="patriarchal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-578.7107" y="505.75247"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="patriarchy" label="patriarchy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="369.4129" y="-800.66986"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="peasants" label="peasants">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-361.0712" y="695.6125"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="people" label="people">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="80.3075" y="-33.06148"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="period" label="period">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="56.041924" y="-669.08624"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="place" label="place">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="507.19174" y="-821.64124"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="political" label="political">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="671.477" y="230.18188"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="population" label="population">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="597.85034" y="457.01996"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="possible" label="possible">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="714.2154" y="285.8986"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="power" label="power">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.515741" y="-0.35625094"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="practice" label="practice">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="89.928795" y="469.54144"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="practices" label="practices">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-392.6777" y="-485.225"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="practicing" label="practicing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-400.3526" y="678.3907"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="president" label="president">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="629.799" y="427.06894"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="primitive" label="primitive">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-270.03186" y="622.62085"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="professional" label="professional">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-336.9717" y="479.31516"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="public" label="public">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="586.12274" y="-722.33704"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="rawson" label="rawson">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="554.2043" y="-786.2896"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="religion" label="religion">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="34.31982" y="-190.46765"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="religions" label="religions">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-611.59454" y="-435.41287"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="religious" label="religious">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="252.0294" y="-145.00517"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="reported" label="reported">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="121.83399" y="157.06807"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="rites" label="rites">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="75.55183" y="-451.16403"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="ritual" label="ritual">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="257.63605" y="-197.45074"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="role" label="role">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="600.0471" y="189.31883"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="roman" label="roman">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="37.631393" y="-385.087"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="rome" label="rome">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="640.3873" y="-681.7066"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="ruling" label="ruling">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-498.93823" y="614.99347"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="russell" label="russell">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-297.44742" y="41.925358"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="sacred" label="sacred">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="701.10706" y="326.8035"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="said" label="said">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-148.0615" y="-542.4502"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="say" label="say">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-618.5988" y="-400.23276"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="seen" label="seen">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-365.22382" y="588.8538"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="sex" label="sex">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="14.341614" y="-90.58839"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="sexual" label="sexual">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="130.45633" y="-48.453434"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="sexuality" label="sexuality">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-65.21701" y="-411.11572"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="similar" label="similar">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="542.4545" y="432.60425"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="sin" label="sin">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-461.60248" y="-444.102"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="socialism" label="socialism">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-277.28625" y="396.02823"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="societies" label="societies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="397.3761" y="-94.24116"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="society" label="society">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="58.012726" y="80.85791"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="sodomy" label="sodomy">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-376.32928" y="445.81348"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="south" label="south">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="604.1568" y="235.12329"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="spirit" label="spirit">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-515.16986" y="111.11052"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="spirits" label="spirits">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-420.27118" y="-429.63538"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="state" label="state">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-341.8529" y="18.709915"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="states" label="states">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="506.0839" y="263.25842"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="status" label="status">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="517.12054" y="-289.62158"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="stone" label="stone">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="333.10254" y="-563.5223"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="sun" label="sun">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-625.4489" y="-541.0995"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="technology" label="technology">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-263.4494" y="550.42267"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="things" label="things">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-663.7352" y="-460.9719"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="thomas" label="thomas">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-471.401" y="561.29926"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="time" label="time">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="67.60397" y="-548.46204"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="times" label="times">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="423.46707" y="-583.0909"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="tortured" label="tortured">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-598.469" y="-572.73193"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="tradition" label="tradition">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-632.4292" y="-363.9531"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="traditional" label="traditional">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-559.40674" y="-414.5504"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="traditions" label="traditions">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="514.27454" y="-611.3927"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="transvestism" label="transvestism">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="457.97592" y="-523.7013"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="tree" label="tree">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="501.97153" y="-564.1338"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="tribes" label="tribes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="398.94778" y="-849.37726"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="tried" label="tried">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-676.1575" y="-408.39664"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="united" label="united">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="681.3858" y="363.88345"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="use" label="use">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="529.6922" y="387.3293"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="used" label="used">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-452.93674" y="-370.183"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="usually" label="usually">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="465.69937" y="-631.70917"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="values" label="values">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="82.87359" y="181.85204"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="view" label="view">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="325.46115" y="-157.84856"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="viewed" label="viewed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="154.03377" y="-271.07236"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="violence" label="violence">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-289.29697" y="489.9621"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="war" label="war">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="277.80896" y="-5.9803066"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="warfare" label="warfare">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="433.6346" y="-681.4317"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="way" label="way">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="110.90532" y="-319.74365"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="wearing" label="wearing">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="530.802" y="-715.9009"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="went" label="went">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="351.16275" y="-852.18866"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="western" label="western">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-573.4276" y="41.689285"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="witch" label="witch">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-489.1793" y="-30.455263"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="witchcraft" label="witchcraft">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-84.14828" y="-76.4698"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="witches" label="witches">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="12.188016" y="-43.21341"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="woman" label="woman">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-22.134287" y="-517.1829"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="women" label="women">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="72.419044" y="-202.44612"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="word" label="word">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-102.46263" y="-571.4892"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="work" label="work">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="184.87701" y="398.87704"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="workers" label="workers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="500.68942" y="458.9644"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="world" label="world">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="66.24618" y="2.21803"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="worship" label="worship">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-47.214302" y="-15.297061"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="worshipped" label="worshipped">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="21.116861" y="-514.13684"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="years" label="years">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="725.453" y="239.00023"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="young" label="young">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="468.0533" y="-817.4386"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="benandanti" label="benandanti">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-421.21146" y="-518.0057"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="bogomils" label="bogomils">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-588.2446" y="-462.39474"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="business" label="business">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="554.1803" y="287.20157"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="cathar" label="cathar">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-382.6879" y="-602.8994"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="cathars" label="cathars">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-350.15216" y="-375.82117"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="cohn" label="cohn">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-279.83203" y="55.93093"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="ginzburg" label="ginzburg">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-360.42136" y="-505.78503"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="gnostics" label="gnostics">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-381.7573" y="-658.3559"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="harlequin" label="harlequin">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-454.93417" y="-622.36334"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="incubi" label="incubi">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-475.2618" y="-539.99316"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="industrialized" label="industrialized">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="581.58734" y="395.56494"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="lea" label="lea">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-203.00516" y="91.68118"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="lerner" label="lerner">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-400.14053" y="157.8104"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="loos" label="loos">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-322.4317" y="570.06946"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="millennium" label="millennium">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-467.24042" y="147.03093"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="obolensky" label="obolensky">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-373.07693" y="503.9083"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="pope" label="pope">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="40.9847" y="357.7361"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="privileged" label="privileged">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-246.71042" y="663.84125"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="revolutionary" label="revolutionary">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-269.39294" y="711.25977"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="runciman" label="runciman">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-496.96017" y="404.98538"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="rural" label="rural">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-481.16617" y="-600.5029"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="says" label="says">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-317.38278" y="704.7423"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="succubi" label="succubi">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-502.1295" y="-663.4759"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="summers" label="summers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-364.5161" y="633.95807"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="templars" label="templars">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-315.75375" y="649.50305"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="thompson" label="thompson">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-485.51572" y="-347.23807"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="wakefield" label="wakefield">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-459.73438" y="3.8084702"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="hacker" label="hacker">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="659.19025" y="398.5959"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="pentagon" label="pentagon">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="406.1331" y="228.67622"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="press" label="press">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-228.01082" y="522.2218"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="russia" label="russia">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-370.07346" y="544.1011"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="schools" label="schools">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-287.19388" y="582.98114"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="cambridge" label="cambridge">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-554.2688" y="550.8549"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="chicago" label="chicago">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-207.76782" y="664.8418"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+      <node id="liberalism" label="liberalism">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-434.3857" y="402.6588"></viz:position>
+        <viz:color r="255" g="0" b="8"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="161043" source="accused" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="15.0"></edge>
+      <edge id="161044" source="accused" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="10.0"></edge>
+      <edge id="161045" source="accused" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="18.0"></edge>
+      <edge id="161046" source="africa" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161047" source="age" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="41.0"></edge>
+      <edge id="161048" source="ages" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="13.0"></edge>
+      <edge id="161049" source="america" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="29.0"></edge>
+      <edge id="161050" source="american" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="52.0"></edge>
+      <edge id="161051" source="american" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="19.0"></edge>
+      <edge id="161052" source="americans" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161053" source="ancient" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="25.0"></edge>
+      <edge id="161054" source="ancient" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="18.0"></edge>
+      <edge id="161055" source="ancient" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="20.0"></edge>
+      <edge id="161056" source="ancient" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161057" source="animal" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="14.0"></edge>
+      <edge id="161058" source="animal" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="20.0"></edge>
+      <edge id="161059" source="animals" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="19.0"></edge>
+      <edge id="161060" source="animals" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161061" source="animals" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="20.0"></edge>
+      <edge id="161062" source="appeared" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="16.0"></edge>
+      <edge id="161063" source="arc" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161064" source="army" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="12.0"></edge>
+      <edge id="161065" source="art" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="12.0"></edge>
+      <edge id="161066" source="art" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="14.0"></edge>
+      <edge id="161067" source="art" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161068" source="associated" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="16.0"></edge>
+      <edge id="161069" source="associated" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161070" source="authority" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161071" source="bailey" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161072" source="baumann" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="16.0"></edge>
+      <edge id="161073" source="believed" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="17.0"></edge>
+      <edge id="161074" source="body" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="13.0"></edge>
+      <edge id="161075" source="body" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161076" source="book" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="24.0"></edge>
+      <edge id="161077" source="briffault" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="18.0"></edge>
+      <edge id="161078" source="bronze" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161079" source="brought" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161080" source="called" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="28.0"></edge>
+      <edge id="161081" source="called" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="34.0"></edge>
+      <edge id="161082" source="called" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="19.0"></edge>
+      <edge id="161083" source="called" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="15.0"></edge>
+      <edge id="161084" source="came" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161085" source="came" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="21.0"></edge>
+      <edge id="161086" source="came" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161087" source="capitalism" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161088" source="case" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="12.0"></edge>
+      <edge id="161089" source="celtic" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="37.0"></edge>
+      <edge id="161090" source="celts" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="15.0"></edge>
+      <edge id="161091" source="century" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="24.0"></edge>
+      <edge id="161092" source="century" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="46.0"></edge>
+      <edge id="161093" source="century" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="14.0"></edge>
+      <edge id="161094" source="certain" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="12.0"></edge>
+      <edge id="161095" source="charges" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161096" source="china" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161097" source="christian" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="26.0"></edge>
+      <edge id="161098" source="christian" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="53.0"></edge>
+      <edge id="161099" source="christian" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="28.0"></edge>
+      <edge id="161100" source="christian" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="18.0"></edge>
+      <edge id="161101" source="christianity" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="47.0"></edge>
+      <edge id="161102" source="christianity" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="17.0"></edge>
+      <edge id="161103" source="christians" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="14.0"></edge>
+      <edge id="161104" source="christians" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="29.0"></edge>
+      <edge id="161105" source="christians" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="12.0"></edge>
+      <edge id="161106" source="church" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="39.0"></edge>
+      <edge id="161107" source="church" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="19.0"></edge>
+      <edge id="161108" source="church" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161109" source="civilization" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="19.0"></edge>
+      <edge id="161110" source="civilization" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161111" source="claimed" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161112" source="class" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="13.0"></edge>
+      <edge id="161113" source="class" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="14.0"></edge>
+      <edge id="161114" source="class" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161115" source="classes" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="12.0"></edge>
+      <edge id="161116" source="classes" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="14.0"></edge>
+      <edge id="161117" source="classes" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="16.0"></edge>
+      <edge id="161118" source="clothing" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="15.0"></edge>
+      <edge id="161119" source="collective" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161120" source="come" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="13.0"></edge>
+      <edge id="161121" source="come" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161122" source="common" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161123" source="condemned" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="14.0"></edge>
+      <edge id="161124" source="condemns" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="20.0"></edge>
+      <edge id="161125" source="continued" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161126" source="control" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="14.0"></edge>
+      <edge id="161127" source="control" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161128" source="culture" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="13.0"></edge>
+      <edge id="161129" source="culture" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161130" source="death" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="11.0"></edge>
+      <edge id="161131" source="demons" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="29.0"></edge>
+      <edge id="161132" source="demons" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="29.0"></edge>
+      <edge id="161133" source="devil" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="11.0"></edge>
+      <edge id="161134" source="devil" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="27.0"></edge>
+      <edge id="161135" source="diana" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161136" source="diana" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="21.0"></edge>
+      <edge id="161137" source="diana" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="14.0"></edge>
+      <edge id="161138" source="dorians" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="13.0"></edge>
+      <edge id="161139" source="early" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="20.0"></edge>
+      <edge id="161140" source="early" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="16.0"></edge>
+      <edge id="161141" source="early" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="24.0"></edge>
+      <edge id="161142" source="early" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161143" source="earth" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161144" source="economic" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161145" source="effect" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="13.0"></edge>
+      <edge id="161146" source="emperor" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161147" source="empire" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="15.0"></edge>
+      <edge id="161148" source="empire" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161149" source="england" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161150" source="especially" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="13.0"></edge>
+      <edge id="161151" source="europe" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="25.0"></edge>
+      <edge id="161152" source="europe" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="19.0"></edge>
+      <edge id="161153" source="europe" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="20.0"></edge>
+      <edge id="161154" source="europe" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161155" source="evans" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="12.0"></edge>
+      <edge id="161156" source="evidence" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="13.0"></edge>
+      <edge id="161157" source="evidence" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161158" source="evil" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="14.0"></edge>
+      <edge id="161159" source="example" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="13.0"></edge>
+      <edge id="161160" source="example" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="17.0"></edge>
+      <edge id="161161" source="example" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="17.0"></edge>
+      <edge id="161162" source="example" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161163" source="fact" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="11.0"></edge>
+      <edge id="161164" source="fact" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161165" source="fact" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161166" source="fairies" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="13.0"></edge>
+      <edge id="161167" source="female" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="11.0"></edge>
+      <edge id="161168" source="figures" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161169" source="followers" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="14.0"></edge>
+      <edge id="161170" source="force" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161171" source="form" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="19.0"></edge>
+      <edge id="161172" source="form" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="13.0"></edge>
+      <edge id="161173" source="form" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161174" source="forward" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="14.0"></edge>
+      <edge id="161175" source="france" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="12.0"></edge>
+      <edge id="161176" source="france" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161177" source="free" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="18.0"></edge>
+      <edge id="161178" source="free" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="19.0"></edge>
+      <edge id="161179" source="gay" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="43.0"></edge>
+      <edge id="161180" source="gay" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="19.0"></edge>
+      <edge id="161181" source="gay" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="60.0"></edge>
+      <edge id="161182" source="gay" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="69.0"></edge>
+      <edge id="161183" source="gilles" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="22.0"></edge>
+      <edge id="161184" source="god" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="47.0"></edge>
+      <edge id="161185" source="god" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="44.0"></edge>
+      <edge id="161186" source="god" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161187" source="god" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161188" source="goddess" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="21.0"></edge>
+      <edge id="161189" source="goddess" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="14.0"></edge>
+      <edge id="161190" source="goddess" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="20.0"></edge>
+      <edge id="161191" source="gods" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="12.0"></edge>
+      <edge id="161192" source="government" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161193" source="government" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="41.0"></edge>
+      <edge id="161194" source="great" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="36.0"></edge>
+      <edge id="161195" source="great" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="30.0"></edge>
+      <edge id="161196" source="great" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="24.0"></edge>
+      <edge id="161197" source="great" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="21.0"></edge>
+      <edge id="161198" source="greece" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="15.0"></edge>
+      <edge id="161199" source="greek" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="24.0"></edge>
+      <edge id="161200" source="group" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161201" source="hair" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="16.0"></edge>
+      <edge id="161202" source="held" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161203" source="henry" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161204" source="heresy" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="26.0"></edge>
+      <edge id="161205" source="heresy" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="17.0"></edge>
+      <edge id="161206" source="heresy" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="27.0"></edge>
+      <edge id="161207" source="heretics" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="13.0"></edge>
+      <edge id="161208" source="heretics" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="14.0"></edge>
+      <edge id="161209" source="heretics" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="26.0"></edge>
+      <edge id="161210" source="hierarchy" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161211" source="high" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161212" source="historian" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161213" source="historians" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="14.0"></edge>
+      <edge id="161214" source="historians" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="14.0"></edge>
+      <edge id="161215" source="historical" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="12.0"></edge>
+      <edge id="161216" source="history" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="27.0"></edge>
+      <edge id="161217" source="history" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="14.0"></edge>
+      <edge id="161218" source="history" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="18.0"></edge>
+      <edge id="161219" source="history" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="42.0"></edge>
+      <edge id="161220" source="holding" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161221" source="homosexuality" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="24.0"></edge>
+      <edge id="161222" source="homosexuality" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="27.0"></edge>
+      <edge id="161223" source="homosexuality" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="15.0"></edge>
+      <edge id="161224" source="homosexuality" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="30.0"></edge>
+      <edge id="161225" source="horned" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="29.0"></edge>
+      <edge id="161226" source="hughes" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161227" source="human" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="13.0"></edge>
+      <edge id="161228" source="human" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161229" source="important" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161230" source="indian" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="18.0"></edge>
+      <edge id="161231" source="indians" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="39.0"></edge>
+      <edge id="161232" source="industrial" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="26.0"></edge>
+      <edge id="161233" source="industrial" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="47.0"></edge>
+      <edge id="161234" source="industrialism" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="20.0"></edge>
+      <edge id="161235" source="industrialism" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="33.0"></edge>
+      <edge id="161236" source="inquisition" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="22.0"></edge>
+      <edge id="161237" source="inquisition" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="26.0"></edge>
+      <edge id="161238" source="inquisition" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="16.0"></edge>
+      <edge id="161239" source="inquisitors" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161240" source="institutions" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="24.0"></edge>
+      <edge id="161241" source="institutions" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="17.0"></edge>
+      <edge id="161242" source="joan" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="39.0"></edge>
+      <edge id="161243" source="joans" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="18.0"></edge>
+      <edge id="161244" source="john" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="15.0"></edge>
+      <edge id="161245" source="john" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="27.0"></edge>
+      <edge id="161246" source="judges" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="18.0"></edge>
+      <edge id="161247" source="just" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="11.0"></edge>
+      <edge id="161248" source="just" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="12.0"></edge>
+      <edge id="161249" source="just" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="15.0"></edge>
+      <edge id="161250" source="king" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="12.0"></edge>
+      <edge id="161251" source="king" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161252" source="known" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="11.0"></edge>
+      <edge id="161253" source="known" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="13.0"></edge>
+      <edge id="161254" source="land" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="20.0"></edge>
+      <edge id="161255" source="later" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="15.0"></edge>
+      <edge id="161256" source="later" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="24.0"></edge>
+      <edge id="161257" source="law" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161258" source="law" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="14.0"></edge>
+      <edge id="161259" source="leaders" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="12.0"></edge>
+      <edge id="161260" source="leaders" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161261" source="led" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="14.0"></edge>
+      <edge id="161262" source="lesbianism" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161263" source="life" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="21.0"></edge>
+      <edge id="161264" source="life" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="16.0"></edge>
+      <edge id="161265" source="life" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="17.0"></edge>
+      <edge id="161266" source="life" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="15.0"></edge>
+      <edge id="161267" source="like" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="20.0"></edge>
+      <edge id="161268" source="like" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="18.0"></edge>
+      <edge id="161269" source="like" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="17.0"></edge>
+      <edge id="161270" source="live" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="11.0"></edge>
+      <edge id="161271" source="lived" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="11.0"></edge>
+      <edge id="161272" source="lives" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="17.0"></edge>
+      <edge id="161273" source="london" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="22.0"></edge>
+      <edge id="161274" source="long" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="15.0"></edge>
+      <edge id="161275" source="look" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="18.0"></edge>
+      <edge id="161276" source="magic" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="19.0"></edge>
+      <edge id="161277" source="make" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="10.0"></edge>
+      <edge id="161278" source="making" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161279" source="male" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="34.0"></edge>
+      <edge id="161280" source="male" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="22.0"></edge>
+      <edge id="161281" source="male" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="21.0"></edge>
+      <edge id="161282" source="male" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="17.0"></edge>
+      <edge id="161283" source="malleus" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="12.0"></edge>
+      <edge id="161284" source="man" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="20.0"></edge>
+      <edge id="161285" source="man" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="14.0"></edge>
+      <edge id="161286" source="man" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="26.0"></edge>
+      <edge id="161287" source="mass" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="15.0"></edge>
+      <edge id="161288" source="means" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161289" source="means" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="15.0"></edge>
+      <edge id="161290" source="means" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161291" source="men" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="41.0"></edge>
+      <edge id="161292" source="men" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="36.0"></edge>
+      <edge id="161293" source="men" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="48.0"></edge>
+      <edge id="161294" source="men" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="19.0"></edge>
+      <edge id="161295" source="middle" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="13.0"></edge>
+      <edge id="161296" source="middle" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="12.0"></edge>
+      <edge id="161297" source="middle" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161298" source="militarism" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="13.0"></edge>
+      <edge id="161299" source="military" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="12.0"></edge>
+      <edge id="161300" source="military" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161301" source="modern" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161302" source="modern" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="13.0"></edge>
+      <edge id="161303" source="modern" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="15.0"></edge>
+      <edge id="161304" source="modern" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="16.0"></edge>
+      <edge id="161305" source="money" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="16.0"></edge>
+      <edge id="161306" source="mother" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="40.0"></edge>
+      <edge id="161307" source="mother" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="14.0"></edge>
+      <edge id="161308" source="mother" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161309" source="mothers" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="12.0"></edge>
+      <edge id="161310" source="movement" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161311" source="murray" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="19.0"></edge>
+      <edge id="161312" source="nature" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="31.0"></edge>
+      <edge id="161313" source="nature" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="24.0"></edge>
+      <edge id="161314" source="nature" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="46.0"></edge>
+      <edge id="161315" source="nature" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="30.0"></edge>
+      <edge id="161316" source="new" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="42.0"></edge>
+      <edge id="161317" source="new" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="24.0"></edge>
+      <edge id="161318" source="new" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="22.0"></edge>
+      <edge id="161319" source="new" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="36.0"></edge>
+      <edge id="161320" source="night" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161321" source="night" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="20.0"></edge>
+      <edge id="161322" source="night" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161323" source="north" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="22.0"></edge>
+      <edge id="161324" source="old" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="24.0"></edge>
+      <edge id="161325" source="old" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="35.0"></edge>
+      <edge id="161326" source="old" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="22.0"></edge>
+      <edge id="161327" source="old" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161328" source="order" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161329" source="order" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161330" source="order" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="17.0"></edge>
+      <edge id="161331" source="orgies" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161332" source="orgies" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="15.0"></edge>
+      <edge id="161333" source="orgies" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="17.0"></edge>
+      <edge id="161334" source="oxford" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161335" source="pagan" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="31.0"></edge>
+      <edge id="161336" source="pagan" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="14.0"></edge>
+      <edge id="161337" source="paganism" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="21.0"></edge>
+      <edge id="161338" source="patriarchal" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161339" source="patriarchy" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="11.0"></edge>
+      <edge id="161340" source="peasants" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161341" source="people" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="47.0"></edge>
+      <edge id="161342" source="people" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="50.0"></edge>
+      <edge id="161343" source="people" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="88.0"></edge>
+      <edge id="161344" source="people" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="49.0"></edge>
+      <edge id="161345" source="period" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="13.0"></edge>
+      <edge id="161346" source="period" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161347" source="place" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161348" source="political" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161349" source="population" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="10.0"></edge>
+      <edge id="161350" source="possible" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="10.0"></edge>
+      <edge id="161351" source="power" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="18.0"></edge>
+      <edge id="161352" source="power" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="20.0"></edge>
+      <edge id="161353" source="power" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="20.0"></edge>
+      <edge id="161354" source="power" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="27.0"></edge>
+      <edge id="161355" source="practice" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="12.0"></edge>
+      <edge id="161356" source="practice" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161357" source="practices" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="16.0"></edge>
+      <edge id="161358" source="practicing" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161359" source="president" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="10.0"></edge>
+      <edge id="161360" source="primitive" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161361" source="professional" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="16.0"></edge>
+      <edge id="161362" source="public" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161363" source="rawson" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161364" source="religion" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="29.0"></edge>
+      <edge id="161365" source="religion" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="46.0"></edge>
+      <edge id="161366" source="religion" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="29.0"></edge>
+      <edge id="161367" source="religion" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161368" source="religions" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161369" source="religious" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="27.0"></edge>
+      <edge id="161370" source="religious" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="16.0"></edge>
+      <edge id="161371" source="religious" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="36.0"></edge>
+      <edge id="161372" source="reported" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161373" source="reported" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="14.0"></edge>
+      <edge id="161374" source="rites" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="11.0"></edge>
+      <edge id="161375" source="rites" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="13.0"></edge>
+      <edge id="161376" source="rites" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="10.0"></edge>
+      <edge id="161377" source="ritual" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="14.0"></edge>
+      <edge id="161378" source="ritual" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161379" source="role" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="14.0"></edge>
+      <edge id="161380" source="roman" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="29.0"></edge>
+      <edge id="161381" source="roman" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="16.0"></edge>
+      <edge id="161382" source="roman" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161383" source="rome" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161384" source="ruling" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161385" source="russell" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="29.0"></edge>
+      <edge id="161386" source="russell" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="37.0"></edge>
+      <edge id="161387" source="sacred" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="10.0"></edge>
+      <edge id="161388" source="said" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161389" source="said" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="21.0"></edge>
+      <edge id="161390" source="say" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161391" source="seen" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161392" source="sex" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="28.0"></edge>
+      <edge id="161393" source="sex" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="69.0"></edge>
+      <edge id="161394" source="sex" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="60.0"></edge>
+      <edge id="161395" source="sex" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="26.0"></edge>
+      <edge id="161396" source="sexual" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="21.0"></edge>
+      <edge id="161397" source="sexual" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="19.0"></edge>
+      <edge id="161398" source="sexual" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="28.0"></edge>
+      <edge id="161399" source="sexual" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="18.0"></edge>
+      <edge id="161400" source="sexuality" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="15.0"></edge>
+      <edge id="161401" source="sexuality" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161402" source="sexuality" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161403" source="similar" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161404" source="sin" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="15.0"></edge>
+      <edge id="161405" source="socialism" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="30.0"></edge>
+      <edge id="161406" source="societies" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="24.0"></edge>
+      <edge id="161407" source="societies" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="36.0"></edge>
+      <edge id="161408" source="society" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="16.0"></edge>
+      <edge id="161409" source="society" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="12.0"></edge>
+      <edge id="161410" source="society" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="20.0"></edge>
+      <edge id="161411" source="society" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="25.0"></edge>
+      <edge id="161412" source="sodomy" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="16.0"></edge>
+      <edge id="161413" source="south" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="13.0"></edge>
+      <edge id="161414" source="spirit" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161415" source="spirit" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161416" source="spirits" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="17.0"></edge>
+      <edge id="161417" source="state" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="24.0"></edge>
+      <edge id="161418" source="state" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="25.0"></edge>
+      <edge id="161419" source="states" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="17.0"></edge>
+      <edge id="161420" source="status" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="19.0"></edge>
+      <edge id="161421" source="status" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="10.0"></edge>
+      <edge id="161422" source="stone" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="30.0"></edge>
+      <edge id="161423" source="sun" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161424" source="technology" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="14.0"></edge>
+      <edge id="161425" source="things" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161426" source="thomas" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161427" source="time" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="22.0"></edge>
+      <edge id="161428" source="time" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="15.0"></edge>
+      <edge id="161429" source="times" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="20.0"></edge>
+      <edge id="161430" source="tortured" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161431" source="tradition" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161432" source="traditional" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="12.0"></edge>
+      <edge id="161433" source="traditions" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="14.0"></edge>
+      <edge id="161434" source="transvestism" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="21.0"></edge>
+      <edge id="161435" source="tree" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="16.0"></edge>
+      <edge id="161436" source="tribes" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161437" source="tried" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161438" source="united" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="10.0"></edge>
+      <edge id="161439" source="use" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="12.0"></edge>
+      <edge id="161440" source="used" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="17.0"></edge>
+      <edge id="161441" source="usually" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="15.0"></edge>
+      <edge id="161442" source="values" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161443" source="values" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="10.0"></edge>
+      <edge id="161444" source="view" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="13.0"></edge>
+      <edge id="161445" source="view" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="12.0"></edge>
+      <edge id="161446" source="view" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="18.0"></edge>
+      <edge id="161447" source="viewed" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="11.0"></edge>
+      <edge id="161448" source="viewed" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="15.0"></edge>
+      <edge id="161449" source="viewed" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="13.0"></edge>
+      <edge id="161450" source="violence" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="17.0"></edge>
+      <edge id="161451" source="war" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="16.0"></edge>
+      <edge id="161452" source="war" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="31.0"></edge>
+      <edge id="161453" source="war" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="14.0"></edge>
+      <edge id="161454" source="warfare" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="14.0"></edge>
+      <edge id="161455" source="way" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="14.0"></edge>
+      <edge id="161456" source="way" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="17.0"></edge>
+      <edge id="161457" source="way" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="12.0"></edge>
+      <edge id="161458" source="wearing" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="11.0"></edge>
+      <edge id="161459" source="went" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161460" source="western" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161461" source="western" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161462" source="witch" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="14.0"></edge>
+      <edge id="161463" source="witch" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="12.0"></edge>
+      <edge id="161464" source="witchcraft" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="20.0"></edge>
+      <edge id="161465" source="witchcraft" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="33.0"></edge>
+      <edge id="161466" source="witchcraft" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="14.0"></edge>
+      <edge id="161467" source="witchcraft" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="29.0"></edge>
+      <edge id="161468" source="witches" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="15.0"></edge>
+      <edge id="161469" source="witches" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="28.0"></edge>
+      <edge id="161470" source="witches" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="27.0"></edge>
+      <edge id="161471" source="witches" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="18.0"></edge>
+      <edge id="161472" source="woman" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="18.0"></edge>
+      <edge id="161473" source="woman" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="20.0"></edge>
+      <edge id="161474" source="women" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="79.0"></edge>
+      <edge id="161475" source="women" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="67.0"></edge>
+      <edge id="161476" source="women" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="44.0"></edge>
+      <edge id="161477" source="women" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="27.0"></edge>
+      <edge id="161478" source="word" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="11.0"></edge>
+      <edge id="161479" source="word" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="18.0"></edge>
+      <edge id="161480" source="work" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="16.0"></edge>
+      <edge id="161481" source="work" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161482" source="workers" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161483" source="world" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="19.0"></edge>
+      <edge id="161484" source="world" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="17.0"></edge>
+      <edge id="161485" source="world" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="25.0"></edge>
+      <edge id="161486" source="world" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="21.0"></edge>
+      <edge id="161487" source="worship" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="15.0"></edge>
+      <edge id="161488" source="worship" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="16.0"></edge>
+      <edge id="161489" source="worship" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="14.0"></edge>
+      <edge id="161490" source="worship" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="19.0"></edge>
+      <edge id="161491" source="worshipped" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="21.0"></edge>
+      <edge id="161492" source="worshipped" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="19.0"></edge>
+      <edge id="161493" source="years" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="10.0"></edge>
+      <edge id="161494" source="young" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split0.txt" weight="10.0"></edge>
+      <edge id="161495" source="benandanti" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="14.0"></edge>
+      <edge id="161496" source="bogomils" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161497" source="business" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="14.0"></edge>
+      <edge id="161498" source="cathar" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="12.0"></edge>
+      <edge id="161499" source="cathars" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="31.0"></edge>
+      <edge id="161500" source="cohn" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="30.0"></edge>
+      <edge id="161501" source="cohn" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="41.0"></edge>
+      <edge id="161502" source="ginzburg" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="16.0"></edge>
+      <edge id="161503" source="gnostics" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161504" source="harlequin" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161505" source="incubi" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="12.0"></edge>
+      <edge id="161506" source="industrialized" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="11.0"></edge>
+      <edge id="161507" source="lea" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="12.0"></edge>
+      <edge id="161508" source="lea" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="10.0"></edge>
+      <edge id="161509" source="lea" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="14.0"></edge>
+      <edge id="161510" source="lerner" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161511" source="lerner" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="23.0"></edge>
+      <edge id="161512" source="loos" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161513" source="millennium" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161514" source="millennium" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="16.0"></edge>
+      <edge id="161515" source="obolensky" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="14.0"></edge>
+      <edge id="161516" source="pope" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="18.0"></edge>
+      <edge id="161517" source="pope" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="25.0"></edge>
+      <edge id="161518" source="privileged" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161519" source="revolutionary" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161520" source="runciman" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161521" source="rural" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="11.0"></edge>
+      <edge id="161522" source="says" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161523" source="succubi" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="10.0"></edge>
+      <edge id="161524" source="summers" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161525" source="templars" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161526" source="thompson" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="16.0"></edge>
+      <edge id="161527" source="wakefield" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split1.txt" weight="14.0"></edge>
+      <edge id="161528" source="wakefield" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161529" source="hacker" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="10.0"></edge>
+      <edge id="161530" source="pentagon" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split2.txt" weight="32.0"></edge>
+      <edge id="161531" source="press" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="16.0"></edge>
+      <edge id="161532" source="russia" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161533" source="schools" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="13.0"></edge>
+      <edge id="161534" source="cambridge" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="10.0"></edge>
+      <edge id="161535" source="chicago" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="11.0"></edge>
+      <edge id="161536" source="liberalism" target="Arthur Evans - Witchcraft and the Gay Counterculture_Split3.txt" weight="15.0"></edge>
+    </edges>
+  </graph>
+</gexf>

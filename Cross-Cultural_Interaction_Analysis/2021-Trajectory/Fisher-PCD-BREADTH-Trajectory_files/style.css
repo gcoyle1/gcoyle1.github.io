@@ -1,0 +1,67 @@
+sup {
+	top: -0.4em;
+	vertical-align: baseline;
+	position: relative;
+}
+sub {
+	top: 0.4em;
+	vertical-align: baseline;
+	position: relative;
+}
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.layer { }.ie { font-size: 1pt; }
+.ie body { font-size: 12em; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	height: 36em;
+	font-size: 1em;
+	margin: 0em;
+	line-height: 0.0em;
+	display: block;
+	border-style: none;
+	width: 48em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	left: 0em;
+	position: absolute;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 48em;
+}
+.stl_06 {
+	height: 3.6em;
+}
+.ie .stl_06 {
+	height: 36em;
+}
+@font-face {
+	font-family:"VAORNM+Helvetica";
+	src:url("766e3f1c-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_07 {
+	font-size: 0.916667em;
+	font-family: "VAORNM+Helvetica", "Times New Roman";
+	color: #000000;
+}
+.stl_08 {
+	line-height: 1.117188em;
+}
+.stl_09 {
+	letter-spacing: -0.0001em;
+}
+
+.ie .stl_09 {
+	letter-spacing: -0.0012px;
+}

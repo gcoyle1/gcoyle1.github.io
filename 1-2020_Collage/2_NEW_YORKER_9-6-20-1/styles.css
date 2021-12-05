@@ -1,0 +1,546 @@
+ body {
+	margin: 0;
+	padding: 0;
+ }
+ 
+ #background 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: relative; 
+	 margin-left: auto; 
+	 margin-right: auto; 
+	 width: 1531px;
+	 height: 1831px; 
+	 overflow: hidden;
+	 z-index:0;
+	} 
+
+ #Layer1 
+{ 
+	 left: 0px; 
+	 top: 0px; 
+	 position: absolute; 
+	 width: 1531px;
+	 height: 1831px;
+	 z-index:1;
+} 
+
+ #Layer2 
+{ 
+	 left: 314px; 
+	 top: -5px; 
+	 position: absolute; 
+	 width: 289px;
+	 height: 356px;
+	 z-index:2;
+} 
+
+ #Layer3 
+{ 
+	 left: 749px; 
+	 top: 236px; 
+	 position: absolute; 
+	 width: 431px;
+	 height: 421px;
+	 z-index:3;
+} 
+
+ #Layer4 
+{ 
+	 left: 554px; 
+	 top: 1175px; 
+	 position: absolute; 
+	 width: 342px;
+	 height: 394px;
+	 z-index:4;
+} 
+
+ #Layer5 
+{ 
+	 left: 268px; 
+	 top: 1434px; 
+	 position: absolute; 
+	 width: 345px;
+	 height: 396px;
+	 z-index:5;
+} 
+
+ #Layer6 
+{ 
+	 left: 76px; 
+	 top: 1400px; 
+	 position: absolute; 
+	 width: 425px;
+	 height: 430px;
+	 z-index:6;
+} 
+
+ #Layer7 
+{ 
+	 left: 565px; 
+	 top: 618px; 
+	 position: absolute; 
+	 width: 301px;
+	 height: 365px;
+	 z-index:7;
+} 
+
+ #Layer8 
+{ 
+	 left: 648px; 
+	 top: 747px; 
+	 position: absolute; 
+	 width: 390px;
+	 height: 422px;
+	 z-index:8;
+} 
+
+ #Layer9 
+{ 
+	 left: 1159px; 
+	 top: 336px; 
+	 position: absolute; 
+	 width: 371px;
+	 height: 412px;
+	 z-index:9;
+} 
+
+ #Layer10 
+{ 
+	 left: 484px; 
+	 top: 802px; 
+	 position: absolute; 
+	 width: 354px;
+	 height: 401px;
+	 z-index:10;
+} 
+
+ #Layer11 
+{ 
+	 left: 673px; 
+	 top: 1429px; 
+	 position: absolute; 
+	 width: 352px;
+	 height: 401px;
+	 z-index:11;
+} 
+
+ #Layer12 
+{ 
+	 left: -5px; 
+	 top: -5px; 
+	 position: absolute; 
+	 width: 406px;
+	 height: 429px;
+	 z-index:12;
+} 
+
+ #Layer13 
+{ 
+	 left: 399px; 
+	 top: -5px; 
+	 position: absolute; 
+	 width: 362px;
+	 height: 407px;
+	 z-index:13;
+} 
+
+ #Layer14 
+{ 
+	 left: 1153px; 
+	 top: 821px; 
+	 position: absolute; 
+	 width: 377px;
+	 height: 416px;
+	 z-index:14;
+} 
+
+ #Layer15 
+{ 
+	 left: 799px; 
+	 top: 1402px; 
+	 position: absolute; 
+	 width: 429px;
+	 height: 428px;
+	 z-index:15;
+} 
+
+ #Layer16 
+{ 
+	 left: 904px; 
+	 top: 776px; 
+	 position: absolute; 
+	 width: 430px;
+	 height: 426px;
+	 z-index:16;
+} 
+
+ #Layer17 
+{ 
+	 left: 895px; 
+	 top: 119px; 
+	 position: absolute; 
+	 width: 296px;
+	 height: 361px;
+	 z-index:17;
+} 
+
+ #Layer18 
+{ 
+	 left: 536px; 
+	 top: 1419px; 
+	 position: absolute; 
+	 width: 370px;
+	 height: 411px;
+	 z-index:18;
+} 
+
+ #Layer19 
+{ 
+	 left: 543px; 
+	 top: 181px; 
+	 position: absolute; 
+	 width: 314px;
+	 height: 375px;
+	 z-index:19;
+} 
+
+ #Layer20 
+{ 
+	 left: 969px; 
+	 top: 978px; 
+	 position: absolute; 
+	 width: 363px;
+	 height: 407px;
+	 z-index:20;
+} 
+
+ #Layer21 
+{ 
+	 left: 697px; 
+	 top: -5px; 
+	 position: absolute; 
+	 width: 429px;
+	 height: 406px;
+	 z-index:21;
+} 
+
+ #Layer22 
+{ 
+	 left: 823px; 
+	 top: 666px; 
+	 position: absolute; 
+	 width: 396px;
+	 height: 425px;
+	 z-index:22;
+} 
+
+ #Layer23 
+{ 
+	 left: 845px; 
+	 top: 1090px; 
+	 position: absolute; 
+	 width: 283px;
+	 height: 351px;
+	 z-index:23;
+} 
+
+ #Layer24 
+{ 
+	 left: 1212px; 
+	 top: 1261px; 
+	 position: absolute; 
+	 width: 318px;
+	 height: 378px;
+	 z-index:24;
+} 
+
+ #Layer25 
+{ 
+	 left: 355px; 
+	 top: 363px; 
+	 position: absolute; 
+	 width: 430px;
+	 height: 426px;
+	 z-index:25;
+} 
+
+ #Layer26 
+{ 
+	 left: 946px; 
+	 top: -5px; 
+	 position: absolute; 
+	 width: 431px;
+	 height: 417px;
+	 z-index:26;
+} 
+
+ #Layer27 
+{ 
+	 left: -5px; 
+	 top: 727px; 
+	 position: absolute; 
+	 width: 314px;
+	 height: 374px;
+	 z-index:27;
+} 
+
+ #Layer28 
+{ 
+	 left: 1225px; 
+	 top: 673px; 
+	 position: absolute; 
+	 width: 305px;
+	 height: 367px;
+	 z-index:28;
+} 
+
+ #Layer29 
+{ 
+	 left: -5px; 
+	 top: 992px; 
+	 position: absolute; 
+	 width: 361px;
+	 height: 406px;
+	 z-index:29;
+} 
+
+ #Layer30 
+{ 
+	 left: 1015px; 
+	 top: 237px; 
+	 position: absolute; 
+	 width: 331px;
+	 height: 386px;
+	 z-index:30;
+} 
+
+ #Layer31 
+{ 
+	 left: -5px; 
+	 top: 1462px; 
+	 position: absolute; 
+	 width: 306px;
+	 height: 368px;
+	 z-index:31;
+} 
+
+ #Layer32 
+{ 
+	 left: 205px; 
+	 top: 996px; 
+	 position: absolute; 
+	 width: 332px;
+	 height: 387px;
+	 z-index:32;
+} 
+
+ #Layer33 
+{ 
+	 left: 1186px; 
+	 top: 186px; 
+	 position: absolute; 
+	 width: 344px;
+	 height: 395px;
+	 z-index:33;
+} 
+
+ #Layer34 
+{ 
+	 left: 769px; 
+	 top: 501px; 
+	 position: absolute; 
+	 width: 414px;
+	 height: 431px;
+	 z-index:34;
+} 
+
+ #Layer35 
+{ 
+	 left: -5px; 
+	 top: 1208px; 
+	 position: absolute; 
+	 width: 299px;
+	 height: 363px;
+	 z-index:35;
+} 
+
+ #Layer36 
+{ 
+	 left: 395px; 
+	 top: 1224px; 
+	 position: absolute; 
+	 width: 294px;
+	 height: 360px;
+	 z-index:36;
+} 
+
+ #Layer37 
+{ 
+	 left: 1202px; 
+	 top: 1027px; 
+	 position: absolute; 
+	 width: 328px;
+	 height: 384px;
+	 z-index:37;
+} 
+
+ #Layer38 
+{ 
+	 left: 739px; 
+	 top: 419px; 
+	 position: absolute; 
+	 width: 290px;
+	 height: 356px;
+	 z-index:38;
+} 
+
+ #Layer39 
+{ 
+	 left: 519px; 
+	 top: 402px; 
+	 position: absolute; 
+	 width: 389px;
+	 height: 422px;
+	 z-index:39;
+} 
+
+ #Layer40 
+{ 
+	 left: 183px; 
+	 top: 341px; 
+	 position: absolute; 
+	 width: 384px;
+	 height: 419px;
+	 z-index:40;
+} 
+
+ #Layer41 
+{ 
+	 left: 999px; 
+	 top: 1157px; 
+	 position: absolute; 
+	 width: 412px;
+	 height: 430px;
+	 z-index:41;
+} 
+
+ #Layer42 
+{ 
+	 left: 1130px; 
+	 top: -5px; 
+	 position: absolute; 
+	 width: 400px;
+	 height: 427px;
+	 z-index:42;
+} 
+
+ #Layer43 
+{ 
+	 left: 992px; 
+	 top: 501px; 
+	 position: absolute; 
+	 width: 345px;
+	 height: 396px;
+	 z-index:43;
+} 
+
+ #Layer44 
+{ 
+	 left: 144px; 
+	 top: 558px; 
+	 position: absolute; 
+	 width: 320px;
+	 height: 379px;
+	 z-index:44;
+} 
+
+ #Layer45 
+{ 
+	 left: 81px; 
+	 top: 785px; 
+	 position: absolute; 
+	 width: 362px;
+	 height: 407px;
+	 z-index:45;
+} 
+
+ #Layer46 
+{ 
+	 left: 261px; 
+	 top: 811px; 
+	 position: absolute; 
+	 width: 411px;
+	 height: 430px;
+	 z-index:46;
+} 
+
+ #Layer47 
+{ 
+	 left: -5px; 
+	 top: 134px; 
+	 position: absolute; 
+	 width: 428px;
+	 height: 404px;
+	 z-index:47;
+} 
+
+ #Layer48 
+{ 
+	 left: 434px; 
+	 top: 1022px; 
+	 position: absolute; 
+	 width: 292px;
+	 height: 358px;
+	 z-index:48;
+} 
+
+ #Layer49 
+{ 
+	 left: 717px; 
+	 top: 1224px; 
+	 position: absolute; 
+	 width: 411px;
+	 height: 430px;
+	 z-index:49;
+} 
+
+ #Layer50 
+{ 
+	 left: 994px; 
+	 top: 1433px; 
+	 position: absolute; 
+	 width: 346px;
+	 height: 397px;
+	 z-index:50;
+} 
+
+ #Layer51 
+{ 
+	 left: 1120px; 
+	 top: 482px; 
+	 position: absolute; 
+	 width: 410px;
+	 height: 430px;
+	 z-index:51;
+} 
+
+ #Layer52 
+{ 
+	 left: 410px; 
+	 top: 1438px; 
+	 position: absolute; 
+	 width: 339px;
+	 height: 392px;
+	 z-index:52;
+} 
+/*sweet added this for hover animation*/
+img {
+    transition:transform 0.25s ease;
+}
+
+img:hover {
+    -webkit-transform:scale(1.1); /* or some other value */
+    transform:scale(1.1);
+}
